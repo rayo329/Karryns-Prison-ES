@@ -126,9 +126,9 @@
 
 "commonevent75_description_1":{
 "text":[
-"Selecciona la parte del cuerpo en la que Karryn nace con extra sensibilidad.",
-"Nota: La sensibilidad de Karryn en cada partes de su cuerpo puede aumentar más ",
-"adelante, pero en la parte elegida aquí tiene esa sensibilidad adicional."
+"Selecciona la parte del cuerpo en la que Karryn es más sensible.",
+"Nota: La sensibilidad de Karryn en cada parte de su cuerpo puede aumentar más ",
+"adelante, pero solo la parte elegida aquí tiene esa sensibilidad adicional."
 ]},
 
 "commonevent76_choice_1":{
@@ -149,7 +149,7 @@
 ]},
 "commonevent76_choice_5":{
 "text":[
-"4. El deseo de que le toquen el gran trasero y le azoten"
+"4. El deseo de que le toquen su enorme trasero y se lo azoten"
 ]},
 "commonevent76_choice_6":{
 "text":[
@@ -161,7 +161,7 @@
 ]},
 "commonevent76_choice_8":{
 "text":[
-"7. El deseo de ser dominado por hombres vulgares."
+"7. El deseo de ser dominada por hombres vulgares."
 ]},
 "commonevent76_choice_9":{
 "text":[
@@ -170,7 +170,7 @@
 
 "commonevent76_description_1":{
 "text":[
-"Seleccione un deseo latente con el que Karryn nace y que ella desconoce.",
+"Seleccione un deseo latente con el que Karryn ha nacido y que desconoce.",
 "El que elija aquí no tendrá ningún efecto sobre los nuevos que pueda descubrir.",
 "Nota: El deseo latente de Karryn no se puede cambiar más adelante."
 ]},
@@ -195,36 +195,36 @@
 
 "commonevent108_karryn_office1":{
 "text":[
-"(Hmmm? ",
+"(¿Hmmm? ",
 "¿Qué pasa con toda la conmoción afuera?)"
 ]},
 "commonevent108_karryn_outside1":{
 "text":[
-"(Hmmm? ",
+"(¿Hmmm? ",
 "¿Qué pasa con toda esta conmoción?)"
 ]},
 "commonevent108_yasu_office1":{
 "text":[
-"¡Este es el subdirector Yasu!",
+"¡Soy el subdirector Yasu!",
 "Directora Karryn, ¿Me copias? ¡Cambio!"
 ]},
 "commonevent108_yasu_outside1":{
 "text":[
 "¡Este es el subdirector Yasu!",
-"Directora Karryn, ¿dónde estás?",
-"¿Me copia? ¡Por favor responde! ¡Cambio!"
+"Directora Karryn, ¿Dónde estás?",
+"¿Me copia? ¡Por favor responda! ¡Cambio!"
 ]},
 "commonevent108_karryn_2":{
 "text":[
-"Este es la Directora Karryn.",
+"Aquí la Directora Karryn.",
 "Yasu...... ¿Por qué me llamas tan temprano en la mañana?",
 "Y no necesitas gritarme al oído. Cambio."
 ]},
 "commonevent108_yasu_2":{
 "text":[
 "¡Mis disculpas, Directora!",
-"Sin embargo, ¡la situación ahora está fuera de mi control!",
-"¡En este momento, eres nuestra única salida a esto!"
+"Sin embargo, ¡La situación ahora está fuera de mi control!",
+"¡En este momento, eres nuestra única esperanza!"
 ]},
 "commonevent108_karryn_3":{
 "text":[
@@ -233,8 +233,8 @@
 ]},
 "commonevent108_yasu_3":{
 "text":[
-"S-Si Señora!",
-"¡¡El nivel de prisión \\V[35] ha comenzado un \\C[10]disturbios\\C[0]!!",
+"¡S-Si Señora!",
+"¡¡El Nivel \\V[35] de la prisión ha comenzado un \\C[10]motín\\C[0]!!",
 "",
 "¡¡Algunos de los reclusos se han liberado de sus cadenas",
 "y han comenzado a causar estragos nuevamente!!",
@@ -245,11 +245,11 @@
 ]},
 "commonevent108_karryn_4":{
 "text":[
-"QUE?! Ya subyugué el Nivel \\V[35]...",
-"¡¿Cómo lograste perder el control de un nivel ",
-"subyugado mientras yo tomaba un breve descanso?!",
-"En nombre de Emperador ¿Que han estado haciendo los guardias?",
-"Esto es una broma, ¿no?",
+"¡¿QUÉ?! Ya subyugué el Nivel \\V[35]...",
+"¡¿Cómo lograste perder el control de un Nivel ",
+"subyugado mientras estaba tomando un pequeño descanso?!",
+"En nombre de Emperador ¿Qué han estado haciendo los guardias?",
+"Esto es una broma, ¿No?",
 "Si es así, no me estoy riendo, Yasu. Cambio."
 ]},
 "commonevent108_yasu_4":{
@@ -257,19 +257,19 @@
 "¡¡Mil disculpas, Directora!!",
 "Pero esto no es una broma....",
 "",
-"Los guardias entraron para mantener el control del nivel ",
-"después de que lo subyugaste. Y mantuvieron el ",
+"Los guardias entraron para mantener el control del Nivel ",
+"después de que lo subyugases. Y mantuvieron el ",
 "control hasta anoche....",
 "Cuando de repente, con renovada furia, los reclusos",
-"arrollaron a los guardias en plena noche.",
+"abrumaron a los guardias en plena noche.",
 "",
-"En este momento, nuestros guardias están indefensos para detenerlos.",
+"En este momento, nuestros guardias no pueden hacer nada para detenerlos.",
 "Cambio..."
 ]},
 "commonevent108_karryn_5":{
 "text":[
 "......*Sigh*...",
-"Fui una tonta al depositar incluso la más mínima fe en ustedes.",
+"Fui una tonta al depositar la más mínima fe en vosotros.",
 "Cambio."
 ]},
 "commonevent108_yasu_5":{
@@ -292,84 +292,84 @@
 "text":[
 "......Esta bien.",
 "¡Mientras esté aquí, no permitiré que nadie deshaga mi trabajo!",
-"¡¡Me estoy haciendo cargo de la situación!! ¡Cambio!"
+"¡¡Me hago cargo de la situación!! ¡Cambio!"
 ]},
 "commonevent108_yasu_6":{
 "text":[
 "¡Gracias, directora Karryn!",
-"¡¡Permítanme explicarles la situación actual!!",
+"¡¡Permítame explicarle la situación actual!!",
 "",
 "Actualmente, los reclusos han tomado el control de ciertas ",
 "partes del Nivel \\V[35]. \\C[10]Las instalaciones ocupadas por ",
 "los alborotadores no podrán proporcionar ninguno de sus beneficios.",
-"\\C[0]Además, \\C[10]el orden de la prisión disminuirá constantemente ",
-"cada día dependiendo del tamaño de los alborotadores restantes.\\C[0]",
+"\\C[0]Además, \\C[10]el Orden de la prisión disminuirá cada",
+"día dependiendo de la cantidad de alborotadores restantes.\\C[0]",
 "Nuestros guardias están perdiendo el control de la prisión. Cambio."
 ]},
 "commonevent108_karryn_8":{
 "text":[
-"Ya veo. Bien, ahora tengo la imagen completa.",
+"Ya veo. Bien, ahora entiendo todo.",
 "Yo me encargaré de expulsar a los alborotadores del área.",
 "",
 "¡Y mientras hago eso, ",
-"te ordeno que ordenes a los guardias que aseguren las áreas que retomo!",
-"Cambio!"
+"te ordeno que mandes a los guardias a asegurar las áreas que recupere!",
+"¡Cambio!"
 ]},
 "commonevent108_yasu_7":{
 "text":[
 "Si, Señora!",
 "",
 "",
-"¡Prometo que una vez que todos los alborotadores del nivel ",
-"hayan sido sometidos, \\C[11]el estado del nivel pasará de ",
+"¡Prometo que cuando todos los alborotadores del Nivel ",
+"hayan sido sometidos, \\C[11]el estado del Nivel pasará de ",
 "Alborotado a Subyugado! \\C[0]¡Cambio!"
 ]},
 "commonevent108_karryn_9":{
 "text":[
-"Voy a obligarte a cumplir esas palabras, Yasu.",
-"Pero aún así, al final, tengo que hacer casi todo yo mismo por aquí.", 
+"Te tomo la palabra, Yasu.",
+"Pero aún así, al final, tengo que hacer casi todo yo sola.", 
 "Cambio"
 ]},
 "commonevent108_yasu_8":{
 "text":[
 "Sí... no puedo negar esa afirmación.",
 "Me avergüenza, pero soy muy consciente de lo",
-"mucho que te pido que hagas por nosotros ..."
+"mucho que pido que hagas por nosotros ..."
 ]},
 "commonevent108_karryn_10":{
 "text":[
 "¿Has olvidado quién soy?",
-"Soy Karryn, la Secretaria Imperial, y Directora dell Fuerte Ganon.",
-"La palabra incapaz no existe en ninguna parte de mis registros personales.",
-"Ah, y en el futuro,  ",
-"no necesitarás llamarme sólo para decirme que hay un motín.",
+"Soy Karryn, la Secretaria Imperial, y Directora del Fuerte Ganon.",
+"La palabra incapaz no existe en mi vocabulario.",
+"Ah, y para el futuro.  ",
+"No necesitas llamarme sólo para decirme que hay un motín.",
 "Yo me ocuparé de cualquier disturbio que surja. Cambio."
 ]},
 "commonevent108_yasu_9":{
 "text":[
-"Copiado! ",
+"¡Recibido! ",
 "¡Buena suerte, Directora! Cambio."
 ]},
 "commonevent108_karryn_11":{
 "text":[
 "('De repente, con renovada furia, ",
-"los reclusos arrollaron a los guardias......')",
+"los reclusos abrumaron a los guardias......')",
 "",
-"(Esto se siente como si alguien estuviera moviendo los hilos.......",
+"(Es como si alguien estuviera moviendo hilos.......",
 "tengo que proceder con cuidado......)"
 ]},
 
 "commonevent109_karryn_today_1":{
 "text":[
 "Haa...... Haa......",
-"No me esperaba a esos bastardos...",
-"para atacarme así..."
+"No me esperaba que esos bastardos...",
+"me atacaran así..."
 ]},
 "commonevent109_karryn_yesterday_1":{
 "text":[
 "Nrgh...... ayer fue terrible......",
-"No me esperaba a esos bastardos...",
-"para atacarme así..."
+"No me esperaba que esos bastardos...",
+"me atacaran así..."
 ]},
 "commonevent109_karryn_2":{
 "text":[
@@ -378,16 +378,16 @@
 ]},
 "commonevent109_karryn_3":{
 "text":[
-"¡Pero bueno, este tipo de cosas no son suficientes para derribarme tan fácilmente!",
-"......Hmm.........?"
+"Pero bueno, ¡Con este tipo de cosas no me van a vencer tan fácilmente!",
+"¿Hmm.........?"
 ]},
 "commonevent109_karryn_4":{
 "text":[
 "¡¿Qu-?! ¡¡Me estás tomando el pelo!!",
 "Mi Alabarda ...... ellos ... ellos ......",
 "URGH...... ¡¡Esto es desagradable!!",
-"¡¡Esos primates profanaron mi alabarda!!",
-"\\C[10]¡¡No puedo usar mi alabarda en su condición actual!!\\C[0]",
+"¡¡Esos primates han profanado mi alabarda!!",
+"\\C[10]¡¡No puedo usar mi alabarda en estas condiciones!!\\C[0]",
 "",
 "Grr......",
 "Tendré que pasar una noche en mi oficina o en un puesto de",
@@ -397,71 +397,71 @@
 "text":[
 "Muy bien, basta de quejas...",
 "Hora de empezar el día.",
-"Lucharé contra esos presos desarmados si es necesario."
+"Lucharé contra esos presos desarmada si es necesario."
 ]},
 "commonevent109_karryn_outside_5":{
 "text":[
 "Oh bueno...",
-"Intentaré evitar encontrarme con ningún recluso hasta entonces.",
-"En el peor de los casos, los defenderé desarmado."
+"Intentaré evitar a los reclusos hasta entonces.",
+"En el peor de los casos, me defenderé sin armas."
 ]},
 
 "commonevent110_karryn_exp1_1":{
 "text":[
 "(Nnh...... nngk.........",
-"......H-Huh? Mi ropa... no vuelven a la normalidad......?!",
-"Hnggkkkk...... Qué está pasando...?!)"
+"......¿H-Huh? Mi ropa... ¿No vuelve a la normalidad......?!",
+"Hnggkkkk...... ¿Qué está pasando...?!)"
 ]},
 "commonevent110_karryn_exp1_2":{
 "text":[
-"(¡Esos brutos! ¡Han usado demasiada fuerza tirando mi ropa de un lado al otro! ",
-"Supongo que al menos no arrancaron nada, pero aun así!!",
-"Y me siguen rociando con su porquería también...... Argh~!!)"
+"(¡Esos brutos! ¡Han tirado demasiado fuerte de mi ropa! ",
+"Supongo que al menos no arrancaron nada, ¡¡Pero aun así!!",
+"Encima me siguen rociando con su porquería ...... ¡¡Argh~!!)"
 ]},
 "commonevent110_karryn_exp1_3":{
 "text":[
-"(¡No puedo hacer nada con esta situación aquí!",
+"(¡No puedo hacer nada en esta situación!",
 "Para reparar este daño, ",
-"\\C[11]Necesito hacerlo después de retirarme a la cama por el día.\\C[0].)"
+"\\C[11]Necesito hacerlo después de retirarme a la cama por hoy.\\C[0].)"
 ]},
 "commonevent110_karryn_exp1_4":{
 "text":[
 "(Y lo que es más importante, ",
 "ahora mismo, desde el punto de vista de esos cerdos lascivos, ",
 "me encuentro en un \\C[1]estado escandaloso\\C[0]......)",
-"(En otras palabras, ¡es como si los estuviera invitando a todos a ",
+"(En otras palabras, ¡Es como si los estuviera invitando a ",
 "hacer lo que quieran conmigo ahora mismo! ¡Como si estuviera encima ",
 "de un plato listo para ser servido a todos los hombres en esta prisión!)"
 ]},
 "commonevent110_karryn_exp1_5":{
 "text":[
 "(¡Por eso odio trabajar en lugares llenos de hombres!",
-"Sigh...... No tiene sentido llorar por la leche derramada ahora.......",
-"Intentaré evitar a todos lo más posible.......)"
+"Sigh...... No tiene sentido lamentarse ahora.......",
+"Intentaré evitar a todos tanto como sea posible.......)"
 ]},
 "commonevent110_karryn_exp2_1":{
 "text":[
-"(Huh?",
-"Eso es extraño......",
+"(¿Huh?",
+"Qué raro......",
 "Mi ropa no vuelve a la normalidad.......)"
 ]},
 "commonevent110_karryn_exp2_2":{
 "text":[
-"(Los hombres aquí realmente no tienen ningún concepto de delicadeza.......",
-"Puedo simpatizar con sus deseos de verme desnuda, ",
-"pero realmente desearía que aprendieran a tratar mejor a una dama.)"
+"(Los hombres aquí realmente no saben qué es la delicadeza.......",
+"Puedo comprender sus deseos de verme desnuda, ",
+"pero me gustaría que aprendieran a tratar mejor a una dama.)"
 ]},
 "commonevent110_karryn_exp2_3":{
 "text":[
-"(Hmmm, oh Bueno.",
-"No puedo hacer nada al respecto aquí, ",
-"\\C[11]lo arreglaré después de retirarme a mi cama por el día.\\C[0].)"
+"(Hmmm, oh bueno.",
+"Aquí no puedo hacer nada al respecto, ",
+"\\C[11]lo arreglaré después de retirarme a dormir por hoy.\\C[0].)"
 ]},
 "commonevent110_karryn_exp2_4":{
 "text":[
-"(Además, me pregunto si a los hombres les parece que estoy en un \\C[1]estado escandaloso\\C[0] ",
-"en este momento. En realidad, podría ser bastante interesante si es así.......",
-"Es lindo ver a los hombres excitarse y excitarse cuando me ven.)"
+"(Me pregunto si a los hombres les parece que estoy en un \\C[1]estado escandaloso\\C[0] ",
+"ahora mismo. Eso podría ser bastante interesante si es así.......",
+"Es lindo ver como los hombres se calientan y se excitan cuando me ven.)"
 ]},
 "commonevent110_karryn_exp2_5":{
 "text":[
@@ -470,7 +470,7 @@
 ]},
 "commonevent110_karryn_exp3_1":{
 "text":[
-"Huh? No puedo devolver mi ropa a la normalidad.",
+"¿Huh? No puedo devolver mi ropa a la normalidad.",
 "Fufu♥ Supongo que todos tiraron de mi ropa demasiado fuerte.♥"
 ]},
 "commonevent110_karryn_exp3_2":{
@@ -487,9 +487,9 @@
 "Pero ohh...... uhhh......♥",
 "Olvidémonos de eso ahora.♥",
 "Estoy empezando a ponerme cachonda solo de pensar en......♥",
-"¿Cómo sera si camino de esta manera delante de todos?......♥",
-"Ufufufu.....♥ Luego necesitarán que alguien los ayude a calmar sus pollas ",
-"duras que intentan explotar fuera de sus pantalones.......♥"
+"Que si camino de esta manera delante de todos......♥",
+"Ufufufu.....♥ Luego necesitarán que alguien los ayude a calmar sus duras",
+"pollas intentando explotarles fuera del pantalón.......♥"
 ]},
 "commonevent110_karryn_exp3_4":{
 "text":[
@@ -502,16 +502,16 @@
 ]},
 
 "commonevent150_tachiename_1":{
-"text":["Stairs Guard"]},
+"text":["Guardia de la escalera"]},
 
 "commonevent150_guard_1":{
 "text":[
 "Hola, directora Karryn.",
-"¿Le gustaría que lo acompañen de regreso a su oficina?"
+"¿Le gustaría ser escoltada de regreso a su oficina?"
 ]},
 "commonevent150_choice_1":{
 "text":[
-"No, puedo caminar solo."
+"No, puedo caminar sola."
 ]},
 "commonevent150_choice_2":{
 "text":[
@@ -519,13 +519,13 @@
 ]},
 
 "commonevent150_tachiename_2":{
-"text":["Guardia frustrada"]},
+"text":["Guardia frustrado"]},
 
 "commonevent150_guard_2":{
 "text":[
-"Maldita sea donde esta ella...... Hm? Whoa! Heh heh...",
-"HEY MUCHACHO! ¿Estás a punto de llevar a la Directora de regreso a su oficina?",
-"Está bien, yo me encargo desde aquí, sólo vuelve a tu publicación, jeje..."
+"Maldita sea donde estará...... ¿Hm? ¡Whoa! Heh heh...",
+"¡OYE MUCHACHO! ¿Estás a punto de llevar a la Directora a su oficina?",
+"No te preocupes, me encargo yo, tú vuelve a tu puesto, jeje..."
 ]},
 
 "commonevent151_choice_1":{
@@ -536,7 +536,7 @@
 "text":[
 "Configuración actual del luchador: \\REM_CUSTOM_BATTLERS[0]",
 "\\}\\I[25]¡Comienza una batalla contra los luchadores seleccionados!",
-"\\I[25]Pagarlo por cada luchador costará \\C[3]100 de oro\\C[0]."
+"\\I[25]Cada luchador costará \\C[3]100 de oro\\C[0]."
 ]},
 "commonevent151_choice_2":{
 "text":[
@@ -575,11 +575,11 @@
 ]},
 "commonevent151_changebattler_choice_2":{
 "text":[
-"Añadir prisionero"
+"Añadir un Prisionero"
 ]},
 "commonevent151_changebattler_choice_3":{
 "text":[
-"Añadir un matón"
+"Añadir un Matón"
 ]},
 "commonevent151_changebattler_choice_4":{
 "text":[
@@ -591,15 +591,15 @@
 ]},
 "commonevent151_changebattler_choice_6":{
 "text":[
-"Agregar un Ladron"
+"Agregar un Ladrón"
 ]},
 "commonevent151_changebattler_choice_7":{
 "text":[
-"A{adir un Hombre Lagarto"
+"Añadir un Hombre Lagarto"
 ]},
 "commonevent151_changebattler_choice_8":{
 "text":[
-"Añadir un vagabundo"
+"Añadir un Vagabundo"
 ]},
 "commonevent151_changebattler_choice_9":{
 "text":[
@@ -656,58 +656,58 @@
 ]},
 "commonevent152_description_1":{
 "text":[
-"Establezca la configuración de derrota en Aleatorio.",
-"\\}\\I[25]Karryn será trasladada a un nivel aleatorio después de ser derrotada en el nivel 5."
+"Establecer la configuración de derrota a Aleatorio.",
+"\\}\\I[25]Karryn será trasladada a un nivel aleatorio después de ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_2":{
 "text":[
-"Establezca la configuración de derrota en Nivel 1.",
-"\\}\\I[25]Karryn será movida a nivel 1 después de ser derrotado en el nivel 5."
+"Establecer la configuración de derrota a Nivel 1.",
+"\\}\\I[25]Karryn será movida al Nivel 1 después de ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_3":{
 "text":[
-"Establezca la configuración de derrota en Nivel 2.",
-"\\}\\I[25]Karryn será movida a nivel 2 después de ser derrotado en el nivel 5."
+"Establecer la configuración de derrota a Nivel 2.",
+"\\}\\I[25]Karryn será movida al Nivel 2 después de ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_4":{
 "text":[
-"Establezca la configuración de derrota en Nivel 3.",
-"\\}\\I[25]Karryn será movida a nivel 3 después de ser derrotado en el nivel 5."
+"Establecer la configuración de derrota a Nivel 3.",
+"\\}\\I[25]Karryn será movida al Nivel 3 después de ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_5":{
 "text":[
-"Establezca la configuración de derrota en Nivel 4.",
-"\\}\\I[25]Karryn será movida a nivel 4 después de ser derrotado en el nivel 5."
+"Establecer la configuración de derrota a Nivel 4.",
+"\\}\\I[25]Karryn será movida al Nivel 4 después de ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_6":{
 "text":[
-"Establezca la configuración de derrota en Nivel 5.",
-"\\}\\I[25]Karryn será movida a nivel 5 después de ser derrotado en el nivel 5."
+"Establecer la configuración de derrota a Nivel 5.",
+"\\}\\I[25]Karryn será movida al Nivel 5 después de ser derrotada en el Nivel 5."
 ]},
 "commonevent152_description_7":{
 "text":[
-"\\}\\I[25]Karryn será movida a \\REM_FREE_BATTLE_DEFEAT_SETTING[0] después de ser derrotado en el nivel 5."
+"\\}\\I[25]Karryn será movida a \\REM_FREE_BATTLE_DEFEAT_SETTING[0] después de ser derrotada en el Nivel 5."
 ]},
 
 "commonevent153_choice_1":{
 "text":[
-"Comienza la batalla Prision Sin Fin"
+"Comenzar Batalla de Prisión Sin Fin"
 ]},
 "commonevent153_description_1":{
 "text":[
-"\\}¡Intenta sobrevivir el mayor tiempo posible contra 50 Oleadas por diversión!",
-"\\}\\I[25]Los trucos se desactivarán durante Prision Sin Fin.",
-"\\I[25]Puntuación más alta: \\C[3]Oleadas \\REM_ENDLESS_PRISON_SCORE[0]\\C[0]  Todas la veces: \\C[29]\\REM_ENDLESS_PRISON_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_PRISON_SCORE[2] (Modo Guardian)  \\C[10]\\REM_ENDLESS_PRISON_SCORE[3] (Modo Prisionero)"
+"\\}¡Intenta sobrevivir por diversión el mayor tiempo posible contra 50 Oleadas!",
+"\\}\\I[25]Los trucos se desactivarán durante la Prisión Sin Fin.",
+"\\I[25]Puntuación más alta: \\C[3]Oleadas \\REM_ENDLESS_PRISON_SCORE[0]\\C[0]  De todos los tiempos: \\C[29]\\REM_ENDLESS_PRISON_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_PRISON_SCORE[2] (Modo Guardiana)  \\C[10]\\REM_ENDLESS_PRISON_SCORE[3] (Modo Prisionera)"
 ]},
 "commonevent153_choice_2":{
 "text":[
-"Comienza la batalla del infierno sin fin"
+"Comienza la batalla del Infierno Sin Fin"
 ]},
 "commonevent153_description_2":{
 "text":[
-"\\}Derrota \\C[3]10 Oleadas\\C[0] en Prision Sin Fin para desbloquear batallas del infierno sin fin.",
-"\\}\\I[25]Los trucos se desactivarán durante Endless Hell, pero se activará un truco aleatorio cada 5 oleadas.\\{",
-"\\I[25]Puntuación más alta: \\C[3]Oleadas \\REM_ENDLESS_HELL_SCORE[0]\\C[0]  Todas la veces: \\C[29]\\REM_ENDLESS_HELL_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_HELL_SCORE[2] (Modo Guardian)  \\C[10]\\REM_ENDLESS_HELL_SCORE[3] (Modo Prisionero)"
+"\\}Derrota \\C[3]10 Oleadas\\C[0] en Prisión Sin Fin para desbloquear batallas del Infierno Sin Fin.",
+"\\}\\I[25]Los trucos se desactivarán durante el Infierno Sin Fin, pero se activará un truco aleatorio cada 5 oleadas.\\{",
+"\\I[25]Puntuación más alta: \\C[3]Oleadas \\REM_ENDLESS_HELL_SCORE[0]\\C[0]  De todos los tiempos: \\C[29]\\REM_ENDLESS_HELL_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_HELL_SCORE[2] (Modo Guardiana)  \\C[10]\\REM_ENDLESS_HELL_SCORE[3] (Modo Prisionera)"
 ]},
 "commonevent153_choice_3":{
 "text":[
@@ -715,8 +715,8 @@
 ]},
 "commonevent153_description_3":{
 "text":[
-"\\}Derrota \\C[3]3 Oleadas\\C[0] en Prision Sin Fin para desbloquear las Batallas Personalizadas.",
-"\\}\\I[25]¡Lucha contra los luchadores elegidos por diversión!",
+"\\}Derrota \\C[3]3 Oleadas\\C[0] en Prisión Sin Fin para desbloquear las Batallas Personalizadas.",
+"\\}\\I[25]¡Lucha por diversión contra los luchadores elegidos!",
 "\\I[25]Configuración actual del luchador: \\{\\REM_CUSTOM_BATTLERS[0]"
 ]},
 "commonevent153_choice_4":{
@@ -725,157 +725,157 @@
 ]},
 "commonevent153_description_4":{
 "text":[
-"\\}Derrota \\C[3]5 Oleadas\\C[0] en Prision Sin Fin para desbloquear esta opcion.",
-"\\}\\I[25]Change where Karryn will go after being defeated in Level 5.",
-"\\I[25]Karryn will be moved to \\REM_FREE_BATTLE_DEFEAT_SETTING[0] after being defeated in Level 5."
+"\\}Derrota \\C[3]5 Oleadas\\C[0] en Prisión Sin Fin para desbloquear esta opción.",
+"\\}\\I[25]Cambia a dónde irá Karryn tras ser derrotada en el Nivel 5.",
+"\\I[25]Karryn será movida a \\REM_FREE_BATTLE_DEFEAT_SETTING[0] después de ser derrotada en el Nivel 5."
 ]},
 "commonevent153_choice_5":{
 "text":[
-"Sal del nivel 5"
+"Salir del nivel 5"
 ]},
 "commonevent153_description_5":{
 "text":[
-"\\}Regresas al nivel 4."
+"\\}Regresar al nivel 4."
 ]},
 
 "commonevent154_text_1":{
 "text":[
-"\\#\\{\\{\\{\\{\\C[5]¡Bienvenido al modo de juego libre!"
+"\\#\\{\\{\\{\\{\\C[5]¡Bienvenido al Modo de Juego Libre!"
 ]},
 "commonevent154_text_2":{
 "text":[
 "",
-"¡Puedes jugar en la prisión todo el tiempo que quieras aquí!",
-"No hay ninguna condición de Game Over durante el modo de juego libre.",
+"¡Aquí puedes jugar en la prisión todo el tiempo que quieras!",
+"No hay ninguna condición de Game Over durante el Modo de Juego Libre.",
 "Todos los trucos en la configuración funcionan durante el ",
-"modo de juego libre incluso si no estás en el modo secretaria.",
+"Modo de Juego Libre incluso si no estás en el Modo Secretaria.",
 "",
 "Si quieres comenzar una nueva partida en New Game Plus,",
 "¡Simplemente dirígete afuera y abandona El Fuerte Ganon!",
 "",
-"¡Puedes revisar esta información cuando quieras, así como ",
-"otras notas nuevas en el escritorio de la Oficina!"
+"¡Puedes revisar esta información y otras notas nuevas",
+"cuando quieras en el escritorio de la Oficina!"
 ]},
 
 "commonevent155_rem_1":{
 "text":[
 "Una nota escrita por Rem, ",
-"El Director, diseñador de juegos, programador ",
-"y escritor en inglés de Karryn's Prison:"
+"El Director, Diseñador, Programador ",
+"y escritor de Karryn's Prison en inglés:"
 ]},
 "commonevent155_rem_2":{
 "text":[
-"¡Hola! ¡Olaa! ¡Hey, a ti!",
-"Gracias por jugar a la prisión de Karryn.!!!!!!!!",
-"¡Espero que hayas tenido horas de diversión y horas más por venir!",
-"Karryn's Prison es mi primer juego con todas las funciones ",
-"en el que trabajé de principio a fin y, técnicamente, también, ",
-"¡el tercer juego en el que he trabajado junto con Sachinama!",
+"¡Hey hey! ¡Hola!",
+"¡¡¡¡¡¡¡¡Gracias por jugar a Karryn's Prison!!!!!!!!",
+"¡Espero que hayas tenido muchas horas de diversión y las que te quedan!",
+"Karryn's Prison es mi primer juego completo en el que he trabajado ",
+"de principio a fin y, técnicamente, también, ",
+"¡El tercer juego en el que he trabajado junto con Sachinama!",
 "El primer juego fue Meltys Quest en 2017.",
-"el juego que inició mi andadura en la industria eroge,",
+"Es el juego que inició mis andaduras en la industria del eroge,",
 "así como mi primer contacto con Sachinama.",
-"Sachinama no lo sabía en el momento en que lo contacté inicialmente,",
-"pero había desarrollado cáncer de tiroides en el verano de 2017.",
+"Sachinama no lo sabía en el momento en que le contacté inicialmente,",
+"pero desarrollé cáncer de tiroides en el verano de 2017.",
 ""
 ]},
 "commonevent155_rem_3":{
 "text":[
-"Después de que me operaron para deshacerme de él y me recuperé de la cirugía, ",
+"Después de que me operaran para quitármelo y de recuperarme de la cirugía, ",
 "pensé en lo que quería hacer con mi vida ahora que había enfrentado mi ",
 "propia mortalidad.",
-"Había un sueño mío de infancia que había abandonado.",
-"El profesor acababa de hacer una pregunta a la clase.",
-"Que quieres ser cuando seas grande?"
+"Había un sueño de mi infancia que había abandonado.",
+"El profesor acababa de preguntar a la clase.",
+"¿Qué queréis ser cuando seáis mayores?"
 ]},
 "commonevent155_rem_4":{
 "text":[
 "Otros niños de la clase dijeron ",
-"que querían ser políticos, astronautas o cantantes.",
-"...Yo? Dije que quería llegar a ser... un asesino."
+"que querían ser un político, un astronauta o un cantante.",
+"...¿Yo? Dije que quería ser... un asesino."
 ]},
 "commonevent155_rem_5":{
 "text":[
 "El maestro de la escuela me regañó y amenazó con contactar ",
-"a mis padres y ponerlo en mis registros permanentes si no me ",
-"corrijo rápidamente y doy una respuesta más apropiada.",
-"Entonces lo cambié y pasé a ser creador de juegos. Un creador de juegos.",
+"a mis padres y ponerlo en mi expediente permanentes si no me ",
+"corregía rápidamente y daba una respuesta más apropiada.",
+"Entonces lo cambié y a ser un creador de juegos. Alguien que hace juegos.",
 "Dicho esto, no planeé ni hice ningún esfuerzo para serlo.",
-"Después de todo, yo era sólo un niño tonto que jugaba demasiados videojuegos."
+"Después de todo, yo era sólo un niño tonto que jugaba demasiado a videojuegos."
 ]},
 "commonevent155_rem_6":{
 "text":[
-"Como sucedió por la coincidencia de elecciones de vida aleatorias, ",
-"terminé con una educación en programación, y también creé un ",
+"Por casualidad de elecciones aleatorias de mi vida, ",
+"Al final acabé con una educación en programación, y creé un ",
 "popular mapa personalizado de Warcraft 3 en el pasado.",
-"(Los mapas personalizados de Warcraft 3 significan basicamente crear un mod de juego)",
-"Pero mientras me recuperaba del sufrimiento de la cirugía, ",
+"(Los mapas personalizados de Warcraft 3 eran básicamente como crear un mod de un juego)",
+"Pero mientras me recuperaba de las dificultades de la cirugía, ",
 "no pensaba en ese sueño infantil.",
 "No, estaba pensando en eroges, el tipo de videojuego ",
-"que he disfrutado durante la última década.",
+"que había disfrutado durante la última década.",
 ""
 ]},
 "commonevent155_rem_7":{
 "text":[
 "En aquel entonces, en 2017,",
 "el mercado de Steam para eroges independientes traducidos al inglés era...",
-"cómo decirlo suavemente, era jodidamente bueno."
+"cómo decirlo suavemente, una puta mierda."
 ]},
 "commonevent155_rem_8":{
 "text":[
-"Era baja calidad, poco esfuerzo y bajo precio.",
-"Pintó un panorama pobre de la calidad de los eroges provenientes de Japón.",
-"Y estaba molesto por eso.",
-"Entonces quería hacer algo al respecto. Y se me ocurrió una idea.",
+"Todo era de baja calidad, poco esfuerzo y bajo precio.",
+"Generó una imagen negativa de la calidad de los eroges que llegaban de Japón.",
+"Y eso me molestaba.",
+"Quería hacer algo al respecto. Y se me ocurrió una idea.",
 "Le mostraré al mundo que es viable vender un eroge indie a precio completo,",
 "con un inglés nativo debidamente localizado.",
 "Pero para que esta idea funcione, se necesitará un desarrollador ",
 "independiente amable que esté realmente dispuesto a darle una oportunidad a ",
-"cualquier don nadie de Nueva York. Y ese heroico tomador de riesgos fue Sachinama."
+"cualquier don nadie de Nueva York. Y ese heróico tomador de riesgos fue Sachinama."
 ]},
 "commonevent155_rem_9":{
 "text":[
 "La historia del desarrollo de Meltys Quest por parte de Sachinama ",
-"se cubre en la escena de créditos posterior al juego en Meltys Quest, ",
-"así que, si tienes curiosidad, ¡échale un vistazo en Meltys Quest!",
-"En cambio, voy a hablar un poco sobre después de que Meltys Quest haya terminado.",
+"se cubre en la escena poscréditos de Meltys Quest, ",
+"así que, si tienes curiosidad, ¡Échale un vistazo en Meltys Quest!",
+"En su lugar, voy a hablar un poco sobre lo que pasó después de que Melts Quest acabase.",
 "Meltys Quest fue un éxito.",
 "Había sentado las bases para que el mundo las viera."
 ]},
 "commonevent155_rem_10":{
 "text":[
-"Meltys Quest fue una prueba de que había un mercado y una audiencia ",
+"Meltys Quest era la prueba de que existía un mercado y una audiencia ",
 "hambrienta y dispuesta a pagar por una localización real y legítima de ",
 "eroges independientes en lugar de basura traducida automáticamente.",
-"Después de que Meltys Quest terminó, estaba un poco perdido por un tiempo.",
+"Después de que Meltys Quest terminó, estuve un poco perdido un tiempo.",
 "Podría seguir traduciendo más eroges para traerlos a Steam.",
 "Sin duda, sería un camino viable a seguir.",
 "¿Pero realmente quería hacer eso? Había logrado mi objetivo de ",
 "mostrar la diferencia entre localización real y falsificaciones.",
-"No me importaba mucho enriquecerme para obtener beneficios personales."
+"No me interesaba el enriquecerme para mi propio beneficio."
 ]},
 "commonevent155_rem_11":{
 "text":[
-"Entonces, cuando Sachinama me preguntó si me gustaría traducir sus ",
-"obras más antiguas, dudé en dar una respuesta sólida o un compromiso.",
+"Así que, cuando Sachinama me preguntó si me gustaría traducir sus ",
+"obras más antiguas, dudé en dar una respuesta sólida o comprometerme.",
 "",
-"Después de meses de auntoreflexion y de no encontrar todavía una respuesta, ",
-"y preocupado por perder mi vida y mi tiempo sin hacer nada después de un ",
-"ataque de cáncer, le dije a Sachinama que traduciría una de sus obras más antiguas."
+"Después de meses de autoreflexión y de no encontrar una respuesta, ",
+"y preocupado por perder mi vida y mi tiempo sin hacer nada después de lidiar ",
+"con un cáncer, le dije a Sachinama que traduciría una de sus obras más antiguas."
 ]},
 "commonevent155_rem_12":{
 "text":[
 "Mientras estaba en el proceso de traducirlo, Sachinama me preguntó si ",
-"estaría interesado en ayudarlo a trasladar el original al nuevo motor ",
+"estaría interesado en ayudarlo a adaptar el original al nuevo motor ",
 "RPGMaker MV con él. Y dije claro, por qué no.",
-"Y poco después, de alguna manera decidimos que, en lugar de un simple porteo de motor,",
+"Y poco después, de alguna manera decidimos que, en lugar de una simple adaptación de motor,",
 "sería un remake en una especie de escenario nuevo, con nuevos personajes.",
 "",
 "Mientras trabajaba en Meltys Quest y en este nuevo proyecto, ",
-"poco a poco me fui familiarizando más con el motor RPGMaker MV ",
+"Me fui familiarizando más y más con el motor RPGMaker MV ",
 "y decidí experimentar con algunas cosas nuevas durante el proyecto.",
-"Agregué este y aquel nuevo sistema de juego y demás.",
+"Añadí este y aquel nuevo sistema de juego y cosas por el estilo.",
 "Cuando Sachinama dibujó los diseños de uno de los nuevos personajes, ",
-"dije que ella sería una mejor heroína principal y nos reímos."
+"dije que ella sería mejor heroína principal y nos reímos."
 ]},
 "commonevent155_rem_13":{
 "text":[
@@ -892,22 +892,22 @@
 "muerto y que todas las obras de arte y diseño que había puesto en él no se usarian.",
 "",
 "Pero milagrosamente, por el mismo milagro que me dio la oportunidad de ",
-"trabajar con Sachinama en Meltys Quest, él estuvo dispuesto a abandonar ",
-"el proyecto para trabajar en un nuevo juego conmigo."
+"trabajar con Sachinama en Meltys Quest,",
+"él estaba dispuesto a abandonar el proyecto para trabajar en un nuevo juego conmigo."
 ]},
 "commonevent155_rem_15":{
 "text":[
-"Y ese nuevo juego es la prisión de Karryn.",
-"Esa es la historia del origen de la prisión de Karryn.",
+"Y ese nuevo juego es Karryn's Prison.",
+"Esa es la historia del origen de Karryn's Prison.",
 ""
 ]},
 "commonevent155_rem_16":{
 "text":[
-"A diferencia del proyecto abandonado, esta vez para Karryn's Prison, ",
-"diseñé todo para Karryn's Prison antes de que se creara la primera ",
-"línea de código o el primer arte.",
+"A diferencia del proyecto abandonado, esta vez en Karryn's Prison, ",
+"diseñé todo para Karryn's Prison antes de escribir la primera ",
+"línea de código o crear el primer arte.",
 "Mi inspiración para Karryn's Prison provino de mi década de experiencia ",
-"jugando y disfrutando del eroges. No sería posible hacer ",
+"jugando y disfrutando de eroges. No sería posible hacer ",
 "Karryn's Prison sin toda la gente que experimentó antes que yo.",
 "Quería que la protagonista, Karryn, fuera un cierto tipo de personaje, ",
 "uno que normalmente no es la heroína principal de un eroge.",
@@ -919,34 +919,34 @@
 "escenas de sexo en un juego con más de treinta escenas de sexo.",
 "",
 "También quiero que el juego se centre en gangbangs.",
-"En un eroge promedio, probablemente habrá una o dos, si es que hay alguna, ",
-"escenas de gangbang en un juego con más de treinta escenas."
+"En un eroge promedio, probablemente habría una o dos, escenas de gangbang, ",
+"en un juego con más de treinta escenas, si es que hay alguna."
 ]},
 "commonevent155_rem_18":{
 "text":[
 "Pero no me importó. ",
-"No me estaba acercando a esto en términos de atractivo para el mercado.",
+"No estaba abordando esto en términos de atractivo de mercado.",
 "Sólo quería crear lo que quería crear.",
 "Sin saberlo, ",
 "estaba recurriendo a mi sueño de infancia, ",
-"en el mismo estado infantil."
+"en ese mismo estado infantil."
 ]},
 "commonevent155_rem_19":{
 "text":[
 "Para la jugabilidad, quería una combinación de gestión ",
-"estratégica y batalla. Y no cualquier Battlefuck, quería un ",
-"sistema Battlefuck más complejo que la mayoría que existe.",
-"Además, la estrella y lo que une todo sería el",
-"sistema de Pasivos que se me ocurrió.",
-"Trescientos Pasivos fue el diseño inicial.",
-"Yo era fanático y maníaco.",
+"estratégica y batallas sexuales. pero no de cualquier tipo, quería un ",
+"sistema de batalla más complejo que la mayoría de los que existen.",
+"Además, la estrella de esto y lo que uniría todo sería",
+"el sistema de Pasivas que se me ocurrió.",
+"Trescientas Pasivas era el diseño inicial.",
+"Estaba obsesionado y fuera de control.",
 "Trabajé todo el día desde que me cepillaba los dientes por la",
-"mañana hasta cuando me cepillaba los dientes por la noche..",
-"Ay estaba pasando el mejor momento de mi vida."
+"mañana hasta que me los cepillaba por la noche..",
+"Y me lo estaba pasando como nunca."
 ]},
 "commonevent155_rem_20":{
 "text":[
-"El desarrollo de la prisión de Karryn comenzó en 2018.",
+"El desarrollo de Karryn's prison comenzó en 2018.",
 "Y ahora, en 2021, la visión inicial que diseñé ",
 "finalmente está terminada."
 ]},
@@ -954,100 +954,100 @@
 "text":[
 "Una vez más, gracias por jugar a Karryn's Prison.",
 "¡Espero que te hayas divertido tanto jugando a Karryn's Prison ",
-"como yo al crearla!                       -Rem"
+"como yo desarrollándolo!                       -Rem"
 ]},
 
 "commonevent156_sachinama_1":{
 "text":[
 "Una nota escrita por Sachinama, el artista, ",
-"diseñador de mapas, escritor de historias, productor ",
-"de audio y escritor japonés de Karryn's Prison:",
+"diseñador de mapas, guionista, productor ",
+"de audio y escritor de Karryn's Prison en japonés:",
 
 "Hola a todos, soy Sachinama.",
 "¡Felicitaciones y gracias por ",
 "terminar Karryn's Prision!",
-"¡Y gracias por todo tu arduo trabajo para llegar al orgasmo!",
-"¡¡Eres tan maravilloso por venir tanto!!",
+"¡Y gracias por todo tu arduo trabajo teniendo orgasmos!",
+"¡¡Es genial que te corras tanto!!",
 "¡Te amo!",
-"......Por cierto, ¿has leído la carta de Rem?",
-"Oooohhhh-- maaaaan----",
-"No es fácil traducir del inglés al japonés.!! Haha!",
-"Quiero decir que debería ser obvio, ",
-"pero fueron muchas palabras para traducir!! ;_; !!",
+"......Por cierto, ¿Has leído la carta de Rem?",
+"Oooohhhh-- tiiiioo----",
+"¡¡No es fácil traducir del inglés al japonés!! ¡Haha!",
+"Quiero decir, debería ser obvio, ",
+"pero fueron muchas palabras que traducir!! ;_; !!",
 "",
-"Entonces, en realidad, para este juego, la parte más ",
-"difícil probablemente no fue dibujar todos los CG de",
-"gangbang, sino traducir todo el inglés que escribió Rem.!! wwwwww",
+"Así que, en verdad, la parte más dificil de este juego ",
+"probablemente no fue dibujar todas las CGs de",
+"gangbangs, ¡¡Sino traducir todo el inglés que escribió Rem!! wwwwww",
 "(Nota del traductor de Rem:",
-"www es la jerga de Internet para decir jajaja en japonés.)",
+"www es jerga japonesa de Internet para decir lol.)",
 "",
-"Pero todas las bromas a un lado...... oof.",
-"Estos fueron probablemente los CG más difíciles de dibujar que he hecho...",
+"Pero dejando a un lado las bromas...... oof.",
+"Estas probablemente han sido las CG más complicadas que he hecho hasta ahora...",
 "Bueno, el dibujo es mi principal fuerte, así que supongo que está bien.",
-"Por cierto, quizás no lo crean porque yo todavía no lo creo,",
-"¡pero este es mi debut como traductora!",
+"Por cierto, quizás no lo crean porque yo todavía no me lo creo,",
+"¡Pero este es mi debut como traductor!",
 "",
 "En Meltys Quest, también traduje un poco del inglés ",
-"que Rem escribió, ¡¡pero eso no fue nada comparado ",
-"con lo mucho que hice aquí!!",
-"Para la prisión de Karryn, tuve que traducir los NPC, ",
+"que escribió Rem, ¡¡Pero eso no fue nada comparado ",
+"con todo lo que hice aquí!!",
+"Para Karryn's prison, tuve que traducir los NPC, ",
 "los decretos y las habilidades que fueron escritos por Rem.",
-"También tuve que traducir los efectos de los Pasivos......",
-"(La historia, el diálogo de batalla y los comentarios de Karryn",
-"en los Pasivos fueron todos escritos por mí.)",
+"También tuve que traducir los efectos de las Pasivas......",
+"(La historia, el diálogo de los combates y los comentarios de Karryn",
+"en las Pasivas fueron todos escritos por mí.)",
 "",
 "Durante el desarrollo del juego, ",
-"realmente no quería que mi inglés ralentizara el progreso, ",
-"así que no se lo digas a nadie, ¡pero tomé clases de inglés en secreto!",
-"Pero al final mi inglés apenas mejoró.! ;_;",
+"No quería que mi inglés ralentizara el progreso, ",
+"así que no se lo digas a nadie ¡Pero tomé clases de inglés en secreto!",
+"¡Pero al final mi inglés apenas mejoró! ;_;",
 "Bueno, mi pronunciación probablemente mejoró un poco.",
 "",
 "Aparte de eso, bueno, ya lo he dicho muchas veces antes, ",
-"pero realmente le estoy agradecido a Rem.",
+"pero le estoy muy agradecido a Rem.",
 "",
-"''No hay manera de que Sachinama hubiera podido ",
-"crear un juego como este por sí mismo.!!",
-"Todo es gracias a Rem.!!''",
-"Quiero gritar eso por un megáfono a cada persona ",
-"que quiera escucharme, así de gran obra de arte ",
-"ha resultado ser este juego.",
+"''¡¡Es imposible que Sachinama hubiera podido ",
+"crear un juego como este por sí mismo!!",
+"¡¡Todo es gracias a Rem!!''",
+"Quiero gritar eso en un megáfono a cada persona ",
+"que quiera escucharme, así de maravillosa ",
+"ha resultado ser esta obra de arte de videojuego.",
 "Cuando comencé a trabajar en Karryn's Prison, ",
-"realmente no pensé que se convertiría en un juego como este.",
+"realmente no pensé que se convertiría en un juego así.",
 "",
-"La verdad es que después de que Meltys Quest terminó, ",
-"todavía había una gruesa barrera del idioma entre Rem y yo.",
+"La verdad es que después de que Meltys Quest terminara, ",
+"todavía había una barrera lingüística considerable entre Rem y yo.",
 "",
 "El trabajo en Karryn's Prision comenzó cuando todavía ",
 "no podíamos comunicar pensamientos críticos entre nosotros.",
 "",
-"¡¡No hubo absolutamente ningún problema en las conversaciones ",
-"normales y diarias, pero estamos hablando de algo de tan alto nivel ",
-"como los conceptos e ideas que se encuentran en Karryn's Prision aquí!!",
-"¡¡Una cosa es si fuera entre dos japoneses, ",
-"pero Rem es un HENTAI estadounidense de pura ",
-"raza que aprendió japonés jugando eroges!!",
+"No había absolutamente ningún problema en las conversaciones ",
+"normales y diarias ¡¡Pero aquí estamos hablando de algo de tan alto nivel ",
+"como los conceptos e ideas que se encuentran en Karryn's Prision!!",
+"Una cosa es si fuera entre dos japoneses",
+"¡¡Pero Rem es un HENTAI estadounidense de pura ",
+"cepa que aprendió japonés jugando eroges!!",
 "Con alguien así, estábamos en una situación en ",
 "la que intentábamos crear un juego de la nada y teníamos ",
 "que comunicar nuestros pensamientos con precisión.",
-"¡¡Ni siquiera estoy seguro de cómo PUEDO transmitirte adecuadamente ",
-"cuán difícil es la situación en la que nos encontramos!!",
+"¡¡Ni siquiera estoy seguro de cómo puedo transmitirte A TI ",
+"cuán difícil era la situación en la que nos encontrábamos!!",
 "",
 "Entonces, pensé que solo estábamos haciendo un eroge normal y ",
-"estándar cuando comencé. Incluso pensé para mis adentros,",
-"'Hmm, esto probablemente sólo tomaría alrededor de un año.'",
+"corriente cuando comencé. Incluso pensé para mis adentros,",
+"'Hmm, esto probablemente sólo tomará alrededor de un año.'",
 "¿¿Puedes creerlo??",
 "Realmente pensé eso en ese momento.~~~.",
 "",
-"Y AHORA!!",
-"Ha sido necesario casi tres años y medio!!!",
+"¡¡Y AHORA!!",
+"¡¡Ha sido necesaria la mayor parte de tres años y medio!!!",
 "Tres años... muchacho, el tiempo realmente vuela.......",
 "Durante estos 3 años (4 años si contamos el remake fallido)",
 "ha sido increíblemente divertido.",
-"¡Fue muy ocupado y agitado, pero también lleno de felicidad!",
-"Tuve muchas peleas y discusiones con Rem, ",
+"Fue un periodo agitado y lleno de actividad, ¡Pero también lleno de",
+"felicidad! Tuve muchas peleas y discusiones con Rem, ",
 "y hubo momentos en los que Rem me sermoneó y me regañó y ",
-"otros momentos en los que yo le sermoneé y regañé a Rem.",
-"Compartimos muchos momentos buenos y malos juntos, ",
+"otros momentos en los que yo sermoneé y regañé a Rem.",
+"Compartimos juntos muchos buenos y malos momentos, ",
 "pero al final todos fueron buenos recuerdos.",
 "",
 "Además, quiero señalar que a Rem realmente le encantan los eroges.",
@@ -1056,64 +1056,64 @@
 "Desearía que nunca perdiera su amor puro hacia eroges.",
 "",
 "",
-"Rem ya ha dicho mucho sobre la prisión de Karryn en su carta, ",
-"así que no quiero decir mucho sobre eso aquí.",
+"Rem ya ha dicho mucho sobre Karryn's prison en su carta, ",
+"así que no quiero hablar mucho sobre eso aquí.",
 "",
-"Pero hay sentimientos de agradecimiento que están explotando en mi",
-"pecho y de los que quiero hablar al leer la carta de Rem.",
+"Pero hay sentimientos de agradecimiento que están brotando de mi",
+"pecho y de los que quiero hablar después de leer la carta de Rem.",
 "",
 "Al principio, cuando Rem me preguntó sobre Karryn's Prision', ",
 "dijo: '¡Realmente quiero crear mi propio eroge!",
 "Un eroge que este mundo nunca ha visto antes.'!",
-"Sentí que era algo realmente genial que decir, ",
+"Sentí que era algo realmente guay de decir, ",
 "así que en respuesta a eso dije casualmente:",
-"'Seguro Por qué no. De todos modos, a los dos nos gustan más o menos los mismo.'",
+"'Claro, Por qué no. De todos modos, a los dos nos gusta más o menos lo mismo.'",
 "Pero estaba tan, tan equivocado.",
-"En eso subestimé enormemente los talentos de Rem.",
+"Subestimé enormemente los talentos de Rem.",
 "",
 "Desde el día en que Rem me pidió que hiciera Karryn's Prision ",
 "con él, he perdido la cuenta de cuántas veces pensé:",
 "'Este hombre es un genio.'",
 "En un nivel fundamental, me gusta probar cosas nuevas, ",
 "así que quiero enfatizar que agradecí la sugerencia de Rem.",
-"pero.",
+"Pero.",
 "Fue realmente difícil cuando el alcance de todo iba mucho ",
 "más allá de lo que inicialmente pensé que iba a afrontar.",
 "",
-"¡¡Sin embargo!! ¡Apoyé de todo corazón a Rem con todo lo que tuve!",
+"¡¡Sin embargo!! ¡Apoyé de todo corazón a Rem con todo lo que tenía!",
 "¡Rem también implementó muchas de las ideas y sugerencias que hice!",
-"Gracias, Rem!",
-"En mi cabeza visualizo Karryn's Prision como esperma y óvulo.",
-"Karryn es el huevo. Y los internos son los espermatozoides reunidos a su alrededor.",
+"¡Gracias, Rem!",
+"En mi cabeza visualizo Karryn's Prison como esperma y óvulo.",
+"Karryn es el óvulo. Y los prisioneros son los espermatozoides reunidos a su alrededor.",
 "Todos los espermatozoides están desesperados por fertilizar el óvulo.",
 "No quieren salir de la prisión aunque pudieran.",
-"Creo que la jaula cerrada en la que estaban estaba sincronizada ",
-"con lo que estaba sucediendo en el mundo real que nos rodeaba.",
-"Así que fue en la prisión de Karryn donde encontramos una salida que ",
+"Creo que la jaula cerrada en la que estaban,",
+"estaba sincronizada con lo que estaba sucediendo en el mundo real.",
+"Así que fue en Karryn's Prison donde encontramos una salida que ",
 "nos salvó durante una época en la que el mundo exterior era desagradable.",
 "",
 "Por supuesto, personalmente, me encantaría que disfrutaras de mis CG.",
 "Pero también me alegraría que disfrutaras las líneas de Karryn, ",
-"así como el trabajo realizado por las actrices de voz.",
-"Creo que la base de usuarios de este juego probablemente será de alrededor ",
-"del 80% de hablantes de inglés, pero no cedí en nada y me esforcé lo más ",
-"que pude en escribir las partes en japonés.",
+"así como el trabajo realizado por las actrices de doblaje.",
+"Creo que los jugadores de este juego probablemente sean alrededor ",
+"de un 80% angloparlantes, pero no cedí en nada y me esforcé lo más ",
+"que pude al escribir las partes en japonés.",
 "Rem también capturó perfectamente mi estilo de escritura en inglés.",
 "",
 "",
 "Karryn's Prision es el primer eroge del mundo donde solo dos personas, ",
-"un estadounidense y un japonés, trabajaron seriamente juntos de forma ",
+"un estadounidense y un japonés, trabajaron juntos de forma ",
 "remota para crear un eroge.",
-"No creo que este tipo de proyecto sea imitado.",
+"No creo que este tipo de proyecto se pueda imitar.",
 "Porque este proyecto sólo fue posible con confianza mutua.",
 "",
-"Si crees que la prisión de Karryn no sólo fue interesante, ",
-"sino también erótica, ¡eso me haría muy feliz!",
-"Gracias. ¡Gracias!",
+"Si crees que Karryn's prison no sólo fue interesante, ",
+"sino también erótico ¡Me haría muy feliz!",
+"Gracias ¡Gracias!",
 "Con esto finaliza la nota escrita por el propio desarrollador.",
 "",
 "",
-"Querida Rem, una vez que Covid esté bajo control y estés en",
+"Querido Rem, cuando el Covid esté bajo control y estés en",
 "Japón, esta vez vayamos a comer wagyu juntos.",
 "                                                                             Sachinama"
 ]},
