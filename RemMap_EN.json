@@ -1121,12 +1121,12 @@
 "commonevent211_karryn_1":{
 "text":[
 "(No puedo pasar por aquí ",
-"porque hay \\V[29] en el camino......)"
+"porque hay \\V[29] en medio......)"
 ]},
 "commonevent212_karryn_1":{
 "text":[
 "(Esa puerta conduce a \\V[31].",
-"No tengo ninguna razón para ir allí ahora.)"
+"No tengo ningún motivo para ir allí ahora.)"
 ]},
 "commonevent217_karryn_1":{
 "text":[
@@ -1135,8 +1135,8 @@
 ]},
 "commonevent219_karryn_1":{
 "text":[
-"(La puerta de \\V[31] está cerrada.",
-"Parece que está cerrado por el día.)"
+"(La puerta hacia \\V[31] está cerrada.",
+"Parece que ha cerrado por hoy.)"
 ]},
 
 "commonevent222_msg_1":{
@@ -1154,14 +1154,14 @@
 ]},
 "commonevent222_msg_2":{
 "text":[
-"\\#La configuración 'Forzar 60 FPS' ahora está activada.",
-"\\#※Puedes desactivar esto en cualquier momento en la Configuración.",
-"\\#※Por favor, Apagalo y redusca el refresco de tu monitor a 60Hz si va con lag"
+"\\#La configuración 'Forzar 60 FPS' está ahora activada.",
+"\\#※Puedes desactivarla en cualquier momento en la Configuración.",
+"\\#※Por favor, Apágalo y reduce el refresco de tu monitor a 60Hz si va con lag"
 ]},
 "commonevent222_msg_3":{
 "text":[
-"\\#La configuración 'Forzar 60 FPS' ahora está desactivada.",
-"\\#Puedes activar esto en cualquier momento en Configuración."
+"\\#La configuración 'Forzar 60 FPS' está ahora desactivada.",
+"\\#Puedes activar esto en cualquier momento en la Configuración."
 ]},
 
 
@@ -1179,27 +1179,27 @@
 "commonevent231_msg_2":{
 "text":[
 "",
-"\\#Esta fue básicamente la señal de que Karryn había fallado en sus deberes.......",
+"\\#Esta era básicamente la señal de que Karryn había fracasado en su misión.......",
 "",
 
 "\\#Ya no había nada que Karryn pudiera hacer.",
 "\\#Sus sentimientos hacia el Emperador ya no importaban, ",
 "\\#y los mismos hombres a los que menospreciaba ahora han profanado sus deseos.",
 
-"\\#Todo lo que había logrado ahora se había arruinado de un solo golpe.",
-"\\#Y mientras observaba sin comprender las desastrosas escenas ",
-"\\#que se desarrollaban ante ella, pensó para sí misma.",
+"\\#Todo lo que había logrado se ha ido al garete en un momento.",
+"\\#Y mientras observaba perpleja el desastre que se desarrollaba",
+"\\#ante ella, pensó para sí misma.",
 
-"\\#Esa vez, ¿qué hubiera pasado si hubiera rechazado la idea de convertirse en Alcaide?",
-"\\#En aquel entonces, ¿y si ella se hubiera negado a dejar el lado del Emperador?",
+"\\#En aquel entonces, ¿Qué hubiera pasado si hubiera rechazado convertirse en Alcaide?",
+"\\#En aquel entonces, ¿Y si se hubiera negado a dejar el lado del Emperador?",
 "",
 
-"\\#Pero ya nada de eso importaba. Fue simplemente un escapismo ocioso.",
-"\\#Los hombres allí la habían profanado en más de un sentido.",
-"\\#Ella nunca volverá a ser la persona que era antes de todo esto.",
+"\\#Pero ya nada de eso importaba. Era simplemente escapismo.",
+"\\#Los hombres de aquí la habían profanado en más de un sentido.",
+"\\#Nunca volverá a ser la persona que era antes de todo esto.",
 
-"\\#Mientras mantenía pensamientos y sentimientos complicados sobre",
-"\\#todo esto después de haber experimentado la derrota y el placer, ",
+"\\#Mientras mantenía pensamientos y sentimientos complicados acerca de",
+"\\#todo esto, después de haber experimentado la derrota y el placer, ",
 "\\#Karryn abandonó todo y escapó del Fuerte Ganon......."
 ]},
 
@@ -1213,11 +1213,11 @@
 "commonevent232_msg_1":{
 "text":[
 "",
-"\\#El tiempo paso......",
+"\\#El tiempo pasó......",
 "",
 
-"\\#Karryn continuó aprovechando su posición como exsecretaria ",
-"\\#imperial y actual Alcaide para actuar como una reina",
+"\\#Karryn continuó aprovechando su posición como antigua Secretaria ",
+"\\#Imperial y actual Jefa de la prisión para actuar como una reina",
 "\\#mezquina, enriqueciéndose y satisfaciendo sus propios deseos."
 ]},
 
@@ -1233,11 +1233,11 @@
 
 "\\#En esencia, para ella era lo mismo que una muerte social.",
 "\\#Ya no tenía un lugar en la sociedad.",
-"\\#Era demasiado tarde para arrepentirse incluso si ella quisiera.",
+"\\#Era demasiado tarde para arrepentirse incluso si lo quisiera.",
 
 "\\#Sin embargo, Karryn, que no estaba dispuesta a vender ",
-"\\#su orgullo, desapareció del imperio sin ofrecer una ",
-"\\#palabra de excusa o disculpas a nadie......."
+"\\#su orgullo, desapareció del imperio sin ofrecer una sola ",
+"\\#palabra de disculpas o excusas a nadie......."
 ]},
 
 "commonevent232_msg_3":{
@@ -1250,18 +1250,18 @@
 "commonevent233_msg_1":{
 "text":[
 "",
-"\\#El orden en el Fuerte Ganon cayó por completo.",
+"\\#El orden en el Fuerte Ganon se desmoronó por completo.",
 ""
 ]},
 
 "commonevent233_msg_2":{
 "text":[
 "\\#Unidos y liderados por Gobriel,",
-"\\#los reclusos se expandieron hacia el exterior y invadieron el imperio.",
+"\\#los reclusos se expandieron hacia el exterior e invadieron el imperio.",
 "",
 
-"\\#Karryn no pudo hacer nada más que observar fijamente cómo se desarrollaba todo.",
-"\\#Los hombres de la prisión estaban mucho más allá de su imaginación más salvaje.",
+"\\#Karryn no pudo hacer nada más que observar perpleja cómo se desarrollaba todo.",
+"\\#Los hombres de la prisión eran mucho peor que su imaginación más salvaje.",
 "",
 
 "\\#Karryn sabía que al mismo tiempo, ",
@@ -1295,19 +1295,19 @@
 "",
 
 "\\#La razón era bastante sencilla.",
-"\\#No sólo se evaporó el pedido, ",
-"\\#sino también el dinero para sus salarios.",
+"\\#No solo se desvaneció el orden, ",
+"\\#también el dinero de sus salarios.",
 
-"\\#Debido a esto, Karryn provocó no ",
-"\\#sólo el antagonismo de los reclusos, ",
-"\\#sino también la disensión de los guardias.",
+"\\#Debido a esto, Karryn,",
+"\\#no solo atrajo antagonismo de los reclusos, ",
+"\\#sino también la discordia en los guardias.",
 
-"\\#Gracias a todos los decretos que fortalecieron y entrenaron a los guardias, los",
-"\\#guardias se habían convertido en una fuerza militar rebelde fuerte y disciplinada.",
-"\\#Luego recurrieron al bandidaje y, finalmente, a la piratería contra el imperio.",
+"\\#Gracias a todos los decretos que fortalecieron y entrenaron a los guardias,",
+"\\#estos se habían convertido en una fuerza militar poderosa y disciplinada.",
+"\\#Luego, recurrieron al bandidaje y, eventualmente, a la piratería contra el imperio.",
 
 "\\#La responsable de los hechos ocurridos, Karryn, ",
-"\\#no fue vista nuevamente dentro del imperio.......",
+"\\#no fue vista nuevamente en territorio del imperio.......",
 ""
 ]},
 
@@ -1320,31 +1320,31 @@
 
 "commonevent300_msg_1":{
 "text":[
-"¡Gracias por jugar la versión demo de Karryn's Prison!",
-"Aquí es donde termina el contenido de la historia de la versión demo.",
+"¡Gracias por jugar la versión de prueba de Karryn's Prison!",
+"Aquí es donde termina el contenido de la versión de prueba.",
 "",
-"Normalmente, después de derrotar al Dr. Cargill: el nivel 2 será subyugado,",
-"los Decretos de nivel 2 estarán disponibles, los subsidios aumentarán ",
-"y el nivel 3 estará abierto.",
-"Sin embargo, a los efectos de la versión Demo, ",
+"Normalmente, después de derrotar al Dr. Cargill: el nivel 2 será Subyugado,",
+"se desbloquearían los Decretos de Nivel 2, los subsidios aumentarían, ",
+"y el nivel 3 se abriría.",
+"Sin embargo, por ser la versión de prueba, ",
 "el Nivel 2 seguirá en un estado de Anarquía para que ",
-"puedas seguir luchando contra enemigos de Nivel 2.",
-"¡Tenemos un Discord! Y nos encantaría ",
-"escuchar su opinión o comentarios, o si ",
-"detectó algún error o error tipográfico."
+"puedas seguir luchando contra enemigos del Nivel 2.",
+"¡Tenemos un servidor de Discord! Nos encantaría ",
+"escuchar tus opiniones o comentarios, o si ",
+"te encontraste algún error en el juego o en los textos."
 ]},
 "commonevent300_choice_1":{
 "text":[
-"¡Llévame a tu Discord!"
+"¡Llévame al Discord!"
 ]},
 "commonevent300_choice_2":{
 "text":[
-"¡Lo comprobaré más tarde!"
+"¡Le echaré un ojo más tarde!"
 ]},
 "commonevent300_msg_2":{
 "text":[
-"Además, puede mantenerse actualizado sobre el desarrollo y los lanzamientos",
-"de la última versión de demostración a través de SubscribeStar."
+"Además, puedes mantenerte actualizado sobre el desarrollo y los lanzamientos",
+"de la última versión de prueba a través de SubscribeStar."
 ]},
 "commonevent300_choice_3":{
 "text":[
@@ -1352,12 +1352,12 @@
 ]},
 "commonevent300_choice_4":{
 "text":[
-"¡Lo comprobaré más tarde!"
+"¡Le echaré un ojo más tarde!"
 ]},
 "commonevent300_msg_3":{
 "text":[
-"¡Gracias una vez más por jugar!",
-"¡Esperen con ansias la próxima versión!"
+"De nuevo ¡Gracias por jugar!",
+"¡Espera con ansias la próxima versión!"
 ]},
 
 "commonevent301_credits_1":{
@@ -1370,109 +1370,109 @@
 
 "troops10_p1_karryn_1":{
 "text":[
-"¡¿Decidiste volverte contra mí, Tonto incompetente?!",
-"Ponerle las manos encima a tu superior, aunque SOLO te di un puesto......!",
+"¡¿Decidiste volverte contra mí, Inútil?!",
+"Le pones las manos encima a tu superior, a pesar de que YO te he dado tu trabajo......!",
 "¡¡Simplemente no hay límites para tu imbecilidad!!"
 ]},
 "troops10_p1_yasu_1":{
 "text":[
-"Haa haa...! ¿Cómo eres una mujer tan tenaz?.....!!",
-"M-Me estás poniendo... aún más duro al actuar así.......!!"
+"¡Aah aah...! ¿Cómo eres una mujer tan tenaz?.....!!",
+"M-Me estás poniendo... aún más cachondo al actuar así.......!!"
 ]},
 "troops10_p1_yasu_2":{
 "text":[
 "¡Escucha bien! ¡¡Es todo culpa tuya por tener un cuerpo así!!",
 "Ese uniforme... no es muy pequeño, de hecho, ¡¡te queda perfecto!!",
-"¡¡Probablemente nunca veré a nadie usarlo mejor que tú!!"
+"¡¡No creo que vea nunca a nadie que le quede mejor que a ti!!"
 ]},
 "troops10_p1_karryn_2":{
 "text":[
 "(¿Qué le pasa...? ¿Está diciendo que es mi culpa que esté excitado?",
-"MLos hombres realmente son animales que pierden el sentido debido a mi encanto.......",
-"Me pregunto si todos los hombres, excepto Su Majestad Imperial, son así.?)"
+"Los hombres realmente son animales que pierden el sentido debido a mi encanto.......",
+"¿Me pregunto si todos los hombres a parte de Su Majestad Imperial son así?)"
 ]},
 "troops10_p1_karryn_3":{
 "text":[
-"(Fufu...... Esto también está bien... esto se está poniendo interesante.!",
+"(Fufu...... Esto también está bien... ¡Esto se está poniendo interesante!",
 "¡¡Lo calmaré mostrándole exactamente cómo va a funcionar esta jerarquía!!)"
 ]},
 
 "troops10_p1_tutorial_1":{
 "text":[
-"\\C[4]Turnos de batalla\\C[0]",
-"Para la mayoría de las batallas, los turnos de Karryn se dividen en una",
+"\\C[4]Turnos de combate\\C[0]",
+"Para la mayoría de los combates, los turnos de Karryn se dividen en una",
 "\\C[11]Fase Mental\\C[0] y una \\C[2]Fase de Acción\\C[0]."
 ]},
 "troops10_p1_tutorial_2":{
 "text":[
 "Durante la \\C[11]Fase Mental\\C[0], Karryn puede usar tantas \\C[11]Habilidades de Voluntad\\C[0]",
-"como quiera, siempre y cuando tenga suficiente Fuerza de Voluntad para usarlas.",
-"La Voluntad se regenera mucho en cada turno, ¡así que siéntete libre de gastarla!"
+"como quiera, siempre y cuando tenga suficiente Voluntad para usarlas.",
+"Se regenera bastante voluntad por turno, ¡Así que siéntete libre de gastarla!"
 ]},
 
 "troops10_p2_karryn_1":{
 "text":[
-"Grr...... Todavía no estoy acostumbrado a moverme con este traje......."
+"Grr...... Todavía no estoy acostumbrada a ir con este traje......."
 ]},
 "troops10_p2_yasu_1":{
 "text":[
-"Guhuhuhu......",
+"Gujujuju......",
 "¡Directora Karryn! ¿Aún no te has dado cuenta?",
-"Tu ropa empieza a quedarte un poco holgada....... haa haa......"
+"Tu ropa empieza a quedarte un poco holgada....... aah aah......"
 ]},
 "troops10_p2_karryn_2":{
 "text":[
-"Oh crap......?!",
-"Arrghh! ......Es porque sigues tirando de él......!"
+"¡¿Mierda......?!",
+"¡Arrghh! ......Es porque sigues tirando de él......!"
 ]},
 
 "troops10_p3_karryn_1":{
 "text":[
-"QUE......?!!",
-"Acabas de tocarme las tetas, ¿no?"
+"¡¡¿QUÉ......?!!",
+"¡¿Acabas de tocarme las tetas?!"
 ]},
 "troops10_p3_yasu_1":{
 "text":[
-"Ahh... L-lo siento mucho!",
-"Mis manos se extendieron demasiado...... haa haa..."
+"Ahh... ¡L-lo siento mucho!",
+"Se me fueron las manos...... aah aah..."
 ]},
 
 "troops10_p3_tutorial_1":{
 "text":[
-"\\C[1]Actos sexuales\\C[0]",
+"\\C[1]Actos Sexuales\\C[0]",
 "Durante el transcurso de esta batalla,  ",
-"el \\C[1]Deseo sexual de pechos\\C[0] de Karryn subió demasiado."
+"el \\C[1]Deseo: Tetas\\C[0] de Karryn subió demasiado."
 ]},
 "troops10_p3_tutorial_2":{
 "text":[
-"Cuando los diversos deseos de Karryn alcanzan cierto punto, sus enemigos se",
-"volverán más audaces con sus \\C[1]actos sexuales\\C[0], como manosear sus ",
-"tetas cuando sus \\C[1]deseos sexual de pechos \\C[0]es lo suficientemente alto."
+"Cuando los diversos Deseos de Karryn alcanzan cierto punto, sus enemigos se",
+"volverán más atrevidos con sus \\C[1]Actos Sexuales\\C[0], como manosearle las ",
+"tetas cuando sus \\C[1]Deseo: Tetas \\C[0]es lo suficientemente alto."
 ]},
 "troops10_p3_tutorial_3":{
 "text":[
-"Durante la \\C[11]Fase Mental\\C[0], Karryn puede usar su \\C[11]Habilidad de Voluntad\\C[0], \\C[11]\\I[327]Suprimir Deseo ",
-"sexual de pechos\\C[0], para bajarle los \\C[11]Deseo de pechos\\C[0].  ¡Karryn debe mantener ",
-"bajos sus diversos deseos si no quiere que sus enemigos la manoseen o algo peor!"
+"Durante la \\C[11]Fase Mental\\C[0], Karryn puede usar su \\C[11]Habilidad de Voluntad\\C[0],",
+" \\C[11]\\I[327]Suprimir Deseo: Tetas\\C[0] para reducir su \\C[11]Deseo: Tetas\\C[0].",
+" ¡Karryn debe mantener sus deseos bajos si no quiere que sus enemigos la manoseen o algo peor!"
 ]},
 
 "troops10_p4_karryn_1":{
 "text":[
 "Estoy genuinamente sorprendida ......",
-"Pensé que te caerías de un solo golpe, pero aquí estás.",
-"Tienes bastante resistencia, ¿no?"
+"Pensé que no aguantarías un solo golpe, pero aquí estás.",
+"Tienes bastante resistencia, ¿No es así?"
 ]},
 "troops10_p4_yasu_1":{
 "text":[
-"¡Es un honor ser elogiado por ti...! Haa haa... haa haa...!",
-"Más que resistencia, ¿cómo podría llamarme a mi mismo un hombre si simplemente me ",
-"quedara quieto cuando una mujer de tan alta calidad como tú está frente de mi?!"
+"¡Es un honor ser elogiado por ti...! ¡Aah aah... aah aah...!",
+"Más allá de la resistencia, ¿Como podría alguien llamarse un hombre, si simplemente",
+"se quedara quieto cuando una mujer de tan alta calidad como tú está frente a él?!"
 ]},
 "troops10_p4_yasu_2":{
 "text":[
-"Oh, sí, es cierto... ¡¡Ese emperador es muy extraño!!",
+"Ah, sí, es verdad... ¡¡Ese emperador es raro raro!!",
 "Como es posible que no le excite tenerte a su lado todo el tiempo......",
-"¿Es posible que no tenga interés en las mujeres?"
+"¿Puede ser que no le gusten las mujeres?"
 ]},
 "troops10_p4_karryn_2":{
 "text":[
