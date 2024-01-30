@@ -1,8 +1,10 @@
-Karryns Prison en español
+# Karryns Prison en español  
 
-Proofreading in progress:
+## Proofreading in progress:  
 
-RemMap_EN.json  1119/14996
-RemLines.json   0/27000
-RemDesc_EN.json 0/15662
-
+**RemMap_EN.json**  1119/14996  
+  
+**RemLines.json**   0/27000  
+  
+**RemDesc_EN.json** 0/15662  
+  
