@@ -1,5 +1,8 @@
 Karryns Prison en español
 
-Proofreadin in progress:
+Proofreading in progress:
 
-rem map done till line 1119
+RemMap_EN.json  1119/14996
+RemLines.json   0/27000
+RemDesc_EN.json 0/15662
+
