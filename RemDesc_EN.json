@@ -4,13 +4,13 @@
 },
 
 "peffect_50mouthdesire":{
-"text":["\\C[27]La Precisión disminuye a medida que el Deseo Sexual de la Boca supera 50."]
+"text":["\\C[27]La Precisión disminuye a medida que el Deseo Sexual de la Boca supera el 50."]
 },
 "peffect_50boobsdesire":{
-"text":["\\C[27]La Evasión disminuye a medida que el Deseo Sexual de las Tetas supera los 50."]
+"text":["\\C[27]La Evasión disminuye a medida que el Deseo Sexual de las Tetas supera el 50."]
 },
 "peffect_50pussydesire":{
-"text":["\\C[27]Resistencia al Desnudo disminuye a medida que el Deseo Sexual de la Vagina supera los 50."]
+"text":["\\C[27]Resistencia al Desnudo disminuye a medida que el Deseo Sexual de la Vagina supera el 50."]
 },
 "peffect_50buttdesire":{
 "text":["\\C[27]La Defensa disminuye a medida que el Deseo Sexual del Culo supera los 50."]
