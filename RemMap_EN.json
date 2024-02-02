@@ -1187,7 +1187,7 @@
 "\\#y los mismos hombres a los que menospreciaba ahora han profanado sus deseos.",
 
 "\\#Todo lo que había logrado se ha ido al garete en un momento.",
-"\\#Y mientras observaba perpleja el desastre que se desarrollaba",
+"\\#Y mientras observaba perpleja el desastre",
 "\\#ante ella, pensó para sí misma.",
 
 "\\#En aquel entonces, ¿Qué hubiera pasado si hubiera rechazado convertirse en Alcaide?",
@@ -1196,10 +1196,10 @@
 
 "\\#Pero ya nada de eso importaba. Era simplemente escapismo.",
 "\\#Los hombres de aquí la habían profanado en más de un sentido.",
-"\\#Nunca volverá a ser la persona que era antes de todo esto.",
+"\\#Nunca volverá a ser la persona que era antes.",
 
-"\\#Mientras mantenía pensamientos y sentimientos complicados acerca de",
-"\\#todo esto, después de haber experimentado la derrota y el placer, ",
+"\\#Mientras reflexionaba y ordenaba sus sentimientos,",
+"\\#después de haber experimentado la derrota y el placer, ",
 "\\#Karryn abandonó todo y escapó del Fuerte Ganon......."
 ]},
 
@@ -1304,10 +1304,10 @@
 
 "\\#Gracias a todos los decretos que fortalecieron y entrenaron a los guardias,",
 "\\#estos se habían convertido en una fuerza militar poderosa y disciplinada.",
-"\\#Luego, recurrieron al bandidaje y, eventualmente, a la piratería contra el imperio.",
+"\\#Luego, recurrieron al saqueo y, eventualmente, a la piratería contra el imperio.",
 
 "\\#La responsable de los hechos ocurridos, Karryn, ",
-"\\#no fue vista nuevamente en territorio del imperio.......",
+"\\#no fue vista otra vez en territorio del imperio.......",
 ""
 ]},
 
@@ -1381,7 +1381,7 @@
 ]},
 "troops10_p1_yasu_2":{
 "text":[
-"¡Escucha bien! ¡¡Es todo culpa tuya por tener un cuerpo así!!",
+"¡Escúchame bien! ¡¡Es todo culpa tuya por tener un cuerpo así!!",
 "Ese uniforme... no es muy pequeño, de hecho, ¡¡te queda perfecto!!",
 "¡¡No creo que vea nunca a nadie que le quede mejor que a ti!!"
 ]},
@@ -1393,8 +1393,8 @@
 ]},
 "troops10_p1_karryn_3":{
 "text":[
-"(Fufu...... Esto también está bien... ¡Esto se está poniendo interesante!",
-"¡¡Lo calmaré mostrándole exactamente cómo va a funcionar esta jerarquía!!)"
+"(Fufu...... Esto también está bien... ¡Se está poniendo interesante!",
+"¡¡Voy a enseñarle de que va esto, a ver si se queda tranquilito!!)"
 ]},
 
 "troops10_p1_tutorial_1":{
@@ -1500,11 +1500,11 @@
 "troops66_p1_tonkin_1":{
 "text":[
 "¡Vamos muchachos!",
-"¡Cúbranme!"
+"¡Cubridme!"
 ]},
 "troops66_p1_karryn_1":{
 "text":[
-"Aún vas a hacer eso lo primero...... sigh......"
+"Todavía vas a hacer eso lo primero...... *suspiro*......"
 ]},
 
 "troops66_p1_karryn_2":{
@@ -1538,7 +1538,7 @@
 "troops67_p1_tonkin_1":{
 "text":[
 "Jeje, ¡Oink! ¡Eres como una mascota que necesita un poco de amor firme!",
-"Muy bien, ¡Me aseguraré personalmente de que aprendas la lección nuevamente!"
+"Muy bien, ¡Me aseguraré personalmente de que aprendas la lección está vez!"
 ]},
 "troops67_p1_karryn_1":{
 "text":[
@@ -1578,7 +1578,7 @@
 ]},
 "troops68_p1_tonkin_2":{
 "text":[
-"¡Cierra la puta boca! ¡¡A nadie le importa lo que opines!!",
+"¡Cierra la puta boca! ¡¡A nadie le importa tu opinión!!",
 "Yo... no voy a perder otra vez......."
 ]},
 "troops68_p2_tonkin_1":{
@@ -1630,7 +1630,7 @@
 "text":[
 "¡No dejaré que te salgas con la tuya...!",
 "Nadie se sale con la suya jugando conmigo de esta manera...",
-"¡¡Tú espera, Cargill!! ¡Te voy a dar tu merecido!!!"
+"¡¡Solo espera, Cargill!! ¡Te voy a dar tu merecido!!!"
 ]},
 
 
