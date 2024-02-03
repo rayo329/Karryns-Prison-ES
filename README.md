@@ -2,7 +2,7 @@
 
 ## Proofreading in progress:  
 
-**RemMap_EN.json**  1119/14996  
+**RemMap_EN.json**  2010/14996  
   
 **RemLines.json**   3647/27000  
   
