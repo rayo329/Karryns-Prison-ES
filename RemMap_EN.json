@@ -206,13 +206,13 @@
 "commonevent108_yasu_office1":{
 "text":[
 "¡Soy el subdirector Yasu!",
-"Directora Karryn, ¿Me copia? ¡Cambio!"
+"Directora Karryn, ¿Me recibe? ¡Cambio!"
 ]},
 "commonevent108_yasu_outside1":{
 "text":[
 "¡Este es el subdirector Yasu!",
 "Directora Karryn, ¿Dónde estás?",
-"¿Me copia? ¡Por favor responda! ¡Cambio!"
+"¿Me recibe? ¡Por favor responda! ¡Cambio!"
 ]},
 "commonevent108_karryn_2":{
 "text":[
@@ -229,7 +229,7 @@
 "commonevent108_karryn_3":{
 "text":[
 "Parece que hay una emergencia...",
-"Muy bien, entonces vayamos directo al grano."
+"Muy bien, vayamos directo al grano."
 ]},
 "commonevent108_yasu_3":{
 "text":[
@@ -3025,57 +3025,57 @@
 
 "map13_ev32_p3_tonkin_lose_2":{
 "text":[
-"Hyahyahya oink!!",
-"Espera, ¿qué pasó~? ¿Perdiste otra vez~?",
-"¿Podría ser que en realidad eres débil?",
+"Jyajyajyajya ¡¡Oink!!",
+"¿Qué pasa~? ¿Has perdido otra vez~?",
+"¿Puede ser que en realidad seas débil?",
 
-"Oye, oye, ¿qué pasó con toda esa energía antes?",
-"Huh??"
+"¿Qué ha pasado con toda esa energía que tenías antes?",
+"¿¿Eh??"
 ]},
 
 "map13_ev32_p3_tonkin_lose_3":{
 "text":[
-"Wooo HOOOO OINK------!! ¡Son tres seguidos bebé~~!",
-"¡¡Gracias a ti ahora tengo mucha confianza en mí mismo!!"
+"VAMOOOOOOS ¡¡OINK------!! ¡Tres victorias seguidas~~!",
+"¡¡Gracias a ti ahora tengo mucha más confianza en mí mismo!!"
 ]},
 
 "map13_ev32_p3_tonkin_lose_4":{
 "text":[
-"Huh?! ¡¿Acabo de ganar otra vez?!",
-"¿Estás perdiendo a propósito conmigo?",
-"B-bueno, lo que sea......"
+"¡¿Eh?! ¡¿He vuelto a ganar?!",
+"¿Estás perdiendo a propósito contra mí?",
+"B-bueno, no importa......"
 ]},
 
 "map13_ev32_p3_tonkin_lose_5":{
 "text":[
-"¡¿GGané... cinco veces seguidas?!",
-"Espera, atras, atras, ¿no es esto demasiado extraño?",
-"¡¿Eres sólo una puta, verdad?! Sólo quieres que te follen, ¿no?"
+"¡¿H-he ganado... cinco veces seguidas?!",
+"Espera, un momento, un momento, ¿No es esto muy raro?",
+"¡¿Simplemente eres una guarra, verdad?! Sólo quieres que te follen ¿No?"
 ]},
 
 "map13_ev32_p3_tonkin_lose_6":{
 "text":[
-"¡Está bien, no voy a hablar más!",
-"¡Ve y termines con esto!"
+"Vale vale ¡No voy a hablar más!",
+"¡Ve a que te follen!"
 ]},
 
 "map13_ev32_p3_tonkin_end_1":{
 "text":[
-"¡Te entregaré al resto de chicos!",
+"¡Te voy a dejar con el resto de chicos!",
 "¡¡Aún me queda mucho trabajo por hacer!!",
-"¡¡Tomen a esta perra y hagan lo que quieran!!"
+"¡¡Llevadse a esta perra y hacedle lo que querais!!"
 ]},
 
 "map13_ev32_p3_tonkin_end_2":{
 "text":[
-"¡Venid aquí muchachos! ¡La zorra imperial ha vuelto por más!",
+"¡Venid aquí muchachos! ¡La zorra imperial ha vuelto a por más!",
 "¡Esta prisión es realmente nuestro paraíso!",
-"Hyo hyo hyo hyo oink!!"
+"Jyo Jyo Jyo Jyo ¡¡Oink!!"
 ]},
 
 "map13_ev32_p4_tonkin_1":{
 "text":[
-"\\{\\{OINKK!!!"
+"\\{\\{¡¡¡OINKK!!!"
 ]},
 
 "map13_ev32_p4_tonkin_2":{
@@ -3085,23 +3085,23 @@
 "",
 
 "Me rindo, oinnk... Por favor, piedad.......",
-"Lamento mucho haber dicho toda esa basura......"
+"Lamento mucho haber dicho todo eso......"
 ]},
 
 "map13_ev32_p4_karryn_1":{
 "text":[
-"Uf. ¿Entonces finalmente estás dispuesto a cooperar?"
+"Puf, Entonces ¿Finalmente estás dispuesto a cooperar?"
 ]},
 
 "map13_ev32_p4_tonkin_3":{
 "text":[
-"A pesar de que estabas sola, luchaste contra mí y todos mis amigos ....",
-"Y todavía perdí......."
+"A pesar de que estabas sola, luchaste contra mí y",
+"todos mis compañeros.... Y aun así perdí......."
 ]},
 
 "map13_ev32_p4_tonkin_4":{
 "text":[
-"I.........,"
+"Yo.........,"
 ]},
 
 "map13_ev32_p4_tonkin_5":{
@@ -3111,108 +3111,108 @@
 
 "map13_ev32_p4_karryn_2":{
 "text":[
-"\\{...............Huh?!"
+"\\{¡¿...............Eh?!"
 ]},
 
 "map13_ev32_p4_karryn_3":{
 "text":[
-"..............................Uh, ............Bien."
+"..............................Uh, ............vale."
 ]},
 
 "map13_ev32_p4_tonkin_6":{
 "text":[
-"¿Cómo se llamaba? Oh, sí, Sra. Karryn, ¿verdad?",
-"Sra. Karryn, ¡déjeme contarle sobre mí...!",
-"Realmente no quiero hacer más cosas malas, de verdad.",
+"¿Cómo se llamaba? ah, sí, Sra. Karryn ¿Verdad?",
+"Sra. Karryn, ¡Déjeme contarle sobre mí...!",
+"No quiero hacer más cosas malas, de verdad.",
 
-"Dijiste esto ¿verdad? '¡¡Realmente estás siendo utilizado como un peón'!!",
-"¡Realmente viste a través de mí! ¡¡Eso es exactamente lo que está pasando!!",
-"Estaba muy sorprendido de lo correcto que tenías.",
+"¿Recuerdas lo que dijiste? ¡¡'Te están utilizando como a un peón'!!",
+"¡Fuiste capaz de ver a través de mi! ¡¡Eso es exactamente lo que",
+" está pasando!! Me quedé helado por como acertaste de lleno.",
 
-"Después de que dijiste eso... comencé a pensar.",
-"Y la verdad es que me dejé engañar por el carisma del ",
+"Después de que dijeras eso... comencé a pensar.",
+"Y la verdad es que me dejé engañar por el carisma del",
 "Capitán y me convertí completamente en su lacayo...",
 
-"El capitán nos habló a los internos.",
-"Y fue como escuchar el discurso de un político.",
+"El capitán nos habló a los reclusos.",
+"Y era como escuchar el discurso de un político.",
 "",
 
-"Cuando escuché su argumento, comencé a odiarme porque en ",
-"el pasado era un perdedor que seguía perdiendo contra todos......",
-"No sé qué era, pero este extraño sentimiento empezó a salir de mí.",
+"Cuando escuché su argumento, empecé a odiarme, porque en",
+"el pasado era un perdedor que no paraba de perder contra cualquiera...",
+"No sé qué era, pero una extraña sensación empezó a surgir en mí.",
 
-"¡¡Así que antes de darme cuenta, todos los reclusos que creíamos en las palabras",
-"del Capitán comenzamos a provocar disturbios por todas partes por alguna razón!!",
+"Y antes de que me diera cuenta, por alguna razón ¡¡Todos los reclusos que",
+"creíamos en el Capitán empezamos a amotinarnos por todas partes!!",
 "",
 
-"Pero la verdad es que hubo así...,",
-"¿Es esto realmente ~~~~ lo correcto? senti un poco eso ¿sabes?",
-"Lo había sentido de vez en cuando...",
+"Pero la verdad es que había un sentimiento de...,",
+"'¿Es esto reaaaalmente lo correcto?' ¿Me entiendes?",
+"Sentí exactamente eso de vez en cuando...",
 
-"Entonces Sra. Karryn,",
-"todo gracias a ti me desperté!!!",
-"OINK!!"
+"Así que Sra. Karryn,",
+"¡¡¡Es gracias a ti que me desperté!!!",
+"¡¡OINK!!"
 ]},
 
 "map13_ev32_p4_tonkin_7":{
 "text":[
-"Además, ¡¡eres realmente muy fuerte!!",
-"¡¡Y realmente amo a las chicas fuertes!!"
+"Además ¡¡Eres muy fuerte!!",
+"¡¡Y me gustan mucho mucho las chicas fuertes!!"
 ]},
 
 "map13_ev32_p4_karryn_4":{
 "text":[
-"(Cuando este cerdo va a dejar de ladrar .........)"
+"(¿Cuándo se va a callar la boca el cerdo este.........?)"
 ]},
 
 "map13_ev32_p4_tonkin_8":{
 "text":[
 "Mi cerebro no es muy bueno...",
-"¡¡Es por eso que si una chica inteligente y",
-"fuerte como tú fuera mi jefa, preferiría tener eso!!",
+"¡¡Es por eso que sería ideal si una chica inteligente y",
+"fuerte como tú fuera mi jefa!!",
 
-"Siento que si te sigo, ",
-"¡¡hasta un idiota como yo!!",
-"¡¡No necesitas hacer nada malo para ser feliz!!"
+"Creo que si te sigo,",
+"¡¡Incluso un idiota como yo!!",
+"¡¡Podría ser feliz sin hacer nada malo!!"
 ]},
 
 "map13_ev32_p4_karryn_5":{
 "text":[
-"Es un poco preocupante lo rápido que estás haciendo un 180 aquí.......",
-"Pero, bueno~... siempre y cuando reflexiones sobre tus acciones."
+"Es un poco preocupante lo rápido que has cambiado de bando.......",
+"Pero... Bueno~... Si has reflexionado sobre tus acciones...."
 ]},
 
 "map13_ev32_p4_karryn_6":{
 "text":[
-"¡Ahora bien, te mandaré una vez más!",
+"¡Está bien, te lo ordenaré una vez más!",
 "",
 "",
 
-"Limpiar todo lo que sea un obstáculo para el movimiento.",
-"Luego, tan pronto como hayas terminado con esa tarea, regresa a tu celda.",
-"Esto es para que no hagas más cosas malas."
+"Limpia cualquier obstáculo para el paso.",
+"Después, en cuanto hayas terminado con eso, regresa a tu celda.",
+"Para que así no hagas más cosas malas."
 ]},
 
 "map13_ev32_p4_tonkin_9":{
 "text":[
-"SI SEÑORA!! OINK!!!"
+"¡¡SI SEÑORA!! ¡¡¡OINK!!!"
 ]},
 
 "map13_ev32_p4_karryn_7":{
 "text":[
-"(¿Alguien puede darme un respiro aquí?",
-"......No tengo nada que ganar siendo el blanco del afecto de ",
-"un coeficiente intelectual tan bajo, cerdo verde.........)",
+"(¿Puede alguien darme un respiro?",
+"......No gano nada siendo el blanco del afecto de",
+"un cerdo verde con el CI tan bajo.........)",
 
-"(Siggghhh~......",
-"Mi vida sería mucho más fácil si Su Majestad Imperial ",
+"(Aaah~......",
+"Mi vida sería mucho más fácil si Su Majestad Imperial",
 "me mirara de la misma manera que me mira ese cerdo verde...)"
 ]},
 
 "map13_ev32_p4_karryn_8":{
 "text":[
-"Hm?",
-"Recibo una llamada de mi radio..."
+"¿Hm?",
+"Estoy recibiendo una llamada por la radio..."
 ]},
 
 "map13_ev32_p4_karryn_9":{
@@ -3222,78 +3222,78 @@
 
 "map13_ev32_p4_yasu_1":{
 "text":[
-"¡Este es el subdirector Yasu!",
-"¡¡Buen trabajo reformando Tonkin con éxito!!",
-"¡Eres realmente tan bueno como dice tu reputación!",
+"¡Aquí el subdirector Yasu!",
+"¡¡Buen trabajo reeducando a Tonkin con éxito!!",
+"¡Eres tan buena como dicen!",
 
-"Todos los reclusos que se amotinaron en el Nivel 1 ",
+"Todos los reclusos que se amotinaron en el Nivel 1",
 "han regresado a sus celdas.",
 "",
 
-"¡El nivel 1 ahora está \\C[3]'Subyugado'\\C[0] con éxito!",
+"¡El nivel 1 ha sido \\C[3]'Subyugado'\\C[0] con éxito!",
 "Gracias por tu arduo trabajo, cambio."
 ]},
 
 "map13_ev32_p4_karryn_10":{
 "text":[
 "Bien.",
-"Así que a continuación voy a subyugar el siguiente piso, que es el Nivel 2.",
+"A continuación voy a subyugar el siguiente piso, el Nivel 2.",
 "cambio."
 ]},
 
 "map13_ev32_p4_yasu_2":{
 "text":[
 "Entendido. Sin embargo, hay que tener mucho cuidado.",
-"No sabemos si un disturbio podría estallar ",
-"nuevamente en el Nivel 1, cambio"
+"No sabemos si los presos pueden amotinarse",
+"nuevamente en el Nivel 1 o cuando lo harán, cambio"
 ]},
 
 "map13_ev32_p4_karryn_11":{
 "text":[
-"Puede que tengas razón, estamos hablando de estos reclusos aquí...",
-"En otras palabras, \\C[4]existe la posibilidad de que ",
-"estalle un motín en un nivel que ha sido subyugado......\\C[0] cambio."
+"Puede que tengas razón, al final estos reclusos son como son...",
+"En otras palabras, \\C[4]existe la posibilidad de que",
+"estalle un motín en un nivel que ha sido subyugado...\\C[0] Cambio."
 ]},
 
 "map13_ev32_p4_yasu_3":{
 "text":[
-"Exactamente. Es posible que tengas que promulgar ciertos \\C[3]Decretos\\C[0] ",
-"si quieres mantener la posibilidad de que estallen disturbios en niveles ",
+"Exactamente. Es posible que tengas que promulgar ciertos \\C[3]Decretos\\C[0]",
+"si quieres mantener la posibilidad de que estallen disturbios en niveles",
 "subyugados lo más baja posible......",
 
-"Como su subjefe, le recomiendo encarecidamente ",
-"que posponga el nivel 2 para mañana y descanse ",
+"Como su Director Adjunto, le recomiendo encarecidamente",
+"que posponga el Nivel 2 para mañana y descanse",
 "en su oficina por hoy. cambio"
 ]},
 
 "map13_ev32_p4_karryn_12":{
 "text":[
 "Entendido.",
-"Entonces regresaré a mi oficina. Cambio y fuera."
+"Regresaré a mi oficina. Cambio y fuera."
 ]},
 
 "map13_ev32_p4_karryn_13":{
 "text":[
-"(Así que por ahora este es el final de un capítulo...",
+"(De momento este es el final de un capítulo...",
 "Las cosas van bastante bien.",
 "Quizás termine este trabajo antes de lo que esperaba.)"
 ]},
 
 "map13_ev32_p4_karryn_14":{
 "text":[
-"(Aún así, no puedo dejar de pensar en el recluso ",
+"(Aún así, no puedo dejar de pensar en el recluso",
 "del que hablaba ese cerdo verde.......)",
 "",
 
-"(Un criminal diabólico que también es carismático....... ",
-"Y se conoce como \"El capitán\"?",
+"(Un criminal diabólico y carismático....... ",
+"Y se hace llamar \"El capitán\"?",
 "Hmmm, ¿Quién podría ser esta persona?)"
 ]},
 
 "map13_ev32_p4_karryn_15":{
 "text":[
-"Bueno, de todos modos, ya terminé por hoy......",
-"Extraño mi querida bañera en casa...............)"
+"Bueno, de todos modos, ya he acabado por hoy......",
+"Echo de menos mi bañera en casa...............)"
 ]},
 
 "map15_ev1_can_not_enter_next_room_name":{
@@ -3302,7 +3302,7 @@
 ]},
 "map15_ev2_can_not_enter_next_room_name":{
 "text":[
-"El bar"
+"el bar"
 ]},
 "map15_ev4_can_not_enter_next_room_name":{
 "text":[
@@ -3318,139 +3318,139 @@
 ]},
 
 "map15_ev26_tachiename_1":{
-"text":["Prisionero Excitado"]},
+"text":["Prisionero Emocionado"]},
 "map15_ev26_p1_1":{
 "text":[
-"Escuché que la Directora obtiene un título especial ",
-"si pierde su primer beso en la polla de alguien."
+"Escuché que la Directora obtiene un título especial",
+"si da su primer beso a la polla de alguien."
 ]},
 "map15_ev26_p1_2":{
 "text":[
-"Hehehe."
+"Jejeje."
 ]},
 
 "map15_ev27_tachiename_1":{
-"text":["Excited Thug"]},
+"text":["Matón Emocionado"]},
 "map15_ev27_p1_1":{
 "text":[
-"Hehehehe.",
+"Jejejeje.",
 "Dios, lo que daría por ser ese hombre."
 ]},
 "map15_ev27_p1_2":{
 "text":[
-"Hehehehe. "
+"Jejejejeje."
 ]},
 
 "map15_ev28_tachiename_1":{
-"text":["Confiable? Guardia"]},
+"text":["Guardia de Confianza (?)"]},
 "map15_ev28_p1_1":{
 "text":[
-"¡Señorita Karryn! No te preocupes,",
-"¡Ningún recluso se volverá loco en este nivel bajo nuestra supervisión!"
+"¡Señorita Karryn! No te preocupes",
+"¡Ningún recluso hará ninguna locura en este nivel bajo nuestra supervisión!"
 ]},
 "map15_ev28_p2_1":{
 "text":[
-"¡Señorita Karryn! No te preocupes,",
-"¡Ningún recluso se volverá loco pasando este punto bajo nuestra vigilancia!"
+"¡Señorita Karryn! No te preocupes. Pasado este punto",
+"¡Ningún recluso hará ninguna locura bajo nuestra supervisión!"
 ]},
 
 "map15_ev29_tachiename_1":{
-"text":["Guardia veterano"]},
+"text":["Guardia Veterano"]},
 "map15_ev29_p1_1":{
 "text":[
-"Una palabra de precaución, señorita directora.",
-"Instalaciones como el taller y la lavandería deberán repararse ",
-"después de cada disturbio antes de que puedan volver a funcionar."
+"Una advertencia, señorita directora.",
+"Instalaciones como el taller y la lavandería deberán repararse",
+"después de cada motín antes de que puedan volver a funcionar."
 ]},
 "map15_ev29_p1_2a":{
 "text":[
-"Si tan solo hubiera una manera de comprarles un seguro...",
-"Entonces tal vez la prisión no tendría que gastar ",
+"Si tan solo pudiéramos contratar un seguro...",
+"Quizá la prisión no tendría que gastar",
 "fondos para repararlos después de cada motín."
 ]},
 "map15_ev29_p1_2b":{
 "text":[
-"Sin embargo, si contratas un seguro para cada habitación, ",
-"la compañía de seguros pagará automáticamente todos los ",
+"Sin embargo, si contratas un seguro para cada habitación",
+"la compañía de seguros pagará automáticamente todos los",
 "daños y los reparará por ti.",
-"Aunque contratar un seguro es caro, puede que valga la pena a ",
-"largo plazo, especialmente si hay disturbios frecuentes."
+"Aunque contratar un seguro es caro, puede que valga la pena a",
+"largo plazo, especialmente si hay motines frecuentemente."
 ]},
 
 "map15_ev30_tachiename_1":{
 "text":["Goblin travieso"]},
 "map15_ev30_p1_1":{
 "text":[
-"No molesto GOBLIN!",
-"GOBLIN ocupado oliendo GUARDIANA"
+"¡No molestar a GOBLIN!",
+"¡GOBLIN ocupado, molesta a GUARDIA"
 ]},
 "map15_ev30_tachiename_2":{
-"text":["Goblin degradado"]},
+"text":["Goblin Humillado"]},
 "map15_ev30_p2_1":{
 "text":[
-"Grrr! GRRR!!",
-"Goblin no ROEDOR!",
-"¡Goblin golpear fuerte gordo de KARRYN!!"
+"¡Grrr! ¡GRRR!!",
+"¡Goblin no ROEDOR!",
+"¡¡Goblin puñeteará gorda KARRYN!!"
 ]},
 "map15_ev30_tachiename_3":{
-"text":["Gob cebado"]},
+"text":["Goblin Engañado"]},
 "map15_ev30_p3_1":{
 "text":[
 "¡No molestes a GOBLIN!",
-"¡Goblin ocupado planea próximo ",
-"movimiento para caliente KARRYN!"
+"¡Goblin ocupado planeando",
+"que hacer a sexy KARRYN!"
 ]},
 
 "map15_ev31_tachiename_1":{
-"text":["Matón llamativo"]},
+"text":["Matón Huelguista"]},
 "map15_ev31_p1_1":{
 "text":[
-"¡¿Qué queremos?!",
+"¡¿Qué es lo que queremos?!",
 "",
 "",
-"Así es!",
-"MEJOR PAGA!!",
-"MEJORES HORAS!!",
+"¡Así es!",
+"¡¡MEJORES SUELDOS!!",
+"¡¡MEJORES HORARIOS!!",
 "¡¡Y no trabajaremos más hasta conseguirlo!!"
 ]},
 
 "map15_ev33_tachiename_2":{
-"text":["Matón emocionado en el descanso"]},
+"text":["Matón Emocionado en un Descanso"]},
 "map15_ev33_p2_1":{
 "text":[
 "Por supuesto, amigo.",
-"Dios, no puedo esperar hasta que termine mi turno, huhuhu."
+"Dios, no puedo esperar hasta que termine mi turno, jujuju."
 ]},
 
 "map15_ev34_tachiename_1":{
-"text":["Matón llamativo"]},
+"text":["Matón Huelguista"]},
 "map15_ev34_p1_1":{
 "text":[
-"\\{MEJOR PAGO!",
-"MEJORES HORAS!"
+"\\{¡MEJORES SUELDOS!",
+"¡MEJORES HORARIOS!"
 ]},
 "map15_ev34_tachiename_2":{
-"text":["Matón emocionado en el descanso"]},
+"text":["Matón Emocionado en un Descanso"]},
 "map15_ev34_p2_1":{
 "text":[
-"Heh heh heh.",
-"¿Escuchaste cómo respondió la oficina del director a nuestra huelga?"
+"Je je je.",
+"¿Te has enterado de como ha respondido la dirección a nuestra huelga?"
 ]},
 
 "map17_ev1_p1_1":{
 "text":[
-"La puerta del Centro de Visitantes no se puede ",
-"abrir porque está bloqueada del otro lado."
+"La puerta del Centro de Visitantes no se puede",
+"abrir porque está bloqueada por el otro lado."
 ]},
 
 "map17_ev13_tachiename_emperor":{
-"text":["\\C[2]Hombre de aspecto majestuoso"]},
+"text":["\\C[2]Hombre de Aspecto Majestuoso"]},
 "map17_ev13_tachiename_karryn":{
-"text":["\\C[5]Asistente femenina"]},
+"text":["\\C[5]Asistente Femenina"]},
 "map17_ev13_tachiename_yasu":{
-"text":["\\C[6]Hombre uniformado"]},
+"text":["\\C[6]Hombre Uniformado"]},
 "map17_ev13_tachiename_tonkin":{
-"text":["\\C[29]Prisionero orco"]},
+"text":["\\C[29]Prisionero Orco"]},
 
 "map17_ev13_p1_emperor_1":{
 "text":[
@@ -3460,33 +3460,33 @@
 "map17_ev13_p1_karryn_1":{
 "text":[
 "Sí, Su Majestad Imperial...",
-"Esta es la infame prisión donde los ex reclusos se refieren a ella como su paraíso...",
+"Esta es la infame prisión cuyos ex-reclusos definen como un paraíso... ",
 "\\C[4]Fuerte Ganon\\C[0]."
 ]},
 
 "map17_ev13_p1_karryn_2":{
 "text":[
 "Según mis fuentes, este lugar es como un hotel de cinco estrellas para ",
-"los reclusos donde no les importa pasar el resto de sus vidas dentro...",
+"los reclusos. A los que no les importa pasar el resto de sus vidas dentro...",
 "",
 
 "Y según los informes, hay personas que cometen delitos menores sólo para",
-"ser arrojadas aquí... y esta instalación es constantemente clasificada como ",
-"el peor lugar posible para que cualquiera pueda ser rehabilitado....",
+"ser arrojadas aquí... Esta instalación es constantemente clasificada como ",
+"el peor lugar posible para ser rehabilitado....",
 
-"En resumen, este lugar no funciona de ninguna ",
+"En resumen, este lugar no está funcionando de ninguna",
 "manera como una prisión en este momento."
 ]},
 
 "map17_ev13_p1_karryn_3":{
 "text":[
-"Éste es un caso clásico de defraudación al tesoro imperial.",
+"Esto es un caso de libro de fraude a la tesorería imperial.",
 "Este lugar es... la vergüenza de nuestro imperio."
 ]},
 
 "map17_ev13_p1_emperor_2":{
 "text":[
-"Hahaha. Tus valoraciones son duras como siempre, \\C[5]Karryn\\C[0]."
+"Jajaja. Tus valoraciones son duras como siempre, \\C[5]Karryn\\C[0]."
 ]},
 
 "map17_ev13_p1_karryn_4":{
@@ -3495,8 +3495,8 @@
 "¡Esto no es cosa de risa!",
 "",
 
-"¡Si dejamos este lugar en paz, afectará el prestigio y la integridad de nuestro",
-"gran imperio! ¡¡Debemos erradicar todas las fuentes de corrupción, con raíz y todo!!"
+"¡Si dejamos este lugar así, afectará al prestigio e integridad de nuestro",
+"gran imperio! ¡¡Debemos erradicar todas las fuentes de corrupción!!"
 ]},
 
 "map17_ev13_p1_emperor_3":{
@@ -3505,14 +3505,14 @@
 "Como dijiste, esto no es motivo de risa.",
 "",
 
-"Una prisión donde los criminales la tratan como su casa de verano",
-"favorita no es una prisión que deba dejar en pie en el imperio."
+"Una prisión que los criminales tratan como su casa de verano",
+"favorita, no es una prisión que deba dejar en pie en el imperio."
 ]},
 
 "map17_ev13_p1_karryn_5":{
 "text":[
 "S-Su Majestad Imperial, no es necesario que se disculpe conmigo.",
-"Es un honor para mí que compartas los mismos sentimientos que yo."
+"Es un honor que compartamos el mismo sentimiento."
 ]},
 
 "map17_ev13_p1_yasu_1":{
@@ -3521,8 +3521,8 @@
 "",
 "",
 
-"¡Su humilde servidor tiene el honor de que Su Majestad Imperial venga ",
-"desde la capital imperial para honrar las tierras fronterizas con su presencia!"
+"¡Su humilde servidor se siente honrado de que Su Majestad Imperial venga ",
+"desde la capital imperial para agraciar las tierras fronterizas con su presencia!"
 ]},
 
 "map17_ev13_p1_emperor_4":{
@@ -3533,8 +3533,8 @@
 
 "map17_ev13_p1_yasu_2":{
 "text":[
-"Eso es correcto, Su Majestad Imperial...",
-"Si me permite presentarme Su Excelencia, ",
+"Así es, Su Majestad Imperial...",
+"Si me permite presentarme, Su Excelencia, ",
 "mi nombre es \\C[6]Yasu\\C[0]."
 ]},
 
@@ -3545,73 +3545,73 @@
 
 "map17_ev13_p1_karryn_6":{
 "text":[
-"Chief Warden... Yasu..."
+"Director... Yasu..."
 ]},
 
 "map17_ev13_p1_karryn_7":{
 "text":[
-"Su Majestad Imperial, este es el indicado.",
-"Él es quien me envió un mensaje anoche para pedir su presencia aquí..."
+"Su Majestad Imperial, esta persona es quien.",
+"me envió un mensaje anoche requiriendo su presencia aquí..."
 ]},
 
 "map17_ev13_p1_yasu_4":{
 "text":[
-"Ooohhh......?!",
-"Tu eres...... Señorita Karryn!!",
+"¡¿Ooohhh......?!",
+"Tu eres...... La Señorita Karryn!!",
 "",
 
-"La secretaria personal de Su Majestad Imperial con muchas hazañas logradas...",
-"He leído todo sobre ti en todos los constantes artículos y entrevistas sobre ti.",
+"La secretaria personal de Su Majestad Imperial, conocida por sus grandes hazañas...",
+"He leído todo sobre ti en los artículos y entrevistas que hacen acerca de ti.",
 "Y pensar que todavía eres tan joven, eres una inspiración para todos nosotros..."
 ]},
 
 "map17_ev13_p1_yasu_5":{
 "text":[
 "Y además, guau, eres tan...",
-"Gul...... p......"
+"*Traga saliva*......"
 ]},
 
 "map17_ev13_p1_yasu_6":{
 "text":[
 "Las fotos de los periódicos... no hacían justicia a tu belleza...",
-"Y ese... pecho... ...Dicen que las fotos añaden peso a una persona...",
-"Pero obviamente es lo contrario en este caso, kuhuhuhu...",
+"Y ese... pecho... ...Dicen que las fotos hacen a la gente parecer gorda...",
+"Pero se ve que es lo contrario en este caso, kujujuju...",
 
 "Debe ser una carga enorme llevar todo ese peso en tu cuerpo. ",
 "Por otro lado, tal vez así es como subiste de rango tan rápido...",
 "",
 
 "Estoy empezando a pensar que usaste algo más que tu cerebro ",
-"y tu alabarda cuando trabajaste con otros hombres..."
+"y tu alabarda cuando trabajabas con más hombres..."
 ]},
 
 "map17_ev13_p1_karryn_8":{
 "text":[
-"WHA?!",
-"...¡¡Cómo te atreves a comportarte como un perro común delante de Su Majestad Imperial...!! ",
-"Conoce tu lugar, insolente plebeyo!"
+"¡¿Qu-?!",
+"...¡¡Cómo te atreves a comportarte como un chucho delante de Su Majestad Imperial...!! ",
+"¡Conoce tu lugar, plebeyo paleto!"
 ]},
 
 "map17_ev13_p1_yasu_7":{
 "text":[
-"Oh oh oh..., Por favor disculpame!",
-"Por favor, perdona a tu un leal servidor..."
+"Oh oh oh... ¡Por favor discúlpeme!",
+"Por favor, perdone a su servidor más leal..."
 ]},
 
 "map17_ev13_p1_emperor_5":{
 "text":[
 "Fufu... Yasu. No deberías subestimar a Karryn.",
-"Ella es la secretaria más talentosa y excelente del Imperio Zanados."
+"Es la secretaria más talentosa y excelente del Imperio Zanados."
 ]},
 
 "map17_ev13_p1_karryn_9":{
 "text":[
-"(Your Imperial Majesty.........)"
+"(Su Majestad Imperial.........)"
 ]},
 
 "map17_ev13_p1_karryn_10":{
 "text":[
-"Cough, ahem.",
+"*cof*, ejem.",
 "¡Ya basta de hablar de mí y de mis humildes talentos!"
 ]},
 
@@ -3625,38 +3625,38 @@
 "map17_ev13_p1_yasu_8":{
 "text":[
 "Bueno...",
-"Lo mantendré breve."
+"Seré breve."
 ]},
 
 "map17_ev13_p1_yasu_9":{
 "text":[
-"Actualmente, hay un rumor extremadamente desagradable que circula dentro de Fuerte Ganon...",
+"Actualmente, hay un rumor extremadamente desagradable circulando por el Fuerte Ganon...",
 "",
 "",
 
-"Y el contenido de ese rumor es que los",
-"reclusos están tramando un complot."
+"Y ese rumor es",
+"que los reclusos están tramando algo."
 ]},
 
 "map17_ev13_p1_karryn_12":{
 "text":[
-"Aquí me preguntaba que era lo que querias hablar.... Estoy asombrada......",
-"Esto me confirma que eres un Alcaide terrible....",
-"Qué descarado admitir a tus propias deficiencias."
+"Y yo preguntándome que era lo que querias contar.... Me dejas asombrada......",
+"Esto me confirma que eres un Director terrible....",
+"Qué poca verguenza admitir tus propias carencias."
 ]},
 
 "map17_ev13_p1_emperor_6":{
 "text":[
 "Hmmm.........",
-"Entonces los prisioneros aquí están planeando un golpe de estado...",
-"Parece que no podemos dejar este asunto como está.",
+"Entonces los prisioneros están planeando un golpe...",
+"Parece que no podemos dejar este asunto tal y como está.",
 
 "Karryn.",
-"Debe tener una razón para pedirme que venga aquí.",
+"Debe tener una razón para haberme pedido que venga aquí.",
 "",
 
 "Yasu, puedes continuar.",
-"Cuéntenos más sobre la situación actual aquí."
+"Cuéntenos más sobre la situación en este lugar."
 ]},
 
 "map17_ev13_p1_yasu_10":{
@@ -3665,26 +3665,26 @@
 "",
 "",
 
-"Hay tres pisos subterráneos en este fuerte y en el piso más bajo,  ",
+"Hay tres pisos subterráneos en este fuerte, y en el piso más bajo,  ",
 "que se llama Nivel 5, reside cierto criminal diabólico.",
 "",
 
-"Aparentemente, ese criminal es el cabecilla que toma las ",
-"decisiones y da órdenes a todos los demás reclusos.",
+"Aparentemente, ese criminal es el cabecilla que toma las",
+"decisiones y da órdenes a los demás reclusos.",
 "",
 
-"Según la información recogida por los guardias,",
+"Según la información obtenida por los guardias,",
 "el objetivo final del cabecilla es...",
 "Tomar el control del Imperio Zanados..."
 ]},
 
 "map17_ev13_p1_emperor_7":{
 "text":[
-"......I see.",
-"Te agradezco tu informe.",
+"......Ya veo.",
+"Agradezco tu informe.",
 "",
 
-"Ahora, debemos actuar rápido y contundentes.",
+"Bien, debemos actuar rápido y con firmeza.",
 "Harás cumplir normas más estrictas dentro de la prisión",
 "y detendrás las maquinaciones de los conspiradores."
 ]},
@@ -3700,89 +3700,89 @@
 
 "map17_ev13_p1_emperor_8":{
 "text":[
-"No te preocupes, habla.",
-"Tengo la intención de proporcionar todo el apoyo y los arreglos necesarios."
+"No se preocupe, hable.",
+"Tengo la intención de proporcionar todo el apoyo necesario."
 ]},
 
 "map17_ev13_p1_emperor_9":{
 "text":[
-"Si hay algo que te falta, ",
-"mantente firme e infórmamelo."
+"Si hay algo que te falte, ",
+"mantente firme y dímelo."
 ]},
 
 "map17_ev13_p1_karryn_13":{
 "text":[
-"¡¿Qué fue eso?!"
+"¡¿Qué ha sido eso?!"
 ]},
 
 "map17_ev13_p1_yasu_12":{
 "text":[
 "No puede ser...",
-"¡¿Lo que me preocupaba ya está sucediendo...?!"
+"¡¿Ya ha comenzado...?!"
 ]},
 
 
 "map17_ev13_p3_emperor_1":{
 "text":[
-"¡¿Lo que está sucediendo?!"
+"¡¿Qué está sucediendo?!"
 ]},
 
 "map17_ev13_p3_guard_1":{
 "text":[
-"¡Director Yasu...! ¡¡Tengo un informe urgente!!",
-"Los reclusos... ¡¡los reclusos se han amotinado!!"
+"¡Director Yasu...! ¡¡Tenemos una emergencia!!",
+"Los reclusos... ¡¡Los reclusos se han amotinado!!"
 ]},
 
 "map17_ev13_p3_guard_2":{
 "text":[
-"¡Todos los reclusos han unido fuerzas para provocar una insurrección dentro de la prisión! ",
+"¡Todos los reclusos han unido fuerzas para provocar una insurrección en la prisión! ",
 "¡Ya han abrumado a los guardias y ahora mismo estamos en un estado de anarquía!"
 ]},
 
 "map17_ev13_p3_yasu_1":{
 "text":[
-"Oh no, oh no no no...... ¿Cómo pudo haber sucedido esto bajo mi mando?......"
+"Oh no, oh no no no... ¿Cómo ha podido suceder esto bajo mi supervisión?......"
 ]},
 
 "map17_ev13_p3_karryn_1":{
 "text":[
-"¡¿Acaso cada uno de tus subordinados son completamente incompetentes?!",
-"No puedo creer que todos esos rumores acerca de que los guardias de ",
-"Fuerte Ganon no podían controlar a sus prisioneros resultaran ser ciertos...",
+"¡¿Sois así de incompetentes todos los que trabajais aquí?!",
+"No puedo creer que todos esos rumores acerca de que los guardias del ",
+"Fuerte Ganon no podían controlar a sus reclusos resultaran ser ciertos...",
 
-"En una prision fortaleza del Imperio? HAH!",
-"¡¡Solo son inutiles hackers y cabrones sin talento!!"
+"¿Una prisión imperial? ¡JÁ!",
+"¡¡Más bien una reunión de idiotas sin talento!!"
 ]},
 
 "map17_ev13_p3_guard_3":{
 "text":[
-"¡¡Ay dios mío!! Su Majestad Imperial el Emperador...",
-"¿Y la famosa y bella secretaria, la señorita Karryn?",
-"Esta es la primera vez que los veo en persona..."
+"¡¡Oh Dios mío!! Su Majestad Imperial...",
+"¡¿Y la famosa y bella secretaria, la señorita Karryn?!",
+"Es la primera vez que les veo en persona..."
 ]},
 
 "map17_ev13_p3_prisoner_1":{
 "text":[
-"Uhehehehe!!",
+"¡¡Ujejejehe!!",
 "¡A partir de hoy, esta prisión es nuestro fuerte~!",
-"¡¡¡NO TENEMOS MIEDO DE NINGÚN IMPERIO!!!"
+"¡¡¡NO LE TENEMOS MIEDO A NIGÚN PUTO IMPERIO!!!"
 ]},
 
 "map17_ev13_p3_prisoner_2":{
 "text":[
-"aplastemos todo WAAAAAAGGGG!!"
+"¡¡Vamos a reventar todOoOoOoo!!"
 ]},
 
 "map17_ev13_p3_yasu_2":{
 "text":[
-"H-HEY! Guardia!!",
-"¡¡Haz algo sobre esta situación!!"
+"¡Oye! ¡¡Guardia!!",
+"¡¡Haz algo!!"
 ]},
 
 "map17_ev13_p3_guard_4":{
 "text":[
-"Pero que......?!",
-"¿Por qué no haces algo primero, Director Yasu?"
+"¡¿Pero qué......?!",
+"¡¡Por qué no haces algo tú primero, Director Yasu!!"
 ]},
 
 "map17_ev13_p3_karryn_2":{
@@ -3792,20 +3792,20 @@
 
 "map17_ev13_p3_tonkin_1":{
 "text":[
-"Buhuhuhu......"
+"Bujujuju......"
 ]},
 
 "map17_ev13_p3_emperor_2":{
 "text":[
-"HM?!",
-"¿Este monstruo también es un preso aquí?"
+"¡¿HM?!",
+"¿Este monstruo también es un preso?"
 ]},
 
 "map17_ev13_p3_yasu_3":{
 "text":[
-"Si... El es uno, pero......",
-"Ya que él está saliendo por la entrada, ",
-"esto debe significar......!"
+"Si... , pero......",
+"Como está saliendo por la puerta, ",
+"¡Esto significa......!"
 ]},
 
 "map17_ev13_p3_karryn_3":{
@@ -3815,42 +3815,42 @@
 
 "map17_ev13_p3_tonkin_2":{
 "text":[
-"EscapandoWiiiggg?",
-"No te preocupes, no voy a hacer esa mierda...",
-"No es necesario, ya ves..."
+"¿Escapando?",
+"No te preocupes, no voy a hacer eso...",
+"Más que nada, no hace falta porque..."
 ]},
 
 "map17_ev13_p3_tonkin_3":{
 "text":[
-"¡PORQUE EMPEZANDO AHORA MISMO!",
-"¡EL EMPERADOR DE ALLÍ VA A PERDER LA PUTA CABEZA!!",
-"¡¡¡Y luego, esta fortaleza será NUESTRO CASTILLO ---!!!"
+"¡PORQUE AHORA MISMO!",
+"¡¡EL EMPERADOR VA A PERDER LA PUTA CABEZA!!",
+"¡¡¡Y después, esta fortaleza será NUESTRO CASTILLO ---!!!"
 ]},
 
 "map17_ev13_p3_yasu_4":{
 "text":[
-"Guoof?!?"
+"¿¡¿UUGH?!?"
 ]},
 
 "map17_ev13_p3_guard_5":{
 "text":[
-"Eeeep?!!",
+"¡¡¿Aaaaa?!!",
 "¡¡El Director Yasu ha caído!!"
 ]},
 
 "map17_ev13_p3_guard_6":{
 "text":[
-"El que no corrio, se murioo~~~~~~~~~~~~~!!!!"
+"¡¡¡¡Sálvese quien pueda~~~~~~~~~~~~~!!!!"
 ]},
 
 "map17_ev13_p3_tonkin_4":{
 "text":[
-"Eres el siguiente en la fila... tu maldita majestad real......."
+"Eres el siguiente... su puta majestad imperial......."
 ]},
 
 "map17_ev13_p3_tonkin_5":{
 "text":[
-"\\{MUEREEEEEEEEE!!!!"
+"\\{¡¡¡¡QUE TE JODAN!!!!"
 ]},
 
 "map17_ev13_p3_karryn_4":{
@@ -3860,46 +3860,46 @@
 
 "map17_ev13_p3_tonkin_6":{
 "text":[
-"......Uh...... HUH?!"
+"......Uh...... ¡¿EH?!"
 ]},
 
 "map17_ev13_p3_karryn_5":{
 "text":[
 "¿No me reconoces?",
-"Que cerdo más ignorante......"
+"Qué cerdo más estúpido......"
 ]},
 
 "map17_ev13_p3_tonkin_7":{
 "text":[
-"Yo-yo-yo-no sé quién eres......!",
-"¿No eres sólo una concubina con enormes tetas?"
+"¡N-n-n-no sé quien eres......!",
+"¿No eres una amante con una tetazas enormes?"
 ]},
 
 
 "map17_ev13_p4_karryn_1":{
 "text":[
-"Esta es exactamente la razón por la que odio a los tipos vulgares y deformes como tú..."
+"Es por esto que odio a los tios vulgares y endogámicos como tú..."
 ]},
 
 "map17_ev13_p4_karryn_2":{
 "text":[
-"Sin embargo, en este punto, ",
-"¡realmente no importa si sabes quién soy!",
+"Sin embargo ¡Llegados ya a este punto, ",
+"No importa si sabes quién soy!",
 "",
 
-"Más escandaloso que eso !!",
-"¡¡¡Es esa idea que tienes dentro de tu cabeza la que te hace creer que puedes salir ",
-"vivo de esto después de intentar dañar a Su Majestad Imperial el Emperador!!!!!"
+"¡¡Lo que si importa es esa idea estúpida que tienes en la cabeza!!",
+"¡¡¡Te crees que puedes salir vivo de esta, tras intentar",
+"hacer daño a Su Majestad Imperial!!!"
 ]},
 
 "map17_ev13_p4_tonkin_1":{
 "text":[
-"OINNNK!!!!?!?!?!??!"
+"¡¿¿¡¿¡¿¡¿¡¡¡¡OINNNK!!!!?!?!?!??!"
 ]},
 
 "map17_ev13_p4_tonkin_2":{
 "text":[
-"OOIINNK?!!!!!!?!?!??!"
+"¡¿¿¡¿¡¿¡¡¡¡¡¡OOIINNK?!!!!!!?!?!??!"
 ]},
 
 "map17_ev13_p4_tonkin_3":{
@@ -3909,53 +3909,53 @@
 
 "map17_ev13_p4_karryn_3":{
 "text":[
-"Que patetico...",
-"¿Qué pasó con toda esa energía antes?"
+"Qué patético...",
+"¿Qué ha pasado con toda esa energía que tenías?"
 ]},
 
 "map17_ev13_p4_tonkin_4":{
 "text":[
-"......Yo... Ahora lo recuerdo...",
-"Esas técnicas de alabarda y ese cuerpazo caliente......",
+"......Ah... ahora me recuerdo...",
+"Esa técnica con la alabarda y ese cuerpazo......",
 "",
 
-"Eres Karryn la secretaria imperial......",
-"La mujer que es famosa por aferrarse al emperador como una puta...",
+"Eres Karryn, la Secretaria Imperial......",
+"La mujer famosa por aferrarse al emperador como una puta...",
 "",
 
-"Y también por tener enormes músculos y cerebro, ",
-"y es el guardaespaldas más fuerte del emperador...",
+"Y también por tener una gran fuerza e inteligencia, ",
+"y que además es la guardaespaldas más fuerte del emperador...",
 "",
 
 "Maldita sea....",
-"Si hubiera sabido eso antes, entonces no habría atacado ciegamente..."
+"Si hubiera sabido esto antes, no habría atacado a ciegas..."
 ]},
 
 "map17_ev13_p4_karryn_4":{
 "text":[
 "Oh sigues vivo",
-"¿No eres un cerdito duro?"
+"Mira que cerdito más resistente"
 ]},
 
 "map17_ev13_p4_tonkin_5":{
 "text":[
-"¿Por qué no TE CALLAS LA PUTA BOCA? ¡¡PERDEDOR!!",
-"¡Recordaré esto, maldita PERRAAAAAA !!!",
-"Algún día te haré chillar como una cerda.~~~!!!",
+"¿Por qué no TE CALLAS LA PUTA BOCA? ¡¡PERDEDORA!!",
+"¡¡¡Esta me la guardo, pedazo de PUTAAAAAA !!!",
+"¡¡¡Algún día te haré chillar como una cerda.~~~!!!",
 
-"\\{\\{ESTÚPIDA PERDEDORA~~~~!!!!"
+"\\{\\{¡¡¡¡ESTÚPIDA PERDEDORA~~~~!!!!"
 ]},
 
 "map17_ev13_p4_karryn_5":{
 "text":[
-"Simplemente volvió corriendo a la prisión a pesar ",
+"Ha vuelto corriendo a la prisión a pesar ",
 "de que podría haber escapado de este lugar.......",
-"¿Estos prisioneros realmente prefieren vivir en este lugar......?"
+"¿De verdad que estos reclusos prefieren vivir aquí......?"
 ]},
 
 "map17_ev13_p4_karryn_6":{
 "text":[
-"......Bueno lo que sea.",
+"......Bueno, no importa.",
 "Más importante......"
 ]},
 
@@ -3984,7 +3984,7 @@
 
 "map17_ev13_p5_emperor_1":{
 "text":[
-"Yasu! Entonces estás bien!!"
+"¡Yasu! ¡¡Estás bien!!"
 ]},
 
 "map17_ev13_p5_yasu_2":{
@@ -3995,62 +3995,62 @@
 
 "map17_ev13_p5_karryn_1":{
 "text":[
-"Su Majestad Imperial, no hay necesidad de preocuparse por ese hombre de allí. ",
-"Por lo que vi, fue solo un golpe ligero en el cuerpo.",
+"Su Majestad Imperial, no hay necesidad de preocuparse por ese hombre. ",
+"Por lo que vi, fue solo un golpe ligero al cuerpo.",
 "No debería ser más que un rasguño."
 ]},
 
 "map17_ev13_p5_emperor_2":{
 "text":[
-"I see.........",
-"De todos modos, las cosas se han vuelto mucho más complicadas, ¿no?"
+"Ya veo.........",
+"De todos modos, las cosas se han vuelto mucho más complicadas ¿No?"
 ]},
 
 "map17_ev13_p5_yasu_3":{
 "text":[
-"Lo siento sinceramente, todo esto se",
+"Sinceramente, lo siento mucho. Todo esto se",
 "debe a mi falta de supervisión......."
 ]},
 
 "map17_ev13_p5_karryn_2":{
 "text":[
-"¡Por supuesto que es!",
-"......santo cielo...... ",
-"No puedo creer que su negligencia casi ponga en peligro a Su Majestad Imperial......"
+"¡Pues claro!",
+"......Santo cielo...... ",
+"No puedo creer que tu negligencia casi ponga en peligro a Su Majestad Imperial..."
 ]},
 
 "map17_ev13_p5_emperor_3":{
 "text":[
 "Yasu.",
-"Desafortunadamente, a partir de hoy, te pediré que dejes de ser el director jefe.",
+"Desafortunadamente, a partir de hoy, dejarás de ser el director.",
 "",
 
-"No debería poder discutir esta decisión con lo que está sucediendo ahora mismo.",
-"Antes de que la situación aquí se deteriorara así, deberías haberte esforzado ",
-"en solucionar todos los problemas y fallas dentro de este fuerte."
+"Con todo lo que está sucediendo, no es algo que puedas discutir.",
+"Antes de que la situación se deteriorara así, deberías haberte",
+"esforzado en solucionar todos los problemas de este fuerte."
 ]},
 
 "map17_ev13_p5_yasu_4":{
 "text":[
-"Sí, Su Majestad Imperial. No habrá argumentos por mi parte......",
-"No tengo palabras para defenderme a estas alturas.",
-"Tu leal servidor obedecerá tus órdenes.......",
+"Sí, Su Majestad Imperial. No voy a discutírselo......",
+"No tengo excusas para defenderme a estas alturas.",
+"Su leal servidor obedecerá sus órdenes.......",
 
-"Sin embargo, para preservar lo que queda de la ley y el orden en ",
-"esta prisión, es necesario que haya un nuevo director jefe....",
+"Sin embargo, para preservar lo que queda de ley y orden en ",
+"esta prisión, es necesario que haya un nuevo Director....",
 "Y no tengo la menor idea de quién puede desempeñar ese papel ahora............."
 ]},
 
 "map17_ev13_p5_yasu_5":{
 "text":[
-"¡Esperar! ¡No, lo hay! ¡¡¡SU MAJESTAD IMPERIAL!!!",
+"¡Esperad! ¡No, si que la tengo! ¡¡¡SU MAJESTAD IMPERIAL!!!",
 "¡¡Tengo una sugerencia!!",
-"¡¡La señorita Karryn debería ser la nueva directora jefe!!"
+"¡¡La señorita Karryn debería ser la nueva directora!!"
 ]},
 
 "map17_ev13_p5_karryn_3_1":{
 "text":[
-"\\{Whaaaaaa~~~~~~~~t......?"
+"\\{¿Quééééeéé~~~~~~~~......?"
 ]},
 
 "map17_ev13_p5_karryn_3_2":{
@@ -4059,8 +4059,8 @@
 "No hay manera de que alguien como yo viva con un grupo de criminales.......",
 "",
 
-"Soy el secretario de Su Majestad Imperial, un puesto mucho ",
-"más importante que el de director de alguna prisión remota."
+"Soy ´la secretaria de Su Majestad Imperial, una posición",
+"más importante que ser director de una prisión dejada de la mano de Dios."
 ]},
 
 "map17_ev13_p5_emperor_4":{
@@ -4075,9 +4075,9 @@
 
 "map17_ev13_p5_yasu_6":{
 "text":[
-"¡¿BIEN?! ¡¡Sabía que estaria deacuerdo, Su Majestad Imperial!!",
+"¡¿Verdad?! ¡¡Sabía que usted lo entendería, Su Majestad Imperial!!",
 "¡¡La señorita Karryn es inteligente y bien educada!!",
-"Además, sus habilidades con la alabarda no tendrían rival entre nuestros guardias!!"
+"¡¡Y sus habilidades con la alabarda no tendrían rival entre nuestros guardias!!"
 ]},
 
 "map17_ev13_p5_emperor_5":{
@@ -4087,61 +4087,61 @@
 
 "map17_ev13_p5_karryn_5":{
 "text":[
-"Espere... ¡¡¡por favor reconsidere, Su Majestad Imperial!!! ",
-"¡Qué pasa si, de alguna manera, me pasa algo! ",
-"Digamos que me convierto en el nuevo guardián... ¡¿quién te protegerá entonces?!",
+"Espere... ¡¡¡Por favor reconsidérelo, Su Majestad Imperial!!! ",
+"¡¿Y si me ocurre algo?! ",
+"Digamos que me convierto en la nueva Directora... ¡¿Quién le protegerá entonces?!",
 
-"¡¡Y por favor piénsalo por un momento!!",
-"¿No significaría eso que seré el sucesor de este hombre?",
-"YO, DE TODAS LAS PERSONAS......?!",
+"¡¡Y por favor piénse esto por un momento!!",
+"¡¿No significaría eso que me convertiría en el sucesor de este hombre?!",
+"¡¿YO, DE ENTRE TODAS LAS PERSONAS......?!",
 
-"No! Esto es tan indignante incluso si fuera imaginacio o siquiera decirlo en voz alta!!",
-"¡¡¡Es algo que nunca debería tener la posibilidad de suceder!!!"
+"¡No! ¡¡Esto es demasiado indignante como para soñarlo, imaginarlo, o decirlo!!",
+"¡¡¡Es algo que nunca debería tener la menor posibilidad de suceder!!!"
 ]},
 
 "map17_ev13_p5_emperor_6":{
 "text":[
 "Precisamente por eso es necesaria una persona como tú.",
-"A menos que se elija a alguien que posea una habilidad y un potencial ",
-"mayores que Yasu, esta tarea no se puede completar con éxito......"
+"A menos que se elija a alguien con mayor habilidad y potencial ",
+"que Yasu, esta tarea no se puede completar con éxito......"
 ]},
 
 "map17_ev13_p5_karryn_6_1":{
 "text":[
-"\\{no hay manera........."
+"\\{Imposible........."
 ]},
 
 "map17_ev13_p5_karryn_6_2":{
 "text":[
-"imposible imposible......... Y-Yo...... no quiero!!",
+"Imposible imposible......... Y-Yo...... ¡¡No quiero!!",
 "¡¡No quiero vivir y trabajar en un lugar sucio donde podría contagiarme algo!!",
-"¡¡¡Este no es un trabajo adecuado para una élite como yo!!!"
+"¡¡¡Esto no es un trabajo adecuado para alguien como yo!!!"
 ]},
 
 "map17_ev13_p5_emperor_7":{
 "text":[
-"¿No acabas de decir algo como,",
-"\"Afectará el prestigio y la integridad de nuestro gran imperio,\" si no hacemos nada? "
+"¿No acabas de decir algo así como,",
+"\"Afectará al prestigio e integridad de nuestro gran imperio\" si no hacemos nada? "
 ]},
 
 "map17_ev13_p5_yasu_7":{
 "text":[
 "¡¡¡Se lo ruego, señorita Karryn!!!",
-"Eres el único que puede salvar este fuerte, no......",
-"¡LA ÚNICA QUE PUEDE SALVAR NUESTRO IMPERIO!!!"
+"Eres la única que puede salvar este fuerte, no......",
+"¡¡¡LA ÚNICA QUE PUEDE SALVAR NUESTRO IMPERIO!!!"
 ]},
 
 "map17_ev13_p5_karryn_7":{
 "text":[
-"Cierra la boca, Yasu.......!!",
-"Ya tengo el trabajo vital de proteger a Su Majestaaaaaaaad......"
+"¡¡Cállate la boca Yasu.......!!",
+"Ya tengo la vital tarea de proteger a Su Majestaaaad......"
 ]},
 
 "map17_ev13_p5_emperor_8":{
 "text":[
-"Hmm, Muy bien... Si tú lo dices, aceptaré esta idea.",
+"Hmm, Muy bien... Si tú lo dices, dejaré de insistir.",
 "Por desgracia, parece que eres incapaz de asumir este papel.",
-"Entonces analicemos posibles planes alternativos."
+"Analicemos posibles planes alternativos."
 ]},
 
 
@@ -4152,7 +4152,7 @@
 
 "map17_ev13_p6_karryn_2":{
 "text":[
-"\\{¡¡¡La palabra incapaz no existe en ningún lugar de mis registros personales!!!"
+"\\{¡¡¡La palabra incapaz no existe en mi vocabulario!!!"
 ]},
 
 "map17_ev13_p6_karryn_3":{
@@ -4164,8 +4164,8 @@
 
 "map17_ev13_p6_karryn_4":{
 "text":[
-"lo hare......",
-"Yo, Karryn...... Seré la nueva Alcaide de esta prision........."
+"Me encargaré......",
+"Yo, Karryn...... Seré la nueva Directora de esta prisión........."
 ]},
 
 "map17_ev13_p6_yasu_1":{
@@ -4176,7 +4176,7 @@
 "map17_ev13_p6_emperor_1":{
 "text":[
 "Tomaste una decisión inteligente, Karryn.",
-"Decreto que uses tu nuevo rango para restaurar el orden en Fuerte Ganon.",
+"Decreto que uses tu nuevo rango para restaurar el orden en el Fuerte Ganon.",
 "",
 
 "Además, detendrás las malvadas maquinaciones de los conspiradores ",
@@ -4185,7 +4185,7 @@
 
 "map17_ev13_p6_karryn_5":{
 "text":[
-"Su Majestad... así que realmente se toma en serio seguir adelante con esto..."
+"Su Majestad... así que de verdad se toma en serio seguir adelante con esto..."
 ]},
 
 "map17_ev13_p6_emperor_2":{
@@ -4194,7 +4194,7 @@
 "",
 "",
 
-"Este fuerte será tu nuevo puesto ahora.",
+"Este fuerte será tu nuevo puesto.",
 "Usaré mi riqueza para apoyar sus esfuerzos con subsidios financieros."
 ]},
 
@@ -4206,39 +4206,39 @@
 "map17_ev13_p6_yasu_2":{
 "text":[
 "Ohhhh! ¡¡Alabado sea su nombre!!",
-"Los subsidios financieros de Su Majestad Imperial más la imponente presencia de... ",
-"la señorita Karryn. Esto es lo mismo que adquirir cien hombres de mano de obra!!"
+"Los subsidios financieros de Su Majestad Imperial más la imponente presencia de ",
+"la señorita Karryn... ¡¡Es como si tuviéramos 100 hombres más en nuestras filas!!"
 ]},
 
 "map17_ev13_p6_yasu_3":{
 "text":[
-"Ahora que esto está solucionado, ¡debemos actuar rápido!! La prisión todavía ",
-"está en un estado de anarquía!! Perdóneme por presentarme tarde, pero espero ",
-"poder serle de alguna ayuda, nueva jefa de guardia!!!"
+"Ahora que esto está solucionado ¡Debemos actuar rápido! ¡¡La prisión todavía ",
+"está en un estado de anarquía!! Perdónenme por presentarme tarde, pero espero ",
+"poder serle de alguna ayuda ¡¡¡Nueva Directora!!!"
 ]},
 
 "map17_ev13_p6_karryn_7":{
 "text":[
-"(No puedo creer que las cosas hayan resultado así......",
-"Se suponía que esto sería una inspección normal del sitio.......",
-"Hoy es el peor día de mi vida.......)"
+"(No puedo creer que las cosas hayan acabado así......",
+"Se suponía que esto sería una inspección común y corriente.......",
+"Es el peor día de mi vida.......)"
 ]},
 
 "map17_ev13_p6_karryn_8":{
 "text":[
-"Bien, ¡comencemos!",
-"Escóltenme ya a mi nueva oficina."
+"Bien, ¡Comencemos!",
+"Escóltame a mi nueva oficina."
 ]},
 
 "map17_ev13_p6_yasu_4":{
 "text":[
-"Si, Señora!"
+"¡Si, Señora!"
 ]},
 
 "map17_ev13_p6_karryn_9":{
 "text":[
-"(Hmph... Te mostraré lo rápido que completaré este trabajo de mierda",
-"y regresaré al lado de Su Majestad Imperial...)"
+"(Hmph... Te enseñaré lo rápido que termino este trabajo de mierda",
+"y vuelvo al lado de Su Majestad Imperial...)"
 ]},
 
 "map17_ev13_p6_emperor_3":{
@@ -4248,30 +4248,30 @@
 
 "map17_ev13_p6_karryn_10":{
 "text":[
-"¡¡Por favor déjemelo a mí, Su Majestad Imperial!! Yo, Karryn...... ",
-"Volveré a tu lado justo después de que rápidamente devuelva el orden a este fuerte!!",
+"¡¡Por favor, deje que me encargue, Su Majestad Imperial!! Yo, Karryn... ",
+"¡¡Volveré a su lado en cuanto devuelva el orden a este fuerte!!",
 "",
 
-"Tenga el máximo cuidado y precaución durante su viaje de regreso."
+"Tenga el máximo cuidado durante su viaje de regreso."
 ]},
 
 "map17_ev13_p6_emperor_4":{
 "text":[
-"Ha ha ha.",
+"Ja ja ja.",
 "No te preocupes por mí. No soy un niño.",
 "Puedo irme a casa solo después del anochecer."
 ]},
 
 "map17_ev13_p6_karryn_11":{
 "text":[
-"Como usted dice, Su Majestad Imperial.",
-"Entonces, me alejaré temporalmente de tu lado."
+"Como usted diga, Su Majestad Imperial.",
+"Entonces, me dejaré su lado temporalmente."
 ]},
 
 "map17_ev13_p6_karryn_12":{
 "text":[
-"(Supongo que debería esperar un tiempo para mostrarle al ",
-"emperador lo increíblemente talentoso que soy........",
+"(Supongo que aguantaré un tiempo sin mostrarle al ",
+"emperador lo increíblemente talentosa que soy........",
 "Es difícil ser una mujer perfecta.........)"
 ]},
 
@@ -4279,7 +4279,7 @@
 "text":[
 "\\#Y así comienza la vida de Karryn,",
 "\\#quien saltó a la fama como Secretaria Imperial, ",
-"\\#en su nuevo papel como nueva Jefa de Vigilancia de Fuerte Ganon...."
+"\\#en su nuevo papel como la nueva Directora del Fuerte Ganon...."
 ]},
 
 
@@ -8201,7 +8201,7 @@
 "map21_ev39_p2_yasu_8":{
 "text":[
 "No soy digno de tus palabras. ",
-"Gracias y gracias de nuevo por darme el puesto de subdirector."
+"Gracias y gracias de nuevo por darme el puesto de Director Adjunto."
 ]},
 "map21_ev39_p2_karryn_7":{
 "text":[
@@ -14227,8 +14227,8 @@
   ]},
 "map74_ev8_p2_karryn_5":{
   "text": [
-    "(Así es, la palabra incapaz no existe en ninguna parte)",
-    "en mis registros personales......!)"
+    "(Así es, la palabra incapaz no existe en",
+    "mi vocabulario......!)"
   ]},
 "map74_ev8_p2_karryn_6":{
   "text": [
