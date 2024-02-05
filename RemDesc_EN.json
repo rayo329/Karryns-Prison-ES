@@ -7160,7 +7160,7 @@
 },
 "skill_507_desc":{
 "text":[
-"Solo cerveza pálida más agua es un poco triste para un bar.",
+"Solo cerveza rubia más agua es un poco triste para un bar.",
 "¡Firmamos un contrato de media para agregar un poco de vodka y ron al menú!",
 "\\REM_EFF[skill_507_effect]"
 ]},
@@ -12307,14 +12307,14 @@
 "text":["%1 intenta tomar el pedido de %2."]
 },
 "skill_1675_name":{
-"text":["Servir cerveza pálida"]
+"text":["Servir Cerveza Rubia"]
 },
 "skill_1675_desc":{
 "text":[
-"Sirva una pinta de cerveza pálida de la bandeja."
+"Sirva una pinta de cerveza rubia de la bandeja."
 ]},
 "skill_1675_msg1":{
-"text":["%1 intenta darle a %2 una pinta de cerveza pálida."]
+"text":["%1 intenta darle a %2 una pinta de cerveza rubia."]
 },
 "skill_1676_name":{
 "text":["Servir cerveza oscura"]
@@ -12439,21 +12439,21 @@
 "text":["%1 comienza a caminar de regreso al bar."]
 },
 "skill_1688_name":{
-"text":["Cervesa Palida"]
+"text":["Cerveza Rubia"]
 },
 "skill_1688_desc":{
 "text":[
-"\\}\\}Agregue una pinta de cerveza pálida a la bandeja. Cuesta 5 de oro.",
+"\\}\\}Agregue una pinta de cerveza rubia a la bandeja. Cuesta 5 de oro.",
 "La palidez en el aspecto y el sabor es de toda el agua.",
 "Ale no conseguirá que nadie, excepto los bebedores más ligeros, se emborrache rápidamente."
 ]},
 "skill_1689_name":{
-"text":["Cerveza oscura"]
+"text":["Cerveza Negra"]
 },
 "skill_1689_desc":{
 "text":[
-"\\}\\}Agregue una pinta de cerveza oscura a la bandeja. Cuesta 6 de oro.",
-"Esta es en realidad la misma cerveza que nuestra pale ale, excepto que se agrega menos agua.",
+"\\}\\}Agregue una pinta de cerveza negra a la bandeja. Cuesta 6 de oro.",
+"Esta es en realidad la misma cerveza que nuestra cerveza rubia, excepto que se agrega menos agua.",
 "La cerveza Ale no emborrachará rápidamente a nadie, excepto a los bebedores más ligeros.."
 ]},
 "skill_1690_name":{

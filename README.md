@@ -2,9 +2,11 @@
 
 ## Proofreading in progress:  
 
-**RemMap_EN.json**  2010/14996  
+**RemMap_EN.json**  4288/14996  28.6%  
   
-**RemLines.json**   0/27000  
+**RemLines.json**   5047/27000  18.7%
+   
+**RemDesc_EN.json** 152/15662     0.9%  
   
-**RemDesc_EN.json** 152/15662  
+**Total**   9335/57658  16.2%
   
