@@ -4,282 +4,282 @@
 },
 
 "peffect_50mouthdesire":{
-"text":["\\C[27]La Precisión disminuye a medida que el Deseo Sexual de la Boca supera el 50."]
+"text":["\\C[27]La Precisión disminuye a medida que el Deseo Sexual: Boca es mayor a 50."]
 },
 "peffect_50boobsdesire":{
-"text":["\\C[27]La Evasión disminuye a medida que el Deseo Sexual de las Tetas supera el 50."]
+"text":["\\C[27]La Evasión disminuye a medida que el Deseo Sexual: Tetas es mayor a 50."]
 },
 "peffect_50pussydesire":{
-"text":["\\C[27]Resistencia al Desnudo disminuye a medida que el Deseo Sexual de la Vagina supera el 50."]
+"text":["\\C[27]La Resistencia al Desnudo disminuye a medida que el Deseo Sexual: Vagina es mayor a 50."]
 },
 "peffect_50buttdesire":{
-"text":["\\C[27]La Defensa disminuye a medida que el Deseo Sexual del Culo supera los 50."]
+"text":["\\C[27]La Defensa disminuye a medida que el Deseo Sexual: Culo es mayor a 50."]
 },
 "peffect_50cockdesire":{
-"text":["\\C[27]El Ataque disminuye a medida que el Deseo Sexual por Pollas supera los 50."]
+"text":["\\C[27]El Ataque disminuye a medida que el Deseo Sexual: Pollas es mayor a 50."]
 },
 
 "peffect_topmouthdesire":{
-"text":["\\C[27]La Defensa Enemiga disminuye mientras que el Deseo Sexual de la Boca es el deseo mas alto."]
+"text":["\\C[27]La Defensa Enemiga disminuye cuando el Deseo Sexual: Boca es el Deseo más alto."]
 },
 "peffect_topboobsdesire":{
-"text":["\\C[27]La Evasión Enemiga disminuye mientras que el Deseo sexual de las Tetas es el deseo mas alto."]
+"text":["\\C[27]La Evasión Enemiga disminuye cuando el Deseo Sexual: Tetas es el Deseo más alto."]
 },
 "peffect_toppussydesire":{
-"text":["\\C[27]Probabilidad de que los enemigos se pongan Cachondos cada turno mientras que el Deseo Sexual de la Vagina sea el deseo mas alto."]
+"text":["\\C[27]La Probabilidad de que los enemigos se pongan Cachondos cada turno mientras el Deseo Sexual: Vagina sea el deseo mas alto."]
 },
 "peffect_topbuttdesire":{
 "text":["\\C[27]La Precisión del Enemigo disminuye, mientras que el Deseo Sexual del Culo es el deseo mas alto."]
 },
 "peffect_topcockdesire":{
-"text":["\\C[27]La Tasa de Ganancia de Deseo Sexual por Polla aumenta mientras este sea el deseo mas alto."]
+"text":["\\C[27]La Tasa de Ganancia de Deseo Sexual: Polla aumenta mientras este sea el deseo mas alto."]
 },
 
 "peffect_100mouthdesire":{
-"text":["\\C[27]El Daño Crítico disminuye a medida que el Deseo Sexual de la Boca supera los 100."]
+"text":["\\C[27]El Daño Crítico disminuye a medida que el Deseo Sexual: Boca es mayor a 100."]
 },
 "peffect_100boobsdesire":{
-"text":["\\C[27]La Tasa Crítica disminuye a medida que el Deseo Sexual de las Tetas supera el 100."]
+"text":["\\C[27]La Tasa Crítica disminuye a medida que el Deseo Sexual: Tetas es mayor a 100."]
 },
 "peffect_100pussydesire":{
-"text":["\\C[27]La Evasión Crítica disminuye a medida que el Deseo Sexual de la Vagina supera los 100."]
+"text":["\\C[27]La Evasión Crítica disminuye a medida que el Deseo Sexual: Vagina es mayor a 100."]
 },
 "peffect_100buttdesire":{
-"text":["\\C[27]La Resistencia a las Caricias disminuye a medida que el Deseo Sexual del Culo supera 100."]
+"text":["\\C[27]La Resistencia a las Caricias disminuye a medida que el Deseo Sexual: Culo es mayor a 100."]
 },
 "peffect_100cockdesire":{
-"text":["\\C[27]La Resistencia Sexual disminuye a medida que el Deseo Sexual de Polla sube por encima de 100."]
+"text":["\\C[27]La Resistencia Sexual disminuye a medida que el Deseo Sexual: Polla es mayor a 100."]
 },
 
 "peffect_kiss_mouthdesirereq_lower15":{
-"text":["\\C[27]El Deseo Sexual de la Boca requerido para Beso a reducido en 15."]
+"text":["\\C[27]El Deseo Sexual: Boca requerido para un Beso es reducido en 15."]
 },
 "peffect_toyp_pussydesirereq_lower20":{
-"text":["\\C[27]Deseo Sexual de la Vagina requerido para Juguetes Vaginales a reducido en 20."]
+"text":["\\C[27]El Deseo Sexual: Vagina requerido para los Juguetes Vaginales es reducido en 20."]
 },
 
 
 "peffect_maxmouthdesire":{
-"text":["\\C[1]El Máximo del Deseo Sexual de la Boca aumentó."]
+"text":["\\C[1]El Máximo del Deseo Sexual: Boca aumentó."]
 },
 "peffect_maxmouthandcockdesire":{
-"text":["\\C[1]El Máximo del Deseo Sexual de la Boca y de Polla aumentó."]
+"text":["\\C[1]Los Máximos de los Deseos Sexuales: Boca,Polla aumentaron."]
 },
 "peffect_maxboobsdesire":{
-"text":["\\C[1]El Máximo del Deseo Sexual de las Tetas aumentó."]
+"text":["\\C[1]El Máximo del Deseo Sexual: Tetas aumentó."]
 },
 "peffect_maxpussydesire":{
-"text":["\\C[1]El Máximo del Deseo Sexual de la Vagina aumentó."]
+"text":["\\C[1]El Máximo del Deseo Sexual: Vagina aumentó."]
 },
 "peffect_maxbuttdesire":{
-"text":["\\C[1]El máximo del Deseo Sexual del Culo aumentó."]
+"text":["\\C[1]El Máximo del Deseo Sexual: Culo aumentó."]
 },
 "peffect_maxcockdesire":{
-"text":["\\C[1]El Máximo del Deseo Sexual de Pollas aumentó."]
+"text":["\\C[1]El Máximo del Deseo Sexual: Polla aumentó."]
 },
 "peffect_maxpussyandbuttdesire":{
-"text":["\\C[1]El Máximo del Deseo Sexual de Culo y Vagina aumentó."]
+"text":["\\C[1]Los Máximos de los Deseos Sexuales: Culo,Vagina aumentaron."]
 },
 "peffect_maxpussyandcockdesire":{
-"text":["\\C[1]El Máximo del Deseo Sexual de Pollas y Vagina aumentó."]
+"text":["\\C[1]Los Máximos de los Deseos Sexuales: Polla,Vagina aumentaron."]
 },
 "peffect_maxbuttandcockdesire":{
-"text":["\\C[1]El Máximo del Deseo Sexual de Pollas y Culo aumentó."]
+"text":["\\C[1]Los Máximos de los Deseos Sexuales: Polla,Culo aumentaron."]
 },
 "peffect_allmaxdesire":{
-"text":["\\C[1]Todos los Máximos de los Deseos Sexuales aumentaron."]
+"text":["\\C[1]Los Máximos de los Deseos Sexuales: aumentaron."]
 },
 
 "peffect_minimummouthdesire":{
-"text":["\\C[1]El Mínimo del Deseo Sexual de la Boca aumentó."]
+"text":["\\C[1]El Mínimo del Deseo Sexual: Boca aumentó."]
 },
 "peffect_minimumboobsdesire":{
-"text":["\\C[1]El Mínimo del Deseo Sexual de las Tetas aumentó."]
+"text":["\\C[1]El Mínimo del Deseo Sexual: Tetas aumentó."]
 },
 "peffect_minimumpussydesire":{
-"text":["\\C[1]El Mínimo del Deseo Sexual de la Vagina aumentó."]
+"text":["\\C[1]El Mínimo del Deseo Sexual: Vagina aumentó."]
 },
 "peffect_minimumbuttdesire":{
-"text":["\\C[1]El Mínimo del Deseo Sexual del Culo aumentó."]
+"text":["\\C[1]El Mínimo del Deseo Sexual: Culo aumentó."]
 },
 "peffect_minimumcockdesire":{
-"text":["\\C[1]El Mínimo del Deseo Sexual de Pollas aumentó."]
+"text":["\\C[1]El Mínimo del Deseo Sexual: Pollas aumentó."]
 },
 "peffect_allminimumdesire":{
-"text":["\\C[1]Todos los Mínimos de los Deseos Sexuales aumentaron."]
+"text":["\\C[1]Los Mínimos de los Deseos Sexuales: aumentaron."]
 },
 
 "peffect_initialmouthdesire":{
-"text":["\\C[1]El Deseo Inicial de la Boca aumentó."]
+"text":["\\C[1]El Deseo Sexual: Boca Inicial aumentó."]
 },
 "peffect_initialmouthdesire_kiss_people_day":{
-"text":["\\C[27]El Deseo Sexual Inicial de la Boca aumenta por cada persona nueva besada en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Boca Inicial aumenta por cada persona besada en el mismo día."]
 },
 "peffect_initialmouthdesire_finger_people_day":{
-"text":["\\C[27]El Deseo Sexual Inicial de la Boca aumenta por cada chupada de dedo en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Boca Inicial aumenta por cada dedo chupado en el mismo día."]
 },
 
 "peffect_initialmouthandcockdesire":{
-"text":["\\C[1]El Deseo Sexual Inicial de Boca y Polla aumentó."]
+"text":["\\C[1]Los Deseos Sexuales: Boca, Polla Iniciales aumentaron."]
 },
 "peffect_initialboobsdesire":{
-"text":["\\C[1]El Deseo Sexual Inicial de las Tetas aumentó."]
+"text":["\\C[1]El Deseo Sexual: Tetas Inicial aumentó."]
 },
 "peffect_initialboobsdesire_boobs_people_day":{
-"text":["\\C[27]El Deseo Sexual Inicial de las Tetas aumenta cada vez que los pechos sean manosedos por manos nuevas en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Tetas Inicial aumenta por cada persona que manosee los pechos en el mismo día."]
 },
 "peffect_initialboobsdesire_nipples_people_day":{
-"text":["\\C[27]El Deseo Sexual Inicial de las Tetas aumenta cada vez que los pezones sean manoseados por manos nuevas en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Tetas Inicial aumenta por cada persona que manosee los pezones en el mismo día."]
 },
 
 "peffect_initialpussydesire":{
-"text":["\\C[1]El Deseo Sexual Inicial de la Vagina aumentó."]
+"text":["\\C[1]El Deseo Sexual: Vagina Inicial aumentó."]
 },
 "peffect_initialpussydesire_clit_people_day":{
-"text":["\\C[27]El Deseo Sexual Inicial de la Vagina incrementa por cada vez que nuevas manos pellizcan el clítoris en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Vagina Inicial aumenta por cada persona que pellizque el clítoris en el mismo día."]
 },
 "peffect_initialpussydesire_cunni_people_day":{
-"text":["\\C[27]El deseo Sexual Inicial de la Vagina aumenta cada vez que la vagina es lamida por una nueva persona en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Vagina Inicial aumenta por cada persona que te lame el coño en el mismo día."]
 },
 "peffect_initialpussydesire_pussy_people_day":{
-"text":["\\C[27]El Deseo Sexual Inicial de la Vagina aumenta cada vez que la vagina es dedeada por nuevas manos en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Vagina Inicial aumenta por cada persona que te hace un dedo en el coño en el mismo día."]
 },
 "peffect_initialpussydesire_psex_count_day":{
-"text":["\\C[27]El Deseo Sexual Inicial de la Vagina aumenta cada vez que la vagina es follada por una polla durante el día."]
+"text":["\\C[27]El Deseo Sexual: Vagina Inicial aumenta por cada persona que te penetre por le coño en el mismo día."]
 },
 
 "peffect_initialbuttdesire":{
-"text":["\\C[1]El deseo sexual inicial del culo aumentó."]
+"text":["\\C[1]El Deseo Sexual: Culo Inicial aumentó."]
 },
 "peffect_initialbuttdesire_butt_people_day":{
-"text":["\\C[27]El deseo sexual inicial del Culo aumenta de cada vez que nuevas manos acarician el trasero en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Culo Inicial aumenta por cada persona que  te acaricie el culo en el mismo día."]
 },
 "peffect_initialbuttdesire_anal_people_day":{
-"text":["\\C[27]El deseo sexual inicial del Culo aumenta de cada vez que nuevas manos tocan el ano en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Culo Inicial aumenta por cada persona que te hace un dedo en el ano en el mismo día."]
 },
 "peffect_initialbuttdesire_asex_count_day":{
-"text":["\\C[27]El deseo sexual inicial del Culo aumenta cada vez que follan el ano en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Culo Inicial aumenta por cada persona que te penetre por el ano en el mismo día."]
 },
 "peffect_initialbuttdesire_analcreampie_day":{
-"text":["\\C[27]El deseo sexual inicial del Culo aumenta de cada gota de semen eyaculada dentro del culo en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Culo Inicial aumenta por cada gota de semen eyaculada dentro del ano en el mismo día."]
 },
 
 "peffect_initialpussyandbuttdesire":{
-"text":["\\C[1]El deseo sexual inicial de la vagina y culo aumentó."]
+"text":["\\C[1]Los Deseos Sexuales: Vagina, Culo Iniciales aumentaron."]
 },
 
 "peffect_initialmouthboobspussybuttdesire":{
-"text":["\\C[1]Los deseos sexual iniciales de Boca, pechos, Vagina y Culo aumentaron."]
+"text":["\\C[1]Los Deseos Sexuales: Boca, Tetas, Vagina y Culo aumentaron."]
 },
 "peffect_allinitialdesires":{
-"text":["\\C[1]Todos los deseos sexuales iniciales aumentaron."]
+"text":["\\C[1]Los Deseos Sexuales: Iniciales aumentaron."]
 },
 
 "peffect_initialcockdesire":{
-"text":["\\C[1]El deseo sexual inicial de polla aumentó."]
+"text":["\\C[1]El Deseo Sexual: Polla Inicial aumentó."]
 },
 "peffect_initialcockdesire_hj_people_day":{
-"text":["\\C[27]El deseo sexual inicial de polla aumenta con cada paja que se le da a una nueva polla en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Polla Inicial aumenta por cada paja que se da en el mismo día."]
 },
 "peffect_initialcockdesire_bukkake":{
-"text":["\\C[27]El deseo sexual inicial de polla aumenta con cada gota de semen que cubre la piel."]
+"text":["\\C[27]El Deseo Sexual: Polla Inicial aumenta con cada gota de semen que cubre la piel."]
 },
 "peffect_initialcockdesire_defeat":{
-"text":["\\C[1]El deseo sexual inicial de polla aumentó cuando Karryn fue derrotada recientemente."]
+"text":["\\C[1]El Deseo Sexual: Polla Inicial aumenta cuando Karryn es derrotada."]
 },
 "peffect_initialcockdesire_gb_day":{
-"text":["\\C[27]El deseo sexual inicial de polla aumenta con cada gangbang en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Polla Inicial aumenta con cada gangbang en el mismo día."]
 },
 "peffect_initialcockdesire_cockstare_day":{
-"text":["\\C[27]El deseo sexual inicial de polla aumenta con cada polla que miras en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Polla Inicial aumenta con cada polla que miras en el mismo día."]
 },
 "peffect_initialcockdesire_finger_people_day":{
-"text":["\\C[27]El deseo sexual inicial de polla aumenta con cada nuevo dedo chupado en el mismo día."]
+"text":["\\C[27]El Deseo Sexual: Polla Inicial aumenta con cada dedo chupado en el mismo día."]
 },
 
 "peffect_initialpussyandcockdesire":{
-"text":["\\C[1]El deseo sexual inicial de Vagina y polla aumentó."]
+"text":["\\C[1]Los Deseos Sexuales: Vagin, Polla Inicial aumentaron."]
 },
 "peffect_initialpussyandcockdesire_kickcounter_day":{
-"text":["\\C[27]El deseo inicial de Vagina y polla aumenta con cada contraataque sexual enemigo en el mismo día."]
+"text":["\\C[27]Los Deseos Sexuales: Vagina, Polla Inicial aumentaron por cada contraataque sexual enemigo en el mismo día."]
 },
 
 "peffect_initialbuttandcockdesire":{
-"text":["\\C[1]El deseo inicial de Culo y Polla aumentó."]
+"text":["\\C[1]Los Deseos Sexuales: Culo, Polla Iniciales aumentaron."]
 },
 
 "peffect_mouthdesiregainrate":{
-"text":["\\C[1]Aumentó la tasa de ganancia de deseo Oral."]
+"text":["\\C[1]La Tasa de ganancia del Deseo Sexual: Boca aumentó."]
 },
 "peffect_mouthdesiregainrate_kiss_count_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo Oral aumenta con cada beso en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Boca aumenta por cada beso en la misma batalla."]
 },
 "peffect_mouthdesiregainrate_sightmouth_people_day":{
-"text":["\\C[27]La tasa de ganancia de deseo Oral aumenta según cada vez que alguien nuevo mira fijamente el rostro de Karryn en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Boca aumenta por cada vez que alguien mira fijamente el rostro de Karryn en la misma batalla."]
 },
 "peffect_mouthdesiregainrate_finger_count_day":{
-"text":["\\C[27]La tasa de ganancia de deseo Oral aumenta con cada dedo chupado en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Boca aumenta por cada dedo chupado en la misma batalla."]
 },
 
 "peffect_boobsdesiregainrate":{
-"text":["\\C[1]Aumentó la tasa de aumento del deseo sexuales de las tetas."]
+"text":["\\C[1]La Tasa de ganancia del Deseo Sexual: Tetas auemntó."]
 },
 "peffect_boobsdesiregainrate_boobs_count_battle":{
-"text":["\\C[27]La tasa de aumento del deseo de los pechos aumenta cada vez que se tocan los pechos en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Tetas aumenta cada vez que se manoseen los pechos en la misma batalla."]
 },
 "peffect_boobsdesiregainrate_nipples_count_battle":{
-"text":["\\C[27]La tasa de aumento del deseo de los pechos aumenta cada vez que se tocan los pezones en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Tetas aumenta cada vez que se manoseen los pezones en la misma batalla."]
 },
 "peffect_boobsdesiregainrate_sightboobs_people_day":{
-"text":["\\C[27]La tasa de ganancia de deseo de prechos aumenta según cada vez que alguien nuevo mira fijamente la tetas de Karryn en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Tetas aumenta cada vez que alguien mira fijamente los pechos de Karryn en la misma batalla."]
 },
 
 "peffect_pussydesiregainrate":{
-"text":["\\C[1]Aumentó la tasa de ganancia de deseo de Vaginao."]
+"text":["\\C[1]La Tasa de ganancia del Deseo Sexual: Vagina aumentó."]
 },
 "peffect_pussydesiregainrate_clit_count_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo sexual de la vagina aumenta cada vez que se pellizca el clítoris en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Vagina aumenta cada vez que se pellizcan el clítoris en la misma batalla."]
 },
 "peffect_pussydesiregainrate_cunni_people_day":{
-"text":["\\C[27]La tasa de ganancia de deseo sexual de la vagina aumenta cada vez que un nuevo hombre lame la vagina en el mismo día."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Vagina aumenta cada vez un lamen la vagina en el mismo día."]
 },
 "peffect_pussydesiregainrate_sightpussy_people_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo sexual de la vagina aumenta según cada vez que alguien nuevo mira fijamente las ingles de Karryn en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Vagina aumenta cada vez que alguien mira fijamente la ingle de Karryn en la misma batalla."]
 },
 
 "peffect_buttdesiregainrate":{
-"text":["\\C[1]Aumentó la tasa de ganancia de deseo a tope."]
+"text":["\\C[1]La Tasa de ganancia del Deseo Sexual: Culo aumentó."]
 },
 "peffect_buttdesiregainrate_butt_count_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo del culo aumenta cada vez que se acaricia el trasero en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Culo aumenta cada vez que se acaricia el trasero en la misma batalla."]
 },
 "peffect_buttdesiregainrate_sightbutt_people_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo del culo aumenta según cada vez que alguien nuevo mira fijamente el trasero de Karryn en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Culo aumenta cada vez que alguien mira fijamente el culo de Karryn en la misma batalla."]
 },
 
 "peffect_cockdesiregainrate":{
-"text":["\\C[1]Aumentó la tasa de ganancia de deseo de polla."]
+"text":["\\C[1]La Tasa de ganancia del Deso Sexual: Polla aumentó."]
 },
 "peffect_cockdesiregainrate_down":{
-"text":["\\C[1]Se redujo la tasa de ganancia de deseo de polla."]
+"text":["\\C[1]La Tasa de ganancia del Deseo Sexual: Polla disminuyo."]
 },
 "peffect_cockdesiregainrate_swallow_day":{
-"text":["\\C[27]La tasa de aumento del deseo de polla aumenta con cada gota de semen ingerida en el mismo día."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Polla aumenta por cada gota de semen ingerida en el mismo día."]
 },
 "peffect_cockdesiregainrate_cockpet_count_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo de polla aumenta con cada polla acariciado en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Polla aumenta por cada polla acariciada en la misma batalla."]
 },
 "peffect_cockdesiregainrate_talkcock_day":{
-"text":["\\C[27]La tasa de ganancia de deseo de polla aumenta cada vez que alguien nuevo habla sobre pollas en el mismo día."]
+"text":["\\C[27]La Tasa de ganancia del Deseo Sexual: Polla aumenta cada vez que alguien habla de pollas en el mismo día."]
 },
 "peffect_cockdesiregainrate_cockstare_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo de polla aumenta con cada polla observado en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia de Deseo Sexual: Polla aumenta por cada polla observado en la misma batalla."]
 },
 "peffect_cockdesiregainrate_finger_people_battle":{
-"text":["\\C[27]La tasa de ganancia de deseo de polla aumenta con cada nuevo dedo chupado en la misma batalla."]
+"text":["\\C[27]La Tasa de ganancia de Deseo Sexual: Polla aumenta por cada dedo chupado en la misma batalla."]
 },
 "peffect_cockdesiregainrate_underground":{
-"text":["\\C[1]La tasa de ganancia de deseo de polla aumentó mientras estaba bajo tierra."]
+"text":["\\C[1]La Tasa de ganancia de Deseo Sexual: Polla aumenta mientras estas tirado en el suelo."]
 },
 
 "peffect_mouthandcockdesiregainrate":{
