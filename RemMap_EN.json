@@ -4337,7 +4337,7 @@
 ]},
 "map17_ev4_p4_2":{
 "text":[
-"¿Estas seguro?",
+"¿Estás seguro?",
 "Se reiniciará el estado de la prisión."
 ]},
 
@@ -4369,7 +4369,7 @@
 
 "map17_ev10_p1_b_1":{
 "text":[
-"¿Ya ha visitado el Cuartel de Guardia al lado de su oficina?",
+"¿Ya ha visitado el Cuartel de la Guardia al lado de su oficina?",
 "Está lleno de chicos y sudor, por lo que puede ser un lugar ",
 "un poco duro de visitar para una mujer como usted...",
 
@@ -4385,7 +4385,7 @@
 "text":[
 "Oooh ¿Cuándo nos dejarán visitar a nuestros familiares?",
 "La idea de mi tocinito de cielo sin su muda de ropa interior ",
-"limpia me mantiene despierta por las noche."
+"limpia me mantiene despierta por las noches."
 ]},
 
 "map17_ev23_tachiename_1":{
@@ -4483,7 +4483,7 @@
 "map17_ev23_p2_challenge_1":{
 "text":[
 "Cada Partida de Desafío te otorga uno de los dos Títulos como recompensa ¡Miau!",
-"El título que obtienes depende de si estás en Modo Guardiana.",
+"El Título que obtienes depende de si estás en Modo Guardiana.",
 "o si estás en Modo Prisionera ¡Miau!",
 "La recompensa del Modo Prisionera es mejor que la del Modo Guardiana ¡Miau!",
 "Y la recompensa del Modo Prisionera reemplazará la recompensa del",
@@ -4495,8 +4495,8 @@
 "No perderás tu recompensa del modo Prisionera si decides hacer el mismo ",
 "desafío nuevamente en el modo Guardiana por diversión ¡Miau!",
 "Y aquí tienes un consejo secreto, miau. Aunque no puedes cambiar",
-"tu título si quieres completar el desafío, las pasivas de",
-"todos tus otros títulos hacen efecto ¡Miau!",
+"tu Título si quieres completar el desafío, las pasivas de",
+"todos tus otros Títulos hacen efecto ¡Miau!",
 "Así que depende totalmente de ti si quieres intentar las Partidas de Desafío",
 "cuando hayas recolectado un montón de Títulos para hacerlo más fácil,",
 "o hacerlo lo antes posible para mayor dificultad ¡Miau!"
@@ -4517,7 +4517,7 @@
 ]},
 "map17_ev23_p2_choice_abandon_challenge":{
 "text":[
-"Quiero abandonar la Partida de desafío."
+"Quiero abandonar la Partida de Desafío."
 ]},
 
 "map17_ev23_p2_keep_challenge_1":{
@@ -4555,7 +4555,7 @@
 ]},
 
 "map17_ev24_tachiename_1":{
-"text":["Guardia Fumando"]},
+"text":["Guardia Fumador"]},
 "map17_ev24_p1_1":{
 "text":[
 "Al parecer, la Directora puede obtener hasta 3 Títulos",
@@ -4576,15 +4576,15 @@
 "map17_ev63_p2_karryn_1":{
 "text":[
 "¡Sí, Su Majestad Imperial!",
-"Aquí en el Fuerte Ganon, he experimentado cosas irremplazables...",
+"Tengo recuerdos irremplazables del Fuerte Ganon...",
 "También obtuve lo que se podría llamar buenos compañeros.",
 "¡Y todo fue gracias a Su Majestad Imperial!",
 "Muchas gracias."
 ]},
 "map17_ev63_p2_tonkin_1":{
 "text":[
-"¡¡OINK--!! ¡¡Señorita Karryn!! ¡¡Estás muy guapa~~~!!",
-"Parece que fue hace muchísimo cuando nos conocimos aquí..."
+"¡¡OINK--!! ¡¡Señorita Karryn!! ¡¡Está muy guapa~~~!!",
+"Parece que ha pasado muchísimo tiempo desde que nos conocimos..."
 ]},
 "map17_ev63_p2_cargill_1":{
 "text":[
@@ -4803,9 +4803,9 @@
 "map18_ev1_p1_first_1":{
 "text":[
 "Oh mierda, me han descubierto...",
-"¿Eh? ¿Eres la nueva Directora... Karryn, verdad?",
+"¿Eh? Eres la nueva Directora... Karryn ¿Verdad?",
 "",
-"¿Qué que estoy haciendo aquí preguntas?",
+"¿Que qué estoy haciendo aquí preguntas?",
 "Uh, umm, estoy en un descanso ahora mismo, sí, eso...",
 "",
 "Ah, sí, por cierto ¿Estás interesada en ganar dinero fácil?",
@@ -7358,7 +7358,7 @@
 
 "map20_ev12_p1_1":{
 "text":[
-"¿Qué hace un recluso en el cuartel de guardia?",
+"¿Qué hace un recluso en el cuartel de la guardia?",
 "",
 "",
 
