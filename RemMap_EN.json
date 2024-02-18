@@ -4290,32 +4290,32 @@
 
 "map17_ev4_p3_slut0_1":{
 "text":[
-"(Que estoy pensando......?!",
-"Debería regresar y arreglar mi ropa ",
+"(¡¿En qué estoy pensando......?!",
+"Debería volver y arreglarme el uniforme",
 "antes de que alguien me vea así...)"
 ]},
 
 "map17_ev4_p3_slut1_1":{
 "text":[
-"(Mostrar mi piel de esta manera... es vergonzoso...",
+"(Mostrar mi piel de esta manera... es embarazoso...",
 "Pero, puede que no sea sólo vergüenza lo que estoy sintiendo...",
-"¿Qué diablos es esta sensación que estoy sintiendo?......)"
+"¿Qué es es esta sensación?......)"
 ]},
 
 "map17_ev4_p3_slut2_1":{
 "text":[
-"Antes descartaría inmediatamente cualquier idea de mostrar ",
-"mi piel a un ciudadano, pero ahora siento lo contrario.",
+"Antes hubiese descartado inmediatamente cualquier idea de mostrar",
+"mi piel a cualquiera, pero ahora siento lo contrario.",
 "",
 
-"Pero... antes de todo eso, primero tengo que hacer ",
+"Pero... antes de todo eso, tengo que hacer ",
 "algo sobre la situación aquí en Fuerte Ganon."
 ]},
 
 "map17_ev4_p3_slut3_1":{
 "text":[
-"Oh no, ¿a dónde estoy tratando de ir?",
-"Necesito regresar a la prisión donde todas mis amadas ",
+"Oh no, ¿A dónde estoy tratando de ir?",
+"Necesito regresar a la prisión donde todas mis amadas",
 "pollas están esperando para jugar conmigo.♥",
 
 "Hnng♥ Puedo sentir sus deseos desde aquí.♥",
@@ -4325,11 +4325,11 @@
 
 "map17_ev4_p4_1":{
 "text":[
-"¿Estás listo para comenzar un nuevo juego Plus?"
+"¿Estás listo para comenzar un New Game Plus?"
 ]},
 "map17_ev4_p4_choice_1":{
 "text":[
-"Sí, llévame a nuevo juego Plus."
+"Sí, llévame al New Game Plus."
 ]},
 "map17_ev4_p4_choice_2":{
 "text":[
@@ -4337,8 +4337,8 @@
 ]},
 "map17_ev4_p4_2":{
 "text":[
-"Estas seguro",
-"Se restablecerá el estado de la prisión."
+"¿Estas seguro?",
+"Se reiniciará el estado de la prisión."
 ]},
 
 
@@ -4354,26 +4354,26 @@
 
 
 "map17_ev10_tachiename_1":{
-"text":["Guardia preocupado"]},
+"text":["Guardia Preocupado"]},
 
 "map17_ev10_p1_a_1":{
 "text":[
-"Estoy preocupado por el tipo que está a mi lado.",
-"Siempre dice lo mismo pase lo que pase.",
+"Me preocupa el tipo que está a mi lado.",
+"Siempre dice lo mismo, pase lo que pase.",
 "De hecho, nunca lo he visto moverse de ese lugar...",
 
-"De todos modos, no se puede ingresar al Centro de Visitantes por la ",
-"principal porque los reclusos bloquearon la puerta principal. El Centro de ",
+"De todos modos, no se puede ingresar al Centro de Visitantes por la",
+"puerta principal porque los reclusos la han bloqueado. El Centro de ",
 "Visitantes deberá ser reparado después de que el Nivel Uno sea subyugado."
 ]},
 
 "map17_ev10_p1_b_1":{
 "text":[
-"¿Ya ha visitado el cuartel de guardia al lado de su oficina?",
+"¿Ya ha visitado el Cuartel de Guardia al lado de su oficina?",
 "Está lleno de chicos y sudor, por lo que puede ser un lugar ",
-"un poco difícil de visitar para una mujer como tú...",
+"un poco duro de visitar para una mujer como usted...",
 
-"Pero muchos de los chicos tienen buenas ",
+"Pero muchos de esos chicos tienen buenas ",
 "ideas si les escuchas."
 ]},
 
@@ -4383,26 +4383,26 @@
 
 "map17_ev22_p1_1":{
 "text":[
-"Oh, ¿cuándo nos dejarán visitar a nuestros familiares?",
-"La idea de mi bebe pechoncho sin su nueva ropa ",
-"interior me mantiene despierto por la noche."
+"Oooh ¿Cuándo nos dejarán visitar a nuestros familiares?",
+"La idea de mi tocinito de cielo sin su muda de ropa interior ",
+"limpia me mantiene despierta por las noche."
 ]},
 
 "map17_ev23_tachiename_1":{
-"text":["CatGlasc"]},
+"text":["Gato Parlante"]},
 
 "map17_ev23_p1_1":{
 "text":[
-"Meow! ",
+"¡Miau! ",
 "Vine aquí porque escuché que era un festival de salchichas, ",
-"pero todo lo que veo aquí es un grupo de chicos, ¡miau!",
+"pero todo lo que veo aquí es un montón de tios, ¡Miau!",
 
 "Oh, hola, miau ~.",
-"¿Ya escuchaste a todos en el cuartel ",
-"de guardia y en el patio?",
+"¿Has escuchado a todos en el Cuartel ",
+"de Guardia y el Patio?",
 
-"La mayoría de ellos le enseñarán información muy útil.",
-"asi que pasate un rato cuando tengas dudas, miau.",
+"La mayoría de ellos te enseñarán información muy útil.",
+"asi que pásate un rato cuando tengas dudas, miau.",
 "",
 
 "También aparecerán más personas en el patio ",
@@ -4410,26 +4410,26 @@
 "",
 
 "Y no olvides escuchar a la gente dentro del ",
-"comedor después de haberlo reparado, ¡miau!"
+"comedor después de haberlo reparado ¡Miau!"
 ]},
 
 "map17_ev23_p2_1":{
 "text":[
-"¡Miau~! ¡Realmente me gusta este lugar!",
-"Por cierto, ¿quieres escuchar alguna información ",
-"secreta que descubrí mientras caminaba, miau?"
+"¡Miau~! ¡Me encanta este sitio!",
+"Por cierto ¿Quieres oir información ",
+"secreta que descubrí mientras deambulaba, miau?"
 ]},
 "map17_ev23_p2_choice_ending":{
 "text":[
-"Escuchar sobre los finales."
+"Escuchar acerca de los finales."
 ]},
 "map17_ev23_p2_choice_challenge":{
 "text":[
-"Escuchar sobre las carreras de desafío."
+"Escuchar acerca de las partidas de desafío."
 ]},
 "map17_ev23_p2_choice_exit":{
 "text":[
-"Quizas mas tarde."
+"Quizás más tarde."
 ]},
 "map17_ev23_p2_exit":{
 "text":[
@@ -4438,235 +4438,235 @@
 
 "map17_ev23_p2_ending_1":{
 "text":[
-"Hay tres tipos de finales en el juego, ¡miau!",
+"Hay tres tipos de finales en el juego ¡Miau!",
 "2 finales buenos y 1 final malo.",
-"Obtienes el final malo al llegar a 0 Orden, miau.",
-"Mientras tanto, obtienes uno de los finales buenos cuando vences",
-"al jefe final y el final que obtienes depende de tu ",
-"nivel de puta y tus pasivos, ¡miau!",
-"Mantén tu nivel de puta lo más bajo que puedas y ",
-"obtendrás el final de la emperatriz, ¡miau!",
+"Obtienes el final malo cuanto el Orden llega a 0, miau.",
+"Por otro lado, obtienes uno de los finales buenos cuando vences",
+"al jefe final, y el final que obtienes depende de tu ",
+"Nivel de Puta y tus pasivas ¡Miau!",
+"Mantén tu Nivel de Puta lo más bajo que puedas y ",
+"obtendrás el Final Emperatriz ¡Miau!",
 "",
-"Pero si tu nivel de puta es demasiado alto, ¡obtendrás el final feliz!",
-"¡Miauu! Además, puedes seguir jugando en el modo de juego libre ",
-"después de llegar al final feliz, ¡miau! Desafortunadamente, ",
-"no hay una manera fácil de saber qué nivel de puta ",
-"necesitas para llegar al final feliz porque también ",
-"depende mucho de los pasivos que tengas, ¡miau!",
-"¡Sin embargo! Meow! Puedo saber si actualmente ",
-"eres lo suficientemente cachonda como para llegar al final feliz, ",
-"así que siéntete libre de usarme para verificar tu estado, ¡miau!",
-"Aaaaa y ahora... dame un segundo...",
+"Pero si tu Nivel de Puta es demasiado alto ¡Obtendrás el Final Feliz!",
+"¡Miauu! Además, puedes seguir jugando en el Modo de Juego Libre ",
+"después de llegar al Final Feliz ¡Miau! Desafortunadamente, ",
+"no hay una manera fácil de saber qué Nivel de Puta ",
+"necesitas para llegar al Final Feliz porque también ",
+"depende mucho de las pasivas que tengas ¡Miau!",
+"¡Sin embargo! ¡Miau! Puedo saber si ahora mismo",
+"eres lo suficientemente puta como para llegar al Final Feliz.",
+"Así que siéntete libre de usarme para verificar tu estado ¡Miau!",
+"Yyyyy ahora... dame un momento...",
 "Sniff sniff... sniff......",
-"MIAUUUU!"
+"¡MIAUUUU!"
 ]},
 "map17_ev23_p2_nonslut_end_1":{
 "text":[
-"¡Parece que ya estás en camino a Empress End!",
-"Meow!",
+"¡Parece que vas encaminada al Final Emperatriz!",
+"¡Miau!",
 "",
-"Ten cuidado de no conseguir muchos más pasivos si ",
-"quieres conseguir el final de la Emperatriz, ¡miau!",
+"Ten cuidado de no conseguir muchas más pasivas si",
+"quieres conseguir el Final Emperatriz ¡Miau!",
 "",
-"¡O entra y consigue más pasivos si quieres el final feliz!",
-"¡No juzgaré, miau!"
+"¡O entra y consigue más pasivas si quieres el Final Feliz!",
+"¡No te juzgo, miau!"
 ]},
 "map17_ev23_p2_slut_end_1":{
 "text":[
-"¡Parece que te diriges al final feliz!",
-"Felicidades, meow!",
+"¡Parece que vas a por el Final Feliz!",
+"¡Felicidades, meow!",
 "",
-"O si estuvieras intentando ver el Empress End, ¡no estés triste, miau!",
-"Siempre hay opciones para nuevo juego plus, ¡miau!"
+"Si estabas intentando ver el Final Emperatriz ¡No estés triste, miau!",
+"Siempre puedes intentarlo en New Game Plus ¡Miau!"
 ]},
 
 "map17_ev23_p2_challenge_1":{
 "text":[
-"CadaCarrera de desafío te otorga uno de los dos títulos como recompensa, ¡miau!",
-"Y el título que obtienes depende de si estás en modo Guardián.",
-"o si estás en Modo Prisionero, ¡miau!",
-"La recompensa del Modo Prisionero es mejor que la del Modo Guardián, ¡miau!",
-"Y la recompensa del Modo Prisionero reemplazará la recompensa del ",
-"Modo Guardián si obtuviste la recompensa del Modo Guardián, ¡miau!",
-"Tampoco obtendrás una recompensa por superar el desafío en el ",
-"Modo Guardián si ya tienes la recompensa del Modo Prisionero, miau.",
+"Cada Partida de Desafío te otorga uno de los dos Títulos como recompensa ¡Miau!",
+"El título que obtienes depende de si estás en Modo Guardiana.",
+"o si estás en Modo Prisionera ¡Miau!",
+"La recompensa del Modo Prisionera es mejor que la del Modo Guardiana ¡Miau!",
+"Y la recompensa del Modo Prisionera reemplazará la recompensa del",
+"Modo Guardiana si la ovtuviste previamente ¡Miau!",
+"No obtendrás una recompensa por superar el desafío en el",
+"Modo Guardiana si ya tienes la recompensa del Modo Prisionera, miau.",
 "",
 "¡Pero no te preocupes, miau!",
-"No perderás tu recompensa del modo Prisionero si decides hacer el mismo ",
-"desafío nuevamente en el modo Guardián por diversión, ¡miau!",
+"No perderás tu recompensa del modo Prisionera si decides hacer el mismo ",
+"desafío nuevamente en el modo Guardiana por diversión ¡Miau!",
 "Y aquí tienes un consejo secreto, miau. Aunque no puedes cambiar",
-"tu título si quieres completar el desafío, los efectos pasivos de ",
-"todos tus otros títulos aún te ayudan, ¡miau!",
-"Así que depende totalmente de ti si quieres intentar las Carreras de Desafío",
-"cuando hayas recolectado un montón de Títulos para hacer el desafío más fácil,",
-"o hacerlo lo antes posible para mayor dificultad, ¡miau!"
+"tu título si quieres completar el desafío, las pasivas de",
+"todos tus otros títulos hacen efecto ¡Miau!",
+"Así que depende totalmente de ti si quieres intentar las Partidas de Desafío",
+"cuando hayas recolectado un montón de Títulos para hacerlo más fácil,",
+"o hacerlo lo antes posible para mayor dificultad ¡Miau!"
 ]},
 "map17_ev23_p2_challenge_2":{
 "text":[
 "Sniff sniff...",
-"Oh, meow!",
-"Parece que estás en medio de una carrera de desafío, ¡miau!",
-"¿Quieres que te ayude a abandonar tu Carreras de Desafío?",
-"Lo haré para que puedas cambiar tu título nuevamente.",
-"No hay forma de revertir esta decisión para este juego, ¡miau!"
+"Oh ¡Miau!",
+"Parece que estás en mitad de una Partida de Desafío ¡Miau!",
+"¿Quieres que te ayude a abandonar la Partida de Desafío?",
+"Haré para que puedas cambiar tu Título nuevamente.",
+"No puedes revertir esta decisión en esta partida ¡Miau!"
 ]},
 
 "map17_ev23_p2_choice_keep_challenge":{
 "text":[
-"No es necesario, estoy bien."
+"No hace falta, estoy bien."
 ]},
 "map17_ev23_p2_choice_abandon_challenge":{
 "text":[
-"Quiero abandonar el Carrera de desafío."
+"Quiero abandonar la Partida de desafío."
 ]},
 
 "map17_ev23_p2_keep_challenge_1":{
 "text":[
 "¡No hay problema, miau!",
 "¡Estaré aquí si alguna vez cambias de opinión!",
-"¡Buena suerte alli dentro, miau!"
+"¡Buena suerte ahí dentro, miau!"
 ]},
 "map17_ev23_p2_abandon_challenge_1":{
 "text":[
-"Aaaaand esta hecho, meow!",
-"Puedes cambiar tu título nuevamente, meow.",
+"¡Yyyyy listo, Miau!",
+"Puedes cambiar tu Título nuevamente, miau.",
 "",
-"Tan pronto como cambie su título,",
-"tu Carreras de Desafío se considerará abandonada, meow!"
+"Tan pronto como cambies tu Título,",
+"tu Partida de Desafío se considerará abandonada ¡Miau!"
 ]},
 
 
 "map17_ev23_p2_choice_pet":{
 "text":[
-"Acaricia al gatito."
+"Acariciar el gatito."
 ]},
 "map17_ev23_p2_choice_thankyou":{
 "text":[
-"Gracias <3!"
+"¡Gracias!"
 ]},
 "map17_ev23_p2_pet_1":{
 "text":[
-"MEOW~~~♥",
+"MIAU~~~♥",
 "¡Eres muy amable, miau!"
 ]},
 "map17_ev23_p2_thankyou_1":{
 "text":[
-"Eres muy bienvenido, meow~!"
+"¡De nada, miau~!"
 ]},
 
 "map17_ev24_tachiename_1":{
-"text":["Guardia en la pausa para fumar"]},
+"text":["Guardia Fumando"]},
 "map17_ev24_p1_1":{
 "text":[
-"Al parecer, el Jefe de Vigilancia puede obtener hasta 3 Títulos",
-"por dejar que el Fuerte Ganon cayera en quiebra.",
+"Al parecer, la Directora puede obtener hasta 3 Títulos",
+"por dejar que el Fuerte Ganon caiga en bancarrota.",
 "",
-"Pero espero que no permita que la prisión quiebre...",
-"Porque si no me pagan, entonces seguro que no ayudaré a ",
-"mantener este lugar bajo control..."
+"Espero que no permita que la prisión quiebre...",
+"Porque si no me pagan, ya te digo yo que no voy a",
+"ayudar a mantener este lugar bajo control..."
 ]},
 
 "map17_ev63_p2_emperor_1":{
 "text":[
 "Karryn.",
-"Me tomaste por sorpresa cuando dijiste que querías ",
+"Me llevé una sorpresa cuando dijiste que querías",
 "que la ceremonia de la boda se celebrara aquí.",
-"Eso significa cuánto significó este lugar para ti, ¿no?"
+"Es por todo lo que significó este lugar para ti ¿No?"
 ]},
 "map17_ev63_p2_karryn_1":{
 "text":[
 "¡Sí, Su Majestad Imperial!",
-"Aquí en Fuerte Ganon, he experimentado recuerdos irremplazables...",
-"También obtuve lo que podría llamar queridos compañeros para mí.",
+"Aquí en el Fuerte Ganon, he experimentado cosas irremplazables...",
+"También obtuve lo que se podría llamar buenos compañeros.",
 "¡Y todo fue gracias a Su Majestad Imperial!",
 "Muchas gracias."
 ]},
 "map17_ev63_p2_tonkin_1":{
 "text":[
-"OINK--!! ¡¡Señorita Karryn!! ¡¡Eres tan bonita~~~!!",
-"Parece que ese día en que te conocí aquí fue hace tanto tiempo..."
+"¡¡OINK--!! ¡¡Señorita Karryn!! ¡¡Estás muy guapa~~~!!",
+"Parece que fue hace muchísimo cuando nos conocimos aquí..."
 ]},
 "map17_ev63_p2_cargill_1":{
 "text":[
-"Karryn!!",
-"Si alguna vez te sientes enferma, ¡ven a visitarme!",
-"¡¡Completaré cualquier receta que necesites!!"
+"¡¡Karryn!!",
+"Si alguna vez te sientes enferma ¡Ven a visitarme!",
+"¡¡Te recetaré cualquier cosa que necesites!!"
 ]},
 "map17_ev63_p2_aron_1":{
 "text":[
-"¡Mientras no estás, remodelaré el club ",
-"para que luzca aún mejor que antes!",
+"Mientras no estés ¡Voy a reformar el club ",
+"para que sea aún mejor que antes!",
 "",
-"Hasta que termine la remodelación, ",
-"¡relájate y diviértete en la capital!"
+"Hasta que termine la reforma, ",
+"¡Relájate y diviértete en la capital!"
 ]},
 "map17_ev63_p2_noinim_1":{
 "text":[
-"Mujer poderosa...............",
-"Incluso una vez hayas salido aquí......",
-"Nunca olvides seguir perfeccionando cuerpo................",
-"Próxima vez que encontremos, seré vencedor..........!!"
+"Poderosa mujer...............",
+"Incluso aunque hayas salido aquí......",
+"No te olvides seguir perfeccionando ese cuerpo..........",
+"¡¡La próxima vez que nos encontremos, seré vencedor....!!"
 ]},
 "map17_ev63_p2_gobriel_1":{
 "text":[
-"Prisión sin Karryn ¡¡TRISTE!! goblin TRISTE!!"
+"Prisión sin Karryn ¡¡TRISTE!! ¡¡Goblin TRISTE!!"
 ]},
 "map17_ev63_p2_gobriel_2":{
 "text":[
-"......HUH?! ¡¿Qué pasa, qué me pasó?!",
+"¿......HUH?! ¡¿Qué pasa, qué me ha pasado?!",
 "¡¿P-Por qué estoy afuera?!"
 ]},
 "map17_ev63_p2_yasu_1":{
 "text":[
-"......Ahem."
+"......Ejem."
 ]},
 "map17_ev63_p2_yasu_2":{
 "text":[
 "D-Disculpe, S-Su Majestad Imperial......",
-"¿La señorita Karryn ha adornado tus oídos acerca de mí?.....?"
+"¿Le ha hablado la señorita Karryn de mi....?"
 ]},
 "map17_ev63_p2_emperor_2":{
 "text":[
 "Oh eso. Sí. No hay problema.",
-"Es gracias a ti que actualmente estamos aquí así.",
+"Es gracias a ti que actualmente estamos aquí de esta forma.",
 "Estoy profundamente agradecido contigo.",
 "Ahora, en lo que respecta a tu padre.......",
 "Le ofrezco mi más sentido pésame...",
 "",
-"¡Como compensación, prometo asegurar el futuro de Fuerte Ganon!",
+"¡Como compensación, prometo asegurar el futuro del Fuerte Ganon!",
 "Deberíamos poder apoyar al Fuerte Ganon más que nunca ",
 "utilizando la información proporcionada por Karryn."
 ]},
 "map17_ev63_p2_yasu_3":{
 "text":[
-"Muchísimas gracias......!"
+"¡Muchísimas gracias......!"
 ]},
 "map17_ev63_p2_karryn_2":{
 "text":[
 "Yasu.",
 "No seremos sólo yo y Su Majestad Imperial.",
-"Todos aquí estarían ayudándote a hacer de Fuerte Ganon un lugar mejor."
+"Todos aquí estarían ayudándote a hacer del Fuerte Ganon un lugar mejor."
 ]},
 "map17_ev63_p2_karryn_3":{
 "text":[
 "Estamos hablando de mí, ",
-"todavía no me he equivocado."
+"Yo no me equivoco."
 ]},
 "map17_ev63_p2_yasu_4":{
 "text":[
-"Si señora... gracias...!",
+"Si señora... ¡Gracias...!",
 "Por presuntuoso que sea, ahora estaré ",
 "cumpliendo el papel de sacerdote."
 ]},
 "map17_ev63_p2_yasu_5":{
 "text":[
-"Si me permito preguntar, ¿podrían los dos ",
-"queridos intercambiar sus votos con un beso?"
+"Si se me permite ¿Podrían ambos pretendientes",
+"intercambiar sus votos con un beso?"
 ]},
 "map17_ev63_p2_emperor_3":{
 "text":[
 "Fufu... Esto es un poco vergonzoso.",
-"¿Estás listo? Karryn."
+"¿Estás lista? Karryn."
 ]},
 "map17_ev63_p2_karryn_4":{
 "text":[
@@ -4674,46 +4674,46 @@
 ]},
 "map17_ev63_p2_karryn_5":{
 "text":[
-"Smooch♥"
+"Muack♥"
 ]},
 "map17_ev63_p2_emperor_4":{
 "text":[
-"Así es como se siente besarte......",
+"Así que así se siente besarte......",
 "Es como si me llenara de sentimientos de felicidad......!"
 ]},
 "map17_ev63_p2_karryn_6":{
 "text":[
-"E-Es así...?..."
+"¿E-Es así...?..."
 ]},
 "map17_ev63_p2_karryn_7":{
 "text":[
-"(Estoy feliz y todo por poder besar a Su Majestad Imperial......",
-"Pero tal vez por eso, está empezando a surgir un impulso diferente......)"
+"(Estoy feliz por poder besar a Su Majestad Imperial......",
+"Pero quizás por eso, un impulso distinto está empezando a surgir ......)"
 ]},
 "map17_ev63_p2_karryn_8":{
 "text":[
-"D-Disculpe! ¡Su Majestad Imperial!"
+"¡P-perdone! ¡Su Majestad Imperial!"
 ]},
 "map17_ev63_p2_emperor_5":{
 "text":[
-"Hm? ¿Pasa algo?"
+"¿Hm? ¿Pasa algo?"
 ]},
 "map17_ev63_p2_karryn_9":{
 "text":[
 "Lo siento mucho......",
-"¿Pero podrías permitirme arreglarme el maquillaje ",
-"y empolvarme la nariz por un momento?"
+"¿Podrías permitir que me arregle el maquillaje ",
+"y me empolve la nariz un momento?"
 ]},
 "map17_ev63_p2_emperor_6":{
 "text":[
-"Err? ¿Ahora mismo?",
-"Ya me ves bastante hermosa.......",
-"B-Bueno, no me importa."
+"¿Eeh? ¿Ahora mismo?",
+"Para mi gusto estás perfecta ahora mismo.......",
+"B-Bueno, no importa."
 ]},
 "map17_ev63_p2_karryn_10":{
 "text":[
 "Entonces espera aquí un momento.",
-"Ahora si me disculpas."
+"Ahora, si me disculpas."
 ]},
 "map17_ev63_p2_karryn_11":{
 "text":[
@@ -4725,7 +4725,7 @@
 ]},
 "map17_ev63_p2_emperor_7":{
 "text":[
-"Estas bien ahora"
+"¿Estás bien ahora?"
 ]},
 "map17_ev63_p2_karryn_13":{
 "text":[
@@ -4739,12 +4739,12 @@
 ]},
 "map17_ev63_p2_karryn_14":{
 "text":[
-"Smooch♥"
+"Muack♥"
 ]},
 "map17_ev63_p2_karryn_15":{
 "text":[
-"......Entonces, he estado pensando......",
-"¿Me permitirás quedarme aquí un poco más como Directora?"
+"......Vale, he estado pensando......",
+"¿Me permitirías quedarme aquí un poco más como Directora?"
 ]},
 "map17_ev63_p2_emperor_9":{
 "text":[
@@ -4756,27 +4756,27 @@
 ]},
 "map17_ev63_p2_emperor_10":{
 "text":[
-"Nunca haria eso.",
+"Nunca te lo impediría.",
 "Tienes todo mi apoyo para cualquier cosa que desees."
 ]},
 "map17_ev63_p2_karryn_17":{
 "text":[
-"Yay!♥ Gracias♥",
-"Por favor, no olvides mantener los subsidios, ¿de acuerdo?♥"
+"¡Yay!♥ Gracias♥",
+"Por favor, no olvides mantener los subsidios ¿Vale?♥"
 ]},
 "map17_ev63_p2_emperor_11":{
 "text":[
-"Sí. Por supuesto. Ha ha ha......"
+"Sí. Por supuesto. Jajaja......"
 ]},
 "map17_ev63_p2_karryn_18":{
 "text":[
-"¿Hay algo mal?"
+"¿Pasa algo?"
 ]},
 "map17_ev63_p2_emperor_12":{
 "text":[
 "No... No, es sólo que realmente has ",
 "cambiado desde que llegaste aquí.",
-"Por supuesto que lo digo en el buen sentido."
+"Ah, pero lo digo en el buen sentido."
 ]},
 "map17_ev63_p2_karryn_19":{
 "text":[
@@ -4785,8 +4785,8 @@
 ]},
 "map17_ev63_p2_karryn_20":{
 "text":[
-"Así que lo escuchaste a todos!",
-"Estaré a tu cuidado una vez más♥"
+"¡Así que todos lo habeis escuchado!",
+"Estaré a vuestro cuidado una vez más♥"
 ]},
 "map17_ev63_p2_narration_1":{
 "text":[
@@ -4798,99 +4798,99 @@
 
 
 "map18_ev1_tachiename_1":{
-"text":["Guardia flojo"]},
+"text":["Guardia vago"]},
 
 "map18_ev1_p1_first_1":{
 "text":[
-"Oh mierda, me descubrieron...",
-"¿Eh? ¿No eres la nueva Alcaide... Karryn, verdad?",
+"Oh mierda, me han descubierto...",
+"¿Eh? ¿Eres la nueva Directora... Karryn, verdad?",
 "",
-"¿Qué diablos estoy haciendo aquí, preguntas?",
-"Uh, umm, estoy en un descanso ahora mismo, sí...",
+"¿Qué que estoy haciendo aquí preguntas?",
+"Uh, umm, estoy en un descanso ahora mismo, sí, eso...",
 "",
-"Oh, sí, digamos, ¿estás interesado en ganar dinero fácil?",
+"Ah, sí, por cierto ¿Estás interesada en ganar dinero fácil?",
 "Todo lo que tienes que hacer es masturbarnos a mí y a mis amigos y te pagaremos.",
-"Vamos, que hace días que no vemos un pollito, échanos una mano, ¿quieres...?"
+"Vamos, que hace días que no vemos una tia, échanos una mano ¿Quieres...?"
 ]},
 
 "map18_ev1_p1_notfirst_1":{
 "text":[
-"¡Oh! ¡Oye, has vuelto!",
-"Entonces, ¿estás dispuesto a hacerlo otra vez? ¿El mismo trato que la última vez?",
-"¡Divirtámonos hoy! Vamos ~~."
+"¡Oh! ¡Anda, has vuelto!",
+"Entonces ¿Estás dispuesta a hacerlo de nuevo? ¡¿El mismo trato que la última vez?!",
+"¡Venga! Vamos a divertirnos~~."
 ]},
 
 "map18_ev1_p1_text_1":{
 "text":[
-"Decir que sí aumentará \\I[413]\\C[10]Agresión de guardia\\C[0].",
-"Los guardias se vuelven más audaces con mayor \\I[413]\\C[10]Agresión de guardia\\C[0].",
-"Karryn obtendrá dinero por cada guardia sometido."
+"Aceptar aumentará la \\I[413]\\C[10]Agresividad de los Guardias\\C[0].",
+"Los Guardias se vuelven más atrevidos con mayor \\I[413]\\C[10]Agresividad de los",
+"Guardias\\C[0]. Karryn obtendrá dinero por cada Guardia sometido."
 ]},
 
 "map18_ev1_p1_first_2":{
 "text":[
 "¡¿Qué dices?!",
 "¡No te decepcionarás con nuestro tamaño!",
-"Nos encargamos de entrenar todos los días si sabes a qué me refiero.♪"
+"Entrenamos todos los días, si sabes a qué me refiero.♪"
 ]},
 
 "map18_ev1_p1_first_choice_no":{
-"text":["¿Qué? ¡NO! ¡Soy tu jefe!"]},
+"text":["¿Qué? ¡NO! ¡Soy tu jefa!"]},
 "map18_ev1_p1_first_choice_yes":{
-"text":["Hmph... tengo otra idea. ¡Muéstrame de lo que eres capaz!"]},
+"text":["Hmph... tengo otra idea. ¡Mostradme de qué sois capaces!"]},
 
 "map18_ev1_p1_passive0_choice_no":{
-"text":["A diferencia de ustedes, perdedores, ¡estoy muy ocupado! ¡No tengo tiempo para ti!"]},
+"text":["A diferencia de vosotros, perdedores, ¡Estoy muy ocupada! ¡No tengo tiempo para vosotros!"]},
 "map18_ev1_p1_passive0_choice_yes":{
-"text":["Suspiro... hagamos esto rápido y no olvides pagar."]},
+"text":["*Suspiro*... hagamos esto rápido. Y no olvideis pagar."]},
 
 "map18_ev1_p1_passive1_choice_no":{
-"text":["No puedo, estoy ocupado hoy."]},
+"text":["No puedo, estoy ocupada hoy."]},
 "map18_ev1_p1_passive1_choice_yes":{
-"text":["Bien, también me sentía un poco aburrida."]},
+"text":["Vale, estaba un poco aburrida."]},
 
 "map18_ev1_p1_passive2_choice_no":{
 "text":["Lo siento muchachos... pero tengo otros planes para hoy."]},
 "map18_ev1_p1_passive2_choice_yes":{
-"text":["Oh, sabes, yo no diría que no a eso.♥"]},
+"text":["Oh, ya sabes que no os puedo decir que no a eso.♥"]},
 
 "map18_ev1_p1_passive3_choice_no":{
 "text":["Lo siento~♪ Quizás la próxima vez.♥"]},
 "map18_ev1_p1_passive3_choice_yes":{
-"text":["Claro ♥ Por eso estoy aquí ♥ Saca tus polla pora tu jefa ♥"]},
+"text":["Claro ♥ Por eso estoy aquí ♥ Sacaos la polla para vuestra jefa ♥"]},
 
 "map18_ev1_p2_nopassive_1":{
 "text":[
-"Je je, eso fue divertido.",
-"Oye, ¿mañana a la misma hora?",
-"Por favor?"
+"Je je, ha sido divertido.",
+"Oye, ¿Mañana a la misma hora?",
+"¿Por favor?"
 ]},
 
 "map18_ev1_p2_passive_1":{
 "text":[
-"Jejeje... Eso fue divertido......!",
+"Jejeje... ¡Ha sido divertido......!",
 "Vuelve aquí mañana y hagámoslo de nuevo."
 ]},
 
 "map18_ev1_p2_passive_2":{
 "text":[
-"Oh hombre~ Hoy también estuvo genial.♥",
-"Cada día está mejorando, jefa. ♥",
+"Buah~ Hoy también estuvo genial.♥",
+"Cada día lo haces mejor, jefa. ♥",
 "Si sabes a qué me refiero.♥ ¡Vuelve mañana~!"
 ]},
 
 "map18_ev1_p2_passive_3":{
 "text":[
-"Haa haa......♥",
-"Te... has convertido realmente en una puta incondicional.♥",
+"Aah aah......♥",
+"Te... has convertido en una puta de las buenas.♥",
 "Gracias a ti, ya no necesitamos masturbarnos ~",
-"Oh cierto,",
-"No pases todo tu tiempo jugando con nosotros y haz tu trabajo, ¿de acuerdo? ♥"
+"Ah cierto,",
+"No pases todo tu tiempo jugando con nosotros y haz tu trabajo ¿De acuerdo? ♥"
 ]},
 
 "map18_ev3_can_not_enter_next_room_name":{
 "text":[
-"el cuarto de guardia"
+"el cuartel de la guardia"
 ]},
 "map18_ev5_can_not_enter_next_room_name":{
 "text":[
@@ -4899,24 +4899,24 @@
 
 "map18_ev6_p1_karryn_1":{
 "text":[
-"Esta es la enfermería. No necesito entrar allí ahora mismo."
+"Esta es la enfermería. No necesito entrar ahí ahora mismo."
 ]},
 
 
 "map18_ev8_tachiename_1":{
-"text":["Guardia enojado"]},
+"text":["Guardia Pendenciero"]},
 "map18_ev8_tachiename_2":{
 "text":["Guardia complacido"]},
 
 "map18_ev8_p1_1":{
 "text":[
 "Quiero ejecutar al maldito idiota que destrozó la cocina.",
-"Ahora todos en la prisión están atrapados comiendo comida enlatada."
+"Ahora todo el mundo solo puede comer comida enlatada."
 ]},
 
 "map18_ev8_p2_1":{
 "text":[
-"¡Directora Karryn~! ¡¡Eres una maldita diosa~!!",
+"¡Directora Karryn~! ¡¡Eres una diosa~!!",
 "¡Gracias a que arreglaste la cocina, no tenemos que comer  ",
 "guisantes enlatados en cada comida~! ¡¡Dios la bendiga!!"
 ]},
@@ -4929,14 +4929,14 @@
 
 "map18_ev13_p1_1":{
 "text":[
-"Al menos no eran lo suficientemente tontos como para destrozar la enfermería.",
+"Al menos no fueron lo suficientemente tontos como para destrozar la enfermería.",
 "Ya sabes, el lugar que los mantiene con vida cada ",
-"vez que hacen algo estúpido y resultan heridos."
+"vez que hacen algo estúpido y acaban heridos."
 ]},
 
 "map18_ev13_p2_1":{
 "text":[
-"Ooo, es la Directora!",
+"Oooh, ¡Es la Directora!",
 "¡Eres tan sabia y talentosa como dicen los rumores!",
 "¡Salva este fuerte de la misma manera que salvaste el comedor y la cocina!"
 ]},
@@ -4957,7 +4957,7 @@
 
 "map18_ev15_p1_1":{
 "text":[
-"¿Quién fue el imbécil que destrozó la cocina y el comedor?"
+"¡¿Quién fue el imbécil que destrozó la cocina y el comedor?!"
 ]},
 
 
@@ -4968,39 +4968,39 @@
 
 
 "map18_ev18_tachiename_1":{
-"text":["Valiente Guardia Imperial"]},
+"text":["Guardia Imperial Valiente"]},
 "map18_ev18_tachiename_2":{
-"text":["Joven Guardian nervioso"]},
+"text":["Guardian Nervioso Joven"]},
 "map18_ev18_tachiename_3":{
-"text":["Guardia de aspecto peligroso"]},
+"text":["Guardia de Aspecto Peligroso"]},
 
 "map18_ev18_p1_1":{
 "text":[
 "¡No se preocupe, secretaria imperial!",
-"¡Ni siquiera un ratón entrará en tu oficina mientras estoy de servicio!"
+"¡Ni siquiera un ratón entrará en su oficina mientras estoy de servicio!"
 ]},
 "map18_ev18_p2_1":{
 "text":[
-"¡Secretario imperial! Tu apariencia......",
-"¡¿Qué pasó ahí fuera?!",
-"¡¡No importa eso, por favor entra y descansa!!"
+"¡Secretaria imperial! Tu apariencia......",
+"¡¿Qué ha pasado ahí fuera?!",
+"¡¡No importa, por favor entra y descansa!!"
 ]},
 "map18_ev18_p3_1":{
 "text":[
-"Señora Directora! ",
-"¡N-No te preocupes, no dejaré que nadie entre a tu oficina!"
+"¡Señora Directora! ",
+"¡N-No te preocupes, no dejaré que nadie entre en su oficina!"
 ]},
 "map18_ev18_p4_1":{
 "text":[
 "S-s-señora Directora! ",
-"¡N-No es seguro ahí afuera con ese aspecto!",
-"P-¡Por favor entre y cúbrase!"
+"¡N-No es seguro andar ahí afuera con ese aspecto!",
+"¡P-Por favor entre y cúbrase!"
 ]},
 "map18_ev18_p5_1":{
 "text":[
-"Heh heh, hey Jefa. ",
-"No te preocupes, estoy vigilando aquí.",
-"No dejaré que nadie que no conozca entre a su oficina."
+"Jeje, hey Jefa. ",
+"No te preocupes, estoy vigilando por aquí.",
+"No dejaré que nadie que no conozca entre en tu oficina."
 ]},
 
 
