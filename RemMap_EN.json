@@ -5005,27 +5005,27 @@
 
 
 "map18_ev19_tachiename_1":{
-"text":["Guardia imperial cool"]},
+"text":["Guardia Imperial Guay"]},
 
 "map18_ev19_p1_1":{
 "text":[
-"No confiaría en la gente de aquí ni siquiera para abrirme la puerta.",
+"No confiaría en la gente de aquí ni para abrirme la puerta.",
 "Secretaria, estaremos tomando turnos para defender su santuario.",
 "Tenga mucho cuidado ahí fuera."
 ]},
 
 "map18_ev24_p2_1":{
 "text":[
-"Parece que esa habitación aún está en reparación."
+"Parece que esa habitación todavía se está reparando."
 ]},
 
 "map18_ev26_tachiename_1":{
-"text":["Mensajero de la capital"]},
+"text":["Mensajero de la Capital"]},
 
 "map18_ev26_p1_1":{
 "text":[
-"¡Buen trabajo en su subyugación del Nivel \\V[33], señorita Karryn!",
-"Su Majestad Imperial el Emperador ha decidido aumentar los ",
+"¡Buen trabajo en la subyugación del Nivel \\V[33], señorita Karryn!",
+"Su Majestad Imperial, el Emperador, ha decidido aumentar los ",
 "\\C[11]\\I[370]Subsidios\\C[0] para la prisión.",
 
 "Su Majestad Imperial también os ha enviado un regalo.",
@@ -5038,55 +5038,55 @@
 "map18_ev26_p1_LvX_desc_0":{
 "text":[
 "Selecciona el regalo que el Emperador ha elegido darle a Karryn.",
-"El efecto de este regalo siempre estará activo y cuando Karryn no pierda el regalo ",
+"El efecto de este regalo siempre estará activo mientras Karryn no pierda el regalo ",
 "de alguna manera. El regalo elegido aquí no tiene ningún efecto en la historia."
 ]},
 
 "map18_ev26_p1_Lv1_choice_1":{
-"text":["1. \\I[184]Estatua de madera tallada"]},
+"text":["1. \\I[184]Estatua de Madera Tallada"]},
 "map18_ev26_p1_Lv1_choice_2":{
-"text":["2. \\I[184]Chocolate caro"]},
+"text":["2. \\I[184]Chocolate Caro"]},
 "map18_ev26_p1_Lv1_choice_3":{
-"text":["3. \\I[184]Flores de arvejilla dulce"]},
+"text":["3. \\I[184]Ramo de Arvejillas"]},
 "map18_ev26_p1_Lv1_choice_4":{
-"text":["4. \\I[184]Estuche para gafas de color ámbar"]},
+"text":["4. \\I[184]Estuche de Ámbar para Gafas"]},
 "map18_ev26_p1_Lv1_choice_5":{
 "text":["5. \\I[184]Directrices del héroe Vol.1"]},
 
 "map18_ev26_p1_Lv1_desc_1":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[448]Atake +5%"
+"Efecto del Regalo: \\C[11]\\I[448]Atake +5%"
 ]},
 
 "map18_ev26_p1_Lv1_desc_2":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[380]Estamina +10%"
+"Efecto del Regalo: \\C[11]\\I[380]Resistencia +10%"
 ]},
 
 "map18_ev26_p1_Lv1_desc_3":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[378]Encanto +2",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 45 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[378]Encanto +2",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 45 para seleccionar este regalo."
 ]},
 
 "map18_ev26_p1_Lv1_desc_4":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[428]Tasa crítica +10%",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 30 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[428]Porcentaje de crítico +10%",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 30 para seleccionar este regalo."
 ]},
 
 "map18_ev26_p1_Lv1_desc_5":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[446]Resistencia al desnudo +15%",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 20 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[446]Resistencia al desnudo +15%",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 20 para seleccionar este regalo."
 ]},
 
 "map18_ev26_p1_Lv2_choice_1":{
-"text":["1. \\I[184]Osito Teddy"]},
+"text":["1. \\I[184]Osito de Peluche"]},
 "map18_ev26_p1_Lv2_choice_2":{
-"text":["2. \\I[184]Pañuelo de seda"]},
+"text":["2. \\I[184]Pañuelo de Seda"]},
 "map18_ev26_p1_Lv2_choice_3":{
-"text":["3. \\I[184]Lapiz labia de lujo"]},
+"text":["3. \\I[184]Pintalabios de lujo"]},
 "map18_ev26_p1_Lv2_choice_4":{
 "text":["4. \\I[184]Pluma de obsidiana"]},
 "map18_ev26_p1_Lv2_choice_5":{
@@ -5094,26 +5094,26 @@
 
 "map18_ev26_p1_Lv2_desc_1":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[466]Defensa +5%"
+"Efecto del Regalo: \\C[11]\\I[466]Defensa +5%"
 ]},
 "map18_ev26_p1_Lv2_desc_2":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[382]Energia +10%"
+"Efecto del Regalo: \\C[11]\\I[382]Energia +10%"
 ]},
 "map18_ev26_p1_Lv2_desc_3":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[378]Encanto +2",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 60 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[378]Encanto +2",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 60 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_Lv2_desc_4":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[414]Evasión crítica +15%",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 40 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[414]Evasión de crítico +15%",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 40 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_Lv2_desc_5":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[438]Resistencia al hablar +15%",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 30 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[438]Resistencia a hablar +15%",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 30 para seleccionar este regalo."
 ]},
 
 "map18_ev26_p1_Lv3_choice_1":{
@@ -5129,32 +5129,32 @@
 
 "map18_ev26_p1_Lv3_desc_1":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[422]Precisión +5%"
+"Efecto del Regalo: \\C[11]\\I[422]Precisión +5%"
 ]},
 "map18_ev26_p1_Lv3_desc_2":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[430]Daño Critico +10%"
+"Efecto del Regalo: \\C[11]\\I[430]Daño Critico +10%"
 ]},
 "map18_ev26_p1_Lv3_desc_3":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[378]Encanto +2",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 75 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[378]Encanto +2",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 75 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_Lv3_desc_4":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[474]Control de daño +7%",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 55 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[474]Control de daño +7%",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 55 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_Lv3_desc_5":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[442]Resistencia a las miradas +20%",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 40 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[442]Resistencia a las miradas +20%",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 40 para seleccionar este regalo."
 ]},
 
 "map18_ev26_p1_Lv4_choice_1":{
-"text":["1. \\I[184]Estatua de la diosa"]},
+"text":["1. \\I[184]Estatua de la Diosa"]},
 "map18_ev26_p1_Lv4_choice_2":{
-"text":["2. \\I[184]Caja musical Blancanieves"]},
+"text":["2. \\I[184]Caja musical de Blancanieves"]},
 "map18_ev26_p1_Lv4_choice_3":{
 "text":["3. \\I[184]Tiara de los santos"]},
 "map18_ev26_p1_Lv4_choice_4":{
@@ -5164,26 +5164,26 @@
 
 "map18_ev26_p1_Lv4_desc_1":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[360]Exp Rate +25%"
+"Efecto del Regalo: \\C[11]\\I[360]+25% de experiencia"
 ]},
 "map18_ev26_p1_Lv4_desc_2":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[418]Fatigue Gain Rate -15%"
+"Efecto del Regalo: \\C[11]\\I[418]Ganancia de fatiga -15%"
 ]},
 "map18_ev26_p1_Lv4_desc_3":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[378]Encanto +2",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 85 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[378]Encanto +2",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 85 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_Lv4_desc_4":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[454]Regreneracion de Estamina +3%",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 65 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[454]Regeneracion de resistencia +3%",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 65 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_Lv4_desc_5":{
 "text":[
-"Efecto de regalo: \\C[11]\\I[472]Regeneracion de Voluntad +3%",
-"\\C[31]Requiere que el nivel de puta de Karryn sea menor a 50 para seleccionar este regalo."
+"Efecto del Regalo: \\C[11]\\I[472]Regeneracion de Voluntad +3%",
+"\\C[31]El Nivel de Puta de Karryn debe ser menor a 50 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_2":{
 "text":[
@@ -5197,118 +5197,118 @@
 ]},
 "map18_ev26_p2_karryn_Lv1_2":{
 "text":[
-"(¡Este juego de chocolate favorito de Su Majestad Imperial...!",
-"Si no estuviera atrapado en una prisión, ",
+"(¡Esta caja de chocolates es la favorita de Su Majestad Imperial...!",
+"Si no estuviera atrapada en una prisión, ",
 "me gustaría disfrutarlos con una taza de café.)"
 ]},
 "map18_ev26_p2_karryn_Lv1_3":{
 "text":[
-"(¡La compasión de Su Majestad Imperial no tiene límites al ",
-"enviarme flores para alegrar mi día dentro de esta triste prisión!)"
+"(¡La compasión de Su Majestad Imperial no conoce límites!",
+"¡Enviándome flores para alegrar mi día dentro de esta triste prisión!)"
 ]},
 "map18_ev26_p2_karryn_Lv1_4":{
 "text":[
 "(¡Qué bonito estuche para gafas!",
-"Oh, Su Majestad Imperial... ¿ha estado bien ",
-"sin mí a su lado como su secretaria...?)"
+"Oh, Su Majestad Imperial... ¿Ha estado bien ",
+"sin mi ayuda como su secretaria...?)"
 ]},
 "map18_ev26_p2_karryn_Lv1_5":{
 "text":[
-"(Este es el libro que siempre leí cuando era estudiante......!",
-"¡Su Majestad Imperial realmente me entiende!",
-"¡No como los idiotas groseros en esta prisión!)"
+"(¡Este es el libro que siempre leía cuando era estudiante......!",
+"¡Su Majestad Imperial me entiende perfectamente!",
+"¡No como los idiotas asquerosos de esta prisión!)"
 ]},
 
 "map18_ev26_p2_karryn_Lv2_1":{
 "text":[
-"(¡Oh, qué lindo osito de peluche...!",
-"Creo que encontré el lugar perfecto para él en el sofá.)"
+"(¡Oh, qué osito de peluche más mono...!",
+"Creo que tengo el sitio perfecto para él en el sofá.)"
 ]},
 "map18_ev26_p2_karryn_Lv2_2":{
 "text":[
-"(Su Majestad Imperial siempre ha sido un primer hombre para las mujeres.",
-"Este pañuelo de seda es perfecto para usarlo en mi piel.)"
+"(Su Majestad Imperial siempre ha sido un hombre muy caballeroso.",
+"Este pañuelo de seda va perfecto con mi piel.)"
 ]},
 "map18_ev26_p2_karryn_Lv2_3":{
 "text":[
-"(¡Oh! ¡No esperaba un regalo cosmético...!",
-"Y también es de una marca famosa...",
-"Realmente amo el color.)"
+"(¡Oh! ¡No esperaba cosmética...!",
+"Y además es de una marca famosa...",
+"Me gusta mucho el color.)"
 ]},
 "map18_ev26_p2_karryn_Lv2_4":{
 "text":[
-"(¡Esta es una pluma estilográfica de obsidiana! ¡Y está hecho para que ",
-"luzca exactamente igual al que siempre usé cuando era Secretario Imperial!",
-"Su Majestad Imperial realmente me había estado prestando atención...)"
+"(¡Es una pluma estilográfica de obsidiana! ¡Y está hecha igual que",
+"la que siempre usaba cuando era Secretaria Imperial!",
+"Su Majestad Imperial realmente me presta atención...)"
 ]},
 "map18_ev26_p2_karryn_Lv2_5":{
 "text":[
-"(Volumen 2?!",
+"(¡¿El volumen 2?!",
 "No sabía que Directrices del héroe tenía una secuela...",
-"Pero no sé si tengo tiempo para leer esto ahora mismo...)"
+"Pero no sé si tengo tiempo de leer esto ahora mismo...)"
 ]},
 
 "map18_ev26_p2_karryn_Lv3_1":{
 "text":[
-"(¡Tantas frutas frescas...!",
-"Está muy bien decorado también.",
-"Pondré esto en la oficina.)"
+"(¡Qué de frutas frescas...!",
+"también está muy bien decorado.",
+"Voy a poner esto en la oficina.)"
 ]},
 "map18_ev26_p2_karryn_Lv3_2":{
 "text":[
-"(¡Hay una foto mía con Su Majestad Imperial adentro...!",
+"(¡Dentro hay una foto mía con Su Majestad Imperial...!",
 "Ohh... Su Majestad Imperial realmente se preocupa por mí...)"
 ]},
 "map18_ev26_p2_karryn_Lv3_3":{
 "text":[
 "(¿Oh? ¿Qué es esto? Nunca había visto esta marca de perfume antes...",
-"Pero la artesanía de la botella es obviamente de primera clase...",
-"¡Esto es algo que los presos aquí nunca podrían conseguir!) "
+"Pero la calidad de fabricación de la botella es de primera...",
+"¡Es algo que los presos de aquí nunca podrían conseguir!) "
 ]},
 "map18_ev26_p2_karryn_Lv3_4":{
 "text":[
-"(Esta textura y sensación... ¿esta billetera está hecha de... piel de dragón?",
+"(Esta textura y sensación... ¿Esta billetera está hecha de... piel de dragón?",
 "Incluso un emperador como Su Majestad Imperial ",
-"tendría problemas para conseguir esto...)",
+"tendría problemas para conseguir algo así...)",
 "(¡¡Debo trabajar más duro de ahora en adelante para cumplir ",
 "con las altas expectativas de Su Majestad Imperial...!!)"
 ]},
 "map18_ev26_p2_karryn_Lv3_5":{
 "text":[
 "(¿Es esto... el Volumen Tres?",
-"Oh chico... ni siquiera he leído el Volumen Dos todavía...)"
+"Oh... ni siquiera he leído el Volumen Dos todavía...)"
 ]},
 
 "map18_ev26_p2_karryn_Lv4_1":{
 "text":[
-"(¡W-Guau...! ¡¡Qué maravillosa estatua de la diosa……!!",
-"Su Majestad está realmente un paso, no, un salto por encima de todos los demás.",
-"¿Y estoy siendo demasiado cohibida, o la cara se parece mucho a la mía ...?)"
+"(¡G-Guau...! ¡¡Qué estatua de la diosa tan maravillosa……!!",
+"Su Majestad realmente está un paso... No, un salto por encima de todo el mundo.",
+"¿Soy yo, o la cara se parece mucho a la mía ...?)"
 ]},
 "map18_ev26_p2_karryn_Lv4_2":{
 "text":[
-"(Esta es una caja de música de color blanco puro y sin una mota de suciedad.",
+"(Es una caja de música de color blanco puro y sin una sola mota de polvo.",
 "Y la canción es... el himno a los ciudadanos.",
 "Fufu. Es muy propio de Su Majestad Imperial elegir este regalo.)"
 ]},
 "map18_ev26_p2_karryn_Lv4_3":{
 "text":[
-"(¡Esta es una tiara que solo se otorga a las santas caballeras consumadas...!",
-"En otras palabras, ¡esto es una prueba de que ",
-"Su Majestad Imperial tiene un concepto muy alto de mí!)"
+"(¡Es una tiara que solo se otorga a quienes logran ser caballeras santas...!",
+"En otras palabras, ¡Es una prueba de que ",
+"Su Majestad Imperial piensa muy bien de mí!)"
 ]},
 "map18_ev26_p2_karryn_Lv4_4":{
 "text":[
-"(¡Qué hermosa obra de arte en cristal!",
+"(¡Qué hermosa obra de arte de cristal!",
 "¡Esta botella de cristal tiene que ser un tesoro muy valioso!)"
 ]},
 "map18_ev26_p2_karryn_Lv4_5":{
 "text":[
-"(D-De ninguna manera... ¿Es esto...?",
-"¿El legendario capítulo final cuya existencia ",
-"sólo se intuye en susurros?)",
-"(¡En verdad, Su Majestad Imperial nunca deja de sorprenderme!",
-"¡Solo alguien verdaderamente con múltiples talentos ",
+"(I-imposible... ¿Es esto...?",
+"¿El legendario capítulo final, del que se",
+"especulaba su existencia?)",
+"(¡Realmente Su Majestad Imperial nunca deja de sorprenderme!",
+"¡Solo alguien con tantos talentos",
 "podría haber conseguido este libro legendario...!)"
 ]},
 
@@ -5323,19 +5323,19 @@
 "",
 "",
 
-"Primero que nada, felicitaciones.",
-"He recibido informes de que ya has podido mostrar resultados.",
+"Antes que nada, felicidades.",
+"He recibido informes de que ya estás demostrando resultados.",
 "Sigues superando mis expectativas.",
 
 "No puedo hacer mucho por mi parte para ayudarte en tu objetivo, ",
-"así que acepta este pequeño obsequio de mi parte como muestra ",
+"así que acepta este pequeño obsequio de mi parte, como muestra ",
 "de mi deseo de que sigas teniendo éxito.",
 
-"No he recibido ninguna información nueva con respecto a la trama.",
-"Sin embargo, tengo fe en que podrá frenar los disturbios en Fuerte Ganon ",
-"antes de que sus efectos se extiendan más allá de los límites de Fuerte Ganon.",
+"No he recibido ninguna información nueva con respecto al complot.",
+"Sin embargo, tengo fe en que podrás frenar los disturbios en el Fuerte Ganon ",
+"antes de que sus efectos se extiendan más allá de los límites de la prisión.",
 
-"Aplique la debida diligencia y continúe protegiendo su estado de cualquier daño.",
+"Actua con la debida diligencia y continúa protegiendo tu cuerpo de cualquier daño.",
 "",
 "　　　　　　　　　　　- El Emperador de Zanados, Oribus Sykes IV"
 ]},
@@ -5347,30 +5347,30 @@
 "",
 
 "¿Has estado bien últimamente?",
-"He estado manteniendo la cabeza en alto mientras los informes sobre el orden ",
-"mejorado de Fuerte Ganon siguen llegando a la corte imperial.",
+"Mantengo la cabeza bien alto en la corte imperial conforme van llegando",
+"informes acerca de la mejoría del estado del Fuerte Ganon.",
 
-"Te he enviado otro pequeño regalo, ",
+"Te he enviado otro pequeño regalo,",
 "espero que te guste.",
 "",
 
-"Su asignación como nueva jefa de guardia del Fuerte Ganon se ha convertido ",
-"en un gran tema de noticias en todo el mundo. Gracias a toda la nueva atención, ",
+"Tu nueva posición como la Directora del Fuerte Ganon se ha convertido ",
+"en un tema de conversación en todo el mundo. Gracias a toda esta nueva atención, ",
 "el interés de la gente en el Fuerte Ganon ha aumentado dramáticamente.",
 
 "Quizás esto sea algo inevitable dada tu popularidad en todo el mundo,",
-"pero todavía me duele el corazón escuchar a la gente difundir tabloides ",
-"y chismes sobre ti y el Fuerte Ganon.",
+"pero me sigue doliendo en el alma escuchar a la gente difundir prensa amarillista",
+"y cotilleos sobre ti y el Fuerte Ganon.",
 
 "Sin embargo, afortunadamente, el público no ha oído hablar ni ha difundido ningún",
-"rumor sobre la conspiración de Fuerte Ganon para rebelarse contra el imperio.",
+"rumor sobre la conspiración del Fuerte Ganon para rebelarse contra el imperio.",
 "",
 
-"Actualmente, alguien ha sido asignado como Secretario Imperial interino, ",
-"pero me ha resultado difícil separar mis expectativas del puesto de tu gran ",
-"sombra. Me he dado cuenta una vez más de lo excelente que eres.",
+"Actualmente, alguien ha sido asignado como Secretario Imperial interino,",
+"pero me ha resultado difícil separar mis expectativas del puesto de tu legado.",
+"Me he dado cuenta una vez más de lo excelente que eres.",
 
-"Con sueños sobre el día en que pueda ver tu cara sonriente otra vez,",
+"Con sueños sobre el día en que pueda ver tu sonrisa otra vez,",
 "",
 "　　　　　　　　　　　- El Emperador de Zanados, Oribus Sykes IV"
 ]},
@@ -5386,62 +5386,62 @@
 "desde que llegaste al Fuerte Ganon.",
 
 "No pensé que no podría verte durante tantos días. ",
-"Y debe haber sido extraordinariamente difícil ",
+"Debe haber sido extraordinariamente difícil ",
 "para ti vivir tanto tiempo dentro de una prisión.",
 
 "Eres una mujer inteligente y fuerte.",
 "Por eso tengo fe en que cumplirás con tu deber.",
 "Sin embargo, no puedo evitar preocuparme por ti.",
 
-"Permítanme ser honesto. De hecho, quería ayudarte a entrenarte.",
+"Permíteme ser honesto. Quería ayudar a entrenarte.",
 "Entre todas las mujeres que he visto, definitivamente eres la más capaz.",
 "Sin embargo, sólo tienes un defecto.",
 
-"Que es tu orgullo ilimitado por ser excelente en todo.",
-"He pensado en convertirte en mi emperatriz..."
+"Que es tu orgullo sin límites por ser excelente en todo.",
+"He he estado pensando en convertirte en mi emperatriz..."
 ]},
 
 "map18_ev26_p2_letter3_2":{
 "text":[
 "Pero también pensé en esto.",
-"Si te elevo para convertirte en emperatriz, ",
+"Si te convierto en emperatriz, ",
 "al final tu orgullo será tu perdición.",
 
-"Entonces, para que puedas convertirte adecuadamente en un representante del imperio, ",
+"Así que, para que puedas convertirte en una buena representante del imperio, ",
 "quería que aprendieras a tratar con los ciudadanos, sin importar quiénes sean.",
 "",
 
 "Deseaba que obtuvieras la capacidad de evaluar cuándo y ",
-"dónde deberías sacar el arma y la herramienta adecuadas.",
+"dónde deberías sacar el arma o las herramientas adecuadas.",
 "",
 
-"Y el deber que elegí para que aprendieras esto fue Fuerte Ganon.",
-"Cuando Yasu me contactó, pensé, lo encontré, ",
-"aquí es donde la enviaré para que aprenda y crezca.",
+"Y el deber que elegí para que aprendieras esto fue el Fuerte Ganon.",
+"Cuando Yasu me contactó, pensé: 'Lo encontré, ",
+"aquí es donde la enviaré para que aprenda y crezca'.",
 
 "Sin embargo......",
 "",
 "",
 
-"Actualmente, he llegado a lamentar mucho mi escandalosa sugerencia.",
-"Cuando pienso con cariño en nuestros días normales e ",
-"inmutables de antes juntos, me siento como un tonto.",
+"A día de hoy, he llegado a lamentar mucho aquella sugerencia.",
+"Cuando pienso con cariño en aquellos días",
+"que pasábamos juntos, me siento como un tonto.",
 
 "Ríete de este tonto emperador.",
-"Gracias a ti me he dado cuenta de que todavía estoy ",
-"incompleto y sin experiencia como gobernante.",
+"Gracias a ti, me he dado cuenta de que todavía estoy ",
+"incompleto y que me falta experiencia como gobernante.",
 
-"Nunca en mis sueños más locos ",
-"dpensé que sería tan insoportable ",
+"Ni en sueños pensé",
+"que sería tan insoportable ",
 "no estar cerca de ti.",
 
-"Escuchar informes sobre cómo te va es el ",
-"único punto positivo en mis días ahora.",
+"Ahora, escuchar informes sobre cómo te va, es el ",
+"único punto positivo en mis días.",
 "",
 
 "Para subyugar al Fuerte Ganon ",
-"y poder ayudarlos, prometo continuar ",
-"apoyándolos plenamente.",
+"y para ayudarte, prometo continuar ",
+"apoyándote plenamente.",
 
 "Con oraciones al cielo por verte aunque sea un segundo antes,",
 "",
@@ -5454,11 +5454,11 @@
 "",
 "",
 
-"Han pasado \\V[9] días desde que te fuiste de mi lado......",
+"Han pasado \\V[9] días desde que te separaste de mi......",
 "Dentro del imperio, el interés por el tema del Fuerte Ganon",
 "ha ido disminuyendo gradualmente.",
 
-"Esta es una prueba más de que su trabajo claramente ",
+"Esta es una prueba más de que tu trabajo claramente ",
 "está teniendo éxito y que ninguna influencia maligna ",
 "ha escapado del Fuerte Ganon y ha llegado al mundo exterior.",
 
@@ -5466,29 +5466,29 @@
 "La amplitud de tus talentos ha superado mis imaginaciones más locas.",
 "",
 
-"Cuanto más largo es el período de tiempo en el que has estado separado de mí,",
-"más dolorosamente me veo obligado a aceptar la realidad...",
+"Cuanto más tiempo pasa desde que te has separado de mí,",
+"más me veo obligado a aceptar la dura realidad...",
 "",
 
-"Fue un tonto y su egoísmo lo que te llevó a Fuerte Ganon.",
-"Todo porque quería mucho que fueras perfecta.",
+"Fue un tonto y su egoísmo lo que te llevó al Fuerte Ganon.",
+"Todo porque quería que fueras perfecta.",
 "",
 
 "Sin embargo, me he despertado.",
 "Me he dado cuenta de que ninguno de nuestros ciudadanos, ",
 "ni siquiera el emperador, es un ser perfecto. Y eso te incluye a ti.",
 
-"Y como no eras perfecto,  ",
-"brillaste tanto en mi visión.",
+"Y como no eras perfecta,  ",
+"destacabas tanto para mi.",
 "",
 
-"Mi emperatriz ideal ya estaba justo frente a mi cara, ",
-"pero extrañaba el bosque por los árboles...",
-"Debería haberte aceptado completamente tal como eras.",
+"Mi emperatriz ideal ya estaba delante mía, ",
+"pero no vi el bosque por culpa de los árboles...",
+"Debería haberte aceptado completamente tal y como eras.",
 
 "Me he dado cuenta de que me había vuelto excesivamente orgulloso, ",
 "principalmente por la grandeza de ser emperador.",
-"Sé que puede que sea un poco tarde, pero deseo que perdones a este tonto."
+"Sé que puede ser un poco tarde, pero deseo que perdones a este idiota."
 ]},
 
 "map18_ev26_p2_letter4_2":{
@@ -5516,53 +5516,53 @@
 "map18_ev32_p1_1":{
 "text":[
 "¡Saludos, Directora Karryn!",
-"¿Necesitas un guardia que te escolte a un nivel?"
+"¿Necesita un guardia que le escolte a un nivel?"
 ]},
 
 "map18_ev32_p1_choice_1":{
-"text":["No, asi estoy bien."]},
+"text":["No, no hace falta."]},
 "map18_ev32_p1_choice_2":{
-"text":["Llévame al nivel 2."]},
+"text":["Llévame al Nivel 2."]},
 "map18_ev32_p1_choice_3":{
-"text":["Llévame al nivel 3."]},
+"text":["Llévame al Nivel 3."]},
 "map18_ev32_p1_choice_4":{
-"text":["Llévame al nivel 4."]},
+"text":["Llévame al Nivel 4."]},
 
 
 "map18_ev33_tachiename_1":{
-"text":["Guardia obediente"]},
+"text":["Guardia Obediente"]},
 
 "map18_ev33_p1_1":{
 "text":[
-"Si, Señora!"
+"¡Si, Señora!"
 ]},
 
 
 "map18_ev34_tachiename_1":{
-"text":["Matón debilitado"]},
+"text":["Matón Debilitado"]},
 
 "map18_ev34_p1_1":{
 "text":[
-"Urgh... no me siento tan bien..."
+"Urgh... no me encuentro bien..."
 ]},
 
 "map18_ev35_p1_karryn_virgin_slut0_1":{
 "text":[
 "(¡Oh, Su Majestad Imperial...! Gracias.",
-"¡Estaré a la altura de tus expectativas!)"
+"¡Estaré a la altura de sus expectativas!)"
 ]},
 
 "map18_ev35_p1_karryn_virgin_slut1_1":{
 "text":[
-"(¡Qué carta tan bellamente escrita!",
-"Por el bien de Su Majestad Imperial...",
-"¡Un pequeño toque corporal no es nada en absoluto!)"
+"(¡Qué hermosas palabras!",
+"Si es por el bien de Su Majestad Imperial...",
+"¡Puedo soportar ser acosada sexualmente!)"
 ]},
 
 "map18_ev35_p1_karryn_virgin_slut2_1":{
 "text":[
 "(¡Su Majestad Imperial...!",
-"¡No te preocupes, defenderé mi virginidad con mi vida por ti!",
+"¡No te preocupes, defenderé por ti mi virginidad con mi vida!",
 "¡¡Volveré a tu lado con un cuerpo puro...!!)"
 ]},
 
@@ -5573,7 +5573,7 @@
 "",
 
 "(Aquí estoy...... ",
-"Ya manchado por estos reclusos en tan poco tiempo......)",
+"Manchada por estos reclusos en tan poco tiempo......)",
 "",
 
 "(Mi virginidad es lo último que protegeré...",
@@ -5584,50 +5584,50 @@
 "text":[
 "(Su Majestad Imperial... gracias.",
 "He subyugado con éxito el Nivel 1, pero...",
-"Me ha costado mi preciosa virginidad que estaba guardando para usted...)"
+"Me ha costado mi preciosa virginidad, que estaba guardando para usted...)"
 ]},
 "map18_ev35_p1_karryn_slut0_2":{
 "text":[
-"Sin embargo, ¡mis sentimientos por Su Majestad Imperial ",
+"Sin embargo ¡Mis sentimientos por Su Majestad Imperial ",
 "son lo único que no permitiré que esos asquerosos ",
 "reclusos me roben...!)"
 ]},
 
 "map18_ev35_p1_karryn_slut1_1":{
 "text":[
-"(A pesar de que Su Majestad Imperial tiene tales expectativas para mí...",
+"(A pesar de que Su Majestad Imperial tiene tantas expectativas en mí...",
 "Fui y me acosté con otros hombres en este lugar...)",
 "",
 
-"(Incluso si se puede decir que fue hecho en el calor del momento,",
-"eso no cambia el hecho...",
+"(Aunque se puede decir que fue hecho en el calor del momento,",
+"eso no cambia lo ocurrido...",
 "Su Majestad Imperial... Por favor, perdóneme...)"
 ]},
 
 "map18_ev35_p1_karryn_slut2_1":{
 "text":[
-"(Urk...... Ahora me siento realmente culpable después de leer esta carta......",
-"Si Su Majestad Imperial descubre que decidí pasar más ",
+"(Urk...... Ahora me siento muy culpable tras haber leido esta carta......",
+"Si Su Majestad Imperial descubriese que paso más ",
 "tiempo teniendo sexo que cumpliendo con mis deberes...)"
 ]},
 "map18_ev35_p1_karryn_slut2_2":{
 "text":[
-"(¿Pero alguien realmente puede culparme?......",
-"Adquirí el gusto por las pollas de baja cuna en este Fuerte Ganon...) "
+"(¿Pero puede alguien culparme?......",
+"Adquirí el gusto por las pollas de indeseables en este Fuerte...) "
 ]},
 
 "map18_ev35_p1_karryn_slut3_1":{
 "text":[
 "(Su Majestad Imperial es realmente un caballero solemne y majestuoso.",
 "Como persona no hay duda de que está por encima del resto, ",
-"pero ¿se puede decir lo mismo de él como hombre?)",
+"pero ¿Se puede decir lo mismo de él como hombre?)",
 
-"(Tengo la sensación de que los internos aquí, con sus deseos ",
-"descaradamente abiertos y sus pollas duras, son más varoniles.)"
+"(Tengo la sensación de que los reclusos, tan abiertos",
+"con sus deseos y sus pollas duras, son más varoniles.)"
 ]},
 "map18_ev35_p1_karryn_slut3_2":{
 "text":[
-"(Oh querido, solo mírame ...... ♥",
+"(Oh querido, mírame ...... ♥",
 "Aunque Su Majestad Imperial hizo todo lo posible para escribirme ",
 "una carta, sólo puedo pensar en las pollas de otros hombres...♥)"
 ]},
@@ -5635,41 +5635,41 @@
 "map18_ev35_p2_karryn_virgin_slut0_1":{
 "text":[
 "(Ohhh, Su Majestad Imperial...",
-"Pido disculpas por causar que te duela el corazón de alguna manera...)",
+"Pido disculpas por causar que te duela el alma...)",
 "",
 
-"(Ahora, en cuanto a esa última frase, ",
-"'¿el día en que pueda ver tu cara sonriente otra vez'...?)",
+"(En cuanto a esa última frase, ",
+"'¿'El día en que pueda ver tu sonrisa otra vez'...?)",
 "",
 
 "(¡¡Pensar que Su Majestad Imperial usaría palabras tan halagadoras...!!",
-"¡Mis sentimientos hacia Su Majestad Imperial deben ser mutuos entonces...!",
-"Fielmente volveré a tu lado, ¡lo juro!)"
+"¡Mis sentimientos hacia Su Majestad Imperial deben ser mutuos...!",
+"Volveré a tu lado, ¡Lo juro!)"
 ]},
 
 "map18_ev35_p2_karryn_virgin_slut1_1":{
 "text":[
 "(Que carta tan conmovedora....",
-"¿Alguna vez Su Majestad Imperial me elogió así antes...?)",
+"¿Me elogió así antes alguna vez Su Majestad Imperial...?)",
 "",
 
 "(No ha sido fácil vivir en una prisión,",
-"pero si eso hace feliz a Su Majestad Imperial...",
+"pero si eso está haciendo feliz a Su Majestad Imperial...",
 "¡Entonces tendré que soportarlo hasta que mis deberes terminen...!)"
 ]},
 
 "map18_ev35_p2_karryn_virgin_slut2_1":{
 "text":[
 "(Uuu... Aunque Su Majestad Imperial me anhela así... ",
-"He estado dejando que estos hombres groseros me toquen...",
+"He estado dejando que estos hombres tan groseros me toquen...",
 "De alguna manera me las arreglé para mantener mi virginidad, pero...)",
 
-"(Puede que pronto esté empezando a alcanzar mi límite...)",
+"(Puede que esté empezando a alcanzar mi límite...)",
 "",
 "",
 
-"(N-¡No, espera! ¡No puedo rendirme ahora!",
-"¡Por el bien de Su Majestad Imperial, debo protegerlo a toda costa!)",
+"(¡N-No, espera! ¡No puedo rendirme ahora!",
+"¡Por el bien de Su Majestad Imperial, debo protegerla a toda costa!)",
 "",
 
 "(¡Perder mi virginidad ",
@@ -5683,7 +5683,7 @@
 "Sólo soy una mujer de mente débil......)",
 
 "(Soy alguien que piensa que mientras mantenga intacta mi virginidad,",
-"permitiré que me pase todo lo demás......♥) ",
+"puedo permitir todo lo demás......♥) ",
 "",
 
 "(No puedo resistir las olas de placer que amenazan con ahogarme... ",
@@ -5691,160 +5691,160 @@
 "a los peores hombres por sexo...♥.....♥) ",
 "",
 
-"(Pero realmente voy a reservar mi primera ",
+"(Pero voy a guardar mi primera ",
 "vez para Su Majestad Imperial...♥",
-"Mientras consigas eso, me perdonarás, ¿no?♥) "
+"Mientras consiga eso, me perdonarás ¿Verdad?♥) "
 ]},
 
 "map18_ev35_p2_karryn_slut0_1":{
 "text":[
-"(Su Majestad Imperial me está poniendo en un pedestal tan alto......",
-"Sin embargo, déjé que un hombre desconocido me quitara la virginidad...",
+"(Su Majestad Imperial me está poniendo en un pedestal......",
+"y sin embargo, dejé que un hombre desconocido me quitara la virginidad...",
 "Uuu... No puedo permitir que Su Majestad Imperial siga preocupándose por mí....)"
 ]},
 "map18_ev35_p2_karryn_slut0_2":{
 "text":[
 "(¡Prometo no cometer más errores, Su Majestad Imperial!",
 "¡Rechazaré firmemente todas las insinuaciones sexuales a partir de ahora!",
-"Perder mi virginidad fue un accidente... Sí, ¡sólo mala suerte!) "
+"Perder mi virginidad fue un accidente... Sí ¡Sólo ha sido mala suerte!) "
 ]},
 
 "map18_ev35_p2_karryn_slut1_1":{
 "text":[
-"(Su Majestad Imperial siempre está pensando en mí, ¿no es así?...",
+"(Su Majestad Imperial siempre está pensando en mí...",
 "Aun asi... yo... he dejado que estos hombres inútiles se salgan con la suya...",
-"Soy patética ...... Por favor, perdóname ... Su Majestad Imperial ...)",
+"Soy patética ...... Por favor, perdóneme ... Su Majestad Imperial ...)",
 
-"(No puedo perder más la confianza de Su Majestad Imperial en mí.",
-"Sí. Así es... no me someteré al placer...",
-"Todo estará bien... puedo hacerlo... tengo que...)"
+"(No puedo perder más la confianza de Su Majestad Imperial.",
+"Sí. Eso es... no me rendiré al placer...",
+"Todo saldrá bien... puedo hacerlo... tengo que hacerlo...)"
 ]},
 
 "map18_ev35_p2_karryn_slut2_1":{
 "text":[
 "(Su Majestad Imperial... Lo siento mucho...",
-"Alejado de tu mirada, he priorizado tener sexo con ",
+"Alejada de tu atenta mirada, he priorizado tener sexo con ",
 "reclusos antes que hacer mi trabajo...) "
 ]},
 "map18_ev35_p2_karryn_slut2_2":{
 "text":[
 "(Oohh... Pero me pregunto...",
 "¿Qué sería mejor... la polla de Su Majestad Imperial, o la de los reclusos...?",
-"Sé que no debería compararlos... pero quiero saber...)"
+"Sé que no debería compararlos... pero me gustaría saber...)"
 ]},
 
 "map18_ev35_p2_karryn_slut3_1":{
 "text":[
-"(¿Es así~~~? Así que el mundo ha estado chismorreando sobre mí~.",
-"Mientras ellos hacen eso, yo he estado ocupada teniendo sexo todos los ",
+"(¿Ah si~~~? Así que el mundo ha estado chismorreando sobre mí~.",
+"Mientras hacen eso, yo he estado ocupada teniendo sexo todos los ",
 "días y todas las noches con los reclusos desde que llegué aquí...♥)"
 ]},
 "map18_ev35_p2_karryn_slut3_2":{
 "text":[
-"(La favorita de todos♥ La famosa secretaria imperial♥",
-"Está caminando cubierto de pies a cabeza con porquería blanca♥",
-"Eyaculada por duros, gordas pollas de reclusas ~ ♥♥)",
+"(La favorita de todos♥ La famosa Secretaria Imperial♥",
+"Está caminando cubierta de pies a cabeza con espesa leche♥",
+"Eyaculada por las pollas gordas y duras de los reclusos ~ ♥♥)",
 
 "(......¿Qué pensará el público en general cuando escuche eso?)"
 ]},
 "map18_ev35_p2_karryn_slut3_3":{
 "text":[
 "(HNG♥ Oh no♥ Solo imaginar las consecuencias me pone cachonda......♥",
-"Apuesto a que la mayoría de los hombres con sus erecciones ",
+"Apuesto a que la mayoría de los hombres tendrían erecciones y",
 "empezarían a masturbarse mientras fantasean conmigo...♥)",
 
 "(Y luego mientras apuntan sus pollas hacia mí...♥",
 "Una enorme lluvia de semen caerá sobre mí♥ HNNGG......♥",
-"W-Wow... hay tanto cummm♥ Es como un sueño hecho realidad...♥♥♥)"
+"W-Wow... hay taaaanto semen♥ Es como un sueño hecho realidad...♥♥♥)"
 ]},
 
 "map18_ev35_p3_karryn_virgin_slut0_1":{
 "text":[
 "(¡¿Es esto... una confesión de amor?!",
-"¡Pensar que Su Majestad Imperial me vería así!)",
+"¡Y pensar que Su Majestad Imperial me vería así!)",
 "",
 
-"(Nunca hubiera imaginado que así llegarían mis sentimientos a él...",
+"(Nunca hubiera imaginado que así es como llegarían mis sentimientos a él...",
 "¡Estos son los resultados de mi arduo trabajo diario!)",
 "",
 
-"(¡¡Más que nunca, debo terminar mis deberes aquí para poder ",
+"(¡¡Ahora más que nunca, debo terminar mis deberes aquí para poder ",
 "cumplir con las expectativas de Su Majestad Imperial!!)"
 ]},
 
 "map18_ev35_p3_karryn_virgin_slut1_1":{
 "text":[
-"(Estaba tan sorprendida leyendo esto ......!",
-"¡Pensar que Su Majestad Imperial tomó esa decisión ",
+"(¡Qué sorpresa leer esto ......!",
+"¡Y pensar que Su Majestad Imperial tomó aquella decisión ",
 "porque pensaba tanto en mí...!)",
 
-"(Su Majestad Imperial es un humano como yo......",
-"Él también tiene sus propias preocupaciones todos los días......)"
+"(Su Majestad Imperial es humano como yo......",
+"También tiene sus propias preocupaciones......)"
 ]},
 "map18_ev35_p3_karryn_virgin_slut1_2":{
 "text":[
 "(En cuanto a esta última parte......",
-"Es más o menos una carta de amor después de ese punto, ¿no es así?)"
+"Es practicamente una carta de amor a partir de ese punto ¿No es así?)"
 ]},
 "map18_ev35_p3_karryn_virgin_slut1_3":{
 "text":[
 "(...Su Majestad Imperial, gracias.",
-"¡Tu carta me ha vuelto a despertar! ¡Definitivamente continuaré ",
-"protegiendo mi pureza por ti y terminaré de subyugar esta prisión!)"
+"¡Su carta me ha revitalizado! ¡Definitivamente continuaré ",
+"protegiendo mi pureza para ti y terminaré de subyugar esta prisión!)"
 ]},
 
 "map18_ev35_p3_karryn_virgin_slut2_1":{
 "text":[
-"(¡¡No lo puedo creer!!",
+"(¡¡No me lo puedo creer!!",
 "¡Su Majestad Imperial tenía tales razones para ponerme aquí...!)",
 "",
 
-"(Como esperaba Su Majestad Imperial, mi orgullo innecesario está desapareciendo...",
-"Pero... eso es sólo porque he empezado a convertirme en prisionero del placer...",
-"Probablemente este no sea su resultado ideal...)",
+"(Como esperaba Su Majestad Imperial, mi innecesario orgullo está desapareciendo...",
+"Pero... eso es sólo porque he empezado a convertirme en una prisionera del placer...",
+"Probablemente esto no sea lo que se esperaba...)",
 
-"(Pero... ¡si mantengo mi virginidad entonces Su Majestad Imperial ",
-"aún debería estar complacido...! Incluso si mi cuerpo se rinde ante ",
-"el placer, mi corazón seguirá siendo el de Su Majestad Imperial...)",
+"(Pero... ¡Si mantengo mi virginidad, entonces Su Majestad Imperial ",
+"debería estar contento...! Incluso si mi cuerpo se rinde ante ",
+"el placer, mi corazón seguirá siendo de Su Majestad Imperial...)",
 
-"(¡Sí, es cierto!",
+"(¡Sí, eso es!",
 "¡Mi corazón sólo pertenecerá a Su Majestad Imperial!)"
 ]},
 
 "map18_ev35_p3_karryn_virgin_slut3_1":{
 "text":[
-"(De ninguna manera......",
+"(Imposible......",
 "Así que esa fue la razón por la que Su Majestad Imperial me puso aquí...)"
 ]},
 "map18_ev35_p3_karryn_virgin_slut3_2":{
 "text":[
-"(Oh, pero... ¡esto es bueno!",
-"¡Todavía soy virgen de alguna manera...!)",
+"(Oh, pero... ¡Esto es bueno!",
+"¡Por alguna razón todavía soy virgen...!)",
 "",
 
 "(Nunca traicionaría a Su Majestad Imperial...",
 "¡Así que nunca entregaré mi virginidad a esos hombres...!",
-"Me perdonarás siempre que pueda hacer eso, ¿verdad?♥)"
+"Me perdonarás mientras que pueda hacer eso ¿Verdad?♥)"
 ]},
 "map18_ev35_p3_karryn_virgin_slut3_3":{
 "text":[
-"(Mientras no deje que nadie entre en mi vagina...",
-"Puedo hacer lo que quiera, ¿verdad?♥)",
+"(Mientras no deje a nadie usar mi vagina...",
+"Puedo hacer lo que quiera ¿Verdad?♥)",
 "",
 
-"(Puedo besarme con estos sucios plebeyos y ",
-"cubrirme con su semen pegajoso y maloliente mientras me corro...",
-"¡¿Cierto, Su Majestad Imperial?!♥)"
+"(Puedo liarme con estos desgraciados,",
+"y cubrirme con su semen pegajoso y maloliente mientras me corro...",
+"¡¿Verdad, Su Majestad Imperial?!♥)"
 ]},
 
 "map18_ev35_p3_karryn_slut0_1":{
 "text":[
 "(¡Ohh nooo, qué he hecho...!",
-"¿Por qué dejé que los hombres inútiles de aquí me quitaran la ",
+"¿Por qué dejé que estos hombres inútiles me quitaran la ",
 "virginidad mientras Su Majestad Imperial piensa en mí así...?)",
 
 "(Incluso si vuelvo al lado de Su Majestad Imperial, ",
-"¿qué tipo de cara debería poner cuando lo vea de nuevo...?)"
+"¿Con qué cara le miro...?)"
 ]},
 "map18_ev35_p3_karryn_slut0_2":{
 "text":[
@@ -5855,26 +5855,26 @@
 
 "map18_ev35_p3_karryn_slut1_1":{
 "text":[
-"(Pensar que Su Majestad Imperial pensaba en mí de esta manera...",
+"(y pensar que Su Majestad Imperial pensaba en mí de esta manera...",
 "Ohh... qué debería hacer ahora... Aunque Su Majestad Imperial está ",
-"diciendo que tiene afecto por mí... Perdí mi virginidad...)",
+"diciendo que me tiene afecto... Perdí la virginidad...)",
 
 "(No puedo seguir así....",
-"Incluso si subyugo al Fuerte Ganon, seguiría traicionando a ",
-"Su Majestad Imperial si sigo teniendo sexo con otros hombres...)",
+"Incluso si subyugo al Fuerte Ganon, si sigo teniendo sexo con otros hombres,",
+"seguiría traicionando a Su Majestad Imperial...)",
 
-"(Pero si he de ser honesta también,",
+"(Pero siendo honesta,",
 "el sexo ha sido realmente asombroso......)",
 "",
 
-"(Pero al mismo tiempo,",
+"(Aunque al mismo tiempo,",
 "Quiero apreciar los sentimientos de Su Majestad Imperial......",
 "Ohhh......... Que dilema......)"
 ]},
 
 "map18_ev35_p3_karryn_slut2_1":{
 "text":[
-"(¡No sabía cómo es realmente el estado mental de ",
+"(¡No sabía que esto era lo que realmente pensaba",
 "Su Majestad Imperial...! Sin embargo, tengo relaciones",
 "sexuales con diferentes hombres casi todos los días...) "
 ]},
@@ -5882,16 +5882,16 @@
 "text":[
 "(No hay una fibra en mi cuerpo que quiera traicionar a ",
 "Su Majestad Imperial... pero... perooooooooo... Nnnggh... ",
-"No puedo resistir el encanto de los penes.♥)",
+"No puedo resistirme al encanto de los penes.♥)",
 
-"(Tal como esperaba Su Majestad Imperial, ",
+"(Tal y como deseaba Su Majestad Imperial, ",
 "no queda ni una pizca de orgullo en mí.",
 "Perdón por convertirme en una secretaria tan traviesa.♥)"
 ]},
 
 "map18_ev35_p3_karryn_slut3_1":{
 "text":[
-"(Dios mío, Su Majestad Imperial realmente es un caballero puro~.)",
+"(Dios mío, Su Majestad Imperial es un caballero muy puro~.)",
 "",
 "",
 
@@ -5902,43 +5902,43 @@
 "map18_ev35_p3_karryn_slut3_2":{
 "text":[
 "(Hablando de eso, me pregunto si todavía es virgen.",
-"Tal vez debería darle una cogida rápida ",
-"una vez que regrese como su secretaria ......)"
+"Tal vez debería darle una follada rápida",
+"una vez que vuelva como su secretaria ......)"
 ]},
 "map18_ev35_p3_karryn_slut3_3":{
 "text":[
 "(Hmm, pero siento que alguien que es tan serio y virtuoso como ",
-"él tendría una polla bastante decepcionante~~. Las pollas grandes, ",
+"él debe tener una polla bastante decepcionante~~. Las pollas grandes, ",
 "gordas y sucias del Fuerte Ganon son mucho más apetecibles.♥) "
 ]},
 "map18_ev35_p3_karryn_slut3_4":{
 "text":[
-"(No importa, cambio de opinión.♥",
+"(Olvídalo, cambio de opinión.♥",
 "Su Majestad Imperial puede permanecer virgen para siempre.♥)",
 "",
 
 "(Las únicas personas que pueden acostarse conmigo son hombres ",
-"inútiles que solo tienen en mente el sexo y las pelotas para ",
-"satisfacer sus deseos básicos.♥)"
+"inútiles que solo piensen en sexo y que tengan las pelotas tan ",
+"grandes como su lujuria.♥)"
 ]},
 
 "map18_ev35_p4_karryn_virgin_slut0_1":{
 "text":[
-"(Oooh......... OOOOOHHH.........!!",
-"¿Es esto un sueño? ¿Su Majestad Imperial realmente me ",
-"acaba de proponer matrimonio? ¿Estoy realmente despierto?)"
+"(Oooh......... ¡¡OOOOOHHH.........!!",
+"¿Es esto un sueño? ¿Su Majestad Imperial me ",
+"acaba de proponer matrimonio? ¿Estoy despierta?)"
 ]},
 "map18_ev35_p4_karryn_virgin_slut0_2":{
 "text":[
 "(Todos mis esfuerzos no fueron en vano......",
-"Estoy tan feliz... de haberme convertido en el Directora del Fuerte Ganon......!)",
+"¡Estoy tan feliz... de haberme convertido en la Directora del Fuerte Ganon......!)",
 "",
 
-"(¡Lidiar con estos maleantes con muerte cerebral día tras",
-"día mientras tienen que respirar el mismo aire, ",
-"fue todo por este momento...!)",
+"(¡Lidiar con esta escoria descerebrada todos los días,",
+"mientras tenía que respirar su mismo aire, ",
+"todo ha sido para este momento...!)",
 
-"(¡¡Todo lo que queda entre nosotros ahora es el Nivel 5!! ¡¡Puedo hacer esto!!",
+"(¡¡Todo lo que se interpone entre nosotros ahora es el Nivel 5!! ¡¡Puedo conseguirlo!!",
 "Yo, Karryn......",
 "¡Prometo regresar al lado de Su Majestad Imperial como una doncella!)"
 ]},
@@ -5952,10 +5952,10 @@
 "map18_ev35_p4_karryn_virgin_slut1_2":{
 "text":[
 "(Ohhh...... Esto es tan irreal......",
-"Que Su Majestad Imperial me conceda este tipo de palabras......!)",
+"¡Que Su Majestad Imperial me conceda este tipo de palabras......!)",
 "",
 
-"(¡¡Solo este único momento borra todos los recuerdos sucios ",
+"(¡¡Este momento es suficiente para borrar todos los recuerdos sucios ",
 "que he estado acumulando al vivir en esta repugnante prisión!!)",
 "",
 
@@ -5966,57 +5966,57 @@
 
 "map18_ev35_p4_karryn_virgin_slut2_1":{
 "text":[
-"(Ohh......!! ¡L-Lo hice!",
-"No importa lo que esos hombres quisieran de mí,",
-"¡He conservado mi virginidad! ¡Todo por este momento!)",
+"(Ohh......!! ¡L-Lo conseguí!",
+"Sin importar lo que esos hombres querían de mí,",
+"¡He conservado mi virginidad! ¡Todo para este momento!)",
 
 "(¡Es porque nunca dejé de soñar con convertirme en emperatriz!",
 "Saldré de aquí tan pronto como termine con mis deberes ",
 "aquí y me convertiré en emperatriz...)",
 
 "(Ufufufufufufu......♪",
-"Entonces, en ese caso, tal vez debería ser un poco más misericordioso ",
+"Entonces, en ese caso, tal vez debería ser un poco más misericordiosa ",
 "y dejar que estos reclusos tengan más intimidad conmigo antes de irme~♪)"
 ]},
 
 "map18_ev35_p4_karryn_virgin_slut3_1":{
 "text":[
-"(;-...... Matrimonio...?!",
+"(¡¿M-...... Matrimonio...?!",
 "Su Majestad Imperial finalmente ha dicho la palabra M......",
-"......Lo hice......! Mi sueño se ha hecho realidad.........!!)"
+"¡......Lo conseguí......! ¡¡Mi sueño se ha hecho realidad.........!!)"
 ]},
 "map18_ev35_p4_karryn_virgin_slut3_2":{
 "text":[
 "(Y hablando de Su Majestad Imperial,",
 "¡Qué gobernante tan benevolente! ",
-"¡Su Majestad Imperial realmente entiende lo que quiero!)",
+"¡Su Majestad Imperial real~mente entiende lo que quiero!)",
 
-"(No necesito ser un ser perfecto......",
-"Oh, cómo estas palabras para mí son como un oasis ",
-"para un nómada del desierto en este momento...)"
+"(No necesito ser perfecta......",
+"Para mí, estas palabras son como un oasis",
+"para un nómada del desierto...)"
 ]},
 "map18_ev35_p4_karryn_virgin_slut3_3":{
 "text":[
-"(Desde que llegué al Fuerte Ganon, casi no hay una polla ",
+"(Desde que llegué al Fuerte Ganon, no hay ni una polla",
 "que no haya visto todavía, y todo mi cuerpo apesta a ",
-"baño de semen...)",
+"semen...)",
 
-"(Pero sin embargo, ",
-"He mantenido mi muro de hierro alrededor de mi vagina,",
+"(Sin embargo, ",
+"He mantenido un muro de hierro alrededor de mi vagina,",
 "todo para Su Majestad Imperial......)",
 
-"(Conociendo a Su Majestad Imperial, seguramente me aceptará tal como soy ahora.♥ ",
-"Muy bien~, ahora antes de que tenga que irme♥",
-"Será mejor que vaya y escurra más bolas malolientes hasta la ultima gota.♥♥)"
+"(Conociendo a Su Majestad Imperial, seguramente me aceptará",
+"tal y como soy ahora.♥ Muy bien~, antes de que tenga que irme♥",
+"será mejor que vaya y ordeñe más bolas apestosas hasta la ultima gota.♥♥)"
 ]},
 
 "map18_ev35_p4_karryn_slut0_1":{
 "text":[
-"(¡Ooooh.........! Su Majestad Imperial......!",
+"(¡Ooooh.........! ¡Su Majestad Imperial......!",
 "¡Que el único hombre al que respeto",
 "y admiro me hable así!)",
 
-"(Si fuera a mi manera...",
+"(Si fuese por mi...",
 "Volvería corriendo al lado de Su Majestad Imperial...)"
 ]},
 "map18_ev35_p4_karryn_slut0_2":{
