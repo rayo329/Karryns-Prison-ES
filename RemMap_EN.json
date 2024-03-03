@@ -7379,7 +7379,7 @@
 
 "\\C[3]\\I[304]Los ataques Cortantes\\C[0] son fuertes contra los \\C[2]\\I[305]ataques Contundentes\\C[0],",
 "\\C[2]\\I[305]Los ataques Contundentes\\C[0] son fuertes contra los \\C[4]\\I[306]ataques Perforantes\\C[0],",
-"y \\C[4]\\I[306]Los ataques Perforantes\\C[0] son fuertes contra \\C[3]\\I[304]ataques Cortantes\\C[0].",
+"y \\C[4]\\I[306]Los ataques Perforantes\\C[0] son fuertes contra los \\C[3]\\I[304]ataques Cortantes\\C[0].",
 
 "Tener la ventaja de ataque te permitirá hacer más daño y tener ",
 "más posibilidades de asestar un golpe, mientras que atacar en  ",
@@ -7404,9 +7404,9 @@
 "usar \\C[4]\\I[306]ataques de Perforantes\\C[0] aumentará tu \\C[4]\\I[315]Agilidad\\C[0],",
 "y usar \\C[3]\\I[304]ataques Cortantes\\C[0] aumentará tu \\C[3]\\I[311]Destreza\\C[0].",
 
-"El uso de habilidades que requieran \\C[2]\\I[340]Resistencia\\C[0] aumentarán tu \\C[2]\\I[340]Resistencia\\C[0],",
-"usar habilidades que requieran \\C[31]\\I[349]Energía\\C[0] aumentarán tu \\C[31]\\I[349]Energía\\C[0],",
-"y usar \\C[11]\\I[329]Habilidades de Voluntad\\C[0] aumentarán tu \\C[11]\\I[326]Mente\\C[0].",
+"El uso de habilidades que requieran \\C[2]\\I[340]Resistencia\\C[0] aumentará tu \\C[2]\\I[340]Resistencia\\C[0],",
+"usar habilidades que requieran \\C[31]\\I[349]Energía\\C[0] aumentará tu \\C[31]\\I[349]Energía\\C[0],",
+"y usar \\C[11]\\I[329]Habilidades de Voluntad\\C[0] aumentará tu \\C[11]\\I[326]Mente\\C[0].",
 
 "Recibir un golpe aumentará tu \\C[2]\\I[309]Fuerza\\C[0].",
 "Recibir un golpe crítico también aumentará tu \\C[11]\\I[366]Vigor\\C[0].",
@@ -7418,14 +7418,14 @@
 
 "La cantidad de experiencia obtenida depende de la tasa de crecimiento de esa estadística, ",
 "así como de si el enemigo al que te enfrentas es más débil o más fuerte que tú.",
-"Por cada 5 niveles de estadísticas, tu \\C[3]Nivel de guardiana\\C[0] también aumentará.",
+"Por cada 5 niveles de estadísticas, tu \\C[3]Nivel de Guardiana\\C[0] también aumentará.",
 
 "Depende completamente de ti si quieres tener una distribución uniforme de niveles",
 "en todas las estadísticas o centrarte principalmente en una o dos estadísticas.",
 "",
 
 "Sin embargo, no tienes que preocuparte demasiado por todo esto.",
-"Divertirte haciendo lo que te gusta es también una buena forma de vivir."
+"Divertirte haciendo lo que te gusta también es una buena forma de vivir."
 ]},
 
 
@@ -7483,14 +7483,14 @@
 
 "Pero si llevas solo dos Pulseras, no obtendrás ninguna bonificación por el conjunto. ",
 "Y si llevas dos Pulseras con un Collar, ",
-"solo obtendrás una bonificación de un juego de dos piezas."
+"solo obtendrás una bonificación de un conjunto de dos piezas."
 ]},
 
 "map20_ev16_p1_2":{
 "text":[
 "La excepción a esta regla son los \\C[25]\\I[107]Accesorios Misceláneos\\C[0].",
 "Al llevarlos, cada uno contará como un tipo único de Accesorio, por lo que llevar ",
-"un Anillo y dos Misceláneos te dará una bonificación de un juego de tres piezas."
+"un Anillo y dos Misceláneos te dará una bonificación de un conjunto de tres piezas."
 ]},
 
 "map20_ev16_p1_3":{
@@ -7550,10 +7550,10 @@
 "",
 
 "¿Sabías que Su Majestad Imperial el Emperador le otorga ",
-"\\C[16]\\I[370]Cubsidios\\C[0] diariamente?",
+"\\C[16]\\I[370]Subsidios\\C[0] diariamente?",
 "",
 
-"¡No es broma! Y la cantidad de financiación que obtiene de \\C[16]\\I[370]Subsidios\\C[0] ",
+"¡No es broma! Y la cantidad de financiación que obtiene de los \\C[16]\\I[370]Subsidios\\C[0] ",
 "cada día se basa en el \\C[16]\\I[408]Orden\\C[0] actual de la prisión.",
 "",
 
@@ -7580,7 +7580,7 @@
 "Puedes ganar fatiga al hacer casi cualquier cosa.",
 
 "La única manera de reducir tu \\C[18]\\I[419]Fatiga\\C[0] es descansando.",
-"Puede descansar en tu oficina o en una Estación de ",
+"Puedes descansar en tu oficina o en una Estación de ",
 "Guardia ubicada en algún lugar de cada Nivel de la Prisión.",
 
 "Recuerda descansar antes de que tu \\C[18]\\I[419]Fatiga\\C[0] suba demasiado.",
@@ -7603,7 +7603,7 @@
 
 "Hay dos métodos principales para aumentar el \\C[16]\\I[408]Orden\\C[0]: ",
 "El primero es someter a los reclusos y el segundo ",
-"es aumentando el \\C[16]\\I[376]Control\\C[0].",
+"es aumentar el \\C[16]\\I[376]Control\\C[0].",
 
 "El \\C[16]\\I[376]Control\\C[0] aumenta o disminuye según el estado ",
 "de cada Nivel de la Prisión y mediante la promulgación de ciertos Decretos.",
@@ -7740,7 +7740,7 @@
 
 "map20_ev26_p1_1":{
 "text":[
-"La \\C[2]\\I[340]Resistencia\\C[0] es uno de tus tres recursos y muchos",
+"La \\C[2]\\I[340]Resistencia\\C[0] es uno de tus tres recursos, y muchos",
 "lo consideran el más importante.",
 "",
 
@@ -7760,7 +7760,7 @@
 
 "map20_ev27_p1_1":{
 "text":[
-"La \\C[31]\\I[349]Energía\\C[0] es uno de tus tres recursos y, aunque algunos pueden",
+"La \\C[31]\\I[349]Energía\\C[0] es uno de tus tres recursos, y aunque algunos pueden",
 "argumentar que no es muy importante, en mi opinión, debes tener muy en cuenta ",
 "tu \\ C[31]\\I[349]Energía\\C[0] a medida que avanza la batalla."
 ]},
@@ -7776,7 +7776,7 @@
 "",
 
 "Asi que ummm. ",
-"¿Intentar no tener demasiados orgasmos en la misma batalla?"
+"¿Intenta no tener demasiados orgasmos en la misma batalla?"
 ]},
 
 
@@ -7825,7 +7825,7 @@
     "que quieras como principal.",
     "",
 
-    "¿Que Cómo obtienes nuevos títulos?",
+    "¿Que cómo obtienes nuevos títulos?",
     "",
     "",
 
@@ -7920,7 +7920,7 @@
 "cualquier estación de guardia con un teléfono que funcione.",
 "",
 
-"2. Para promulgar un \\C[3]Decreto\\C[0], Necesitas disponer de una cierta cantidad de ",
+"2. Para promulgar un \\C[3]Decreto\\C[0], necesitas disponer de una cierta cantidad de ",
 " \\C[11]\\I[364]Puntos de Decretos\\C[0] y \\C[11]\\I[410]Fondos\\C[0].",
 "",
 
@@ -8004,7 +8004,7 @@
   ]},
 "map21_ev32_p5_choice_exit":{
   "text": [
-    "Quizás mas tarde."
+    "Quizás más tarde."
   ]},
 
 
