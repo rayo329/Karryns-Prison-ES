@@ -7154,108 +7154,108 @@
 
 
 "map20_tachiename_strength":{
-"text":["\\C[2]Hombre de fuerza (guardia)"]},
+"text":["\\C[2]Hombre Fuerte (Guardia)"]},
 "map20_tachiename_dexterity":{
-"text":["\\C[3]Hombre de destreza (guardia)"]},
+"text":["\\C[3]Hombre Diestro (Guardia)"]},
 "map20_tachiename_agility":{
-"text":["\\C[4]Hombre de agilidad (guardia)"]},
+"text":["\\C[4]Hombre Ágil (Guardia)"]},
 
 "map20_ev1_p1_1":{
 "text":[
-"\\C[2]\\I[309]La Fuerza\\C[0] es lo único que necesitas en este mundo! ",
+"¡La \\C[2]\\I[309]Fuerza\\C[0] es lo único que necesitas en este mundo! ",
 "",
 "",
 
-"No solo todos los ataques físicos se ven afectados por \\C[2]\\I[309]Fuerza\\C[0], ",
-"sino que la tasa crítica de todos los ataques también se ve afectada por",
-"\\C[2]\\I[309]La Fuerza\\C[0]!",
+"No es solo que todos los ataques físicos se ven afectados por la \\C[2]\\I[309]Fuerza\\C[0], ",
+"¡\\C[2]\\I[309]La Fuerza\\C[0] también afecta al porcentaje de crítico",
+"de todos los ataques!",
 
-"Ademas \\C[2]\\I[309]La Fuerza\\C[0] ¡Es la única forma de defenderse de los",
+"¡¡Además, la \\C[2]\\I[309]Fuerza\\C[0] es la única forma de defenderse de los",
 "ataques físicos!!"
 ]},
 "map20_ev1_p1_2":{
 "text":[
-"Buena suerte dándole un golpe a cualquiera que tenga pura Fuerza."
+"Buena suerte dándole un golpe a alguien con mucha Fuerza."
 ]},
 
 "map20_ev1_p1_3":{
 "text":[
-"Je, no necesito Fuerza para defenderme cuando,  ",
-"en primer lugar, puedo evitar todo daño físico. ",
+"Je, no necesito Fuerza para defenderme cuando ",
+"puedo evitar todo daño físico. ",
 "Me teletransportaré detrás de ti cada vez que intentes atacarme."
 ]},
 
 
 "map20_ev3_p1_1":{
 "text":[
-"\\C[3]\\I[311]Destreza\\C[0] es la estadística ideal para todos los machos alfa!",
+"¡La \\C[3]\\I[311]Destreza\\C[0] es la estadística ideal para todos los machos alfa!",
 "",
 "",
 
-"Todos los \\C[3]\\I[304]ataques de tipo Cortante\\C[0] ",
-"se basan en \\C[3]\\I[311]Destreza\\C[0] y \\C[3]\\I[311]Destreza\\C[0] ",
-"te permitirá asestar golpes a tu oponente y causarle un daño crítico masivo."
+"Todos los \\C[3]\\I[304]ataques Cortantes\\C[0] ",
+"se basan en \\C[3]\\I[311]Destreza\\C[0] ¡La \\C[3]\\I[311]Destreza\\C[0] también ",
+"te permitirá asestar golpes a tu oponente, así como hacer muchísimo daño de Golpes Críticos!"
 ]},
 
 "map20_ev3_p1_2":{
 "text":[
-"Entonces eres un poco más preciso, gran grito cuando puedo aplastarte en la ",
-"cara y causar mil millones de daños con cualquier ataque."
+"Así que eres un poco más preciso en tus ataques... Vaya mierda, puedo darte ",
+"de hostias en la cara y hacerte mil millones de daño con cualquier ataque."
 ]},
 
 "map20_ev3_p1_3":{
 "text":[
 "No tienes forma de defenderte. ",
-"No se puede mitigar el daño reduciéndolo o evitándolo.",
-"¿Para qué eres bueno?"
+"No puedes mitigar el daño reduciéndolo o evitándolo.",
+"¿En qué eres bueno?"
 ]},
 
 "map20_ev3_p1_4":{
 "text":[
-"Puedo hacer que tu mamá se corra con mi polla.",
-"Para eso soy bueno."
+"En follarme a tu madre si que soy bueno.",
+"¿Qué te parece?"
 ]},
 
 
 "map20_ev4_p1_1":{
 "text":[
-"¡Literalmente no necesitas ninguna otra estadística además de \\C[4]\\I[315]Agilidad\\C[0]!",
+"¡Literalmente no necesitas ninguna otra estadística a parte de \\C[4]\\I[315]Agilidad\\C[0]!",
 "",
 "",
 
-"\\C[4]\\I[306]Los ataques tipo Perforazodres\\C[0] se basan en \\C[4]\\I[315]Agilidad\\C[0], ",
-"y con \\C [4]\\I[315]Agilidad\\C[0], Puedes evitar todos los ataques para ser ",
-"invencible ya que nunca perderás resistencia."
+"Los \\C[4]\\I[306]ataques Perforantes\\C[0] se basan en \\C[4]\\I[315]Agilidad\\C[0], ",
+"y con \\C [4]\\I[315]Agilidad\\C[0] puedes evitar cualquier ataque, así que eres ",
+"invencible, ya que nunca perderás Resistencia."
 ]},
 
 "map20_ev4_p1_2":{
 "text":[
-"Que montón de porquería. No haces ningún daño.",
-"S-I-N D-A-Ñ-O."
+"Vaya basura. No haces nada de daño.",
+"N-A-D-A D-E D-A-Ñ-O."
 ]},
 
 "map20_ev4_p1_3":{
 "text":[
-"En realidad, todavía necesitas resistencia para realizar ",
+"En realidad, necesitas resistencia para realizar ",
 "cualquier ataque y, aunque no se muestra en el registro de ",
 "batalla, aún usas resistencia cada vez que esquivas un ataque. ",
 
-"Entonces eventualmente te matarás simplemente por ser tú mismo."
+"Así que eventualmente te matarás simplemente por ser tú mismo."
 ]},
 
 
 "map20_ev5_tachiename_1":{
-"text":["Harold el guardia frío"]},
+"text":["Harold el Guardia Tranquilo"]},
 
 "map20_ev5_p1_1":{
 "text":[
 "Esos tres nunca dejan de discutir. ",
-"Prefiero simplemente entrenar mi \\C[11]\\I[366]Endurecimiento\\C[0]. :^)"
+"Prefiero simplemente entrenar mi \\C[11]\\I[366]Aguante\\C[0]. :^)"
 ]},
 
 
 "map20_ev6_tachiename_1":{
-"text":["Hombre mental (Guardia)"]},
+"text":["Hombre Mental (Guardia)"]},
 
 "map20_ev6_p1_1":{
 "text":[
@@ -7263,88 +7263,88 @@
 "",
 "",
 
-"\\C[11]\\I[326]Mente\\C[0] aumenta tu \\C[11]\\I[350]Voluntad\\C[0] ",
+"La \\C[11]\\I[326]Mente\\C[0] aumenta tu \\C[11]\\I[350]Voluntad\\C[0] ",
 "y los efectos de todas tus habilidades de Voluntad.",
 "",
 
-"Y puedes usar tantas \\C[11]\\I[329]Habilidad de Voluntad\\C[0] como quieras, ",
-"siempre que tengas el \\C[11]\\I[350]Voluntad\\C [0] para pagarlo.",
+"Puedes usar tantas \\C[11]\\I[329]Habilidad de Voluntad\\C[0] como quieras, ",
+"siempre que tengas la suficiente \\C[11]\\I[350]Voluntad\\C [0] para pagarlo.",
 "",
 
-"¡Pero debes mantener tu \\C[11]\\I[326]Mente\\C[0] alerta para poder entrenarla!",
-"Es muy difícil aumentar \\C[11]\\I[326]Mente\\C[0] si realmente no lo usas."
+"¡Pero debes mantener tu \\C[11]\\I[326]Mente\\C[0] aguda para poder entrenarla!",
+"Es muy difícil mejorar tu \\C[11]\\I[326]Mente\\C[0] si no lo usas."
 ]},
 
 
 "map20_ev7_tachiename_1":{
-"text":["Randy el guardia borracho"]},
+"text":["Randy el Guardia Borracho"]},
 
 "map20_ev7_p1_1":{
 "text":[
 "No hagas caso al chico de mi izquierda, no hace nada en todo el",
-"día excepto masturbarse. Si así es como mantiene su mente alerta ",
-"entonces mejoraré mi hígado con tónicos vitales."
+"día excepto masturbarse. Si así es como mantiene su mente aguda ",
+"entonces yo estoy mejorando mi hígado con brebajes medicinales."
 ]},
 
 
 "map20_ev8_tachiename_1":{
-"text":["Hombre Endurecido (Guardia)"]},
+"text":["Hombre Vigoroso (Guardia)"]},
 
 "map20_ev8_p1_1":{
 "text":[
-"\\C[11]\\I[366]Endurecer\\C[0] es bastante importante si quieres sobrevivir ",
-"aquí en esta prisión llena de depredadores.",
+"El \\C[11]\\I[366]Vigor\\C[0] es bastante importante si quieres sobrevivir ",
+"en esta prisión llena de depredadores.",
 "",
 
-"\\C[11]\\I[366]Endurecer\\C[0] ayuda a evitar que recibas un golpe crítico."
+"El \\C[11]\\I[366]Vigor\\C[0] ayuda a evitar que recibas golpes críticos."
 ]},
 
 "map20_ev8_p1_2":{
 "text":[
-"\\C[11]\\I[366]Endurecer\\C[0] también es la principal defensa contra todos los ataques sexuales.",
-"\\C[11]\\I[366]Endurecer\\C[0] también aumenta el umbral de placer ",
+"El \\C[11]\\I[366]Vigor\\C[0] también es la principal defensa contra los ataques sexuales.",
+"Además, el \\C[11]\\I[366]Vigor\\C[0] aumenta el umbral de placer ",
 "que debes alcanzar antes de tener un orgasmo.",
 
-"La principal forma de entrenar \\C[11]\\I[366]Endurecer\\C[0] ",
+"La principal forma de entrenar \\C[11]\\I[366]Vigor\\C[0] ",
 "es siendo objeto de ataques sexuales y teniendo orgasmos.",
 "",
 
-"Lo que me lleva a este pensamiento que he estado teniendo... ",
-"¿Cómo es que la gente en esta prisión aumenta su ",
-"\\C[11]\\I[366]Endurecer\\C[0]???"
+"Lo que me lleva a este pensamiento al que he estado dando vueltas... ",
+"¿¿¿Cómo es que la gente en esta prisión aumenta su ",
+"\\C[11]\\I[366]Vigor\\C[0]???"
 ]},
 
 
 "map20_ev9_tachiename_1":{
-"text":["Chico ofensivo (guardia)"]},
+"text":["Chico Ofensivo (Guardia)"]},
 
 "map20_ev9_p1_1":{
 "text":[
-"¡La ofensiva es la mejor defensa!",
+"¡La Ofensiva es la mejor defensa!",
 "¡Simplemente elimina a tus enemigos antes de que ellos te eliminen a ti! "
 ]},
 
 
 "map20_ev10_tachiename_1":{
-"text":["Chico de defensa (guardia)"]},
+"text":["Chico Defensivo (Guardia)"]},
 
 "map20_ev10_p1_1":{
 "text":[
-"¡No, el mejor ataque es una buena defensa!",
+"¡No, la mejor ofensiva es una buena defensa!",
 "",
 "",
 
-"¡Debes asegurarte de no prepararte para recibir ",
-"más daño en el próximo turno atacando con un tipo ",
+"¡Debes asegurarte de no comerte ",
+"más daño el próximo turno por atacar con un tipo ",
 "de ataque contra el que tu oponente sea fuerte!",
 
 "¡A veces, es mejor esperar un turno defendiendo ",
-"en lugar de simplemente atacar cada turno!"
+"en lugar de simplemente atacar todos los turnos!"
 ]},
 
 
 "map20_ev11_tachiename_1":{
-"text":["Kumar el Guardia Frío"]},
+"text":["Kumar el Guardia Tranquilo"]},
 
 "map20_ev11_p1_1":{
 "text":[
@@ -7354,11 +7354,11 @@
 
 
 "map20_ev12_tachiename_1":{
-"text":["Millas (Guardia)"]},
+"text":["Miles (Guardia)"]},
 
 "map20_ev12_p1_1":{
 "text":[
-"¿Qué hace un recluso en el cuartel de la guardia?",
+"¿Que qué hace un recluso en el Cuartel de la Guardia?",
 "",
 "",
 
@@ -7369,7 +7369,7 @@
 
 
 "map20_ev13_tachiename_1":{
-"text":["Kaga el guardia inteligente"]},
+"text":["Kaga el Guardia Inteligente"]},
 
 "map20_ev13_p1_1":{
 "text":[
@@ -7377,9 +7377,9 @@
 "",
 "",
 
-"\\C[3]\\I[304]Los ataques Cortante\\C[0] son fuertes contra \\C[2]\\I[305]Ataques contundentes\\C[0],",
-"\\C[2]\\I[305]Los ataques contundentes\\C[0] son fuertes contra \\C[4]\\I[306]Ataques perforantes\\C[0],",
-"y \\C[4]\\I[306]Los ataques de perforación\\C[0] son fuertes contra \\C[3]\\I[304]Ataques de corte\\C[0].",
+"\\C[3]\\I[304]Los ataques Cortantes\\C[0] son fuertes contra los \\C[2]\\I[305]ataques Contundentes\\C[0],",
+"\\C[2]\\I[305]Los ataques Contundentes\\C[0] son fuertes contra los \\C[4]\\I[306]ataques Perforantes\\C[0],",
+"y \\C[4]\\I[306]Los ataques Perforantes\\C[0] son fuertes contra los \\C[3]\\I[304]ataques Cortantes\\C[0].",
 
 "Tener la ventaja de ataque te permitirá hacer más daño y tener ",
 "más posibilidades de asestar un golpe, mientras que atacar en  ",
@@ -7388,73 +7388,73 @@
 
 
 "map20_ev14_tachiename_1":{
-"text":["Kawazu el guardia inteligente"]},
+"text":["Kawazu el Guardia Listo"]},
 
 "map20_ev14_p1_1":{
 "text":[
 "¡Bienvenido al cuartel de la guardia, Directora Karryn!",
 "¡Aquí encontrarás guardias, cada uno con su propio conocimiento para compartir!",
-"¡Para empezar, hablaré sobre cómo funciona la nivelación!",
+"¡Para empezar, hablaré sobre cómo funciona la subida de nivel!",
 
 "Tus estadísticas aumentan permanentemente al obtener suficiente experiencia ",
-"en ellas para elevar sus niveles. Y puedes obtener experiencia con tus ",
-"estadísticas realizando acciones que utilicen esas estadísticas.",
+"en ellas. Y puedes obtener experiencia",
+"realizando acciones que utilicen esas estadísticas.",
 
-"Por ejemplo: usar \\C[2]\\I[305]ataques de tipo contundente\\C[0] aumentará tu \\C[2]\\I[309]Fuerza\\C[0],",
-"usar \\C[4]\\I[306]ataques de tipo Perforadores\\C[0] aumentará tu \\C[4]\\I[315]Agilidad\\C[0],",
-"y usar \\C[3]\\I[304]ataques de tipo corte\\C[0] aumentará tu \\C[3]\\I[311]Destreza\\C[0].",
+"Por ejemplo: usar \\C[2]\\I[305]ataques Contundentes\\C[0] aumentará tu \\C[2]\\I[309]Fuerza\\C[0],",
+"usar \\C[4]\\I[306]ataques de Perforantes\\C[0] aumentará tu \\C[4]\\I[315]Agilidad\\C[0],",
+"y usar \\C[3]\\I[304]ataques Cortantes\\C[0] aumentará tu \\C[3]\\I[311]Destreza\\C[0].",
 
-"El uso de habilidades que requieren \\C[2]\\I[340]Estamina\\C[0] aumentará tu \\C[2]\\I[340]Estamina\\C[0],",
-"usar habilidades que requieren \\C[31]\\I[349]Energía\\C[0] aumentará tu \\C[31]\\I[349]Energía\\C[0],",
+"El uso de habilidades que requieran \\C[2]\\I[340]Resistencia\\C[0] aumentará tu \\C[2]\\I[340]Resistencia\\C[0],",
+"usar habilidades que requieran \\C[31]\\I[349]Energía\\C[0] aumentará tu \\C[31]\\I[349]Energía\\C[0],",
 "y usar \\C[11]\\I[329]Habilidades de Voluntad\\C[0] aumentará tu \\C[11]\\I[326]Mente\\C[0].",
 
-"Dar un golpe completo aumentará tu \\C[2]\\I[309]Fuerza\\C[0].",
-"Recibir un golpe crítico también aumentará tu \\C[11]\\I[366]Endurecer\\C[0].",
-"Evadir un ataque aumentará tu \\C[4]\\I[315]Agilidad\\C[0].",
+"Recibir un golpe aumentará tu \\C[2]\\I[309]Fuerza\\C[0].",
+"Recibir un golpe crítico también aumentará tu \\C[11]\\I[366]Vigor\\C[0].",
+"Esquivar un ataque aumentará tu \\C[4]\\I[315]Agilidad\\C[0].",
 
-"Y así sucesivamente y así sucesivamente.",
+"Y así con todo.",
 "También hay otras formas de aumentar la experiencia de cada ",
-"estadística, ¡así que juega y descúbrelas tú mismo!",
+"estadística ¡Así que juega y descúbrelas tú mismo!",
 
-"La tasa de exp obtenida depende de la tasa de crecimiento de esa estadística, ",
+"La cantidad de experiencia obtenida depende de la tasa de crecimiento de esa estadística, ",
 "así como de si el enemigo al que te enfrentas es más débil o más fuerte que tú.",
-"Por cada 5 niveles totales de estadísticas, tu \\C[3]Nivel de guardián\\C[0] también aumentará.",
+"Por cada 5 niveles de estadísticas, tu \\C[3]Nivel de Guardiana\\C[0] también aumentará.",
 
-"Depende completamente de usted si desea tener una distribución uniforme de niveles",
-"en todas las estadísticas o centrarse principalmente en una o dos estadísticas.",
+"Depende completamente de ti si quieres tener una distribución uniforme de niveles",
+"en todas las estadísticas o centrarte principalmente en una o dos estadísticas.",
 "",
 
 "Sin embargo, no tienes que preocuparte demasiado por todo esto.",
-"Divertirte haciendo lo que te gusta es una forma de vivir también."
+"Divertirte haciendo lo que te gusta también es una buena forma de vivir."
 ]},
 
 
 "map20_ev15_tachiename_1":{
-"text":["Hombre Encantador (Guard)"]},
+"text":["Hombre Encantador (Guardia)"]},
 
 "map20_ev15_p1_1":{
 "text":[
-"¿Qué es \\C[31]\\I[319]Encanto\\C[0]? ",
-"\\C[31]\\I[319]Encanto\\C[0] Qué atractivo eres, ganso tonto.",
+"¿Qué es el \\C[31]\\I[319]Encanto\\C[0]? ",
+"El \\C[31]\\I[319]Encanto\\C[0] es como de atractiva eres, tontita.",
 "",
 
 "Necesitas una cantidad considerable de \\C[31]\\I[319]Encanto\\C[0] ",
 "para poder usar más de dos Accesorios. ",
-"¡Necesitas coraje si quieres arreglarte!"
+"¡Necesitas agallas para ponerte guapa!"
 ]},
 
 "map20_ev15_p1_2":{
 "text":[
-"Además, \\C[31]\\I[319]Encanto\\C[0] es lo que hace que los chicos ",
-"de por aquí se emocionen con solo mirarte; ganando Placer en cada ",
+"Además, el \\C[31]\\I[319]Encanto\\C[0] es lo que hace que los chicos ",
+"de por aquí se exciten con solo mirarte; ganando Placer cada ",
 "turno sin que tú hagas nada.",
 
-"Pero ten en cuenta que algunos de los hombres aquí podrían ",
-"requerir que tengas un \\C[31]\\I[319]Encanto\\C[0] alto si ",
-"quieres excitarlos con solo estar ahí luciendo bonitos. ",
+"Pero ten en cuenta que algunos hombres podrían ",
+"requerir que tengas mucho \\C[31]\\I[319]Encanto\\C[0] si ",
+"quieres excitarlos con tan solo esa cara bonita. ",
 
 "Por supuesto, cuando las acciones indirectas no funcionan,",
-"puedes simplemente darles Placer directamente..."
+"puedes darles Placer directamente..."
 ]},
 
 "map20_ev15_p1_3":{
@@ -7464,45 +7464,45 @@
 "",
 
 "Ni siquiera necesitas equiparlos, simplemente poseerlos ",
-"te hace sentir bien y por tanto más atractivo."
+"te hace sentir bien y por tanto más atractiva."
 ]},
 
 
 "map20_ev16_tachiename_1":{
-"text":["Ed el guardia cabron"]},
+"text":["Ed el Guardia Cabrón"]},
 
 "map20_ev16_p1_1":{
 "text":[
-"¿Sabías que obtienes una bonificación si usas ",
-"tipos únicos de accesorios juntos?",
+"¿Sabías que obtienes una bonificación si usas",
+"varios accesorios de distintos tipos juntos?",
 "",
 
-"Por ejemplo, usar un collar y una pulsera te dará una ",
-"bonificación de dos juegos. Usar una pulsera, un collar ",
-"y unos aretes te dará una bonificación de tres juegos.",
+"Por ejemplo, usar un Collar y una Pulsera te dará una ",
+"bonificación de un conjunto de dos piezas. Usar una Pulsera, un Collar ",
+"y unos Pendientes te dará una bonificación de un conjunto de tres piezas.",
 
-"Pero si usas sólo dos pulseras, no obtendrás ninguna bonificación por conjunto. ",
-"Y si usas dos pulseras con un collar, ",
-"solo obtendrás una bonificación de dos juegos."
+"Pero si llevas solo dos Pulseras, no obtendrás ninguna bonificación por el conjunto. ",
+"Y si llevas dos Pulseras con un Collar, ",
+"solo obtendrás una bonificación de un conjunto de dos piezas."
 ]},
 
 "map20_ev16_p1_2":{
 "text":[
-"La excepción a esta regla son \\C[25]\\I[107]Accesorios varios\\C[0].",
-"Usar cada uno contará como un tipo único de Accesorio, por lo que usar ",
-"un Anillo y dos Miscs te dará una bonificación de tres conjuntos."
+"La excepción a esta regla son los \\C[25]\\I[107]Accesorios Misceláneos\\C[0].",
+"Al llevarlos, cada uno contará como un tipo único de Accesorio, por lo que llevar ",
+"un Anillo y dos Misceláneos te dará una bonificación de un conjunto de tres piezas."
 ]},
 
 "map20_ev16_p1_3":{
 "text":[
-"Ignorando la bonificación del conjunto usando los mismos",
-"tipos de accesorios, o mezclando y combinando para aprovechar ",
-"la bonificación del conjunto, ¿qué camino elegirás?"
+"Ignorar la bonificación del conjunto usando accesorios del mismo",
+"tipos, o mezclar y combinar accesorios para aprovechar ",
+"la bonificación ¿Qué camino elegirás?"
 ]},
 
 
 "map20_ev17_tachiename_1":{
-"text":["Edd el guardia hablador"]},
+"text":["Edd el Guardia Hablador"]},
 
 "map20_ev17_p1_1":{
 "text":[
@@ -7510,51 +7510,51 @@
 "",
 "",
 
-"Así que apuesto a que no sabes nada sobre Waves, ¿eh?",
+"Apuesto a que no sabes nada acerca de las Oleadas ¿Eh?",
 "",
 "",
 
 "Bueno, básicamente, cuando entras en una batalla, ",
-"no todos van a luchar contra ti a la vez.",
-"Entonces, en lugar de eso, simplemente vendrán hacia ti en Waves.",
+"no todo el mundo va a luchar contra ti a la vez.",
+"Así que, en lugar de eso, vendrán hacia ti en Oleadas.",
 
-"El número de enemigos y oleadas se basa en el \\C[16]\\I[408]Orden\\C[0] de la prisión.",
-"Cuanto menor sea el \\C[16]\\I[408]Order\\C[0], más personas podrán presentarse a una pelea."
+"El número de enemigos y Oleadas se basa en el \\C[16]\\I[408]Orden\\C[0] de la prisión.",
+"Cuanto menor sea el \\C[16]\\I[408]Orden\\C[0], más personas podrán presentarse a una pelea."
 ]},
 
 "map20_ev17_p1_2":{
 "text":[
-"Si estás empezando a sentirte abrumado en medio de una batalla, ",
-"recuerda que siempre puedes simplemente huir siempre y cuando no estés ",
-"demasiado fatigado y conserves toda la experiencia y \\I[408]Orden que hayas adquirido.",
+"Si estás empezando a sentirte abrumada en mitad de una batalla, ",
+"recuerda que siempre puedes huir mientras no estés ",
+"demasiado cansada y así conservar toda la experiencia y \\I[408]Orden que hayas ganado.",
 
-"Hablando de fatiga, recibirás una penalización de \\C[18]\\I[419]Fatiga\\C[0] ",
+"Hablando de cansancio, recibirás una penalización de \\C[18]\\I[419]Fatiga\\C[0] ",
 "por escapar de forma segura de la batalla.",
-"Pero bueno, huir sigue siendo mejor que perder, ¿verdad?"
+"Pero bueno, huir sigue siendo mejor que perder ¿Verdad?"
 ]},
 
 "map20_ev17_p1_3":{
 "text":[
-"No se puede huir de las peleas en esta prisión, ",
-"así que ¡asegúrate de estar preparado antes de comenzar una!"
+"No se puede escapar de las peleas en esta prisión, ",
+"¡Así que asegúrate de estar preparado antes de comenzar una!"
 ]},
 
 
 "map20_ev18_tachiename_1":{
-"text":["Sam el guardia gordo"]},
+"text":["Sam el Guardia Gordo"]},
 
 "map20_ev18_p1_1":{
 "text":[
-"¡Oh! Hola, señorita alcaide.",
+"¡Oh! Hola, señorita Directora.",
 "",
 "",
 
-"¿Sabías que Su Majestad Imperial el Emperador te otorga ",
-"\\C[16]\\I[370]subsidios\\C[0] diariamente?",
+"¿Sabías que Su Majestad Imperial el Emperador le otorga ",
+"\\C[16]\\I[370]Subsidios\\C[0] diariamente?",
 "",
 
-"¡Es cierto! Y la cantidad de financiación que obtiene de \\C[16]\\I[370]Subsidies\\C[0] ",
-"cada día se basa en la \\C[16]\\I[408]Orden\\ actual. C[0] de la prisión.",
+"¡No es broma! Y la cantidad de financiación que obtiene de los \\C[16]\\I[370]Subsidios\\C[0] ",
+"cada día se basa en el \\C[16]\\I[408]Orden\\C[0] actual de la prisión.",
 "",
 
 "Cuanto peor esté la prisión, más fondos te  ",
@@ -7568,92 +7568,92 @@
 "map20_ev19_p1_1":{
 "text":[
 "Directora Karryn,",
-"¿Has notado que tu \\C[2]\\I[340]Estamina\\C[0] y \\C[31]\\I[349]Energía\\C[0]",
-"se restauran completamente después del final de cada batalla?",
+"¿Te has dado cuenta de que tu \\C[2]\\I[340]Resistencia\\C[0] y \\C[31]\\I[349]Energía\\C[0]",
+"se restauran completamente después de cada batalla?",
 
-"Así es, no necesitas preocuparte por tu \\C[2]\\I[340]Estamina\\C[0] y ",
+"Así es, no necesitas preocuparte por tu \\C[2]\\I[340]Resistencia\\C[0] y ",
 "\\C[31]\\I[349]Energía\\C[0] entre batallas.  ",
-"Sin embargo, debes vigilar tu \\C[18]\\I[419]Fatigue\\C[0].",
+"Sin embargo, debes vigilar tu \\C[18]\\I[419]Fatiga\\C[0].",
 
-"\\C[18]\\I[419]Fatiga\\C[0] reduce tu \\C[2]\\I[340]Estamina\\C[0] y \\C[31]\\I [349]Energía\\C[0],",
-"y en ciertos puntos todas tus otras estadísticas también comienzan a caer.",
+"La \\C[18]\\I[419]Fatiga\\C[0] reduce tu \\C[2]\\I[340]Resistencia\\C[0] y \\C[31]\\I [349]Energía\\C[0],",
+"y a partir de ciertos puntos, todas tus otras estadísticas también comienzan a caer.",
 "Puedes ganar fatiga al hacer casi cualquier cosa.",
 
 "La única manera de reducir tu \\C[18]\\I[419]Fatiga\\C[0] es descansando.",
-"Puede descansar en su oficina o en una estación de ",
-"guardia ubicada en algún lugar de cada nivel de prisión.",
+"Puedes descansar en tu oficina o en una Estación de ",
+"Guardia ubicada en algún lugar de cada Nivel de la Prisión.",
 
-"Recuerda descansar antes de que tu \\C[18]\\I[419]Fatigue\\C[0] suba demasiado.",
-"No importa lo fuerte que seas, aún necesitas descansar tu cuerpo."
+"Recuerda descansar antes de que tu \\C[18]\\I[419]Fatiga\\C[0] suba demasiado.",
+"No importa lo fuerte que seas, sigues necesitando descansar tu cuerpo."
 ]},
 
 
 "map20_ev20_tachiename_1":{
-"text":["Sapo el guardia corto"]},
+"text":["Toad el Guardia Bajo"]},
 
 "map20_ev20_p1_1":{
 "text":[
-"\\C[16]\\I[408]Control\\C[0] es una estadística de vital importancia ",
-"que indica cómo está funcionando la prisión. Tan pronto como \\C[16]\\I[408]Control\\C[0] ",
-"llegue a cero, tu tiempo en esta prisión se acortará.",
+"El \\C[16]\\I[408]Orden\\C[0] es una estadística de vital importancia ",
+"que indica cómo está funcionando la prisión. En cuanto el \\C[16]\\I[408]Orden\\C[0] ",
+"llegue a cero, te echarán de la prisión.",
 
-"\\C[16]\\I[408]Control\\C[0] se ve afectado principalmente por \\C[16]\\I[376]Control\\C[0], ",
-"que disminuye o aumenta \\C [16]\\I[408]Control\\C[0] al final de cada día.",
+"El \\C[16]\\I[408]Orden\\C[0] se ve afectado principalmente por el \\C[16]\\I[376]Control\\C[0], ",
+"que disminuye o aumenta el \\C [16]\\I[408]Orden\\C[0] al final de cada día.",
 "",
 
-"Hay dos métodos principales para aumentar \\C[16]\\I[408]Control\\C[0]: ",
-"El primero es sometiendo a los reclusos y el segundo ",
-"es aumentando \\C[16]\\I[376]Control\\C[0].",
+"Hay dos métodos principales para aumentar el \\C[16]\\I[408]Orden\\C[0]: ",
+"El primero es someter a los reclusos y el segundo ",
+"es aumentar el \\C[16]\\I[376]Control\\C[0].",
 
-"\\C[16]\\I[376]El control\\C[0] aumenta o disminuye según el estado ",
-"de cada nivel de prisión y mediante la promulgación de ciertos Decretos.",
+"El \\C[16]\\I[376]Control\\C[0] aumenta o disminuye según el estado ",
+"de cada Nivel de la Prisión y mediante la promulgación de ciertos Decretos.",
 "",
 
-"Personalmente, priorizaría los Decretos que aumentan \\C[16]\\I[376]Control\\C[0] ",
-"y \\C[16]\\I[408]Control\\C[0] primero, pero tu lo haces"
+"Yo personalmente, priorizaría los Decretos que aumentan el \\C[16]\\I[376]Control\\C[0] ",
+"y el \\C[16]\\I[408]Orden\\C[0], pero haz lo que quieras."
 ]},
 
 
 "map20_ev21_tachiename_1":{
-"text":["Dirk el guardia ágil"]},
+"text":["Dirk el Guardia Ágil"]},
 
 "map20_ev21_p1_1":{
 "text":[
-"Los niveles de prisión que han sido \\C[3]Subyugado\\C[0] pueden comenzar \\C[18] a",
-"\\I[407]Motinarse\\C[0] al comienzo de cada día.",
+"Los Niveles de la Prisión que han sido \\C[3]Subyugados\\C[0] pueden comenzar un",
+"\\C[18]\\I[407]Motín\\C[0] al comienzo de cada día.",
 "",
 
 "¿Por qué se amotinarían esos imbéciles? Quién sabe, ",
 "tal vez no estén contentos por haber sido maltratados, ",
-"o tal vez alguien esté siendo un idiota con ellos.",
+"o tal vez alguien esté dándoles por culo.",
 
-"O tal vez sean simplemente idiotas estúpidos a los que les gusta hacer mucho ruido.",
-"De cualquier manera, simplemente somete a todos en el nivel de prisión que es",
-"\\C[18]\\I[407]Amotinaron\\C[0] y se convertirán en \\C[3]Subyugado\\C[0] nuevamente.",
+"O quizás simplemente sean idiotas a los que les gusta hacer mucho ruido.",
+"De cualquier manera, somete a todo el mundo en el Nivel de la Prisión que está",
+"\\C[18]\\I[407]Amotinado\\C[0] y volverá a estar \\C[3]Subyugado\\C[0] de nuevo.",
 
-"Oh, esto debería ser obvio, pero perderás Orden todos los días por cada nivel ",
-"de prisión que esté actualmente en \\C[18]\\I[407]Motin\\C[0]."
+"Ah, esto debería ser obvio, pero perderás Orden todos los días por cada Nivel ",
+"de la Prisión que esté actualmente \\C[18]\\I[407]Amotinado\\C[0]."
 ]},
 
 
 "map20_ev22_tachiename_1":{
-"text":["Ollo el guardia rápido"]},
+"text":["Ollo el Guardia Rápido"]},
 
 "map20_ev22_p1_1":{
 "text":[
-"¿Quieres saber acerca de \\C[18]\\I[10]Corrupción\\C[0]?",
-"Bueno, todo hombre, mujer y tal vez incluso ",
-"niño tiene algo de corrupción en su corazón.",
+"¿Quieres saber acerca de la \\C[18]\\I[10]Corrupción\\C[0]?",
+"Bueno, todo hombre, mujer e incluso ",
+"niño tiene algo de Corrupción en su corazón.",
 
-"Pequeños secretos sucios que no quieren",
-"que nadie más se entere.",
+"Pequeños trapos sucios que no quieren",
+"que nadie más descubra.",
 "",
 
-"Lo mismo debe aplicarse a usted, ¿no es así, Directora?",
-"Pero no te preocupes, tu corrupción no importa siempre ",
-"y cuando no te atrapen.",
+"Lo mismo se te aplica a ti ¿No es así, Directora?",
+"Pero no te preocupes, tu Corrupción no importa siempre ",
+"y cuando no te descubran.",
 
-"En otras palabras, no permita que \\C[3]Orden caiga a cero\\C[0].",
+"En otras palabras, no permitas que el \\C[3]Orden caiga a cero\\C[0].",
 "",
 "",
 
@@ -7663,32 +7663,32 @@
 
 
 "map20_ev23_tachiename_1":{
-"text":["Hombre Evasivo (guardia)"]},
+"text":["Hombre Evasivo (Guardia)"]},
 
 "map20_ev23_p1_1":{
 "text":[
-"Siempre que uses una habilidad de ataque contra alguien, ",
-"tu \\C[11]\\I[422]Precisión\\C[0] se compara con su \\C[18]",
-"\\I[427]Evasión\\C[0] y puede suceder una de tres cosas:",
+"Siempre que Ataques a alguien, tu \\C[11]\\I[422]Precisión\\C[0]",
+"se compara con su \\C[18]\\I[427]Evasión\\C[0] y puede suceder",
+"una de tres cosas:",
 
-"1. Obtienes un golpe limpio.",
-"2. Te rozan los ataques.",
-"3. los esquivas por completo.",
+"1. Das un golpe limpio.",
+"2. Tu golpe le roza.",
+"3. Fallas el golpe.",
 
-"Cuando puedes conseguir un golpe limpio, existe la posibilidad de que incluso ",
+"Cuando consigues dar un golpe limpio, existe la posibilidad de que incluso ",
 "consigas un \\C[11]\\I[428]golpe crítico\\C[0]. Habla con el guardia que está ",
-"a mi lado para obtener más detalles sobre \\C[11]\\I[428]golpes críticos\\C[0].",
+"a mi lado para obtener más detalles sobre los \\C[11]\\I[428]golpes críticos\\C[0].",
 
-"Cuando los rozas, aún los golpeas, pero solo con muy poco daño y no hay ",
-"\\C[11]\\I[428]golpes críticos\\C[0] por rozaduras.",
+"Cuando los rozas, Sigue siendo un golpe, pero hacer muy poco daño y no ",
+"puedes dar \\C[11]\\I[428]golpes críticos\\C[0] de esta manera.",
 "",
 
-"Si los extrañas por completo, entonces, inténtalo de nuevo."
+"Si fallas el golpe, solo te queda volverlo a intentar."
 ]},
 
 
 "map20_ev24_tachiename_1":{
-"text":["Hombre crítico (guardia)"]},
+"text":["Hombre Crítico (Guardia)"]},
 
 "map20_ev24_p1_1":{
 "text":[
@@ -7696,13 +7696,13 @@
 "\\C[11]\\I[428]golpe crítico\\C[0]. Las posibilidades de que obtengas un",
 "\\C[11]\\I[428]golpe crítico\\C[0] se basan principalmente en tu \\C[2]\\I[309]Fuerza\\C[0] . ",
 
-"Cuando haces un \\C[11]\\I[428]golpe crítico\\C[0],",
-"tu daño crítico se basa principalmente en tu \\C[3]\\I[311]Destreza\\C[0].",
+"Cuando das un \\C[11]\\I[428]golpe crítico\\C[0],",
+"tu Daño Crítico se basa principalmente en tu \\C[3]\\I[311]Destreza\\C[0].",
 "",
 
-"Sin embargo, la \\C[18]\\I[415]Critical Evasion\\C[0] de tu objetivo podría",
-"impedirte realizar un ataque crítico. \\C[4]\\I[414]Critical Evasion\\C[0] ",
-"se basa principalmente en tu \\C[11]\\I[366]Endurecimiento\\C[0]."
+"Sin embargo, la \\C[18]\\I[415]Evasión Crítica\\C[0] de tu objetivo podría",
+"impedirte realizar un golpe crítico. La \\C[4]\\I[414]Evasión Crítica\\C[0] ",
+"se basa principalmente en tu \\C[11]\\I[366]Vigor\\C[0]."
 ]},
 
 "map20_ev24_p1_2":{
@@ -7713,21 +7713,21 @@
 
 
 "map20_ev25_tachiename_1":{
-"text":["Fáser (Guardia)"]},
+"text":["Guardia de Turno"]},
 
 "map20_ev25_p1_1":{
 "text":[
-"En una batalla normal, cada turno tienes una \\C[11]Fase mental\\C[0] ",
-"y una \\C[2]Fase de acción\\C[0].",
+"En una batalla normal, cada turno tienes una \\C[11]Fase Mental\\C[0] ",
+"y una \\C[2]Fase de Acción\\C[0].",
 "",
 
-"Cada turno comienza con la \\C[11]Fase mental\\C[0] donde puedes usar tantas ",
-"\\C[11]Habilidades de fuerza de voluntad\\C[0] como quieras.",
+"Cada turno comienza con la \\C[11]Fase Mental\\C[0] donde puedes usar tantas ",
+"\\C[11]Habilidades de Voluntad\\C[0] como quieras.",
 "",
 
-"OUna vez que decida finalizar la \\C[11]Fase mental\\C[0], puede hacerlo ",
-"seleccionando la opción End \\C[11]Fase mental\\C[0] o presionando la ",
-"tecla Cancelar, ingresas a tu \\C[2]Fase de Acción\\C[0].",
+"Una vez que decidas finalizar la \\C[11]Fase mental\\C[0], que se puede hacer ",
+"seleccionando la opción Terminar \\C[11]Fase mental\\C[0] o presionando la ",
+"tecla Cancelar, pasas a tu \\C[2]Fase de Acción\\C[0].",
 
 "En la \\C[2]Fase de Acción\\C[0], solo puedes realizar una acción.",
 "Tu \\C[2]Fase de acción\\C[0] así como tu turno terminan ",
@@ -7736,15 +7736,15 @@
 
 
 "map20_ev26_tachiename_1":{
-"text":["Hombre de resistencia (guardia)"]},
+"text":["Hombre Resistente (Guardia)"]},
 
 "map20_ev26_p1_1":{
 "text":[
-"\\C[2]\\I[340]Resistencia\\C[0] es uno de tus tres recursos y muchos",
-"lo consideran el más importante de los tres.",
+"La \\C[2]\\I[340]Resistencia\\C[0] es uno de tus tres recursos, y muchos",
+"lo consideran el más importante.",
 "",
 
-"Necesitas \\C[2]\\I[340]Estamina\\C[0] para hacer casi cualquier cosa, ",
+"Necesitas \\C[2]\\I[340]Resistencia\\C[0] para hacer casi cualquier cosa, ",
 "ya sea usar habilidades, recibir ataques o evadir ataques."
 ]},
 
@@ -7756,19 +7756,19 @@
 
 
 "map20_ev27_tachiename_1":{
-"text":["Hombre de energía (guardia)"]},
+"text":["Hombre Enérgico (Guardia)"]},
 
 "map20_ev27_p1_1":{
 "text":[
-"\\C[31]\\I[349]Energía\\C[0] es uno de tus tres recursos y, aunque algunos pueden",
-"argumentar que no es muy importante, en mi opinión, aún así debes realizar un ",
-"seguimiento de tu \\ C[31]\\I[349]Energía\\C[0] a medida que avanza la batalla."
+"La \\C[31]\\I[349]Energía\\C[0] es uno de tus tres recursos, y aunque algunos pueden",
+"argumentar que no es muy importante, en mi opinión, debes tener muy en cuenta ",
+"tu \\ C[31]\\I[349]Energía\\C[0] a medida que avanza la batalla."
 ]},
 
 "map20_ev27_p1_2":{
 "text":[
 "Mientras tengas algo de \\C[31]\\I[349]Energía\\C[0], ",
-"no perderás la batalla incluso si te quedas sin \\C[2]\\I[340 ]Resistencia\\C[0]. ",
+"no perderás la batalla, incluso si te quedas sin \\C[2]\\I[340 ]Resistencia\\C[0]. ",
 "",
 
 "Sin embargo, perderás mucha \\C[31]\\I[349]Energía\\C[0] cada vez que tengas un orgasmo.",
@@ -7776,129 +7776,129 @@
 "",
 
 "Asi que ummm. ",
-"¿Intentar no tener demasiados orgasmos en una misma batalla?"
+"¿Intenta no tener demasiados orgasmos en la misma batalla?"
 ]},
 
 
 "map20_ev28_tachiename_1":{
-"text":["Hombre de fuerza de voluntad (guardia)"]},
+"text":["Hombre con Voluntad (Guardia)"]},
 
 "map20_ev28_p1_1":{
 "text":[
-"\\C[11]\\I[350]La voluntad\\C[0] es uno de tus tres recursos y es el único ",
-"recurso que puedes usar durante las fases mental.",
+"La \\C[11]\\I[350]Voluntad\\C[0] es uno de tus tres recursos, y es el único ",
+"que puedes usar durante la Fase Mental.",
 "",
 
-"\\C[11]\\I[350]Voluntad\\C[0] se regenera fácilmente en cada turno, así que no tengas miedo de gastarlo. ",
+"La \\C[11]\\I[350]Voluntad\\C[0] se regenera fácilmente en cada turno, así que no tengas miedo de gastarla. ",
 "",
 "",
 
-"Una cosa que debes tener en cuenta es que el costo de todas las ",
-"\\C[11]\\I[329]habilidad de voluntad\\C[0] aumenta a medida que las usas en el mismo turno."
+"Una cosa que debes tener en cuenta es que el coste de todas las ",
+"\\C[11]\\I[329]Habilidad de Voluntad\\C[0] aumenta a medida que las usas en el mismo turno."
 ]},
 
 
 "map20_ev29_tachiename_1":{
-"text":["Guardia asustada"]},
+"text":["Guardia Asustado"]},
 
 "map20_ev29_p1_1":{
 "text":[
-"Si se supone que debemos proteger a todos, ",
-"¿quién nos protege a nosotros?"
+"Si se supone que debemos protegerlos a todos, ",
+"¿Quién nos protege a nosotros?"
 ]},
 
 
 "map20_ev44_tachiename_1":{
-"text":["Hombre del título (guardia)"]},
+"text":["Hombre de los Títulos (Guardia)"]},
 
 "map20_ev44_p1_1":{
   "text": [
-    "Oye, ¿sabías que los títulos tienen diferentes efectos?",
+    "Oye ¿Sabías que los títulos tienen diferentes efectos?",
     "",
     "",
 
-    "Todos los \\C[16]\\I[89]titles\\C[0] te darán un efecto pasivo permanente con solo tenerlo. ",
-    "Y la mayoría de los títulos tienen efectos adicionales si configuras ese \\C[16]\\I[89]título\\C[0] como ",
-    "su \\C[3]\\I[87]título principal\\C[0].",
+    "Todos los \\C[16]\\I[89]Títulos\\C[0] te darán una pasiva permanente con solo tenerlo. ",
+    "Además la mayoría de los Títulos tienen efectos adicionales si te los pones como ",
+    "\\C[3]\\I[87]Título Principal\\C[0].",
 
-    "Simplemente vaya a la pantalla Equipo para establecer el \\C[16]\\I[89]título\\C[0]",
-    "que desea como su principal.",
+    "Simplemente ve a la pantalla de Equipo para establecer el \\C[16]\\I[89]Título\\C[0]",
+    "que quieras como principal.",
     "",
 
-    "Entonces, ¿cómo obtienes nuevos títulos que pides?",
+    "¿Que cómo obtienes nuevos títulos?",
     "",
     "",
 
-    "como si lo supiera, solo soy un guardia común. ",
-    "Ni siquiera tengo un \\C[16]\\I[89]título\\C[0]."
+    "Ni puta idea, solo soy un guardia normal y corriente. ",
+    "Ni siquiera puedo conseguir un \\C[16]\\I[89]Título\\C[0]."
   ]},
 
 
 "map20_ev45_tachiename_1":{
-"text":["Common Guard"]},
+"text":["Guardia Común"]},
 
 "map20_ev45_p1_1":{
 "text":[
-"¡Saludos, directora jefe Karryn!",
-"Estoy seguro de que ya sabes sobre esto,",
-"pero tienes algo llamado \\C[11]\\I[474]Control de daño\\C[0].",
+"¡Saludos, Directora Karryn!",
+"Estoy seguro de que ya sabes esto,",
+"pero tienes algo llamado \\C[11]\\I[474]Control de Daño\\C[0].",
 
-"Tu \\C[11]\\I[474]Control de daño\\C[0] te impide recibir ",
-"más de una cierta cantidad de daño de resistencia.",
+"Tu \\C[11]\\I[474]Control de Daño\\C[0] te impide recibir ",
+"más de una cierta cantidad de daño a tu Resistencia.",
 "",
 
-"Entonces digamos que tienes \\C[11]25% control de daño\\C[0],",
-"entonces solo obtendrás un máximo del 75% ",
-"de tu resistencia total de un solo ataque.",
+"Digamos que tienes \\C[11]25% de Control de Daño\\C[0],",
+"Eso significa que solo recibirás como máximo el 75% ",
+"de tu resistencia total en un solo ataque.",
 
-"Ojalá fuera lo suficientemente fuerte como para tener un control de daño....",
-"Las únicas personas de nuestro lado que tienen control de daño ",
-"probablemente sean solo usted y el subdirector."
+"Ojalá fuera lo suficientemente fuerte como para tener algo de Control de Daño....",
+"Las únicas personas de nuestro lado que tienen Control de Daño ",
+"probablemente sean solo tú y el Subdirector."
 ]},
 
 
 "map20_ev46_tachiename_1":{
-  "text": [ "Guardia dormido" ]},
+  "text": [ "Guardia Dormido" ]},
 
 "map20_ev46_p1_1":{
   "text": [
     "Zzz... ohhh Karryn... ",
-    "quiero acariciar esas tetitas... zzz..."
+    "quiero toquetear esas tetitas... zzz..."
   ]},
 
 
 
 "map21_ev10_p1_1":{
   "text": [
-    "La cerradura electrónica está actualmente encendida. ¿Apágalo?",
-    "\\C[1]Advertencia: desactivar la cerradura significará que cualquiera puede entrar",
-    "a la oficina."
+    "La cerradura electrónica está actualmente encendida. ¿Quieres apagarla?",
+    "\\C[1]Advertencia: Desactivar la cerradura significará que cualquiera pueda entrar",
+    "en la oficina."
   ]},
 
 "map21_ev10_p1_choice_1":{
-  "text": [ "Déjalo puesto" ]},
+  "text": [ "Dejarla Encendida" ]},
 "map21_ev10_p1_choice_2":{
-"text":["Apagarlo"]},
+"text":["Apagarla"]},
 
 
 "map21_ev10_p2_1":{
   "text": [
-    "La cerradura electrónica está actualmente apagada. ¿Volver a encenderlo?",
-    "\\C[1]Advertencia: desactivar la cerradura significará que cualquiera puede entrar",
-    "a la oficina."
+    "La cerradura electrónica está actualmente apagada. ¿Quieres encenderla?",
+    "\\C[1]Advertencia: Desactivar la cerradura significará que cualquiera pueda entrar",
+    "en la oficina."
   ]},
 
 "map21_ev10_p2_choice_1":{
-  "text": [ "déjalo apagado" ]},
+  "text": [ "Dejarla Apagada" ]},
 "map21_ev10_p2_choice_2":{
-  "text": [ "volver a encenderlo" ]},
+  "text": [ "Encenderla" ]},
 
 
 "map21_ev32_p2_1":{
   "text": [
     "Encontré un montón de notas escritas por Yasu ",
-    "escondido entre algunos de los libros.",
-    "¿Debería leerlo?"
+    "escondidas entre algunos libros.",
+    "¿Debería leerlas?"
   ]},
 
 "map21_ev32_p2_choice1_yes":{
@@ -7908,91 +7908,91 @@
 
 "map21_ev32_p2_yes_1":{
 "text":[
-"\\C[4]Cosas que no debes olvidar de los Decretos\\C[0]",
-"Sólo el Jefe de Vigilancia tiene la capacidad de promulgar nuevos \\C[3]Decretos\\C[0].",
-"Por eso, estoy anotando estas notas para no olvidar ciertos puntos.",
+"\\C[4]Cosas que no debo olvidar de los Decretos\\C[0]",
+"Sólo el Director tiene la capacidad de promulgar nuevos \\C[3]Decretos\\C[0].",
+"Por ello, estoy escribiendo estas notas para no olvidar ciertos puntos.",
 
-"En primer lugar, no se sienta abrumado por las opciones de \\C[3]Decretos\\C[0] disponibles.",
-"Sólo tengo que trabajar de arriba a abajo.",
-"Promulgar un \\C[3]Decretis\\C[0] podría abrir las puertas a nuevos \\C[3]Decretos\\C[0].",
+"Lo primero, no hay que abrumarse por la cantidad de \\C[3]Decretos\\C[0] que hay disponibles.",
+"Sólo hay que ir poco a poco de arriba a abajo.",
+"Promulgar un \\C[3]Decreto\\C[0] podría abrir las puertas a nuevos \\C[3]Decretos\\C[0].",
 
 "1. \\C[3]Los Decretos\\C[0] se pueden promulgar desde esta oficina o desde  ",
 "cualquier estación de guardia con un teléfono que funcione.",
 "",
 
-"2. Para promulgar un \\C[3]Decretos\\C[0], la cantidad necesaria de \\C[11]\\I[364]Puntos de Decreto\\C[0] ",
-"y \\C[11]\\I[410]Los fondos\\C[0] deben estar disponibles.",
+"2. Para promulgar un \\C[3]Decreto\\C[0], necesitas disponer de una cierta cantidad de ",
+" \\C[11]\\I[364]Puntos de Decretos\\C[0] y \\C[11]\\I[410]Fondos\\C[0].",
 "",
 
-"3. Una vez pagadas las costas, se promulgará inmediatamente el \\C[3]Decreto\\C[0].",
+"3. Una vez pagados los costes, se promulgará el \\C[3]Decreto\\C[0] inmediatamente.",
 "",
 "",
 
 "Por si acaso, también escribiré los \\C[3]Decretos\\C[0] que prioricé cuando me ",
-"convertí por primera vez en el nuevo Alcaide. Si alguna vez me pierdo, ",
-"sólo necesito revisar estas notas nuevamente y ver qué debo hacer."
+"convertí en Director. Si alguna vez me olvido, ",
+"sólo necesito revisar estas notas nuevamente y ver qué hacer."
 ]},
 
 "map21_ev32_p2_choice2_yes":{
-  "text": [ "sigue leyendo" ]},
+  "text": [ "Seguir leyendo" ]},
 "map21_ev32_p2_choice2_no":{
-  "text": [ "Para de leer" ]},
+  "text": [ "Parar de leer" ]},
 "map21_ev32_p2_choice2_throw":{
-  "text": [ "Tira la nota." ]},
+  "text": [ "Tirar la nota." ]},
 
 "map21_ev32_p2_yes_2":{
 "text":[
-"Para Decretos personales, entrenar el primer nivel de \\C[2]\\I[309]Fuerza\\C[0], \\C[16]\\I[311]Destreza\\C[0] ",
-"y \\C[23]\\I[315]Agilidad\\C[0] fue buena. Y, por supuesto, inmediatamente seguí aprendiendo",
-"las nuevas habilidades de ataque después del primer nivel de entrenamiento.",
+"En cuanto a Decretos personales, entrenar el primer nivel de \\C[2]\\I[309]Fuerza\\C[0], \\C[16]\\I[311]Destreza\\C[0] ",
+"y \\C[23]\\I[315]Agilidad\\C[0] fue bueno. Y, por supuesto, inmediatamente continué aprendiendo",
+"las nuevas habilidades de ataque tras el primer nivel de entrenamiento.",
 
-"A continuación, estaba el entrenamiento \\C[31]\\I[326]Mente\\C[0]. Al entrenar mi",
-" mente, pude recuperar un poco de energía a través de pura fuerza de voluntad.",
+"A continuación, me puse a entrenar la \\C[31]\\I[326]Mente\\C[0]. Al entrenar mi",
+" mente, pude recuperar un poco de Energía con pura Voluntad.",
 "",
 
 "También había varias posturas de combate útiles que se podían aprender después de ",
-"hacer algo de entrenamiento de \\C[23]\\I[318]Endurance\\C[0]. Si bien esto no era ",
-"una prioridad tan alta como el otro, fue bueno que eventualmente trabajara en ello.",
+"entrenar un poco de \\C[23]\\I[318]Vigor\\C[0]. Si bien esto no era ",
+"tan prioritario como lo otro, estuvo bien que eventualmente trabajara en ello.",
 
-"Para los Decretos penitenciarios, mantener un \\C[24]\\I[197]Comedor y una cocina\\C[0] ",
+"En cuanto a los Decretos penitenciarios, mantener un \\C[24]\\I[197]Comedor y una Cocina\\C[0] ",
 "en funcionamiento es muy importante.",
 "",
 
-"Porque para mí se termina el juego cuando el \\C[3]\\I[408]Order\\C[0] de la prisión llega a cero.",
-"Nunca debo olvidarme de asegurarme de tener una cantidad saludable de ",
-"\\C[3]\\I[408]Order\\C[0] en caso de que algo suceda.",
+"Porque cuando el \\C[3]\\I[408]Orden\\C[0] de la prisión llega a cero. Se acaba todo.",
+"No debo olvidarme de mantener una buena cantidad de",
+"\\C[3]\\I[408]Orden\\C[0] en caso de que algo suceda.",
 
-"Una vez que la \\C[3]\\I[408]Order\\C[0] de la prisión alcanzó un estado estable, ",
+"Una vez que el \\C[3]\\I[408]Orden\\C[0] de la prisión alcanza un estado estable, ",
 "me concentré en el aspecto financiero de la prisión.",
 "",
 
-"\\C[11]\\I[410]Ingresos\\C[0] aumenta los fondos diarios de la prisión, mientras",
-"que los \\C[10]\\I[401]Gastos\\C[0] disminuye los fondos diarios de la prisión .",
+"Los \\C[11]\\I[410]Ingresos\\C[0] aumentan los fondos diarios de la prisión, mientras",
+"que los \\C[10]\\I[401]Gastos\\C[0] disminuyen los fondos diarios de la prisión .",
 "",
 
 "Promulgar \\C[3]Decretos\\C[0] requiere fondos, por lo que es importante mantener un flujo  ",
-"de caja positivo aumentando \\C[11]\\I[410]Ingresos\\C[0] mientras se mantiene \\C[10]\\I[401]Gastos\\C[0] bajos.",
+"de caja positivo aumentando los \\C[11]\\I[410]Ingresos\\C[0] mientras se mantienen los \\C[10]\\I[401]Gastos\\C[0] bajos.",
 "",
 
 "Esto es todo por ahora.",
-"Nunca olvides el ensayo y error del pasado y el futuro estará bien."
+"Nunca olvides el ensayo y error del pasado y el futuro irá bien."
 ]},
 
 "map21_ev32_p2_choice3_yes":{
-"text":["Ya veo... debería guardar esta nota por ahora."]},
+"text":["Ya veo... Debería guardar esta nota por ahora."]},
 "map21_ev32_p2_choice3_no":{
-"text":["¡Precisamente yo no necesito la ayuda de Yasu! ¡Quita esta basura de mi escritorio!"]},
+"text":["¡No necesito la ayuda de Yasu! ¡Quita esta basura de mi escritorio!"]},
 
 
 
 "map21_ev32_p5_1":{
   "text": [
     "Hay un montón de notas recién escritas.",
-    "¿Debería leerlos?"
+    "¿Debería leerlas?"
   ]},
 "map21_ev32_p5_choice_1":{
   "text": [
-    "Lea 'Introducción al modo de juego libre'"
+    "Leer 'Introducción al Modo de Juego Libre'"
   ]},
 "map21_ev32_p5_choice_2":{
   "text": [
@@ -8004,7 +8004,7 @@
   ]},
 "map21_ev32_p5_choice_exit":{
   "text": [
-    "Quizas mas tarde."
+    "Quizás más tarde."
   ]},
 
 
