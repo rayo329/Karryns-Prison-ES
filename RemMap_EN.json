@@ -4474,7 +4474,7 @@
 "map17_ev23_p2_slut_end_1":{
 "text":[
 "¡Parece que vas a por el Final Feliz!",
-"¡Felicidades, meow!",
+"¡Felicidades, miau!",
 "",
 "Si estabas intentando ver el Final Emperatriz ¡No estés triste, miau!",
 "Siempre puedes intentarlo en New Game Plus ¡Miau!"
@@ -4482,7 +4482,7 @@
 
 "map17_ev23_p2_challenge_1":{
 "text":[
-"Cada Desafío te otorga uno de los dos Títulos como recompensa ¡Miau!",
+"Cada Desafío te otorga uno de dos Títulos posibles como recompensa ¡Miau!",
 "El Título que obtienes depende de si estás en Modo Guardiana.",
 "o si estás en Modo Prisionera ¡Miau!",
 "La recompensa del Modo Prisionera es mejor que la del Modo Guardiana ¡Miau!",
@@ -9371,7 +9371,7 @@
 
 "map24_ev25_p1_1":{
 "text":[
-"Gracias compañero. No te olvides tampoco de Yeti.",
+"Gracias compañero. No te olvides tampoco de los Yetis.",
 "Oh, qué cosas digo, cualquiera que haya ",
 "estado cerca de uno nunca los olvida.",
 
@@ -9532,7 +9532,7 @@
 "map34_ev5_p1_1":{
 "text":[
 "¿Masturbarse antes de descansar hasta el día siguiente?",
-"Existe una probabilidad de de \\C[2]\\REM_IC[0]%\\C[0] ", 
+"Existe una probabilidad del \\C[2]\\REM_IC[0]%\\C[0] ", 
 "de que alguien pueda escucharte y entrar en la habitación después."
 ]},
 "map34_ev5_choice1_1":{
@@ -9644,7 +9644,7 @@
   "text": [
     "\\#",
     "\\#",
-    "\\#Selecciona un archivo de guardado para tu partida."
+    "\\#Selecciona una ranura de guardado para tu partida."
   ]},
 
 "map35_ev7_p2_2":{
@@ -9658,7 +9658,7 @@
 "text":["No"]},
 
 "map35_ev7_p2_choice_2":{
-"text":["Si, sáltatelo"]},
+"text":["Si, omitir"]},
 
 "map35_ev8_p1_1":{
   "text": [
@@ -9685,14 +9685,14 @@
 "map35_ev31_p1_1":{
 "text":[
 "\\C[3]Para seleccionar o confirmar algo:\\C[0]",
-"En teclado: presiona la tecla confirmar (Z por defecto)",
-"En gamepad: presiona la tecla confirmar (por defecto en Xbox: A; en Dualshock: X)",
+"Con teclado: presiona la tecla confirmar (Z por defecto)",
+"Con gamepad: presiona la tecla confirmar (por defecto en Xbox: A; en Dualshock: X)",
 "Con ratón: Clic izquierdo en el elemento",
 "",
 "\\C[3]Para moverse:\\C[0]",
-"En teclado: use las flechas",
-"En mando: usa los botones de dirección/joystick",
-"Con el ratón: haga clic izquierdo en un punto del mapa."
+"Con teclado: use las flechas",
+"Con mando: usa los botones de dirección/joystick",
+"Con ratón: haga clic izquierdo en un punto del mapa."
 ]},
 
 "map35_ev31_p2_1":{
@@ -9873,7 +9873,7 @@
 "El mundo está preparado para ver fracasar a Karryn y, honestamente ¿Puedes culparlos?",
 
 "Si quieres, puedo revelarte los dos mayores obstáculos iniciales de este juego.",
-"\\C[2]Sin embargo, al hacerlo, perderás la oportunidad de conquistar las trampas por ti mismo.",
+"\\C[2]Sin embargo, al hacerlo, perderás la oportunidad de conquistarlos por ti mismo.",
 "Así que sólo di que sí aquí si estás realmente perdido y quieres saber las respuestas, \\C[0]miau."
 ]},
 
@@ -9924,7 +9924,7 @@
 
 "Bueno.",
 "Es una trampa.",
-"Meow.",
+"Miau.",
 
 "No quiero decir que Cortante en realidad no sea fuerte contra Contundente.",
 "no no no, miau. ",
@@ -9932,7 +9932,7 @@
 
 "Pero solo porque sea verdad,  no significa que ",
 "S-I-E-M-P-R-E",
-"debes usar un ataque Cortante contra uno Contudente, miau.",
+"debas usar un ataque Cortante contra uno Contudente, miau.",
 
 "Vuelve a leer las explicaciones sobre cómo funciona la subida de Nivel en este juego ",
 "del primer guardia en el Cuartel de la Guardia cuando tengas la oportunidad, miau.",
@@ -9990,7 +9990,7 @@
 
 "map35_ev95_p1_choice3_pet_1":{
 "text":[
-"MEOW~~~♥",
+"MIAU~~~♥",
 "",
 "",
 
@@ -10007,22 +10007,22 @@
 
 "map35_ev37_p3_1":{
 "text":[
-"\\#Actualmente restablecerás todos tus niveles y estadísticas.",
+"\\#Vas a reiniciar todos tus niveles y estadísticas.",
 "\\#¿Quieres cancelar el reinicio?",
 "",
-"\\#Todos los Desafíos requerirán un reinicio para poder iniciarlas.",
-"\\#Conservarás todos tus títulos pase lo que pase."
+"\\#Todos los Desafíos requerirán un reinicio para poder empezarlos.",
+"\\#Conservarás todos tus Títulos pase lo que pase."
 ]},
 "map35_ev37_p3_choice_1":{
-  "text": ["Mantenga el reinicio."
+  "text": ["Mantener el reinicio."
   ]},
 "map35_ev37_p3_choice_2":{
-  "text": ["Cancele el reinicio."
+  "text": ["Cancelar el reinicio."
   ]},
 "map35_ev37_p3_2":{
   "text": [
-    "\\#Actualmente estás en un Desafío.",
-    "\\#Primero debe cancelar eso antes de poder cancelar el restablecimiento."
+    "\\#Estás ahora mismo en un Desafío.",
+    "\\#Primero debes cancelarlo antes de poder cancelar el reinicio."
   ]},
 
 "map36_ev2_can_not_enter_next_room_name":{
