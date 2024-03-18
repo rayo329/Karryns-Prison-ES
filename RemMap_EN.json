@@ -2406,7 +2406,7 @@
 "map6_ev6_p2_1":{
 "text":[
 "¡¡No te lo vas a creer, pero acabo de ver a la Secretaria Imperial!!",
-"¡¡Joder, ese cuerpo es UNA JOYA……!! ¡¡Especialmente ese culo y esas tetas!!",
+"¡¡Joder, ese cuerpo es UNA JOYA...!! ¡¡Especialmente ese culo y esas tetas!!",
 "Se ve incluso más guapa en persona que en fotos...",
 "Joder tio...",
 "Estoy tan celoso de los reclusos que podeis verla más a menudo....",
@@ -5281,7 +5281,7 @@
 
 "map18_ev26_p2_karryn_Lv4_1":{
 "text":[
-"(¡G-Guau...! ¡¡Qué estatua de la diosa tan maravillosa……!!",
+"(¡G-Guau...! ¡¡Qué estatua de la diosa tan maravillosa...!!",
 "Su Majestad realmente está un paso... No, un salto por encima de todo el mundo.",
 "¿Soy yo, o la cara se parece mucho a la mía ...?)"
 ]},
@@ -6072,7 +6072,7 @@
 "que Su Majestad Imperial me propondría matrimonio!!)",
 "",
 
-"…(Ooh... Si hubiera sabido que este día llegaría, ",
+"(Ooh... Si hubiera sabido que este día llegaría, ",
 "habría protegido más mi castidad...)",
 "",
 
@@ -6530,7 +6530,7 @@
 "map18_ev58_p3_if_a_narration_3":{
 "text":[
 "\\#Y entonces tomó una decisión.",
-"\\#Que era……………"
+"\\#Que era......"
 ]},
 
 "map18_ev58_p3_if_b_narration_1":{
@@ -6923,7 +6923,7 @@
 "map19_ev2_p1_karryn_28":{
 "text":[
 "(¡¿Urgk...?!",
-"Este tío… ¡¡Q-qué muestra tan opresiva de fuerza de voluntad…!!)"
+"Este tío... ¡¡Q-qué muestra tan opresiva de fuerza de voluntad...!!)"
 ]},
 "map19_ev2_p1_yasu_43":{
 "text":[
@@ -10027,48 +10027,48 @@
 
 "map36_ev2_can_not_enter_next_room_name":{
   "text": [
-    "El gimnasio"
+    "el gimnasio"
   ]},
 "map36_ev3_can_not_enter_next_room_name":{
   "text": [
-    "el area comun C"
+    "el area común C"
   ]},
 
 "map36_ev7_tachiename_1":{
-  "text": [ "\\C[29]Voz de un cerdo" ]},
+  "text": [ "\\C[29]Voz de un Cerdo"]},
 "map36_ev7_p2_tonkin_1":{
   "text": [
-    "Señorita Karryn!! Señorita Karrrryyyyn!!"
+    "¡¡Señorita Karryn!! ¡¡Señorita Karrrryyyyn!!"
   ]},
 "map36_ev7_p2_tonkin_2":{
   "text": [
-    "Oink~!",
+    "¡Oink~!",
     "¡E-espéreme, Señorita Karryn!"
   ]},
 "map36_ev7_p2_karryn_1":{
   "text": [
-    "¿Tú otra vez, Tonkín?",
-    "¿Qué es?",
+    "¿Tú otra vez, Tonkin?",
+    "¿Qué pasa?",
     "¿Has decidido volver a tu celda?"
   ]},
 "map36_ev7_p2_tonkin_3":{
   "text": [
     "¡No, no es eso!",
-    "Sra. Karryn, esta es su primera vez en el Nivel 3, ¿no?",
-    "¡Estoy aquí para decirte algo muy importante!",
-    "¡El nivel 3 es como el territorio de los hombres lagarto!",
-    "Los Hombres Lagarto no son como cualquier otro recluso......",
-    "Así que no bajes la guardia a su alrededor, ¿me oyes?"
+    "Sra. Karryn, esta es su primera vez en el Nivel 3, ¿Verdad?",
+    "¡Estoy aquí para decirle algo muy importante!",
+    "¡El nivel 3 es el territorio de los hombres lagarto!",
+    "Los hombres lagarto no son como cualquier otro recluso......",
+    "Así que no baje la guardia, ¿Vale?"
   ]},
 "map36_ev7_p2_karryn_2":{
   "text": [
-    "¿Qué es exactamente tan diferente acerca de ellos?"
+    "¿Qué es lo que los hace tan diferentes?"
   ]},
 "map36_ev7_p2_tonkin_4":{
   "text": [
     "¡Los hombres lagarto se vuelven más fuertes cuando están juntos!",
-    "Un pequeño hombre lagarto no es nada...",
-    "¡Pero agrúpalos y cada uno se vuelve más y más fuerte!"
+    "Un hombre lagarto cuando está solo no es nada...",
+    "¡Pero cuando están en grupo, cada uno de ellos se vuelve más fuerte!"
   ]},
 "map36_ev7_p2_karryn_3":{
   "text": [
@@ -10078,118 +10078,118 @@
   ]},
 "map36_ev7_p2_tonkin_5":{
   "text": [
-    "No tengo ni puta idea......",
-    "¡Pero de todos modos, lo único que sé es que son peligrosos!"
+    "Ni puta idea......",
+    "¡Pero bueno, lo único que sé es que son peligrosos!"
   ]},
 "map36_ev7_p2_tonkin_6":{
   "text": [
-    "¡Y la parte más aterradora es el jefe de este piso!",
-    "Él es el líder de todos los hombres lagarto",
-    "y vive en el Nivel 5, ¡así que debe ser muy fuerte!"
+    "¡Y lo más aterrador es el jefe de este piso!",
+    "Es el líder de todos los hombres lagarto",
+    "y vive en el Nivel 5, ¡Así que debe ser muy fuerte!"
   ]},
 "map36_ev7_p2_karryn_4":{
   "text": [
     "El líder de todos los hombres lagarto......",
-    "Hmm, entonces él es como el hombre lagarto alfa…"
+    "Hmm, entonces es como el alfa de los hombres lagarto..."
   ]},
 "map36_ev7_p2_tonkin_7":{
   "text": [
-    "Alpha......? Oink...",
-    "No conozco los detalles, ¡pero la gente dice que el jefe",
-    "aquí nació como una élite entre los hombres lagarto!"
+    "¿Alfa......? Oink...",
+    "No conozco los detalles, ¡Pero la gente dice que el jefe",
+    "nació siendo de la élite entre los hombres lagarto!"
   ]},
 "map36_ev7_p2_karryn_5":{
 "text":[
 "En biología lo llaman alfa.",
-"Debajo de alfa están las betas, y debajo de ellas las gammas..."
+"Debajo de los alfa están los betas, y debajo de ellas los gammas..."
 ]},
 "map36_ev7_p2_tonkin_8":{
 "text":[
-"¡Espera, espera, espera, para! ¡No entiendo nada de esas cosas difíciles!",
-"Mira... oink... ¿qué tal este ejemplo...?",
-"Es como si sois especiales entre los humanos... ¡sí!"
+"¡Espera, espera, para! ¡No entiendo nada de esas cosas tan difíciles!",
+"Mira... oink... ¿Qué tal este ejemplo...?",
+"Es como tú, que eres especial entre los humanos"
 ]},
 "map36_ev7_p2_karryn_6":{
 "text":[
-"¡No me agrupes con algún pequeño lagarto criminal!"
+"¡No me metas en el mismo saco que ese lagarto!"
 ]},
 "map36_ev7_p2_tonkin_9":{
 "text":[
-"OINK! Mi error!"
+"¡OINK! ¡Perdón!"
 ]},
 "map36_ev7_p2_tonkin_10":{
 "text":[
-"D-De todos modos... le tengo mucho miedo a ese chico alfa...",
-"Sólo hay una razón por la que cuando comencé a provocar ",
-"disturbios solo me quedé en los niveles superficiales...",
-"Y es porque tenía miedo de los hombres ",
+"D-De todos modos... le tengo mucho miedo a ese alfa...",
+"El motivo por el que, mientras estaba",
+"amotinándome, no salí de los niveles superficiales...",
+"Es porque tenía miedo de los hombres ",
 "lagarto y de su jefe...",
 "",
-"¡¡Ay, ay, sí!!",
-"¡¡Escuché que el jefe está ordenando a sus hombres ",
-"lagarto que destruyan las paredes de una de las habitaciones grandes!!"
+"¡¡Ah, y una cosa más!!",
+"¡¡Escuché que el alfa está ordenando a sus secuaces ",
+"que destruyan las paredes de una de las habitaciones grandes!!"
 ]},
 "map36_ev7_p2_karryn_7":{
 "text":[
-"Qu...?!",
+"¡¿Qu...?!",
 "¿No significa eso...",
-"¿Está tratando de escapar cavando un agujero?"
+"¡¿Que está intentando escapar cavando un agujero?!"
 ]},
 "map36_ev7_p2_tonkin_11":{
 "text":[
-"No parece que eso sea lo que están intentando hacer.......",
-"Creo que están intentando remodelar la habitación o algo así......."
+"No parece que sea eso......",
+"Creo que están intentando reformar la habitación......."
 ]},
 "map36_ev7_p2_karryn_8":{
 "text":[
-"Remodelar......?",
-"De cualquier manera, es un delito definitivo destruir propiedad carcelaria.",
+"¿Reformar......?",
+"De todas formas, es un delito destruir propiedad de la prisión.",
 "",
-"Voy a necesitar capturarlo inmediatamente ",
-"y hacer que cuente sus planes."
+"Voy a tener que capturarlo inmediatamente ",
+"y hacer que me cuente sus planes."
 ]},
 "map36_ev7_p2_karryn_9":{
 "text":[
-"......He comprendido la situación.",
+"......Me hago una idea de la situación.",
 "Tienes mi agradecimiento por tu información."
 ]},
 "map36_ev7_p2_tonkin_12":{
 "text":[
-"Oh, no seas tan formal con toda esa gratitud y esas cosas...♥",
-"Oink oink♥ Siempre seré su aliada, Sra. Karryn.♥",
-"He he he, oink♥"
+"Oh, no seas tan formal con tu agradecimiento y todo eso...♥",
+"Oink oink♥ Siempre seré su aliado, Señorita Karryn.♥",
+"Je je je, oink♥"
 ]},
 "map36_ev7_p2_karryn_10":{
 "text":[
-"No te pongas engreido.",
-"Si terminaste aquí, vuelve arriba.",
-"¿O quieres que lo devuelva a patadas a una celda?"
+"No te pongas engreído.",
+"Si ya has terminado, vuelve arriba.",
+"¿O quieres que te meta en la celda a patadas?"
 ]},
 "map36_ev7_p2_tonkin_13":{
 "text":[
-"OINK~~~!",
-"De todos modos ten cuidadooooo~~~~!!"
+"¡OINK~~~!",
+"¡¡Vale pero ten cuidadooooo~~~~!!"
 ]},
 "map36_ev7_p2_karryn_11":{
 "text":[
 "(Ya veo...",
-"Básicamente, finalmente llegué al punto en el",
-"que Yasu no podía manejar las cosas...)",
-"(Estoy preocupado por que alfa remodela la habitación......",
+"Básicamente, he llegado al punto en el",
+"que Yasu ya no podía controlar las cosas...)",
+"(Me preocupa ese alfa remodelando la habitación......",
 "Podría haber una conexión entre él y el capitán.......)"
 ]},
 "map36_ev7_p2_karryn_12":{
 "text":[
-"(Suspiro... Entonces así es como se siente una prisión subterránea......",
-"El aire está estancado... El hedor a hombre es obviamente ",
+"(*Suspiro*... Entonces así es como se siente una prisión subterránea......",
+"El aire está viciado... El hedor a hombre es obviamente ",
 "mucho más fuerte aquí que en el Nivel Uno...... )",
-"(Esto es simplemente absurdo...",
-"¿Cuánto tiempo más debe tener alguien como yo para ",
-"seguir respirando el mismo aire que estos presos?.....)"
+"(Esto es absurdo...",
+"¿Cuánto tiempo más tengo que seguir",
+"respirando el mismo aire que respiran estos presos?.....)"
 ]},
 "map36_ev7_p2_karryn_13":{
 "text":[
-"(¡Terminemos esta misión rápidamente para",
+"(¡Terminemos esta misión rápido para",
 "poder despedirme de este lugar!)"
 ]},
 
@@ -10199,51 +10199,51 @@
 ]},
 
 "map37_ev3_tachiename_1":{
-"text":["Noble hombre lagarto"]},
+"text":["Hombre Lagarto Noble"]},
 "map37_ev3_p1_1":{
 "text":[
-"¡Un saludo, camaradas, a nuestros vínculos eternos!",
-"Mi vida ha sido más rica al haberlos conocido a todos.",
-"¡No cambiaría nada por estar en ningún otro lugar!",
-"Nuestras pruebas continúan, ",
-"pero sé que juntos prevaleceremos al final."
+"¡Un saludo, camaradas, por nuestros vínculos eternos!",
+"Mi vida ha sido más rica al haberos conocido.",
+"¡No me iría a otro sitio por nada del mundo!",
+"Nuestras adversidades continúan, ",
+"pero sé que juntos prevaleceremos hasta el final."
 ]},
 "map37_ev3_p2_1":{
 "text":[
-"¡Un saludo, camaradas, a nuestros vínculos eternos!",
-"Mi vida ha sido más rica al haberlos conocido a todos.",
-"¡No cambiaría nada por estar en ningún otro lugar!",
+"¡Un saludo, camaradas, por nuestros vínculos eternos!",
+"Mi vida ha sido más rica al haberos conocido.",
+"¡No me iría a otro sitio por nada del mundo!",
 "¡Juntos someteremos y subyugaremos ",
-"a la Señora del Fuerte Ganon!"
+"a la Señorita del Fuerte Ganon!"
 ]},
 "map37_ev3_p3_1":{
 "text":[
-"Un saludo, camaradas míos, a nuestros vínculos.",
-"Mi vida ha sido más rica al haberlos conocido a todos.",
+"¡Un saludo, camaradas, por nuestros vínculos!",
+"Mi vida ha sido más rica al haberos conocido.",
 "",
-"Aunque nuestros números son uno menos, ",
-"al final prevaleceremos."
+"Aunque seamos uno menos, ",
+"prevaleceremos hasta el final."
 ]},
 "map37_ev3_p4_1":{
 "text":[
 "¿Qué les ha pasado a mis camaradas...?",
-"Qué me ha pasado...",
+"Qué me ha pasado a mí...",
 "",
-"No menos mi mente los considera indispensables, ",
-"pero el cuerpo no quiere ni puede moverse igual..."
+"Mi mente no los considera indispensables, ",
+"pero mi cuerpo no quiere ni puede moverse igual..."
 ]},
 
 "map37_ev5_tachiename_1":{
-"text":["Nerd (clérigo)"]},
+"text":["Friki (Clérigo)"]},
 "map37_ev5_p1_1":{
 "text":[
-"Saqué 16 con mi prueba de vista, y con mi bonificación de ", 
+"Saqué 16 en mi tirada de observación, y con mi bonus de ", 
 "Sabiduría +3 y mis gafas de mejora de Percepción, ",
 "puedo confirmar que no hay más enemigos cerca. "
 ]},
 "map37_ev5_p1_2a":{
 "text":[
-"Conozco de memoria el rostro de cada guardia maldito y ",
+"Me sé de memoria la cara de cada guardia y ",
 "comparto información sobre sus debilidades con mis aliados."
 ]},
 "map37_ev5_p1_2b":{
@@ -10255,22 +10255,22 @@
 "text":[
 "Finalmente,",
 "Lanzo Regeneración sobre mi erección ",
-"furiosa y termino mi turno."
+"y acabo mi turno."
 ]},
 "map37_ev5_p1_3b":{
 "text":[
 "Finalmente,",
-"Lanzo Curar heridas leves al ",
-"grupo y finalizo mi turno."
+"Lanzo Curar Heridas Leves al ",
+"grupo y acabo mi turno."
 ]},
 
 "map37_ev8_tachiename_1":{
-"text":["Orco con Libro amoroso"]},
+"text":["Orco Lector"]},
 "map37_ev8_p1_1":{
 "text":[
-"No te preocupes, amigo mío. oink.",
-"Por lo que he leído sobre nuestro nuevo director de prision,",
-"Ella debería ser una persona muy respetable, oink."
+"No te preocupes, amigo mío. Oink.",
+"Por lo que he leído sobre nuestra nueva Directora,",
+"parece ser una persona muy respetable, oink."
 ]},
 "map37_ev8_p2_1":{
 "text":[
@@ -10292,71 +10292,71 @@
 ]},
 
 "map37_ev9_tachiename_1":{
-"text":["Orco aventurero preocupado"]},
+"text":["Orco Aventurero Preocupado"]},
 "map37_ev9_p1_1":{
 "text":[
-"¿Estás seguro de que fue realmente una buena idea ",
+"¿Estás seguro de que fue buena idea ",
 "solicitar a la prisión más opciones de accesibilidad ",
-"para nosotros los orcos, oink?",
-"Sé que dije que quería explorar más del lugar sin ",
-"tener que pasar mi cuerpo a través de todas las ",
+"para los orcos, oink?",
+"Sé que dije que quería explorar más este lugar",
+"sin tener que encogerme para pasar por todas las ",
 "puertas estrechas y esas cosas, oink..."
 ]},
 "map37_ev9_tachiename_2":{
-"text":["Orco aventurero enojado"]},
+"text":["Orco Aventurero enfadado"]},
 "map37_ev9_p2_1":{
 "text":[
-"Grrrrr, OINK!",
-"¡¡Cómo podrían faltarnos el respeto así!!",
-"Ahora tengo ganas de ROMPER cosas, ¡¡¡OINK!!!"
+"¡Grrrrr, OINK!",
+"¡¡Cómo han podido faltarnos al respeto así!!",
+"Ahora tengo ganas de ROMPER cosas ¡¡¡OINK!!!"
 ]},
 "map37_ev9_tachiename_3":{
-"text":["Orco aventurero cachondo"]},
+"text":["Orco Aventurero Cachondo"]},
 "map37_ev9_p3_1":{
 "text":[
-"Ah, supongo que fue una pena que rechazaran nuestra petición.",
-"Pero supongo que era comprensible,",
-"hehehe oink."
+"Ah, es una pena que rechazaran nuestra petición.",
+"Pero supongo que es comprensible,",
+"jejeje oink."
 ]},
 "map37_ev9_tachiename_5":{
-"text":["Guardia indeciso"]},
+"text":["Guardia Indeciso"]},
 "map37_ev9_p5_1":{
 "text":[
 "Hmmmmmm.........",
-"¿Qué quiero beber hoy?......",
-"¿Quiero sopa... o té... o café?......"
+"¿Qué quiero beber hoy......?",
+"¿Quiero sopa... o té... o café......?"
 ]},
 
 "map37_ev10_tachiename_1":{
-"text":["Guardia de espera irritado"]},
+"text":["Guardia Esperando Irritado"]},
 "map37_ev10_p1_1":{
 "text":[
-"¿Cuándo se apartarán esos malditos cerdos del maldito camino?",
-"¿Por qué no pueden quedarse en otro ",
-"lado si van a hablar todo el día?"
+"¿Cuándo se van a quitar esos putos cerdos del puto camino?",
+"¡¿Por qué no pueden quedarse en otro ",
+"lado si van a estar hablando todo el día?!"
 ]},
 "map37_ev10_tachiename_4":{
-"text":["Prisionero en espera irritado"]},
+"text":["Prisionero Esperando Irritado"]},
 "map37_ev10_p4_1":{
 "text":[
-"¡¿Qué diablos, amigo?!",
-"¿Cuándo se apartará este maldito cerdo del camino?",
-"¡¡¡Solo elige una sopa de cerdo y ¡¡¡A LA MIERDAAAAAA!!!"
+"¡¿Qué coño pasa tio?!",
+"¿Cuándo se va a quitar este puto cerdo del medio?",
+"¡¡¡Elige la sopa de cerdo y VETE A TOMAR POR CULO!!!"
 ]},
 
 "map37_ev11_tachiename_1":{
-"text":["Hombre lagarto ruidoso"]},
+"text":["Hombre Lagarto Ruidoso"]},
 "map37_ev11_p1_1":{
 "text":[
-"Aqui Aqui!",
-"¡Todos nacisteis de diferentes madres, ",
+"¡AQUÍ AQUÍ!",
+"¡Todos nacísteis de diferentes madres, ",
 "pero os trato a todos como a mi familia!"
 ]},
 "map37_ev11_p2_1":{
 "text":[
-"AQUI AQUI!♥",
-"Sin embargo, creo que hay un lugar en el que ",
-"todos deberíamos estar.♥ Al mismo tiempo.♥♥"
+"¡AQUÍ AQUÍ!♥",
+"Aunque creo que hay otro lugar en el que ",
+"deberíamos estar todos.♥ Al mismo tiempo.♥♥"
 ]},
 "map37_ev11_p3_1":{
 "text":[
@@ -10366,111 +10366,111 @@
 ]},
 
 "map37_ev12_tachiename_1":{
-"text":["Goblin feliz"]},
+"text":["Goblin Feliz"]},
 "map37_ev12_p1_1":{
 "text":[
-"¡Todos, familia de goblins TAMBIÉN!"
+"¡Todos TAMBIÉN familia de goblin!"
 ]},
 "map37_ev12_p2_1":{
 "text":[
-"¡Deja que el goblin se encargue de lamer!"
+"¡Deja que goblin se encargue de lamer!"
 ]},
 "map37_ev12_p3_1":{
 "text":[
-"¡Todos, familia de goblins TAMBIÉN!"
+"¡Todos TAMBIÉN familia de goblin!"
 ]},
 "map37_ev12_tachiename_4":{
-"text":["Goblin alentador"]},
+"text":["Goblin Alentador"]},
 "map37_ev12_p4_1":{
 "text":[
-"Goblin todavía AQUÍ!",
+"¡Goblin sigue AQUÍ!",
 "¡Goblin protege a FAMILIA hombres lagarto!"
 ]},
 
 "map37_ev13_tachiename_1":{
-"text":["Hombre lagarto confiado"]},
+"text":["Hombre Lagarto Seguro de Si Mismo"]},
 "map37_ev13_p1_1":{
 "text":[
-"Ellos no pueden detenernos!",
+"¡No pueden detenernos!",
 "¡Nada romperá nuestro vínculo de compañerismo!"
 ]},
 "map37_ev13_p2_1":{
 "text":[
-"No te preocupes, ella se convertirá en pudín la ",
-"próxima vez que nuestros caminos se crucen."
+"No te preocupes, la próxima vez que nos la crucemos,",
+"se va a convertir en gelatina."
 ]},
 
 "map37_ev14_tachiename_dm":{
-"text":["\\C[29]Orco (maestro de mazmorra)"]},
+"text":["\\C[29]Orco (Dungeon Master)"]},
 "map37_ev14_p1_1":{
 "text":[
-"Tu grupo dobla la esquina y aparecen el ",
-"Directora y tres guardias.",
-"Están a segundos de darse cuenta de ti. ¿Tu próximo movimiento, oink?"
+"Vuestro grupo dobla la esquina y aparecen tres guardias",
+"y la Directora. Están a punto de darse cuenta",
+"de vuestra presencia. ¿Qué haceis, oink?"
 ]},
 
 "map37_ev15_tachiename_1":{
-"text":["Vagabundo (mago)"]},
+"text":["Vagabundo (Mago)"]},
 "map37_ev15_p1_1":{
 "text":[
 "Urgh.", 
-"Me quito la bata y el sombrero de mago.",
-"Luego lanzo Invisibilidad y salgo de allí."
+"Me quito la túnica y el sombrero de mago.",
+"Luego lanzo Invisibilidad y salgo de ahí."
 ]},
 "map37_ev15_p1_2":{
 "text":[
 "¡No! ¡No abandones a tus aliados!",
-"¡Eres un backliner, así que deja que tus aliados ",
+"¡Eres la retaguardia, así que deja que tus aliados ",
 "llamen su atención mientras atacas con seguridad! ¡Oink!"
 ]},
 "map37_ev15_p2_2":{
 "text":[
 "¡No! ¡No abandones a tus aliados!",
-"Eres un backliner, así que deja que tus aliados llamen su atención ",
-"mientras tú giras detrás y te follas con los dedos a la Directora. ¡Oink!"
+"Eres la retaguardia, así que deja que tus aliados llamen su atención ",
+"mientras vas por detrás y le metes los dedos a la Directora. ¡Oink!"
 ]},
 
 "map37_ev16_tachiename_1":{
-"text":["Matón (berserker)"]},
+"text":["Matón (Berserker)"]},
 "map37_ev16_p1_1":{
 "text":[
-"¡Utilizo cargar y embisto al guardia más cercano!"
+"¡Utilizo Cargar y embisto al guardia más cercano!"
 ]},
 "map37_ev16_p1_2":{
 "text":[
-"Good!",
-"Como líder, es tu deber alejar el aggro para que tus ",
-"aliados también puedan hacer su trabajo, ¡oink!"
+"¡Bien!",
+"Como vanguardia, es tu deber tener el aggro para que tus ",
+"aliados también puedan hacer su trabajo, ¡Oink!"
 ]},
 "map37_ev16_p1_3":{
 "text":[
-"Sí, claro que lo que sea.",
-"Simplemente me gusta cargar contra la mierda!",
-"Beerrrr-serker!!!"
+"Aah... Si lo que sea...",
+"¡Simplemente me gusta embestir cosas!",
+"¡¡¡Beerrrrseeeerkeeeeeer!!!"
 ]},
 "map37_ev16_p2_1":{
 "text":[
-"Empujo a los guardias y agarro los brazos del jefa de guardia.",
-"Me decanto por la persuasión sexual."
+"Me meto entre los guardias y agarro los brazos de la Directora.",
+"Tiro Persuasión Sexual."
 ]},
 "map37_ev16_p2_2a":{
 "text":[
-"Tiraste un 3. ¡No eras muy persuasivo!",
-"Le sugiero encarecidamente que primero suavice su defensa mental.",
-"Ábrete hablando sobre el tamaño de tu virilidad, oink."
+"Has sacado un 3. ¡No has sido muy persuasivo!",
+"Te sugiero que primero bajes su defensa mental.",
+"Empieza hablando sobre el tamaño de tu polla, oink."
 ]},
 "map37_ev16_p2_2b":{
 "text":[
 "¡¿Qué estás haciendo?!",
 "Sigue el plan, tu papel es llamar su atención,",
-"¡No para echar un polvo, oink!"
+"¡No echar un polvo, oink!"
 ]},
 
 "map37_ev17_tachiename_1":{
-"text":["Pícaro (pícaro)"]},
+"text":["Pícaro (Pícaro)"]},
 "map37_ev17_p1_1":{
 "text":[
-"Finta y desarma a uno de los guardias."
+"Uso Finta y desarmo a uno de los guardias."
 ]},
 "map37_ev17_p1_2a":{
 "text":[
@@ -10479,524 +10479,524 @@
 ]},
 "map37_ev17_p1_2b":{
 "text":[
-"¡Fue efectivo!",
+"¡Ha sido efectivo!",
 "Uno de los guardias está desarmado.",
-"Avanza, oink!"
+"Sigue así, oink!"
 ]},
 "map37_ev17_p2_1":{
 "text":[
-"Dejé que Berserker se encargara de los guardias,",
-"mientras me escabullo detrás del jefe ",
-"de guardia y empiezo a desvestirla."
+"Dejo que Berserker se encargue de los guardias,",
+"mientras, me escabullo detrás de la Directora ",
+"y empiezo a desvestirla."
 ]},
 "map37_ev17_p2_2a":{
 "text":[
-"Junto con la hermosa piel desnuda del Jefe de Vigilancia,",
-"un olor a su perfume se esparce por toda la zona,",
+"Junto con la hermosa piel desnuda de la Directora,",
+"su perfume se esparce por toda la zona,",
 "encantando a los guardias! ¡Sigue desnudándola, oink!"
 ]},
 "map37_ev17_p2_2b":{
 "text":[
-"¡Ella resiste!",
-"Y qué estás haciendo?!",
-"Eres el pícaro del grupo, ¡primero desactiva a los guardias! ¡oink!"
+"¡Lo resiste!",
+"¡¿Qué estás haciendo?!",
+"Eres el pícaro del grupo ¡Primero desarma los guardias! ¡Oink!"
 ]},
 
 "map37_ev18_tachiename_1":{
-  "text": [ "Guardia (Bardo)" ]},
+  "text": ["Guardia (Bardo)"]},
 "map37_ev18_p1_1":{
-  "text": [
-    "La la la~♫",
-    "Toco una Canción de valor, animando a todo el grupo.",
-    "Puedes hacerlo, ve a derribar el Fuerte Ganon~~♫"
-  ]},
+"text": [
+"La la la~♫",
+"Toco una Canción de Valor, bufando a todo el grupo.",
+"Podeis conseguirlo, tomad el Fuerte Ganon~~♫"
+]},
 
 "map37_ev20_tachiename_1":{
-"text":["Fidgety Hobo"]},
+"text":["Vagabundo Nervioso"]},
 "map37_ev20_p1_1":{
-  "text": [
-    "Cualquiera que sea el hombre, todos sabemos que eso es casi imposible.",
-    "Estoy más preocupado por cómo puede obtener hasta 3 títulos",
-    "reprimiendo disturbios. ¿Es ella una especie de monstruo?..."
-  ]},
+"text": [
+"Lo que tú digas, todos sabemos que eso es casi imposible.",
+"Estoy más preocupado por como la Directora puede obtener hasta 3 Títulos",
+"acabando con los motines. ¿Es humana...?"
+]},
 "map37_ev21_tachiename_1":{
-  "text": [ "Vagabundo estoico" ]},
+"text": ["Vagabundo Estoico"]},
 "map37_ev21_p1_1":{
-  "text": [
-    "Escuché que el Alcaide Jefe puede recibir hasta cuatro",
-    "Títulos por mantener la prisión en orden máximo."
-  ]},
+"text": [
+"Escuché que la Directora puede recibir hasta cuatro",
+"Títulos por mantener el orden de la prisión al máximo."
+]},
 
 "map37_ev22_tachiename_1":{
-  "text": [ "Slime juguetón" ]},
+"text": ["Slime Juguetón"]},
 "map37_ev22_p1_1":{
-  "text": [
-    "Presionar botones grandes se siente tan bien, slime~",
-    "Me arrestaron antes por hacer esto, baba~",
-    "Pero aquí puedo presionarlos todo el día, baba~"
-  ]},
+"text": [
+"Pulsar botones grandes se siente tan bien, slime~",
+"En el pasado me arrestaron por hacer esto, slime~",
+"Pero aquí puedo presionarlos todo el día, slime~"
+]},
 
 "map37_ev23_tachiename_1":{
-  "text": [ "Nerd echando humo" ]},
+"text": ["Friki Furioso"]},
 "map37_ev23_p1_1":{
-  "text": [
-    "¡Argh! A veces, a veces... Me enfado tanto que...",
-    "¡Toda la sangre se me sube a la cabeza y tengo ganas de golpear cosas!",
-    "",
-    "Sé que no soy el único que se siente así a veces",
-    "Todos aquí cuando se enojan, actúan un poco diferente",
-    "¿Cómo preguntas? Bueno, buena pregunta, ¡déjame explicarte!",
-    "Primero, cuando alguien está enojado, obtiene un pequeño ",
-    "impulso en su ataque y una gran disminución en su defensa.",
-    "Luego, su probabilidad de ataque también aumenta significativamente.",
-    "Finalmente, y esto difiere de persona a persona a monstruo,",
-    "pero las personas enojadas pueden usar diferentes habilidades de ataque.",
-    "Pueden dejar de usar ciertas habilidades y/o usar otras nuevas.",
-    "¡Tómame por ejemplo!",
-    "Normalmente no soñaría con lastimar a una mosca.",
-    "Pero cuando me enojo, solo, solo, ¡¡¡OOOOOOOOOOOOHHHH!!!",
-    "Ow.",
-    "creo que acabo de sacar algo...",
-    "Pero usted consigue el punto."
-  ]},
+"text": [
+"¡Argh! A veces, a veces... Me enfado tanto que...",
+"¡Toda la sangre se me sube a la cabeza y tengo ganas de golpear cosas!",
+"",
+"Sé que no soy el único que se siente así a veces",
+"Todos aquí cuando se enfadan, actúan un poco diferente",
+"¿Qué como, preguntas? Bueno, buena pregunta ¡Déjame explicarlo!",
+"Primero, cuando alguien está enfadado, obtiene una pequeña",
+"mejora de ataque y una gran disminución de su defensa.",
+"Luego, su Probabilidad de Ataque también aumenta significativamente.",
+"Finalmente, y esto difiere de persona a persona y entre monstruos,",
+"las personas enfadadas pueden usar ataques distintos.",
+"Pueden dejar de usar ciertas habilidades y/o usar otras nuevas.",
+"¡Yo, por ejemplo!",
+"Normalmente no haría daño a una mosca.",
+"Pero cuando me enfado, yo.... YO.... ¡¡¡OOOOOOOOOOOOHHHH!!!",
+"Au.",
+"creo que me he dislocado algo...",
+"Pero lo pillas, ¿No?."
+]},
 
 
 "map39_ev12_p1_karryn_1":{
-  "text": [
-    "¡¿Que pasó aquí?!",
-    "¡¡El pasillo está inundado!!"
-  ]},
+"text": [
+"¡¿Qué ha pasado aquí?!",
+"¡¡El pasillo está inundado!!"
+]},
 "map39_ev12_p1_karryn_2":{
-  "text": [
-    "(No, espera... esto no es agua normal......",
-    "Es algo más espeso... y pegajoso....",
-    "Sea lo que sea, es absolutamente asqueroso......)"
-  ]},
+"text": [
+"(No, espera... esto no es agua normal......",
+"Es algo más espeso... y pegajoso....",
+"Sea lo que sea, es absolutamente asqueroso......)"
+]},
 "map39_ev12_p1_tonkin_1":{
-  "text": [
-    "¡Señorita Karryn! ¡Estos son fluidos de Slime!",
-    "Los reclusos limo han estado arrastrándose por este pasillo,",
-    "Haciendo todos los pisos y paredes pegajosos y húmedos.!!"
-  ]},
+"text": [
+"¡Señorita Karryn! ¡Estos son fluidos de Slime!",
+"Los reclusos Slime han estado por este pasillo,",
+"¡¡Haciendo que todo el suelo y las paredes estén pegajosos y húmedos!!"
+]},
 "map39_ev12_p1_karryn_3":{
-  "text": [
-    "Así que mantienen incluso a los Slimes como presos aquí......."
-  ]},
+"text": [
+"Así que tienen incluso Slimes presos aquí......."
+]},
 "map39_ev12_p1_karryn_4":{
-  "text": [
-    "Está bien, he captado la situación......",
-    "Ahora dime, ¿qué haces ahí parado, cerdo?"
-  ]},
+"text": [
+"Está bien, entiendo la situación......",
+"Ahora dime, ¿Qué haces ahí, cerdo?"
+]},
 "map39_ev12_p1_tonkin_2":{
-  "text": [
-    "Oink... Así que estaba ocupado limpiando toda",
-    "la basura y antes de darme cuenta,",
-    "Estaba rodeado de restos de Slime ......",
-    "No he podido moverme de este lugar porque ",
-    "no quiero pisar una sustancia viscosa..."
-  ]},
+"text": [
+"Oink... Estaba ocupado limpiando toda",
+"la basura y antes de darme cuenta,",
+"Estaba rodeado de restos de Slime ......",
+"No he podido moverme de este sitio porque ",
+"no quiero pisar este líquido viscoso..."
+]},
 "map39_ev12_p1_karryn_5":{
-  "text": [
-    "Realmente eres solo un cerdo de gran tamaño con bolas diminutas, ¿no es así?",
-    "Se necesitaría cero esfuerzo para limpiar este lugar y salir."
-  ]},
+"text": [
+"Realmente eres un cerdo gordo sin cojones...",
+"No se necesita ningún esfuerzo para limpiar este lugar y salir."
+]},
 "map39_ev12_p1_tonkin_3":{
-  "text": [
-    "OINK?!?",
-    "¡¡Sabía que tenía razón al seguirla, Sra. Karryn!!",
-    "¡¡Este piso de aspecto desagradable no es nada para ti!!",
-    "¡Que te metan baba en las botas mientras caminas no te importará en absoluto!",
-    "¡A quién le importa caminar con baba entre los dedos de los pies! ¡Eres un verdadero héroe!",
-    "¡Y mientras vienes aquí, rescátame también~!"
-  ]},
+"text": [
+"¿¡¿OINK?!?",
+"¡¡Sabía que era una buena decisión seguirla, señorita Karryn!!",
+"¡¡Este suelo tan desagradable no es un problema para ti!!",
+"¡Que se te metan babas en las botas al caminar no es nada!",
+"¡A quién le importa caminar con baba en los pies! ¡Eres una heroína de verdad!",
+"¡Así que ya que pasas por aquí, rescátame también~!"
+]},
 "map39_ev12_p1_karryn_6":{
-  "text": [
-    "¡¡Qué......!! ¡¡Deja de intentar asustarme!!",
-    "¡¡De ninguna manera voy a pasar por todo eso!!"
-  ]},
+"text": [
+"¡¡Qué......!! ¡¡Deja de intentar asquearme!!",
+"¡¡De ninguna manera voy a caminar por ahí!!"
+]},
 "map39_ev12_p1_karryn_7":{
-  "text": [
-    "Voy a encontrar una ruta a través de este piso sin caminar sobre ningún fluido viscoso.",
-    "No podría importarme menos tu situación.",
-    "Encuentra una salida por tu cuenta ya que supuestamente eres un hombre."
-  ]},
+"text": [
+"Voy a encontrar una ruta a través de este piso sin caminar sobre fluidos de slime.",
+"No podría importarme menos tu situación.",
+"Encuentra una salida por tu cuenta, ya que supuestamente eres un hombre."
+]},
 "map39_ev12_p1_tonkin_4":{
-  "text": [
-    "No sea tan cruel, señorita Kaaaaaarrrynnn~~~~!!"
-  ]},
+"text": [
+"¡¡No sea tan cruel, señorita Kaaaaaarrrynnn~~~~!!"
+]},
 
 "map40_ev5_tachiename_1":{
-  "text": [ "Empleado de tienda" ]},
+"text": ["Dependiente"]},
 "map40_ev5_p1_1":{
-  "text": [
-    "¡O-Oh, hola Jefe Guardián!",
-    "¿N-Necesitas algo de la tienda?"
-  ]},
+"text": [
+"¡O-Oh, hola Directora!",
+"¿N-Necesita algo de la tienda?"
+]},
 
 "map40_ev5_p2_1":{
-  "text": [
-    "¡H-Hola Jefe de Guarda! ¿Qué te gustaría de la tienda?",
-    "¡Mantendrás los efectos del artículo que selecciones",
-    "hasta que lo cambies por un artículo diferente!"
-  ]},
+"text": [
+"¡H-Hola Directora! ¿Qué le gustaría de la tienda?",
+"¡Mantendrás los efectos del artículo que selecciones",
+"hasta que lo cambies por otro artículo distinto!"
+]},
 "map40_ev5_p2_choice_help":{
-  "text": [
-    "\\C[4]Selecciona un artículo:"
-  ]},
+"text": [
+"\\C[4]Selecciona un artículo:"
+]},
 "map40_ev5_p2_choice_energydrink":{
-  "text": [
-    "\\I[232]Bebida energética de 6 horas"
-  ]},
+"text": [
+"\\I[232]Bebida Energética"
+]},
 "map40_ev5_p2_choice_whetstone":{
-  "text": [
-    "\\I[232]Bonita piedra de afilar"
-  ]},
+"text": [
+"\\I[232]Piedra de Afilar de Calidad"
+]},
 "map40_ev5_p2_choice_painpill":{
-  "text": [
-    "\\I[232]Píldora resistente al dolor"
-  ]},
+"text": [
+"\\I[232]Píldora de Resistencia al Dolor"
+]},
 "map40_ev5_p2_choice_fabrichardener":{
-  "text": [
-    "\\I[232]Endurecedor de telas"
-  ]},
+"text": [
+"\\I[232]Endurecedor de Tela"
+]},
 "map40_ev5_p2_choice_perfume":{
-  "text": [
-    "\\I[120]Perfume afrodisíaco"
-  ]},
+"text": [
+"\\I[120]Perfume Afrodisíaco"
+]},
 
 "map40_ev5_p2_desc_item":{
-  "text": [
-    "Efecto del artículo: "
-  ]},
+"text": [
+"Efecto del Artículo: "
+]},
 
 "map40_ev5_p2_choice_cancel":{
-  "text": [
-    "No uses ningún artículo"
-  ]},
+"text": [
+"No usar ningún artículo"
+]},
 "map40_ev5_p2_desc_cancel":{
-  "text": [
-    "Renuncie a usar cualquier artículo de la tienda."
-  ]},
+"text": [
+"Renunciar a usar cualquier artículo de la tienda."
+]},
 
 "map40_ev5_p2_end":{
-  "text": [
-    "G-G-Gracias por su patrocinio!"
-  ]},
+"text": [
+"¡G-G-Gracias por su patrocinio!"
+]},
 
 "map40_ev7_tachiename_1":{
-  "text": [ "Empleado de tienda" ]},
+"text": ["Dependiente"]},
 "map40_ev7_p2_1":{
-  "text": [
-    "¡J-Jefe de Guarda! ¡Por favor, no vengas a la parte de atrás!",
-    "Es um, desordenado, ¡así que es peligroso si te tropiezas!",
-    "¡Por favor háblame en el frente si necesitas algo!"
-  ]},
+"text": [
+"¡D-Directora! ¡Por favor, no venga a la parte de atrás!",
+"Está... um, desordenado, ¡Es peligroso si se tropieza!",
+"¡Por favor hábleme desde el otro lado del mostrador si necesita algo!"
+]},
 
 "map40_ev9_tachiename_1":{
-  "text": [ "Guardia perplejo" ]},
+"text": ["Guardia Perplejo"]},
 "map40_ev9_p1_1":{
-  "text": [
-    "Hmmm??",
-    "¿Por qué almacenan espadas cortas y espadas aquí cuando ",
-    "todos los guardias solo pueden usar armas de asta?"
-  ]},
+"text": [
+"¿¿Hmmm??",
+"¿Por qué almacenan espadas normales y cortas aquí cuando ",
+"los guardias solo pueden usar armas de asta?"
+]},
 
 "map40_ev13_tachiename_1":{
-  "text": [ "Nerd emocionado" ]},
+"text": ["Friki Emocionado"]},
 "map40_ev13_p1_1":{
-  "text": [
-    "Yo tengo las bebidas, ¿tú tienes los bocadillos?"
-  ]},
+"text": [
+"He pillado las bebidas ¿Tienes los aperitivos?"
+]},
 
 "map40_ev14_tachiename_1":{
-  "text": [ "Nerd feliz" ]},
+"text": ["Friki Feliz"]},
 "map40_ev14_p1_1a":{
-  "text": [
-    "Sí, tengo los favoritos de todos. ♪",
-    "Difundir la palabra,",
-    "esta noche la fiesta (LAN) es en la oficina. ♪"
-  ]},
+"text": [
+"Sip, tengo los favoritos de cada uno. ♪",
+"Corre la voz,",
+"esta noche la LAN party es en la oficina. ♪"
+]},
 "map40_ev14_p1_1b":{
-  "text": [
-    "Yup. ♪",
-    "Difundir la palabra,",
-    "esta noche la fiesta (LAN) es en el Área Común B. ♪"
-  ]},
+"text": [
+"Sip. ♪",
+"Corre la voz,",
+"esta noche la LAN party es en el Área Común B. ♪"
+]},
 
 "map40_ev15_tachiename_1":{
-  "text": [ "Guardia gruñona" ]},
+"text": ["Guardia Gruñón"]},
 "map40_ev15_p1_1":{
-  "text": [
-    "No puedo creer que esa perra gorda nos haga pagar",
-    "a los guardias para usar la tienda ahora."
-  ]},
+"text": [
+"No me puedo creer que esa guarra nos esté obligando",
+"ahora a los guardias a pagar las cosas de la tienda."
+]},
 
 "map40_ev17_tachiename_1":{
-  "text": [ "Miembro del personal que se queja" ]},
+"text": ["Miembro del Personal Gruñón"]},
 "map40_ev17_p1_1":{
-  "text": [
-    "Nosotros, los miembros del personal, estamos en el mismo barco......",
-    "Pero al menos ustedes, los guardias, pueden hacer *esto* y *aquello*",
-    "A ese símbolo sexual ambulante... Suspiro..."
-  ]},
+"text": [
+"Nosotros, los miembros del personal, estamos en las mismas......",
+"Pero por lo menos los guardias podeis hacerle *esto* y *aquello*",
+"A ese símbolo sexual con patas... *Suspiro*..."
+]},
 
 "map43_ev3_tachiename_1":{
-  "text": [ "Voz nerd desde adentro" ]},
+"text": ["Voz Friki de Dentro"]},
 "map43_ev3_p1_1":{
-  "text": [
-    "*Munch munch gulp*",
-    "O-ocupado~~!"
-  ]},
+"text": [
+"*Ñam ñam glup*",
+"¡O-ocupado~~!"
+]},
 "map43_ev3_p3_1":{
-  "text": [
-    "O-ocupado~~!"
-  ]},
+"text": [
+"¡O-ocupado~~!"
+]},
 
 "map43_ev4_tachiename_1":{
-  "text": [ "Voz desde adentro" ]},
+"text": ["Voz Desde Adentro"]},
 "map43_ev4_p2_1":{
-  "text": [
-    "¡Ocupado!"
-  ]},
+"text": [
+"¡Ocupado!"
+]},
 
 
 "map43_ev5_p1_text_1":{
-  "text": [
-    "¿Hmm? Esta puerta está rota."
-  ]},
+"text": [
+"¿Hmm? Esta puerta está rota."
+]},
 
 "map43_ev5_p2_text_1":{
-  "text": [
-    "(Parece que arreglaron la puerta.)",
-    "",
-    "",
-    "(Hmm......",
-    "Tal vez debería echar un vistazo más de cerca",
-    "para asegurarme de que todo está en orden...)"
-  ]},
+"text": [
+"(Parece que arreglaron la puerta.)",
+"",
+"",
+"(Hmm......",
+"Tal vez debería echar un vistazo más de cerca",
+"para asegurarme de que todo está en orden...)"
+]},
 
 "map43_ev23_p2_1":{
-  "text": [
-    "(URK...?!",
-    "¿Qué es este espacio en el que acabo de entrar?......)",
-    "",
-    "(No sé qué más esperaba...",
-    "Este es realmente un baño usado por hombres con pocas células cerebrales.",
-    "¡Simplemente sucio!)",
-    "(Y no solo sucio tampoco......",
-    "¡Apesta!)"
-  ]},
+"text": [
+"(¿URK...?!",
+"¿Qué es este sitio en el que me he metido?......)",
+"",
+"(No sé qué esperaba...",
+"Realmente es un baño usado por hombres con pocas neuronas.",
+"¡Está asqueroso!)",
+"(No solo está sucio......",
+"¡Apesta!)"
+]},
 "map43_ev23_p2_2":{
-  "text": [
-    "(Hmm, pero mantén ese pensamiento......)"
-  ]},
+"text": [
+"(Hmm, un momento......)"
+]},
 "map43_ev23_p2_3":{
-  "text": [
-    "(......Si tú lo piensas,",
-    "esta área cerrada es en realidad uno de los,",
-    "si no, la habitación más privada de el Fuerte Ganon......)"
-  ]},
+"text": [
+"(......Si lo piensas,",
+"este cuartucho es en realidad una de las,",
+"habitaciones más privadas del Fuerte Ganon......)"
+]},
 "map43_ev23_p2_4":{
-  "text": [
-    "(Y la cerradura de la puerta es nueva.......)"
-  ]},
+"text": [
+"(Y la cerradura de la puerta es nueva.......)"
+]},
 "map43_ev23_p2_5":{
-  "text": [
-    "(Y es sorprendentemente tranquilo aquí......)"
-  ]},
+"text": [
+"(Y se está sorprendentemente tranquilo......)"
+]},
 "map43_ev23_p2_6":{
-  "text": [
-    "(Me veo capaz de relajarme aquí sin",
-    "preocuparme de que nadie sepa que estoy aquí......",
-    "...Mientras ignore lo sucio que es este lugar......)"
-  ]},
+"text": [
+"(Me veo capaz de relajarme aquí sin",
+"preocuparme de que nadie sepa donde estoy......",
+"...Mientras ignore lo sucio que está este lugar......)"
+]},
 
 "map43_ev23_p3_1":{
-  "text": [
-    "¿Tomar un breve descanso en el baño?",
-    "\\C[29]Descansar aquí reducirá un poco la fatiga de Karryn.",
-    "Reduce más la fatiga gastando energía."
-  ]},
+"text": [
+"¿Tomar un breve descanso en el baño?",
+"\\C[29]Descansar aquí reducirá un poco la fatiga de Karryn.",
+"Reduce más la fatiga gastando energía."
+]},
 "map43_ev23_p3_choice_no":{
-  "text": [
-    "(¡De ninguna manera! ¡Ni en un millón de años!)"
-  ]},
+"text": [
+"(¡De ninguna manera! ¡Ni en un millón de años!)"
+]},
 "map43_ev23_p3_choice_yes":{
-  "text": [
-    "(Bueno, tal vez solo por unos minutos.......)"
-  ]},
+"text": [
+"(Bueno, solo unos minutos.......)"
+]},
 "map43_ev23_p3_2":{
-  "text": [
-    "(Este es probablemente el único lugar donde no me molestarán.......",
-    "Puedo descansar aquí arriba... sin que nadie se dé cuenta de que estoy aquí.......)"
-  ]},
+"text": [
+"(Este es probablemente el único sitio donde no voy a ser molestada.......",
+"Puedo descansar aquí... sin que nadie se dé cuenta de donde estoy.......)"
+]},
 "map43_ev23_p3_3":{
 "text":[
-"Thump.........",
-"           Thump.........",
-"                       Thump........."
+"Pum.........",
+"           Pum.........",
+"                       Pum........."
 ]},
 "map43_ev23_p3_4":{
-  "text": [
-    "Por alguna razón, el corazón de Karryn está latiendo muy fuerte.",
-    "",
-    "",
-    "Se traga la saliva como si se convenciera de algo",
-    "y luego se prepara para quitarse toda la ropa, como suele hacer",
-    "antes de bajar sus bien formadas caderas sobre el asiento del inodoro."
-  ]},
+"text": [
+"Por alguna razón, el corazón de Karryn está latiendo muy fuerte.",
+"",
+"",
+"Traga saliva, como autoconvenciéndose de algo.",
+"después, se prepara para quitarse toda la ropa, como suele hacer",
+"antes de bajar su cadera sobre el asiento del inodoro."
+]},
 
 "map43_ev27_p2_text_1":{
-  "text": [
-    "La reputación del baño está en \\C[2]\\V[20]\\C[0].",
-    "Efecto: La eficiencia del personal aumenta en \\C[2]\\REM_GHRSE[0]%\\C[0].",
-    "Satisfacer a los reclusos aquí puede aumentar la reputación del baño."
-  ]},
+"text": [
+"La Reputación del Baño es de \\C[2]\\V[20]\\C[0].",
+"Efecto: La Eficiencia del Personal aumenta un \\C[2]\\REM_GHRSE[0]%\\C[0].",
+"Satisfacer a los reclusos aquí puede aumentar la reputación del baño."
+]},
 
 "map48_ev2_can_not_enter_next_room_name":{
-  "text": [
-    "la sala de investigacion"
-  ]},
+"text": [
+"el laboratorio"
+]},
 "map48_ev3_can_not_enter_next_room_name":{
-  "text": [
-    "la sala de reuniones"
-  ]},
+"text": [
+"la sala de reuniones"
+]},
 
 "map48_ev4_tachiename_1":{
-  "text": [ "Miembro del personal deportivo de bigote" ]},
+"text": ["Miembro del Personal con Bigote"]},
 "map48_ev4_p1_1a":{
-  "text": [
-    "Este lugar es un desastre, en sentido figurado y literal",
-    "Los reclusos simplemente caminan sin sus cadenas",
-    "¡¡Incluso hay uno sentado justo a mi lado!!"
-  ]},
+"text": [
+"Este lugar es un desastre, literal y figuradamente.",
+"Los reclusos van por ahí sin sus grilletes",
+"¡¡Incluso hay uno sentado justo a mi lado!!"
+]},
 "map48_ev4_p1_1b":{
-  "text": [
-    "Este lugar es un desastre, en sentido figurado y literal",
-    "Los reclusos simplemente caminan sin sus cadenas",
-    "¡¡Incluso hay un maldito limo aquí!! ¡¡En la oficina!!"
-  ]},
+"text": [
+"Este lugar es un desastre, literal y figuradamente.",
+"Los reclusos van por ahí sin sus grilletes",
+"¡¡Hay hasta un maldito slime!! ¡¡Y estamos en la oficina!!"
+]},
 
 "map48_ev5_tachiename_1":{
-  "text": [ "Miembro del personal de disputas" ]},
+"text": ["Miembro del Personal Discutiendo"]},
 "map48_ev5_p1_1":{
-  "text": [
-    "Sí, pero, si haces eso...",
-    "Creo que deberíamos intentarlo a mi manera..."
-  ]},
+"text": [
+"Sí, pero, si haces eso...",
+"Creo que deberíamos hacerlo a mi manera..."
+]},
 
 "map48_ev6_tachiename_1":{
-  "text": [ "Slime relajante" ]},
+"text": ["Slime Relajado"]},
 "map48_ev6_p1_1":{
-  "text": [
-    "Soy buena Slime, Slime~",
-    "Esta habitación es cómoda, Slime~",
-    "Y los sonidos me están dando... sueño... Slime~..."
-  ]},
+"text": [
+"Soy un buen slime, slime~",
+"Esta habitación es cómoda, Slime~",
+"Y los sonidos me están dando... sueño... slime~..."
+]},
 
 "map48_ev7_tachiename_1":{
-  "text": [ "Nerd de la contabilidad" ]},
+"text": ["Friki Contable"]},
 "map48_ev7_p1_1":{
-  "text": [
-    "No puedo creer que me dejen trabajar aquí.",
-    "Jejeje, ahora puedo averiguar más sobre la ",
-    "señora Warden cuando nadie me está mirando."
-  ]},
+"text": [
+"No puedo creer que me estén dejando trabajar aquí.",
+"Jejeje, ahora puedo averiguar más sobre la ",
+"Directora cuando nadie me vea."
+]},
 "map48_ev8_tachiename_1":{
-  "text": [ "Miembro del personal de disputas" ]},
+"text": ["Miembro del Personal Discutiendo"]},
 "map48_ev8_p1_1":{
-  "text": [
-    "No, esta es la forma correcta como se indica en los estatutos...",
-    "No, no creo que sea una buena idea..."
-  ]},
+"text": [
+"No, esta es la forma correcta según se indica en los estatutos...",
+"No, no creo que eso sea una buena idea..."
+]},
 
 "map48_ev9_tachiename_1":{
-  "text": [ "Miembro del personal diligente" ]},
+"text": ["Miembro del Personal Diligente"]},
 "map48_ev9_p1_1":{
-  "text": [
-    "Huh??",
-    "Esto no se ve bien.",
-    "¿Qué pasa con estas figuras......"
-  ]},
+"text": [
+"Hmmm esto está bastante bien",
+"Nada mal.",
+"Sigamos así."
+]},
 "map48_ev9_p2_1":{
-  "text": [
-    "Huh??",
-    "Esto no se ve bien.",
-    "¿Qué pasa con estas figuras......"
-  ]},
+"text": [
+"¿¿Uh??",
+"Esto no está bien.",
+"¿Y estos números......?"
+]},
 "map48_ev9_p2_2":{
-  "text": [
-    "¿Y por qué hay tantos informes de",
-    "gastos de joyería en una prisión?"
-  ]},
+"text": [
+"¿Por qué hay tantos recibos de",
+"gastos en joyería en una prisión?"
+]},
 "map48_ev9_tachiename_3":{
-  "text": [ "Miembro del personal en pánico" ]},
+"text": ["Miembro del Personal en Pánico"]},
 "map48_ev9_p3_1":{
-  "text": [
-    "GYAAAHHHH!!!",
-    "¡¿Adónde fueron a parar todos los fondos de la prisión?!?!"
-  ]},
+"text": [
+"¡¡¡AAAHHHH!!!",
+"¡¿¡¿A dónde se han ido todos los fondos de la prisión?!?!"
+]},
 
 "map48_ev10_tachiename_1":{
-  "text": [ "Miembro del personal atento" ]},
+"text": ["Miembro del Personal Atento"]},
 "map48_ev10_p1_1":{
-  "text": [
-    "¿Sabías que los presos que son lo suficientemente notorios se convierten en \\C[2]Buscado\\C[0]?",
-    "Es posible que incluso hayas notado algunos.",
-    "",
-    "Por lo general, la etiqueta con el nombre de un recluso dice \"Wedge (Nerd)\" o \"Biggs (Prisionero)\",",
-    "pero si son \\C[2]Se buscan\\C[0], entonces su etiqueta de nombre dirá",
-    "\"Wedge (Lv 9 Nerd)\" o \"Biggs (Lv 23 Prisionero)\" y similares.",
-    "\\C[2]Buscados\\C[0] reclusos seguirán apareciendo en toda la prisión,",
-    "especialmente durante los disturbios.",
-    "",
-    "Someter a un recluso \\C[2]Buscado\\C[0] te dará una bonificación de \\C[16]\\I[408]Orden\\C[0].",
-    "Sin embargo, las personas \\C[2]Buscan\\C[0] también volverán más fuertes la próxima vez,",
-    "¡así que ten cuidado! Actualmente hay \\C[2]\\REM_WANTEDIC[0]\\C[0] ¡Presos buscados!"
-  ]},
+"text": [
+"¿Sabías que los presos más conocidos se vuelven \\C[2]Buscados\\C[0]?",
+"Es posible que incluso hayas visto a alguno.",
+"",
+"Normalmente, los reclusos aparecen como \"Wedge (Friki)\" o \"Biggs (Prisionero)\",",
+"pero si son \\C[2]Buscados\\C[0], entonces su nombre aparecerá como",
+"\"Wedge (Nv 9 Friki)\" o \"Biggs (Nv 23 Prisionero)\" o parecido.",
+"los reclusos \\C[2]Buscados\\C[0] aparecerán por toda la prisión,",
+"especialmente durante los motines.",
+"",
+"Someter a un recluso \\C[2]Buscado\\C[0] te dará una bonificación de \\C[16]\\I[408]Orden\\C[0].",
+"Sin embargo, los reclusos \\C[2]Buscados\\C[0] volverán siendo más fuertes,",
+"¡Así que ten cuidado! Actualmente hay \\C[2]\\REM_WANTEDIC[0]\\C[0] ¡Presos Buscados!"
+]},
 
 "map48_ev11_tachiename_1":{
-  "text": [ "Cabeza descansando sobre el guardia de escritorio" ]},
+"text": ["Guardia Descansando Sobre el Escritorio"]},
 "map48_ev11_p1_1":{
 "text":[
 "Zzzzz..."
 ]},
 
 "map48_ev12_tachiename_1":{
-  "text": [ "Miembro del personal curioso" ]},
+"text": ["Miembro del Personal Curioso"]},
 "map48_ev12_p1_1":{
-  "text": [
-    "¿Has notado que algunos enemigos tienen un descriptor en su nombre?",
-    "Como normalmente, la etiqueta con el nombre de un recluso diría como \"Ivankov (Prisionero)\",",
-    "pero entonces la etiqueta con el nombre de otra persona es como \"Bon el prisionero varonil\"?",
-    "Los enemigos así también se conocen como \\C[2]Enemigo raro\\C[0].",
-    "Un \\C[2]Enemigo raro\\C[0] podría ser más fuerte o",
-    "más débil que los enemigos del mismo tipo.",
-    "Supuestamente, un \\C[2]Enemigo raro\\C[0] que es muy diferente al resto",
-    "tendrá un aura que los hará parecer de un color diferente para las personas",
-    "realmente talentosas que son capaces de ver las auras de otras personas.",
-    "Según los rumores de personas que pueden ver auras,",
-    "las personas con auras \\C[30]púrpura\\C[0] o \\C[27]rosa\\C[0] son excepcionalmente poderosas."
-  ]},
+"text": [
+"¿Has notado que algunos enemigos tienen un adjetivo en su nombre?",
+"Normalmente, el nombre de un recluso aparecerá como \"Ivankov (Prisionero)\",",
+"pero algunos aparece como \"Bon el prisionero varonil\"?",
+"Los enemigos así son un \\C[2]Enemigo raro\\C[0].",
+"Un \\C[2]Enemigo raro\\C[0] podría ser más fuerte o",
+"más débil que los enemigos del mismo tipo.",
+"Supuestamente, un \\C[2]Enemigo raro\\C[0] muy diferente al resto",
+"tendrá un aura que hará que parezca que son de un color diferente.",
+"Pero esto solo podrán percibirlo personas con mucho talento, capaces de ver auras.",
+"Según los rumores de las personas que pueden ver auras,",
+"las personas con un aura \\C[30]púrpura\\C[0] o \\C[27]rosa\\C[0] son excepcionalmente poderosas."
+]},
 
 "map48_ev14_tachiename_1":{
-  "text": [ "Viejo miembro del personal" ]},
+"text": ["Miembro del Personal Viejo"]},
 "map48_ev14_p1_1":{
-  "text": [
-    "Ahora, ¿dónde puse ese archivo?."
-  ]},
+"text": [
+"¿Dónde puse ese archivo?."
+]},
 "map48_ev14_p2_1":{
-  "text": [
-    "Huh? Eso es extraño.",
-    "No recuerdo que este archivo esté aquí."
-  ]},
+"text": [
+"¿Uh? Qué raro.",
+"No recuerdo que este archivo estuviese aquí."
+]},
 
 "map48_ev15_tachiename_1":{
-  "text": [ "Portero goblin" ]},
+"text": ["Goblin Conserje"]},
 "map48_ev15_p1_1":{
-  "text": [
-    "Goblin barrer-barrer BASURA!"
-  ]},
+"text": [
+"¡Goblin barre BASURA!"
+]},
 
 
 "map51_ev9_p1_cargill_1":{
@@ -11038,7 +11038,7 @@
 "map51_ev9_p1_karryn_6":{
   "text": [
     "(Eso fue raro...",
-    "Esos Slimes no opusieron ninguna resistencia……)"
+    "Esos Slimes no opusieron ninguna resistencia...)"
   ]},
 "map51_ev9_p1_cargill_4":{
   "text": [
@@ -11152,12 +11152,12 @@
     "¡¿Pero no sabes que lo que importa es la antigüedad?!",
     "",
     "¿Todos en tu generación están podridos como tú~?",
-    "Dios mío…, ¿de quién es la culpa de que ustedes, jóvenes, sean criados así ahora~?"
+    "Dios mío..., ¿de quién es la culpa de que ustedes, jóvenes, sean criados así ahora~?"
   ]},
 "map51_ev9_p1_karryn_16":{
   "text": [
     "Maldito viejo senil......",
-    "Siguiendo y siguiendo justo después de engañarme cobardemente……",
+    "Siguiendo y siguiendo justo después de engañarme cobardemente...",
     "",
     ".........Para alguien que profesa ser médico......",
     "¿No tienes vergüenza en absoluto...... por caer del lado del mal...?"
@@ -11170,7 +11170,7 @@
   ]},
 "map51_ev9_p1_cargill_16":{
   "text": [
-    "…Bueno, incluso si ese fuera el caso, no importa.",
+    "...Bueno, incluso si ese fuera el caso, no importa.",
     "¡Solo me esfuerzo por mis objetivos!"
   ]},
 "map51_ev9_p1_karryn_17":{
@@ -12628,7 +12628,7 @@
   "text": [
     "Wheeew~! ¡Pensar que encontraría mi paso como comerciante aquí!",
     "... Dicho esto, los únicos bienes que he podido vender son condones...",
-    "Eh… ¡¿Pensé que la vida de comerciante habría sido… más diferente?!"
+    "Eh... ¡¿Pensé que la vida de comerciante habría sido... más diferente?!"
   ]},
 
 "map58_ev10_tachiename_1":{
@@ -12741,7 +12741,7 @@
 "map59_ev3_p1_karryn_2":{
   "text": [
     "Entrevista...? ¿Paso?",
-    "¿Qué estás tramando aquí……?",
+    "¿Qué estás tramando aquí...?",
     "Bueno, al final no importará."
   ]},
 "map59_ev3_p1_karryn_3":{
@@ -12773,7 +12773,7 @@
   "text": [
     "Fraude... no estás aquí para una entrevista conmigo, ¿verdad?",
     "No te he visto antes, pero ¿eres en serio un guardián?",
-    "…En otras palabras, ¿un nuevo recluta?"
+    "...En otras palabras, ¿un nuevo recluta?"
   ]},
 "map59_ev3_p1_karryn_5":{
   "text": [
@@ -13246,7 +13246,7 @@
   "text": [
     "Hmm, está bien Yasu......",
     "Entiendo a lo que estás tratando de llegar aquí........",
-    "Hmmmm… Supongo que esta es la única opción…"
+    "Hmmmm... Supongo que esta es la única opción..."
   ]},
 "map59_ev3_p4_karryn_25":{
   "text": [
@@ -13416,13 +13416,13 @@
   "text": [
     "(¡Ahora esto es una sorpresa......!",
     "Ya ni siquiera parece un fuerte o una prisión aquí en el Nivel 4",
-    "Es como si estuviera dentro de una caverna subterránea……)"
+    "Es como si estuviera dentro de una caverna subterránea...)"
   ]},
 "map64_ev10_p2_karryn_2":{
   "text": [
     "(¿Y qué pasa con lo expansivo que se ve este lugar?",
     "¿Dónde se supone que debo ir para alcanzar el nivel 5?",
-    "No tengo tiempo para seguir dirigiéndome a la derecha hasta que golpee una pared……)"
+    "No tengo tiempo para seguir dirigiéndome a la derecha hasta que golpee una pared...)"
   ]},
 "map64_ev10_p2_karryn_3":{
   "text": [
@@ -13866,7 +13866,7 @@
   ]},
 "map72_ev3_p1_karryn_7":{
   "text": [
-    "(Alguien así de poderoso se está llamando a sí mismo un sirviente…)",
+    "(Alguien así de poderoso se está llamando a sí mismo un sirviente...)",
     "No puedo subestimar a esta persona Capitán...)"
   ]},
 "map72_ev3_p1_noinim_7":{
@@ -13892,7 +13892,7 @@
   "text": [
     "........................",
     "Lo inevitable no cambiará.........",
-    "¡¡Ven…… postraos ante nuestro poder……!!"
+    "¡¡Ven... postraos ante nuestro poder...!!"
   ]},
 
 "map72_ev3_p3_noinim_1a":{
@@ -14007,7 +14007,7 @@
   ]},
 "map72_ev3_p4_karryn_7":{
   "text": [
-    "(Noinim tampoco debería ser capaz de actuar pronto con todo ese daño…)",
+    "(Noinim tampoco debería ser capaz de actuar pronto con todo ese daño...)",
     "Dado que no puedo contactar a Yasu aquí de todos modos...",
     "Debería retirarme a mi oficina y descansar un poco......)"
   ]},
@@ -14223,7 +14223,7 @@
   "text": [
     "(Siiigh......",
     "Me siento como un idiota por estar impresionado aunque sea por un segundo...",
-    "Pero, no puedo retractarme de lo que dije que iba a hacer ahora……)"
+    "Pero, no puedo retractarme de lo que dije que iba a hacer ahora...)"
   ]},
 "map74_ev8_p2_karryn_5":{
   "text": [
@@ -14792,7 +14792,7 @@
     "Me niego a aceptar este futuro......",
     "¡¡YO, una vez más me estoy convirtiendo en un goblin regular......!!",
     "E-Esto no puede llegar a ser......",
-    "¡¡Q-Quién… PERMITIRÁ TAL COSA!!"
+    "¡¡Q-Quién... PERMITIRÁ TAL COSA!!"
   ]},
 "map76_ev57_p4_karryn_11":{
   "text": [
@@ -14904,7 +14904,7 @@
   "text": [
     "Haa...... Huh......",
     "¿Es porque todos mis nervios de repente se relajaron...",
-    "Porque…… no puedo sentir mi……."
+    "Porque... no puedo sentir mi..."
   ]},
 "map76_ev57_p4_aron_4":{
   "text": [
