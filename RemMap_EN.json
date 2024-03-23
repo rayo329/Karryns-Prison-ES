@@ -7812,25 +7812,25 @@
 "text":["Hombre de los Títulos (Guardia)"]},
 
 "map20_ev44_p1_1":{
-  "text": [
-    "Oye ¿Sabías que los títulos tienen diferentes efectos?",
-    "",
-    "",
+"text": [
+"Oye ¿Sabías que los títulos tienen diferentes efectos?",
+"",
+"",
 
-    "Todos los \\C[16]\\I[89]Títulos\\C[0] te darán una pasiva permanente con solo tenerlo. ",
-    "Además la mayoría de los Títulos tienen efectos adicionales si te los pones como ",
-    "\\C[3]\\I[87]Título Principal\\C[0].",
+"Todos los \\C[16]\\I[89]Títulos\\C[0] te darán una pasiva permanente con solo tenerlo. ",
+"Además la mayoría de los Títulos tienen efectos adicionales si te los pones como ",
+"\\C[3]\\I[87]Título Principal\\C[0].",
 
-    "Simplemente ve a la pantalla de Equipo para establecer el \\C[16]\\I[89]Título\\C[0]",
-    "que quieras como principal.",
-    "",
+"Simplemente ve a la pantalla de Equipo para establecer el \\C[16]\\I[89]Título\\C[0]",
+"que quieras como principal.",
+"",
 
-    "¿Que cómo obtienes nuevos títulos?",
-    "",
-    "",
+"¿Que cómo obtienes nuevos títulos?",
+"",
+"",
 
-    "Ni puta idea, solo soy un guardia normal y corriente. ",
-    "Ni siquiera puedo conseguir un \\C[16]\\I[89]Título\\C[0]."
+"Ni puta idea, solo soy un guardia normal y corriente. ",
+"Ni siquiera puedo conseguir un \\C[16]\\I[89]Título\\C[0]."
   ]},
 
 
@@ -7858,51 +7858,51 @@
 
 
 "map20_ev46_tachiename_1":{
-  "text": [ "Guardia Dormido" ]},
+"text": [ "Guardia Dormido" ]},
 
 "map20_ev46_p1_1":{
-  "text": [
-    "Zzz... ohhh Karryn... ",
-    "quiero toquetear esas tetitas... zzz..."
-  ]},
+"text": [
+"Zzz... ohhh Karryn... ",
+"quiero toquetear esas tetitas... zzz..."
+]},
 
 
 
 "map21_ev10_p1_1":{
-  "text": [
-    "La cerradura electrónica está actualmente encendida. ¿Quieres apagarla?",
-    "\\C[1]Advertencia: Desactivar la cerradura significará que cualquiera pueda entrar",
-    "en la oficina."
-  ]},
+"text": [
+"La cerradura electrónica está actualmente encendida. ¿Quieres apagarla?",
+"\\C[1]Advertencia: Desactivar la cerradura significará que cualquiera pueda entrar",
+"en la oficina."
+]},
 
 "map21_ev10_p1_choice_1":{
-  "text": [ "Dejarla Encendida" ]},
+"text": [ "Dejarla Encendida" ]},
 "map21_ev10_p1_choice_2":{
 "text":["Apagarla"]},
 
 
 "map21_ev10_p2_1":{
-  "text": [
-    "La cerradura electrónica está actualmente apagada. ¿Quieres encenderla?",
-    "\\C[1]Advertencia: Desactivar la cerradura significará que cualquiera pueda entrar",
-    "en la oficina."
-  ]},
+"text": [
+"La cerradura electrónica está actualmente apagada. ¿Quieres encenderla?",
+"\\C[1]Advertencia: Desactivar la cerradura significará que cualquiera pueda entrar",
+"en la oficina."
+]},
 
 "map21_ev10_p2_choice_1":{
-  "text": [ "Dejarla Apagada" ]},
+"text": [ "Dejarla Apagada" ]},
 "map21_ev10_p2_choice_2":{
-  "text": [ "Encenderla" ]},
+"text": [ "Encenderla" ]},
 
 
 "map21_ev32_p2_1":{
-  "text": [
-    "Encontré un montón de notas escritas por Yasu ",
-    "escondidas entre algunos libros.",
-    "¿Debería leerlas?"
-  ]},
+"text": [
+"Encontré un montón de notas escritas por Yasu ",
+"escondidas entre algunos libros.",
+"¿Debería leerlas?"
+]},
 
 "map21_ev32_p2_choice1_yes":{
-  "text": [ "Veamos qué dice." ]},
+"text": [ "Veamos qué dice." ]},
 "map21_ev32_p2_choice1_no":{
 "text":["Nah."]},
 
@@ -7934,11 +7934,11 @@
 ]},
 
 "map21_ev32_p2_choice2_yes":{
-  "text": [ "Seguir leyendo" ]},
+"text": [ "Seguir leyendo" ]},
 "map21_ev32_p2_choice2_no":{
-  "text": [ "Parar de leer" ]},
+"text": [ "Parar de leer" ]},
 "map21_ev32_p2_choice2_throw":{
-  "text": [ "Tirar la nota." ]},
+"text": [ "Tirar la nota." ]},
 
 "map21_ev32_p2_yes_2":{
 "text":[
@@ -7986,26 +7986,26 @@
 
 
 "map21_ev32_p5_1":{
-  "text": [
-    "Hay un montón de notas recién escritas.",
-    "¿Debería leerlas?"
-  ]},
+"text": [
+"Hay un montón de notas recién escritas.",
+"¿Debería leerlas?"
+]},
 "map21_ev32_p5_choice_1":{
-  "text": [
-    "Leer 'Introducción al Modo de Juego Libre'"
-  ]},
+"text": [
+"Leer 'Introducción al Modo de Juego Libre'"
+]},
 "map21_ev32_p5_choice_2":{
-  "text": [
-    "Leer 'Carta de Rem'"
-  ]},
+"text": [
+"Leer 'Carta de Rem'"
+]},
 "map21_ev32_p5_choice_3":{
-  "text": [
-    "Leer 'Carta de Sachinama'"
-  ]},
+"text": [
+"Leer 'Carta de Sachinama'"
+]},
 "map21_ev32_p5_choice_exit":{
-  "text": [
-    "Quizás más tarde."
-  ]},
+"text": [
+"Quizás más tarde."
+]},
 
 
 "map21_ev39_p1_karryn_1":{
@@ -8236,32 +8236,32 @@
 "¡Sería indecoroso comportarse de esa manera con un superior!"
 ]},
 "map21_ev39_p2_karryn_10":{
-  "text": [
-    "Y-ya veo. Bueno, está bien.",
-    "Puede que me esté repitiendo, pero de ahora en adelante ",
-    "abstente de actuar así a menos que sea absolutamente necesario."
-  ]},
+"text": [
+"Y-ya veo. Bueno, está bien.",
+"Puede que me esté repitiendo, pero de ahora en adelante ",
+"abstente de actuar así a menos que sea absolutamente necesario."
+]},
 "map21_ev39_p2_yasu_12":{
-  "text": [
-    "......Por supuesto."
-  ]},
+"text": [
+"......Por supuesto."
+]},
 "map21_ev39_p2_yasu_13":{
-  "text": [
-    "¡Oh, verdad!",
-    "¡Permíteme explicarte rápidamente cómo funciona esta oficina!"
-  ]},
+"text": [
+"¡Oh, verdad!",
+"¡Permíteme explicarte rápidamente cómo funciona esta oficina!"
+]},
 
 "map21_ev39_p2_yasu_14":{
-  "text": [
-    "¡Primero, esta cama de aquí!",
-    "Mientras vivas en este fuerte,",
-    "la usarás principalmente para descansar."
-  ]},
+"text": [
+"¡Primero, esta cama de aquí!",
+"Mientras vivas en este fuerte,",
+"la usarás principalmente para descansar."
+]},
 
 "map21_ev39_p2_karryn_11":{
-  "text": [
-    "Esas sábanas de ahí están bien lavadas ¿Verdad?"
-  ]},
+"text": [
+"Esas sábanas de ahí están bien lavadas ¿Verdad?"
+]},
 
 "map21_ev39_p2_yasu_15":{
 "text":[
@@ -8269,14 +8269,14 @@
 ]},
 
 "map21_ev39_p2_karryn_12":{
-  "text": [
-    "¿De verdad.....?"
-  ]},
+"text": [
+"¿De verdad.....?"
+]},
 
 "map21_ev39_p2_yasu_16":{
-  "text": [
-    "Uhhh, ah sí, a continuación debo explicar cómo funcionan los \\C[3]Decretos\\C[0]!"
-  ]},
+"text": [
+"Uhhh, ah sí, a continuación debo explicar cómo funcionan los \\C[3]Decretos\\C[0]!"
+]},
 
 "map21_ev39_p2_karryn_13":{
 "text":[
@@ -8284,59 +8284,59 @@
 ]},
 
 "map21_ev39_p2_yasu_17":{
-  "text": [
-    "¡¡Si!!",
-    "¡Solo el Director tiene el derecho",
-    "a promulgar \\C[3]Decretos\\C[0]!",
+"text": [
+"¡¡Si!!",
+"¡Solo el Director tiene el derecho",
+"a promulgar \\C[3]Decretos\\C[0]!",
 
-    "Esencialmente, el Director puede dar órdenes relacionadas ",
-    "con la forma en que se administra el fuerte,",
-    "así como relacionadas con cualquier necesidad personal que tenga."
-  ]},
+"Esencialmente, el Director puede dar órdenes relacionadas ",
+"con la forma en que se administra el fuerte,",
+"así como relacionadas con cualquier necesidad personal que tenga."
+]},
 
 "map21_ev39_p2_karryn_14":{
-  "text": [
-    "......Ya veo,",
-    "entonces, esencialmente puedo hacer lo que me plazca con este lugar.",
-    "Esto se está poniendo interesante."
-  ]},
+"text": [
+"......Ya veo,",
+"entonces, esencialmente puedo hacer lo que me plazca con este lugar.",
+"Esto se está poniendo interesante."
+]},
 
 "map21_ev39_p2_yasu_18":{
-  "text": [
-    "¡Correcto!",
-    "¡Tus habilidades de razonamiento son excelentes!"
-  ]},
+"text": [
+"¡Correcto!",
+"¡Tus habilidades de razonamiento son excelentes!"
+]},
 
 "map21_ev39_p2_yasu_19":{
-  "text": [
-    "Ahora, por favor, toma asiento."
-  ]},
+"text": [
+"Ahora, por favor, toma asiento."
+]},
 
 "map21_ev39_p2_karryn_15":{
-  "text": [
-    "Ah, ya veo.",
-    "Con este teléfono doy instrucciones, y así es como promulgaré \\C[3]Decretos\\C[0]...",
-    "¿Lo he entendido bien?"
-  ]},
+"text": [
+"Ah, ya veo.",
+"Con este teléfono doy instrucciones, y así es como promulgaré \\C[3]Decretos\\C[0]...",
+"¿Lo he entendido bien?"
+]},
 
 "map21_ev39_p2_yasu_20":{
-  "text": [
-    "Sí exactamente.",
-    "Y cuando esté decidiendo qué \\C[3]Decretos\\C[0] elegir, Estaré en llamada",
-    "contigo para ser un apoyo en la medida de lo posible."
-  ]},
+"text": [
+"Sí exactamente.",
+"Y cuando esté decidiendo qué \\C[3]Decretos\\C[0] elegir, Estaré en llamada",
+"contigo para ser un apoyo en la medida de lo posible."
+]},
 
 "map21_ev39_p2_karryn_16":{
-  "text": [
-    "Bueno, no creo que necesite tu ayuda.",
-    "pero no está mal tener a alguien como tú que ya está  ",
-    "familiarizado con el funcionamiento de este lugar."
-  ]},
+"text": [
+"Bueno, no creo que necesite tu ayuda.",
+"pero no está mal tener a alguien como tú que ya está  ",
+"familiarizado con el funcionamiento de este lugar."
+]},
 
 "map21_ev39_p2_yasu_21":{
-  "text": [
-    "Sí, llámame si necesitas ayuda."
-  ]},
+"text": [
+"Sí, llámame si necesitas ayuda."
+]},
 
 "map21_ev39_p2_karryn_17":{
 "text":[
@@ -8344,32 +8344,32 @@
 ]},
 
 "map21_ev39_p2_karryn_18":{
-  "text": [
-    "¡Muy bien, comencemos inmediatamente la operación!",
-    "Dijiste que el cabecilla reside en un lugar llamado Nivel 5 ¿Verdad?"
-  ]},
+"text": [
+"¡Muy bien, comencemos inmediatamente la operación!",
+"Dijiste que el cabecilla reside en un lugar llamado Nivel 5 ¿Verdad?"
+]},
 
 "map21_ev39_p2_yasu_22":{
-  "text": [
-    "Si, correcto.",
-    "El primer piso de este fuerte se llama Nivel 1.",
-    "El segundo piso se llama Nivel 2.",
+"text": [
+"Si, correcto.",
+"El primer piso de este fuerte se llama Nivel 1.",
+"El segundo piso se llama Nivel 2.",
 
-    "Y desde el Nivel 3 en adelante están los pisos subterráneos de este fuerte.",
-    "",
-    "",
+"Y desde el Nivel 3 en adelante están los pisos subterráneos de este fuerte.",
+"",
+"",
 
-    "y ahora mismo,",
-    "estamos en un edificio separado del fuerte principal,",
-    "que se llama Edificio Oriental."
-  ]},
+"y ahora mismo,",
+"estamos en un edificio separado del fuerte principal,",
+"que se llama Edificio Oriental."
+]},
 
 "map21_ev39_p2_karryn_19":{
-  "text": [
-    "Entendido.",
-    "¡Así que lo primero que debemos hacer es subyugar el Nivel 1 del Fuerte Ganon!",
-    "¡Reúna a todos los guardias en el Cuartel!"
-  ]},
+"text": [
+"Entendido.",
+"¡Así que lo primero que debemos hacer es subyugar el Nivel 1 del Fuerte Ganon!",
+"¡Reúna a todos los guardias en el Cuartel!"
+]},
 
 "map21_ev39_p2_yasu_23":{
 "text":[
@@ -8377,85 +8377,85 @@
 ]},
 
 "map21_ev39_p2_yasu_24":{
-  "text": [
-    "De momento me retiro.",
-    "Por favor llámame si me necesitas......"
-  ]},
+"text": [
+"De momento me retiro.",
+"Por favor llámame si me necesitas......"
+]},
 
 "map21_ev39_p2_karryn_20":{
-  "text": [
-    "(.........Puf. Todo esto es un lío enorme......",
-    "Ya estoy agotada......)"
-  ]},
+"text": [
+"(.........Puf. Todo esto es un lío enorme......",
+"Ya estoy agotada......)"
+]},
 
 "map21_ev39_p2_karryn_21":{
-  "text": [
-    "(Por otro lado, esta es una gran oportunidad para mí, que no puedo dejar pasar.",
-    "Además de ser la secretaria imperial, ",
-    "si también restablezco el orden en la peor prisión de la historia......)",
+"text": [
+"(Por otro lado, esta es una gran oportunidad para mí, que no puedo dejar pasar.",
+"Además de ser la secretaria imperial, ",
+"si también restablezco el orden en la peor prisión de la historia......)",
 
-    "(Tal vez cuando todo esto acabe,",
-    "mi prestigio será tan alto, que sería posible ",
-    "casarme con Su Majestad Imperial.....)"
-  ]},
+"(Tal vez cuando todo esto acabe,",
+"mi prestigio será tan alto, que sería posible ",
+"casarme con Su Majestad Imperial.....)"
+]},
 
 "map21_ev39_p2_karryn_22":{
-  "text": [
-    "(Fufufufu...... Su Majestad Imperial la Emperatriz Karryn......",
-    "Suena genial......)"
-  ]},
+"text": [
+"(Fufufufu...... Su Majestad Imperial la Emperatriz Karryn......",
+"Suena genial......)"
+]},
 
 "map21_ev39_p2_karryn_23":{
-  "text": [
-    "\\{¡¡¡¡Manos a la obra!!!!"
-  ]},
+"text": [
+"\\{¡¡¡¡Manos a la obra!!!!"
+]},
 
 
 
 
 
 "map21_ev41_p1_1":{
-  "text": [
-    "(Esta es la Estatua de la Diosa que me dio Su Majestad Imperial......",
-    "Como se espera de Su Majestad Imperial, incluso sus regalos ",
-    "están a un nivel completamente diferente de los de una persona normal....)"
-  ]},
+"text": [
+"(Esta es la Estatua de la Diosa que me dio Su Majestad Imperial......",
+"Como se espera de Su Majestad Imperial, incluso sus regalos ",
+"están a un nivel completamente diferente de los de una persona normal....)"
+]},
 
 "map21_ev43_p1_1":{
-  "text": [
-    "(Este es el osito de peluche que me regaló Su Majestad Imperial.",
-    "No sabía que Su Majestad Imperial tenía un lado tan juguetón,",
-    "¿Por qué si no me daría un regalo tan mono?)"
-  ]},
+"text": [
+"(Este es el osito de peluche que me regaló Su Majestad Imperial.",
+"No sabía que Su Majestad Imperial tenía un lado tan juguetón,",
+"¿Por qué si no me daría un regalo tan mono?)"
+]},
 
 "map21_ev46_p2_1":{
-  "text": [
-    "(Esta es la estatua tallada en madera que me dio Su Majestad Imperial.",
-    "Puedes sentir la magnificencia del",
-    "Imperio Zanados con solo mirar esto.)"
-  ]},
+"text": [
+"(Esta es la estatua tallada en madera que me dio Su Majestad Imperial.",
+"Puedes sentir la magnificencia del",
+"Imperio Zanados con solo mirar esto.)"
+]},
 
 "map21_ev48_p2_1":{
-  "text": [
-    "(Es una cesta de frutas frescas.",
-    "Esto es el regalo típico de",
-    "Su Majestad Imperial, siempre consciente de la salud)."
-  ]},
+"text": [
+"(Es una cesta de frutas frescas.",
+"Esto es el regalo típico de",
+"Su Majestad Imperial, siempre consciente de la salud)."
+]},
 
 
 
 "map22_ev3_tachiename_1":{
-  "text": [ "Prisionero Frustrado" ]},
+"text": [ "Prisionero Frustrado" ]},
 
 "map22_ev3_p1_1":{
-  "text": [
-    "¡JO-DER! ",
-    "¿Has visto el traje de la nueva Directora?",
-    "",
+"text": [
+"¡JO-DER! ",
+"¿Has visto el traje de la nueva Directora?",
+"",
 
-    "¿Cómo espera que nos aguantemos mientras va por ahí caminando con ese uniforme?",
-    "Es como si estuviera pidiendo a gritos que nos amotinemos. "
-  ]},
+"¿Cómo espera que nos aguantemos mientras va por ahí caminando con ese uniforme?",
+"Es como si estuviera pidiendo a gritos que nos amotinemos. "
+]},
 
 "map22_ev3_p1_2":{
 "text":[
@@ -8464,38 +8464,38 @@
 
 
 "map22_ev9_tachiename_1":{
-  "text": ["Segundo Hermano Prisionero"]},
+"text": ["Segundo Hermano Prisionero"]},
 
 "map22_ev9_p1_1":{
-  "text": [
-    "Hermano mayor, me encargaré de su \\C[1]\\I[297]Deseo: Culo\\C[0]. ",
-    "",
-    "",
+"text": [
+"Hermano mayor, me encargaré de su \\C[1]\\I[297]Deseo: Culo\\C[0]. ",
+"",
+"",
 
-    "A medida que aumenta su \\C[1]\\I[297]Deseo: Culo\\C[0], seguramente",
-    "empezará a dejarme no solo tocar su trasero, sino también meterle los dedos, jojojo."
-  ]},
+"A medida que aumenta su \\C[1]\\I[297]Deseo: Culo\\C[0], seguramente",
+"empezará a dejarme no solo tocar su trasero, sino también meterle los dedos, jojojo."
+]},
 
 "map22_ev9_p1_2":{
-  "text": [
-    "¡Hermano mayor!"
-  ]},
+"text": [
+"¡Hermano mayor!"
+]},
 
 
 "map22_ev4_tachiename_1":{
-  "text": ["Prisionero Observador"]
+"text": ["Prisionero Observador"]
 },
 
 "map22_ev4_p1_1":{
-  "text": [
-    "Su uniforme es sorprendentemente funcional. Primero debes ",
-    "tirar de él poco a poco antes de tener acceso a sus tetas o culo.",
-    "",
+"text": [
+"Su uniforme es sorprendentemente funcional. Primero debes ",
+"tirar de él poco a poco antes de tener acceso a sus tetas o culo.",
+"",
 
-    "El esfuerzo que nos lleve quitarle el atuendo depende de su",
-    "\\C[11]\\I[446]Resistencia a Perder Ropa\\C[0]. Ahora el problema es como",
-    "bajamos su \\C[11]\\I[446]Resistencia a Perder Ropa\\C[0]."
-  ]},
+"El esfuerzo que nos lleve quitarle el atuendo depende de su",
+"\\C[11]\\I[446]Resistencia a Perder Ropa\\C[0]. Ahora el problema es como",
+"bajamos su \\C[11]\\I[446]Resistencia a Perder Ropa\\C[0]."
+]},
 
 "map22_ev4_p1_2":{
 "text":[
@@ -8504,190 +8504,190 @@
 
 
 "map22_ev5_tachiename_1":{
-  "text": ["Prisionero Hermano Mayor"]},
+"text": ["Prisionero Hermano Mayor"]},
 
 "map22_ev5_p1_1":{
-  "text": [
-    "Hermanos, aunque venimos de familias diferentes",
-    "nos hemos unido por un propósito común: ",
-    "Meterle la polla a la nueva Directora, Karryn.",
+"text": [
+"Hermanos, aunque venimos de familias diferentes",
+"nos hemos unido por un propósito común: ",
+"Meterle la polla a la nueva Directora, Karryn.",
 
-    "No buscamos nacer en el mismo día, ni en el mismo mes ni en el  ",
-    "mismo año. Simplemente esperamos morir el mismo día ",
-    "después de follarnos a Karryn por turnos.",
+"No buscamos nacer en el mismo día, ni en el mismo mes ni en el  ",
+"mismo año. Simplemente esperamos morir el mismo día ",
+"después de follarnos a Karryn por turnos.",
 
-    "Seré la punta de lanza y me encargaré de elevar el \\C[1]\\I[289]Deseo: Polla\\C[0] ",
-    "de Karryn. Solo cuando su \\C[1]\\I[289]Deseo: Polla\\C[0] ",
-    "sea lo suficientemente alto, aceptará nuestros penes dentro de ella."
-  ]},
+"Seré la punta de lanza y me encargaré de elevar el \\C[1]\\I[289]Deseo: Polla\\C[0] ",
+"de Karryn. Solo cuando su \\C[1]\\I[289]Deseo: Polla\\C[0] ",
+"sea lo suficientemente alto, aceptará nuestros penes dentro de ella."
+]},
 
 "map22_ev5_p1_2":{
-  "text": [
-    "No buscamos nacer en el mismo dia, mes y año",
-    "¡Buscamos morir el mismo día, en el mismo mes",
-    "y en el mismo año!"
-  ]},
+"text": [
+"No buscamos nacer en el mismo dia, mes y año",
+"¡Buscamos morir el mismo día, en el mismo mes",
+"y en el mismo año!"
+]},
 
 
 "map22_ev10_tachiename_1":{
-  "text": ["Tercer Hermano Prisionero"]},
+"text": ["Tercer Hermano Prisionero"]},
 
 "map22_ev10_p1_1":{
-  "text": [
-    "¡Hermano mayor! ¡Déjame a mi el Deseo: Coño de esa guarra!",
-    "",
-    "",
+"text": [
+"¡Hermano mayor! ¡Déjame a mi el Deseo: Coño de esa guarra!",
+"",
+"",
 
-    "Una sola mirada a mí y a mi polla hará que su \\C[1]\\I[295]Deseo: Coño\\C[0] ",
-    "sea tan alto que se tirará al suelo con las piernas abiertas!!"
-  ]},
+"Una sola mirada a mí y a mi polla hará que su \\C[1]\\I[295]Deseo: Coño\\C[0] ",
+"sea tan alto que se tirará al suelo con las piernas abiertas!!"
+]},
 
 "map22_ev10_p1_2":{
-  "text": [
-    "Tercer hermano, recuerda tener cuidado. Tener un alto ",
-    "\\C[1]\\I[295]Deseo: Coño\\C[0] no es suficiente para que ",
-    "Karryn nos permita acceder a su parte más íntima.",
+"text": [
+"Tercer hermano, recuerda tener cuidado. Tener un alto ",
+"\\C[1]\\I[295]Deseo: Coño\\C[0] no es suficiente para que ",
+"Karryn nos permita acceder a su parte más íntima.",
 
-    "También necesita estar lubricada antes de tiempo, haciendo que ",
-    "tenga suficiente \\C[1]\\I[320]Placer\\C[0] para varias rondas."
-  ]},
+"También necesita estar lubricada antes de tiempo, haciendo que ",
+"tenga suficiente \\C[1]\\I[320]Placer\\C[0] para varias rondas."
+]},
 
 "map22_ev10_p1_3":{
-  "text": [
-    "¡Hermano mayor! ",
-    "¡No te preocupes, estoy listo!",
-    "¡Haré que esa perra se moje como una fuente!"
-  ]},
+"text": [
+"¡Hermano mayor! ",
+"¡No te preocupes, estoy listo!",
+"¡Haré que esa perra se moje como una fuente!"
+]},
 
 "map22_ev10_p1_4":{
-  "text": [
-    "¡Hermano mayor!"
-  ]},
+"text": [
+"¡Hermano mayor!"
+]},
 
 
 "map22_ev11_tachiename_1":{
-  "text": ["Cuarto Hermano Prisionero"]},
+"text": ["Cuarto Hermano Prisionero"]},
 
 "map22_ev11_p1_1":{
-  "text": [
-    "Hermanos, permítanme encargarme de su \\C[1]\\I[293]Deseo: Pechos\\C[0].",
-    "",
-    "",
+"text": [
+"Hermanos, permítanme encargarme de su \\C[1]\\I[293]Deseo: Pechos\\C[0].",
+"",
+"",
 
-    "La desnudaré y expondré sus montículos blancos de libido al ",
-    "aire libre, y luego aumentaré su \\C[1]\\I[293]Deseo: Pechos\\C[0].",
-    "Tras esto, podremos jugar con sus pechos todo lo que queramos."
-  ]},
+"La desnudaré y expondré sus montículos blancos de libido al ",
+"aire libre, y luego aumentaré su \\C[1]\\I[293]Deseo: Pechos\\C[0].",
+"Tras esto, podremos jugar con sus pechos todo lo que queramos."
+]},
 
 "map22_ev11_p1_2":{
-  "text": [
-    "¡Todos somos hermanos!"
-  ]},
+"text": [
+"¡Todos somos hermanos!"
+]},
 
 
 "map22_ev12_tachiename_1":{
-  "text": ["Quinto Hermano Goblin Prisionero"]},
+"text": ["Quinto Hermano Goblin Prisionero"]},
 
 "map22_ev12_p1_1":{
-  "text": [
-    "¡HERMANO humano!",
-    "¡Permite que hermano goblin suba \\C[1]\\I[294]DESEO: BOCA\\C[0]!",
-    "",
+"text": [
+"¡HERMANO humano!",
+"¡Permite que hermano goblin suba \\C[1]\\I[294]DESEO: BOCA\\C[0]!",
+"",
 
-    "¡Hermano goblin lamerá a KARRYN! ",
-    "¡Pronto Karryn lamerá PENE goblin!"
-  ]},
+"¡Hermano goblin lamerá a KARRYN! ",
+"¡Pronto Karryn lamerá PENE goblin!"
+]},
 
 "map22_ev12_p1_2":{
-  "text": [
-    "¡HERMANO humano!"
-  ]},
+"text": [
+"¡HERMANO humano!"
+]},
 
 
 "map22_ev13_tachiename_1":{
-  "text": ["Goblin Ruidoso"]},
+"text": ["Goblin Ruidoso"]},
 
 "map22_ev13_p1_1":{
-  "text": [
-    "¡Goblin hace que humanos pierdan EQUILIBRIO!",
-    "¡Humano sin EQUILIBRIO, un ataque más y humano cae de CULO!"
-  ]},
+"text": [
+"¡Goblin hace que humanos pierdan EQUILIBRIO!",
+"¡Humano sin EQUILIBRIO, un ataque más y humano cae de CULO!"
+]},
 
 
 "map22_ev14_tachiename_1":{
-  "text": ["Matón Ruidoso"]},
+"text": ["Matón Ruidoso"]},
 
 "map22_ev14_p1_1":{
-  "text": [
-    "¿AH SÍ? ",
-    "¡Bueno, puedo tirarte al suelo",
-    "con uno de mis movimientos!",
+"text": [
+"¿AH SÍ? ",
+"¡Bueno, puedo tirarte al suelo",
+"con uno de mis movimientos!",
 
-    "... Solamente, no esquives mi ataque... ",
-    "y déjame cargarlo un turno..."
-  ]},
+"... Solamente, no esquives mi ataque... ",
+"y déjame cargarlo un turno..."
+]},
 
 
 "map22_ev15_tachiename_1":{
-  "text": ["Prisionero Serio"]},
+"text": ["Prisionero Serio"]},
 
 "map22_ev15_p1_1":{
-  "text": [
-    "...No se lo digas a nadie, ",
-    "pero según mis fuentes",
-    "La Directora Karryn tiene unas habilidades llamadas Pasivas.",
+"text": [
+"...No se lo digas a nadie, ",
+"pero según mis fuentes",
+"La Directora Karryn tiene unas habilidades llamadas Pasivas.",
 
-    "Aparentemente gana Pasivas cuando la gente le hace cosas sexuales",
-    "y su \\C[1]Nivel de Puta\\C[0] aumenta a medida que gana nuevas Pasivas.",
-    "Ñam ñam...",
+"Aparentemente gana Pasivas cuando la gente le hace cosas sexuales",
+"y su \\C[1]Nivel de Puta\\C[0] aumenta a medida que gana nuevas Pasivas.",
+"Ñam ñam...",
 
-    "Básicamente, cada nueva Pasiva hará que potencialmente ",
-    "sea cada vez más fácil",
-    "que la gente le haga cosas sexuales...",
+"Básicamente, cada nueva Pasiva hará que potencialmente ",
+"sea cada vez más fácil",
+"que la gente le haga cosas sexuales...",
 
-    "Ya me lo estoy imaginando... Ñam ñam...",
-    "como de guarra se volverá después de un mes",
-    "en esta prisión... ñam ñam ñam......"
-  ]},
+"Ya me lo estoy imaginando... Ñam ñam...",
+"como de guarra se volverá después de un mes",
+"en esta prisión... ñam ñam ñam......"
+]},
 
 "map22_ev15_p1_2":{
-  "text": [
-    "Dios me encanta comer... ",
-    "Ñam ñam ñam..."
-  ]},
+"text": [
+"Dios me encanta comer... ",
+"Ñam ñam ñam..."
+]},
 
 
 "map22_ev16_tachiename_1":{
-  "text": ["Prisionero Despreocupado"]},
+"text": ["Prisionero Despreocupado"]},
 
 "map22_ev16_p1_1":{
-  "text": [
-    "¿Huh~?!",
-    "¿Entonces qué? La seguimo tocándoh y eso, y ar finá",
-    "va a íh ella por ahí pidiendo que la toquen y to eso, no?",
+"text": [
+"¿Huh~?!",
+"¿Entonces qué? La seguimo tocándoh y eso, y ar finá",
+"va a íh ella por ahí pidiendo que la toquen y to eso, no?",
 
-    "Eso es la polla~ xD"
-  ]},
+"Eso es la polla~ xD"
+]},
 
 "map22_ev16_p1_2":{
-  "text": [
-    "Te encanta zampáh ¿A que jí? xD"
-  ]},
+"text": [
+"Te encanta zampáh ¿A que jí? xD"
+]},
 
 
 "map22_ev17_tachiename_1":{
-  "text": ["Prisionero Planeando una Invasión"]},
+"text": ["Prisionero Planeando una Invasión"]},
 
 "map22_ev17_p1_1":{
-  "text": [
-    "Chicos, escuchad esto, que es importante.",
-    "Cuando la Directora está durmiendo fuera de su oficina",
-    "nuestra Probabilidad de Invasión aumenta si ella hace ruidos.",
+"text": [
+"Chicos, escuchad esto, que es importante.",
+"Cuando la Directora está durmiendo fuera de su oficina",
+"nuestra Probabilidad de Invasión aumenta si ella hace ruidos.",
 
-    "Si Dios está de nuestro lado y nos favorece, ",
-    "podremos localizarla, invadir donde sea que ",
-    "esté y usarla como queramos."
-  ]},
+"Si Dios está de nuestro lado y nos favorece, ",
+"podremos localizarla, invadir donde sea que ",
+"esté y usarla como queramos."
+]},
 
 "map22_ev17_p1_2":{
 "text":[
@@ -8696,52 +8696,52 @@
 
 
 "map22_ev18_tachiename_1":{
-  "text": ["Prisionero Estupefacto"]},
+"text": ["Prisionero Estupefacto"]},
 
 "map22_ev18_p1_1":{
-  "text": [
-    "¿Qué quieres decir con que si ella hace ruido? ",
-    "¿Ronca mucho o qué?"
-  ]},
+"text": [
+"¿Qué quieres decir con que si ella hace ruido? ",
+"¿Ronca mucho o qué?"
+]},
 
 "map22_ev18_p1_2":{
-  "text": [
-    "Wow ¿Te puedes comer estas zanahorias~?"
-  ]},
+"text": [
+"Wow ¿Te puedes comer estas zanahorias~?"
+]},
 
 
 "map22_ev19_tachiename_1":{
-  "text": ["Guardia confuso"]},
+"text": ["Guardia confuso"]},
 
 "map22_ev19_p1_1":{
-  "text": [
-    "¿Por qué la Directora Karryn querría pasar la noche",
-    "fuera de su oficina cuando la tiene rodeada de guardias?"
-  ]},
+"text": [
+"¿Por qué la Directora Karryn querría pasar la noche",
+"fuera de su oficina cuando la tiene rodeada de guardias?"
+]},
 
 "map22_ev19_p1_2":{
-  "text": [
-    "¡Dejadse de tonterías y COMED!"
-  ]},
+"text": [
+"¡Dejadse de tonterías y COMED!"
+]},
 
 
 "map22_ev20_tachiename_1":{
-  "text": ["Prisionero Comiendo Furiosamente"]},
+"text": ["Prisionero Comiendo Furiosamente"]},
 
 "map22_ev20_p1_1":{
-  "text": [
-    "Nuestra estadística de Probabilidad de Ataque representa la posibilidad",
-    "de que decidamos realizar un ataque físico en lugar de uno sexual.",
-    "",
+"text": [
+"Nuestra estadística de Probabilidad de Ataque representa la posibilidad",
+"de que decidamos realizar un ataque físico en lugar de uno sexual.",
+"",
 
-    "Así que, alguien con una Probabilidad de Ataque baja, preferirá",
-    "usar habilidades sexuales. Y alguien con una",
-    "Probabilidad de Ataque alta preferirá atacar.",
+"Así que, alguien con una Probabilidad de Ataque baja, preferirá",
+"usar habilidades sexuales. Y alguien con una",
+"Probabilidad de Ataque alta preferirá atacar.",
 
-    "Algunos prisioneros tienen inherentemente una alta Probabilidad de Ataque",
-    "y algunos tienen una Probabilidad de Ataque baja.",
-    "Los prisioneros que están enfadados también tendrán una alta Probabilidad de Ataque."
-  ]},
+"Algunos prisioneros tienen inherentemente una alta Probabilidad de Ataque",
+"y algunos tienen una Probabilidad de Ataque baja.",
+"Los prisioneros que están enfadados también tendrán una alta Probabilidad de Ataque."
+]},
 
 "map22_ev20_p1_2":{
 "text":[
@@ -8750,64 +8750,64 @@
 
 
 "map22_ev21_tachiename_1":{
-  "text": ["Prisionero Comiendo Tranquilamente"]},
+"text": ["Prisionero Comiendo Tranquilamente"]},
 
 "map22_ev21_p1_1":{
-  "text": [
-    "Nuestra estadística Probabilidad de Actuar representa la",
-    "posibilidad de que tengamos un turno para hacer algo.",
-    "",
+"text": [
+"Nuestra estadística Probabilidad de Actuar representa la",
+"posibilidad de que tengamos un turno para hacer algo.",
+"",
 
-    "Oportunidad de actuar se basa principalmente en las diferencias entre nuestra",
-    "Agilidad y la \\C[4]\\I[315]Agilidad de la Directora\\C[0]. Así que, alguien",
-    "más rápido que la Directora podrá actuar prácticamente en cada turno.",
+"Oportunidad de actuar se basa principalmente en las diferencias entre nuestra",
+"Agilidad y la \\C[4]\\I[315]Agilidad de la Directora\\C[0]. Así que, alguien",
+"más rápido que la Directora podrá actuar prácticamente en cada turno.",
 
-    "Mientras tanto, alguien que es mucho más lento",
-    "probablemente solo actuará cada dos turnos.",
-    "",
+"Mientras tanto, alguien que es mucho más lento",
+"probablemente solo actuará cada dos turnos.",
+"",
 
-    "Pero no importa cuán baja sea la Probabilidad de Actuar de alguien, si no actuó",
-    "en el turno anterior, lo más probable es que actúe en el próximo turno."
-  ]},
+"Pero no importa cuán baja sea la Probabilidad de Actuar de alguien, si no actuó",
+"en el turno anterior, lo más probable es que actúe en el próximo turno."
+]},
 
 
 "map22_ev22_tachiename_1":{
-  "text": ["Prisionero Traicionero"]},
+"text": ["Prisionero Traicionero"]},
 
 "map22_ev22_p1_1":{
-  "text": [
-    "Oh, eres tú, Directora.",
-    "Oye, esto es información de alto secreto entre tú y yo, ",
-    "así que no le digas nada a los chicos ¿De acuerdo?",
+"text": [
+"Oh, eres tú, Directora.",
+"Oye, esto es información de alto secreto entre tú y yo, ",
+"así que no le digas nada a los chicos ¿De acuerdo?",
 
-    "Cuando un chico tiene una erección, su \\C[18]\\I[415]Evasión Crítica\\C[0] disminuye ",
-    "significativamente, lo que significa que es muy fácil darle un golpe crítico.",
-    "Puedes notar que un tio tiene una erección cuando le cambia la cara."
-  ]},
+"Cuando un chico tiene una erección, su \\C[18]\\I[415]Evasión Crítica\\C[0] disminuye ",
+"significativamente, lo que significa que es muy fácil darle un golpe crítico.",
+"Puedes notar que un tio tiene una erección cuando le cambia la cara."
+]},
 
 "map22_ev22_p1_2":{
-  "text": [
-    "Ñam ñam. Oh, hola Directora. Hoy también estás muy guapa."
-  ]},
+"text": [
+"Ñam ñam. Oh, hola Directora. Hoy también estás muy guapa."
+]},
 
 
 "map22_ev23_tachiename_1":{
-  "text": ["Prisionero Meditando"]},
+"text": ["Prisionero Meditando"]},
 
 "map22_ev23_p1_1":{
-  "text": [
-    "¿Hmm? Oh, eres la Directora sexy.",
-    "",
-    "",
+"text": [
+"¿Hmm? Oh, eres la Directora sexy.",
+"",
+"",
 
-    "Oye ¿Has notado que cuando estás en una posición comprometida,",
-    "como cuando te quedas sin energía, o cuando estás en el suelo,",
-    "recibes mucho más daño de las habilidades sexuales?",
+"Oye ¿Has notado que cuando estás en una posición comprometida,",
+"como cuando te quedas sin energía, o cuando estás en el suelo,",
+"recibes mucho más daño de las habilidades sexuales?",
 
-    "No es tu imaginación, sufres una gran penalización a tus diversas ",
-    "resistencias cuando estás en una posición comprometida.",
-    "Recupérate rápidamente si eso no es lo que estás buscando."
-  ]},
+"No es tu imaginación, sufres una gran penalización a tus diversas ",
+"resistencias cuando estás en una posición comprometida.",
+"Recupérate rápidamente si eso no es lo que estás buscando."
+]},
 
 "map22_ev23_p1_2":{
 "text":[
@@ -8816,175 +8816,175 @@
 
 
 "map22_ev25_tachiename_1":{
-  "text": ["Chef pomposo"]},
+"text": ["Chef pomposo"]},
 
 "map22_ev25_p1_1":{
-  "text": [
-    "Bonsoir, Madame Directora. ♪ Hoy seré su chef personal.",
-    "Este es el menú artesanal de hoy diseñado para su divino placer.",
-    "Todo en este menú está hecho con productos orgánicos recién cosechados. ♪"
-  ]},
+"text": [
+"Bonsoir, Madame Directora. ♪ Hoy seré su chef personal.",
+"Este es el menú artesanal de hoy diseñado para su divino placer.",
+"Todo en este menú está hecho con productos orgánicos recién cosechados. ♪"
+]},
 
 "map22_ev25_p2_1":{
-  "text": [
-    "¡Bon appétit, Madame Directora!",
-    "Por favor, vuelve mañana a por otra comida deliciosa,",
-    "orgánica, artesanal, de campo. ♪"
-  ]},
+"text": [
+"¡Bon appétit, Madame Directora!",
+"Por favor, vuelve mañana a por otra comida deliciosa,",
+"orgánica, artesanal, rural... ♪"
+]},
 
 
 "map22_ev30_p1_karryn_1":{
-  "text": [
-    "Hoy voy a tomar esto."
-  ]},
+"text": [
+"Hoy voy a tomar esto."
+]},
 
 "map22_ev30_p1_karryn_2":{
-  "text": [
-    "¡Mmmmm! ¡Estaba delicioso!",
-    "Mis felicitaciones al chef♥"
-  ]},
+"text": [
+"¡Mmmmm! ¡Estaba delicioso!",
+"Mis felicitaciones al chef♥"
+]},
 
 "map22_ev30_p1_chef_1":{
-  "text": [
-    "Merci Madame Directora.",
-    "Solo vivo para servir a sus papilas gustativas.",
-    "Por favor, permítame alimentarla de nuevo mañana. ♪"
-  ]},
+"text": [
+"Merci Madame Directora.",
+"Solo vivo para servir a sus papilas gustativas.",
+"Por favor, permítame alimentarla de nuevo mañana. ♪"
+]},
 
 
 "map22_ev41_p1_choice_odd_0":{
-  "text": [ "\\C[4]Selecciona la comida de hoy:" ]},
+"text": [ "\\C[4]Selecciona la comida de hoy:" ]},
 "map22_ev41_p1_choice_odd_1":{
-  "text": [ "1. \\I[197]Albóndigas Salteadas y Torrone Asado con Almendras" ]},
+"text": [ "1. \\I[197]Albóndigas Salteadas y Torrone Asado con Almendras" ]},
 "map22_ev41_p1_choice_odd_2":{
-  "text": [ "2. \\I[197]Arándanos Rojos con Mahi-Mahi al Horno Fileteado Ayer" ]},
+"text": [ "2. \\I[197]Arándanos Rojos con Mahi-Mahi al Horno Fileteado Ayer" ]},
 "map22_ev41_p1_choice_odd_3":{
-  "text": [ "3. \\I[197]Huevos Seleccionados a Mano y Trifle de Ron con Sabor a Manzana" ]},
+"text": [ "3. \\I[197]Huevos Seleccionados a Mano y Trifle de Ron con Sabor a Manzana" ]},
 "map22_ev41_p1_choice_odd_4":{
-  "text": [ "4. \\I[197]Tartar Sin Condimentar de Aspecto Suntuoso" ]},
+"text": [ "4. \\I[197]Tartar Sin Condimentar de Aspecto Suntuoso" ]},
 "map22_ev41_p1_choice_odd_5":{
-  "text": [ "5. \\I[197]Atún Yellowfin en Rodajitas a la Plancha" ]},
+"text": [ "5. \\I[197]Atún Yellowfin en Rodajitas a la Plancha" ]},
 
 "map22_ev41_p1_odd_desc_0":{
-  "text": [
-    "Bonsoir, Madame Directora. ♪ Hoy seré su chef personal.",
-    "Este es el menú artesanal de hoy diseñado para su divino placer.",
-    "Todo en este menú está hecho con productos orgánicos recién cosechados. ♪"
-  ]},
+"text": [
+"Bonsoir, Madame Directora. ♪ Hoy seré su chef personal.",
+"Este es el menú artesanal de hoy diseñado para su divino placer.",
+"Todo en este menú está hecho con productos orgánicos recién cosechados. ♪"
+]},
 "map22_ev41_p1_odd_desc_1":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[11]\\I[360]Experiencia +50%"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[11]\\I[360]Experiencia +50%"
+]},
 "map22_ev41_p1_odd_desc_2":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[11]\\I[454]Regeneración de Resistencia +5% \\I[456]Regeneración de Energía +5% ",
-    "\\I[472]Regeneración de Voluntad +5 %"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[11]\\I[454]Regeneración de Resistencia +5% \\I[456]Regeneración de Energía +5% ",
+"\\I[472]Regeneración de Voluntad +5 %"
+]},
 "map22_ev41_p1_odd_desc_3":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[11]\\I[380]Resistencia +15% \\I[382]Recibe menos daño de energía por los orgasmos"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[11]\\I[380]Resistencia +15% \\I[382]Recibe menos daño de energía por los orgasmos"
+]},
 "map22_ev41_p1_odd_desc_4":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[27]\\I[320]Aumenta las posibilidades de ponerse cachonda",
-    "al comienzo de cada turno."
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[27]\\I[320]Aumenta las posibilidades de ponerse cachonda",
+"al comienzo de cada turno."
+]},
 "map22_ev41_p1_odd_desc_5":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[27]\\I[320]Sensibilidad de las Tetas y el Coño +50 %"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[27]\\I[320]Sensibilidad de las Tetas y el Coño +50 %"
+]},
 
 "map22_ev41_p1_choice_even_0":{
-  "text": [ "\\C[4]Seleccione la comida de hoy:" ]},
+"text": [ "\\C[4]Seleccione la comida de hoy:" ]},
 "map22_ev41_p1_choice_even_1":{
-  "text": [ "1. \\I[197]Berenjenas Rebozadas a Mano sobre Ostras Crudas" ]},
+"text": [ "1. \\I[197]Berenjenas Rebozadas a Mano sobre Ostras Crudas" ]},
 "map22_ev41_p1_choice_even_2":{
-  "text": [ "2. \\I[197]Ribeye de Angus con Esencia de Arce Deconstruida" ]},
+"text": [ "2. \\I[197]Ribeye de Angus con Esencia de Arce Deconstruida" ]},
 "map22_ev41_p1_choice_even_3":{
-  "text": [ "3. \\I[197]Aderezo de Romero con Acento de Wasabi en Naan de Escarola" ]},
+"text": [ "3. \\I[197]Aderezo de Romero con Acento de Wasabi en Naan de Escarola" ]},
 "map22_ev41_p1_choice_even_4":{
-  "text": [ "4. \\I[197]Avellanas de Chocolate Doblemente Horneada Infusionadas con Mortadela" ]},
+"text": [ "4. \\I[197]Avellanas de Chocolate Doblemente Horneada Infusionadas con Mortadela" ]},
 "map22_ev41_p1_choice_even_5":{
-  "text": [ "5. \\I[197]Nueces Ahumadas en Madera de Manzano con Linguini al Dente" ]},
+"text": [ "5. \\I[197]Nueces Ahumadas en Madera de Manzano con Linguini al Dente" ]},
 
 "map22_ev41_p1_even_desc_0":{
-  "text": [
-    "Bonsoir, Madame Directora. ♪ Hoy seré su chef personal.",
-    "Este es el menú artesanal de hoy diseñado para su divino placer.",
-    "Todo en este menú está hecho con productos orgánicos recién cosechados. ♪"
-  ]},
+"text": [
+"Bonsoir, Madame Directora. ♪ Hoy seré su chef personal.",
+"Este es el menú artesanal de hoy diseñado para su divino placer.",
+"Todo en este menú está hecho con productos orgánicos recién cosechados. ♪"
+]},
 "map22_ev41_p1_even_desc_1":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[11]\\I[394]Fuerza +5% \\I[372]Destreza +5% \\I[374]Agilidad +5%"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[11]\\I[394]Fuerza +5% \\I[372]Destreza +5% \\I[374]Agilidad +5%"
+]},
 "map22_ev41_p1_even_desc_2":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[11]\\I[418]Ganancia de Fatiga -33 %"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[11]\\I[418]Ganancia de Fatiga -33 %"
+]},
 "map22_ev41_p1_even_desc_3":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[11]\\I[444]Resistencia a las Caricias +15% \\I[440]Resistencia al Sexo +15 %"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[11]\\I[444]Resistencia a las Caricias +15% \\I[440]Resistencia al Sexo +15 %"
+]},
 "map22_ev41_p1_even_desc_4":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[11]\\I[384]Los enemigos tienen menor probabilidad de ataque"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[11]\\I[384]Los enemigos tienen menor probabilidad de ataque"
+]},
 "map22_ev41_p1_even_desc_5":{
-  "text": [
-    "Efecto de la comida: ",
-    "\\C[27]\\I[320]Sensibilidad anal y de la boca +50 %"
-  ]},
+"text": [
+"Efecto de la comida: ",
+"\\C[27]\\I[320]Sensibilidad anal y de la boca +50 %"
+]},
 
 
 
 "map24_ev3_p3_1":{
-  "text": [
-    "La puerta no se mueve."
-  ]},
+"text": [
+"La puerta no se mueve."
+]},
 
 
 "map24_ev4_p1_karryn_1":{
-  "text": [
-    "El Comedor está demasiado reventado como para entrar."
-  ]},
+"text": [
+"El Comedor está demasiado reventado como para entrar."
+]},
 
 
 "map24_ev5_tachiename_1":{
-  "text": ["Prisionero de Voz Suave"]},
+"text": ["Prisionero de Voz Suave"]},
 
 "map24_ev5_p1_1":{
-  "text": [
-    "Así que finalmente han comenzado a aparecer Pícaros...",
-    "Por lo general, prefieren trabajar en las sombras",
-    "pero ahora están apareciendo en masa por la prisión por alguna razón.",
+"text": [
+"Así que finalmente han comenzado a aparecer Pícaros...",
+"Por lo general, prefieren trabajar en las sombras",
+"pero ahora están apareciendo en masa por la prisión por alguna razón.",
 
-    "En combate directo, no son una gran amenaza...",
-    "Sin embargo, han perfeccionado sus habilidades de engaño y rápidamente ",
-    "te pondrán en desventaja si no te ocupas de ellos primero.",
+"En combate directo, no son una gran amenaza...",
+"Sin embargo, han perfeccionado sus habilidades de engaño y rápidamente ",
+"te pondrán en desventaja si no te ocupas de ellos primero.",
 
-    "Recomiendo usar \\I[324]\\C[5]Postura Defensiva\\C[0] cuando se están preparando",
-    "para hacer algo, a menos que estés seguro de que puedes eliminarlos primero."
-  ]},
+"Recomiendo usar \\I[324]\\C[5]Postura Defensiva\\C[0] cuando se están preparando",
+"para hacer algo, a menos que estés seguro de que puedes eliminarlos primero."
+]},
 
 
 "map24_ev6_tachiename_1":{
-  "text": ["Prisionero Nervioso"]},
+"text": ["Prisionero Nervioso"]},
 
 "map24_ev6_p1_1":{
-  "text": [
-    "Cuidado con los Goblins. Son unos putos tramposos rapidísimos.",
-    "Como son tan pequeños, es difícil golpearles a menos que ",
-    "tengas mucha \\C[3]\\I[311]Destreza\\C[0] y uses el tipo de ataque correcto."
-  ]},
+"text": [
+"Cuidado con los Goblins. Son unos putos tramposos rapidísimos.",
+"Como son tan pequeños, es difícil golpearles a menos que ",
+"tengas mucha \\C[3]\\I[311]Destreza\\C[0] y uses el tipo de ataque correcto."
+]},
 
 "map24_ev6_p1_2":{
 "text":[
@@ -8992,309 +8992,309 @@
 ]},
 
 "map24_ev6_p1_3":{
-  "text": [
-    "Además, ten cuidado con tus partes",
-    "les encanta apuntar a ese lugar...",
-    "No importa tu género......"
-  ]},
+"text": [
+"Además, ten cuidado con tus partes",
+"les encanta apuntar a ese lugar...",
+"No importa tu género......"
+]},
 
 
 "map24_ev7_tachiename_1":{
-  "text": ["Prisionero Calmado"]},
+"text": ["Prisionero Calmado"]},
 
 "map24_ev7_p1_1":{
-  "text": [
-    "Me duele decir esto, pero nosotros, los prisioneros básicos, ",
-    "no tenemos nada especial. Uno o dos golpes de su Alabarda ",
-    "probablemente sean suficientes para hacer que la mayoría nos rindamos."
-  ]},
+"text": [
+"Me duele decir esto, pero nosotros, los prisioneros básicos, ",
+"no tenemos nada especial. Uno o dos golpes de su Alabarda ",
+"probablemente sean suficientes para hacer que la mayoría nos rindamos."
+]},
 
 "map24_ev7_p1_2":{
-  "text": [
-    "Algunos de nosotros tenemos diferentes preferencias sexuales, ",
-    "pero no creo que valga la pena tratar de averiguarlo."
-  ]},
+"text": [
+"Algunos de nosotros tenemos diferentes preferencias sexuales, ",
+"pero no creo que valga la pena tratar de averiguarlo."
+]},
 
 
 "map24_ev8_tachiename_1":{
-  "text": ["Prisionero Asustado de los Matones"]},
+"text": ["Prisionero Asustado de los Matones"]},
 
 "map24_ev8_p1_1":{
-  "text": [
-    "No te enfrentes a los Matones si eres nueva por aquí. ",
-    "Son muy fuertes. Un Matón probablemente pueda derrotar ",
-    "a tres o cuatro Prisioneros normales él solo, no es broma.",
+"text": [
+"No te enfrentes a los Matones si eres nueva por aquí. ",
+"Son muy fuertes. Un Matón probablemente pueda derrotar ",
+"a tres o cuatro Prisioneros normales él solo, no es broma.",
 
-    "A la mayoría de los Matones del Nivel Uno les gusta pasar",
-    "el rato en el bar. A menos que tengas ganas de morir, ",
-    "deberías largarte del Bar cuando pases por ahí.",
+"A la mayoría de los Matones del Nivel Uno les gusta pasar",
+"el rato en el bar. A menos que tengas ganas de morir, ",
+"deberías largarte del Bar cuando pases por ahí.",
 
-    "Si insistes en pelear con un Matón, te sugiero que tengas mucha \\C[2]\\I[309]Fuerza\\C[0] ",
-    "para enfrentarte con él en igualdad de condiciones, o mucha \\C[4]\\I[315]Agilidad\\C[0] ",
-    "para minimizar la cantidad de daño y las posibilidades de que te golpee.",
+"Si insistes en pelear con un Matón, te sugiero que tengas mucha \\C[2]\\I[309]Fuerza\\C[0] ",
+"para enfrentarte con él en igualdad de condiciones, o mucha \\C[4]\\I[315]Agilidad\\C[0] ",
+"para minimizar la cantidad de daño y las posibilidades de que te golpee.",
 
-    "De cualquier forma, tendrás que volverte más ",
-    "fuerte y rápida si quieres sobrevivir aquí."
-  ]},
+"De cualquier forma, tendrás que volverte más ",
+"fuerte y rápida si quieres sobrevivir aquí."
+]},
 
 
 "map24_ev10_tachiename_1":{
-  "text": ["Portero"]},
+"text": ["Portero"]},
 
 "map24_ev10_p1_1":{
-  "text": [
-    "Lo siento, Directora Karryn, los prisioneros han bloqueado las escaleras que ",
-    "conectan el Nivel Uno con el Nivel Tres, así que no puedes usar esta entrada.",
-    "",
+"text": [
+"Lo siento, Directora Karryn, los prisioneros han bloqueado las escaleras que ",
+"conectan el Nivel Uno con el Nivel Tres, así que no puedes usar esta entrada.",
+"",
 
-    "Según los informes, Tonkin, el jefe del Nivel Uno, ",
-    "no es nada especial. Es básicamente un Orco normal excepto, uh, ",
-    "cómo debería decirlo... También es un poco cobarde.",
+"Según los informes, Tonkin, el jefe del Nivel Uno, ",
+"no es nada especial. Es básicamente un Orco normal excepto, uh, ",
+"cómo debería decirlo... También es un poco cobarde.",
 
-    "Aun así, cobarde o no, sigue siendo un Orco.",
-    "Asegúrate de usar el tipo correcto de ataques contra él, ",
-    "parece favorecer los ataques \\C[2]\\I[305]Contundentes\\C[0] y \\C[4]\\I[306]Perforantes\\C[0].",
+"Aun así, cobarde o no, sigue siendo un Orco.",
+"Asegúrate de usar el tipo correcto de ataques contra él, ",
+"parece favorecer los ataques \\C[2]\\I[305]Contundentes\\C[0] y \\C[4]\\I[306]Perforantes\\C[0].",
 
-    "Probablemente deberías tener un Nivel de Guardiana 9 o superior junto a ",
-    "unos buenos \\C[3]Decretos Personales\\C[0] promulgados antes de tratar con él.",
-    "Ah, y quizás deberías 'despejar' la habitación antes de enfrentarte a él."
-  ]},
+"Probablemente deberías tener un Nivel de Guardiana 9 o superior junto a ",
+"unos buenos \\C[3]Decretos Personales\\C[0] promulgados antes de tratar con él.",
+"Ah, y quizás deberías 'despejar' la habitación antes de enfrentarte a él."
+]},
 
 "map24_ev10_p2_1":{
-  "text": [
-    "¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Uno!",
-    "Ahora puede usar esta entrada para ingresar al ",
-    "Nivel Uno y caminar directamente hacia el Nivel Tres.",
+"text": [
+"¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Uno!",
+"Ahora puede usar esta entrada para ingresar al ",
+"Nivel Uno y caminar directamente hacia el Nivel Tres.",
 
-    "Sin embargo, creo que es mejor subyugar primero el",
-    "Nivel Dos antes de bajar al Nivel Tres para evitar",
-    "ser atacada por la espalda.",
+"Sin embargo, creo que es mejor subyugar primero el",
+"Nivel Dos antes de bajar al Nivel Tres para evitar",
+"ser atacada por la espalda.",
 
-    "Algunos guardias han informado que aparecen Slimes en el Nivel Dos por ",
-    "alguna razón. Y por culpa de los Slimes, nadie ha profundizado lo suficiente ",
-    "en el Nivel Dos para descubrir quién es el jefe del Nivel.",
+"Algunos guardias han informado que aparecen Slimes en el Nivel Dos por ",
+"alguna razón. Y por culpa de los Slimes, nadie ha profundizado lo suficiente ",
+"en el Nivel Dos para descubrir quién es el jefe del Nivel.",
 
-    "Algunos se imaginan que los Slimes reclusos están detrás del lío de",
-    "ahí arriba, pero otros dicen que los Slimes no deberían poder",
-    "ser capaces de lograr algo así sin que nadie los ayude.",
+"Algunos se imaginan que los Slimes reclusos están detrás del lío de",
+"ahí arriba, pero otros dicen que los Slimes no deberían poder",
+"ser capaces de lograr algo así sin que nadie los ayude.",
 
-    "Por si acaso, recomiendo tener un Nivel de Guardiana de 18 o superior",
-    "y tener mucha práctica enfrentándote a Slimes antes de",
-    "meterte demasiado profundo en el Nivel Dos.",
+"Por si acaso, recomiendo tener un Nivel de Guardiana de 18 o superior",
+"y tener mucha práctica enfrentándote a Slimes antes de",
+"meterte demasiado profundo en el Nivel Dos.",
 
-    "Además, debería haber muchos Decretos nuevos que revisar tras",
-    "haber subyugado el Nivel Uno.",
-    "",
+"Además, debería haber muchos Decretos nuevos que revisar tras",
+"haber subyugado el Nivel Uno.",
+"",
 
-    "Deberías centrarte en estabilizar las finanzas y el orden de",
-    "la prisión mientras te fortaleces conquistando poco a poco el",
-    "Nivel dos. ¡Eres nuestra única esperanza, así que por favor no te metas sin pensar!"
-  ]},
+"Deberías centrarte en estabilizar las finanzas y el orden de",
+"la prisión mientras te fortaleces conquistando poco a poco el",
+"Nivel dos. ¡Eres nuestra única esperanza, así que por favor no te metas sin pensar!"
+]},
 
 "map24_ev10_p3_1":{
-  "text": [
-    "¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Dos!",
-    "Puedes usar esta entrada para ingresar al Nivel Uno ",
-    "y caminar directamente hacia el Nivel Tres.",
+"text": [
+"¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Dos!",
+"Puedes usar esta entrada para ingresar al Nivel Uno ",
+"y caminar directamente hacia el Nivel Tres.",
 
-    "Ahora mismo, no tenemos ninguna información del Nivel Tres.",
-    "El Nivel Tres es donde la mayoría de los reclusos",
-    "pasan la mayor parte de su tiempo libre.",
+"Ahora mismo, no tenemos ninguna información del Nivel Tres.",
+"El Nivel Tres es donde la mayoría de los reclusos",
+"pasan la mayor parte de su tiempo libre.",
 
-    "Hasta ahora, la mayoría de los guardias han estado ocupados solo con el Nivel Uno y ",
-    "luego con el Nivel Dos ¡Por favor, comprueba la situación del Nivel Tres!",
-    "¡Así podremos darle más información!"
-  ]},
+"Hasta ahora, la mayoría de los guardias han estado ocupados solo con el Nivel Uno y ",
+"luego con el Nivel Dos ¡Por favor, comprueba la situación del Nivel Tres!",
+"¡Así podremos darle más información!"
+]},
 
 "map24_ev10_p4_1":{
-  "text": [
-    "¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Dos!",
-    "Puedes usar esta entrada para ingresar al Nivel Uno ",
-    "y caminar directamente hacia el Nivel Tres.",
+"text": [
+"¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Dos!",
+"Puedes usar esta entrada para ingresar al Nivel Uno ",
+"y caminar directamente hacia el Nivel Tres.",
 
-    "El Nivel Tres es donde la mayoría de los reclusos",
-    "pasan la mayor parte de su tiempo libre. Y según un rumor preocupante,",
-    "El jefe del Nivel Tres es alguien muy peligroso."
-  ]},
+"El Nivel Tres es donde la mayoría de los reclusos",
+"pasan la mayor parte de su tiempo libre. Y según un rumor preocupante,",
+"El jefe del Nivel Tres es alguien muy peligroso."
+]},
 
 "map24_ev10_p4_2":{
-  "text": [
-    "\\{\\{\\C[18]El Hombre Lagarto Alfa"
-  ]},
+"text": [
+"\\{\\{\\C[18]El Hombre Lagarto Alfa"
+]},
 
 "map24_ev10_p4_3":{
-  "text": [
-    "Así como algunos nacen siendo conejitos y otros siendo leones",
-    "algunos nacen como líderes naturales de los hombres lagarto.",
-    "En otras palabras, un hombre lagarto alfa.",
+"text": [
+"Así como algunos nacen siendo conejitos y otros siendo leones",
+"algunos nacen como líderes naturales de los hombres lagarto.",
+"En otras palabras, un hombre lagarto alfa.",
 
-    "Dotados de un carisma abrumador, pueden comandar a innumerables hombres ",
-    "lagarto para que cumplan sus órdenes. Y dado que los hombres lagarto ",
-    "están obligados por el deber, su lealtad a su alfa es casi como una religión.",
+"Dotados de un carisma abrumador, pueden comandar a innumerables hombres ",
+"lagarto para que cumplan sus órdenes. Y dado que los hombres lagarto ",
+"están obligados por el deber, su lealtad a su alfa es casi como una religión.",
 
-    "Afortunadamente, el Hombre Lagarto Alfa actual es frívolo y perezoso.",
-    "Desafortunadamente, es un recluso del Fuerte Ganon,",
-    "y lo que es peor, actualmente nos encontramos en un estado de anarquía.",
+"Afortunadamente, el Hombre Lagarto Alfa actual es frívolo y perezoso.",
+"Desafortunadamente, es un recluso del Fuerte Ganon,",
+"y lo que es peor, actualmente nos encontramos en un estado de anarquía.",
 
-    "Aunque bendecido con la supremacía natural sobre los demás, ",
-    "el Hombre Lagarto Alfa actual no ha mostrado ningún interés en ",
-    "entrenar o trabajar duro para perfeccionar sus habilidades.",
+"Aunque bendecido con la supremacía natural sobre los demás, ",
+"el Hombre Lagarto Alfa actual no ha mostrado ningún interés en ",
+"entrenar o trabajar duro para perfeccionar sus habilidades.",
 
-    "Pero su potencial para convertirse en una amenaza real, si alguna vez ",
-    "decide trabajar duro, es la razón por la que fue enviado al Nivel Cinco.",
-    "",
+"Pero su potencial para convertirse en una amenaza real, si alguna vez ",
+"decide trabajar duro, es la razón por la que fue enviado al Nivel Cinco.",
+"",
 
-    "Y ahora nuestra peor pesadilla se ha hecho realidad......",
-    "El Hombre Lagarto Alfa ha movido ficha.",
-    "",
+"Y ahora nuestra peor pesadilla se ha hecho realidad......",
+"El Hombre Lagarto Alfa ha movido ficha.",
+"",
 
-    "Como se dijo antes, el alfa actual nunca ha hecho ningún esfuerzo serio.",
-    "Así que, en realidad, no es mucho más fuerte que un hombre lagarto por encima del promedio.",
-    "Sin embargo, una parte de su potencial oculto podría salir a la luz si es acorralado.",
+"Como se dijo antes, el alfa actual nunca ha hecho ningún esfuerzo serio.",
+"Así que, en realidad, no es mucho más fuerte que un hombre lagarto por encima del promedio.",
+"Sin embargo, una parte de su potencial oculto podría salir a la luz si es acorralado.",
 
-    "Si quieres reprimirlo con pura fuerza",
-    "¡Haz todos los preparativos que puedas para una pelea larga!"
-  ]},
+"Si quieres reprimirlo con pura fuerza",
+"¡Haz todos los preparativos que puedas para una pelea larga!"
+]},
 
 "map24_ev10_p5_1":{
-  "text": [
-    "¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Tres!",
-    "ahora puede acceder al Nivel Cuatro desde el Nivel Tres.",
-    "Hemos asegurado lo suficiente del Nivel Tres para que sea seguro.",
+"text": [
+"¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Tres!",
+"ahora puede acceder al Nivel Cuatro desde el Nivel Tres.",
+"Hemos asegurado lo suficiente del Nivel Tres para que sea seguro.",
 
-    "No tenemos ninguna información sobre el Nivel Cuatro.",
-    "Y es poco probable que alguna vez tengamos información útil del área.",
-    "",
+"No tenemos ninguna información sobre el Nivel Cuatro.",
+"Y es poco probable que alguna vez tengamos información útil del área.",
+"",
 
-    "Incluso en sus mejores momentos, los guardias no tocan el Nivel Cuatro.",
-    "El Nivel Cuatro es una red masiva de túneles subterráneos. Mientras el Nivel Tres es",
-    "donde la mayoría de los reclusos duermen, el Nivel Cuatro es al que llaman hogar.",
+"Incluso en sus mejores momentos, los guardias no tocan el Nivel Cuatro.",
+"El Nivel Cuatro es una red masiva de túneles subterráneos. Mientras el Nivel Tres es",
+"donde la mayoría de los reclusos duermen, el Nivel Cuatro es al que llaman hogar.",
 
-    "El Nivel Cuatro lo consideran como su comunidad,",
-    "así que históricamente, el gobierno del Nivel Cuatro ",
-    "se ha dejado en manos de los propios reclusos.",
+"El Nivel Cuatro lo consideran como su comunidad,",
+"así que históricamente, el gobierno del Nivel Cuatro ",
+"se ha dejado en manos de los propios reclusos.",
 
-    "Además, lo peor es que los reclusos monstruosos,",
-    "aquellos que son demasiado grandes y rebeldes para ser puestos en celdas normales",
-    "del Nivel 3, están ahora mismo fuera de control y amotinándose en el Nivel 4.",
+"Además, lo peor es que los reclusos monstruosos,",
+"aquellos que son demasiado grandes y rebeldes para ser puestos en celdas normales",
+"del Nivel 3, están ahora mismo fuera de control y amotinándose en el Nivel 4.",
 
-    "Intentaremos mantener el Nivel Uno, Dos y Tres bajo control",
-    "pero me temo que este es el límite de la ayuda que podemos brindar",
-    "¡Así que tenga cuidado en el Nivel Cuatro!"
-  ]},
+"Intentaremos mantener el Nivel Uno, Dos y Tres bajo control",
+"pero me temo que este es el límite de la ayuda que podemos brindar",
+"¡Así que tenga cuidado en el Nivel Cuatro!"
+]},
 
 "map24_ev10_p6_1":{
-  "text": [
-    "¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Cuatro!",
-    "Puede acceder al Nivel Cinco desde el Nivel Cuatro.",
-    "",
+"text": [
+"¡Hola, Directora Karryn! ¡Buen trabajo subyugando el Nivel Cuatro!",
+"Puede acceder al Nivel Cinco desde el Nivel Cuatro.",
+"",
 
-    "Intentaremos mantener el perímetro del nivel cuatro ",
-    "cuando estés lista para bajar al Nivel Cinco.",
-    "",
+"Intentaremos mantener el perímetro del nivel cuatro ",
+"cuando estés lista para bajar al Nivel Cinco.",
+"",
 
-    "Aunque no tenemos ninguna información de lo que hay ahí abajo",
-    "Lo más probable es que sea una pelea durísima",
-    "¡Así que prepárese antes de emprender el viaje!",
-    "Has llegado hasta aquí y has transformado la prisión por ti misma,",
-    "por ello, los guardias,",
-    "¡No tenemos dudas de que conseguirá la victoria!"
-  ]},
+"Aunque no tenemos ninguna información de lo que hay ahí abajo",
+"Lo más probable es que sea una pelea durísima",
+"¡Así que prepárese antes de emprender el viaje!",
+"Has llegado hasta aquí y has transformado la prisión por ti misma,",
+"por ello, los guardias,",
+"¡No tenemos dudas de que conseguirá la victoria!"
+]},
 
 "map24_ev10_p7_1":{
-  "text": [
-    "¡Hola, Directora Karryn!",
-    "¡Siempre es un hermoso día cuando usted está aquí!",
-    "",
+"text": [
+"¡Hola, Directora Karryn!",
+"¡Siempre es un hermoso día cuando usted está aquí!",
+"",
 
-    "Dime ¿Has vuelto a ir al Nivel Cinco?",
-    "Estamos un poco cortos de personal, así que cuando no esté ocupada",
-    "¿Puede ir a ver qué está pasando en el Nivel Cinco?"
-  ]},
+"Dime ¿Has vuelto a ir al Nivel Cinco?",
+"Estamos un poco cortos de personal, así que cuando no esté ocupada",
+"¿Puede ir a ver qué está pasando en el Nivel Cinco?"
+]},
 
 
 "map24_ev16_tachiename_1":{
-  "text": ["Matón Irritado"]},
+"text": ["Matón Irritado"]},
 
 "map24_ev16_p1_1":{
-  "text": [
-    "¡Maldita sea! ¡¿Qué pasa con todos esos Slime ahora?!",
-    "Normalmente son dóciles",
-    "pero desde que todos se amotinaron, se han vuelto muy territoriales.",
+"text": [
+"¡Maldita sea! ¡¿Qué pasa con todos esos Slime ahora?!",
+"Normalmente son dóciles",
+"pero desde que todos se amotinaron, se han vuelto muy territoriales.",
 
-    "No subestimes a esos Slimes.",
-    "Son rápidos a pesar de su apariencia, y pueden curarse",
-    "la mayoría del daño que les hagas.",
+"No subestimes a esos Slimes.",
+"Son rápidos a pesar de su apariencia, y pueden curarse",
+"la mayoría del daño que les hagas.",
 
-    "¡¡Si quieres evitar que se regeneren, necesitas \\I[307]\\C[18]Atizar\\C[0]les!!",
-    "Si no tienes \\\\C[18]Atizar\\\\C[0], puedes usar \\\\I[312]\\\\C[3]Filo\\\\C[0] o \\\\I[317]\\\\C[4]Estocada\\\\C[0] ",
-    "para al menos reducir su regeneración un montonazo.",
+"¡¡Si quieres evitar que se regeneren, necesitas \\I[307]\\C[18]Atizar\\C[0]les!!",
+"Si no tienes \\\\C[18]Atizar\\\\C[0], puedes usar \\\\I[312]\\\\C[3]Filo\\\\C[0] o \\\\I[317]\\\\C[4]Estocada\\\\C[0] ",
+"para al menos reducir su regeneración un montonazo.",
 
-    "Si aún no has aprendido esos ataques, entonces ponte ya mismo",
-    "si quieres vencer a esos Slimes en combate."
-  ]},
+"Si aún no has aprendido esos ataques, entonces ponte ya mismo",
+"si quieres vencer a esos Slimes en combate."
+]},
 
 
 "map24_ev17_tachiename_1":{
 "text":["Prisionero Tranquilo"]},
 
 "map24_ev17_p1_1":{
-  "text": [
-    "Solo hay un tipo de recluso que es más débil que nosotros, los Prisioneros Normales,",
-    "y esos son los Frikis. Son lentos, débiles y una molestia en general.",
-    "También son inteligentes, pero ser inteligente aquí no vale para nada."
-  ]},
+"text": [
+"Solo hay un tipo de recluso que es más débil que nosotros, los Prisioneros Normales,",
+"y esos son los Frikis. Son lentos, débiles y una molestia en general.",
+"También son inteligentes, pero ser inteligente aquí no vale para nada."
+]},
 
 "map24_ev17_p1_2":{
-  "text": [
-    "Sin embargo, ten cuidado con su extensa colección de juguetes.",
-    "El único momento en el que de verdad se envalentonan es ",
-    "cuando están enfadados o cuando pueden usar sus juguetes contigo.",
+"text": [
+"Sin embargo, ten cuidado con su extensa colección de juguetes.",
+"El único momento en el que de verdad se envalentonan es ",
+"cuando están enfadados o cuando pueden usar sus juguetes contigo.",
 
-    "Cada juguete te aplicará una desventaja distinta:",
-    "El \\I[285]\\C[1]Rotor Rosa\\C[0] te hará ganar ",
-    "Placer cada turno y reducirá tu Precisión.",
+"Cada juguete te aplicará una desventaja distinta:",
+"El \\I[285]\\C[1]Rotor Rosa\\C[0] te hará ganar ",
+"Placer cada turno y reducirá tu Precisión.",
 
-    "El \\I[286]\\C[1]Dildo\\C[0] reducirá tu Agilidad.",
-    "Las \\I[287]\\C[1]Bolas Chinas\\C[0] reducirán tu Fuerza. Así que probablemente deberías",
-    "deshacerte de cualquier juguete que te inserten lo antes posible."
-  ]},
+"El \\I[286]\\C[1]Dildo\\C[0] reducirá tu Agilidad.",
+"Las \\I[287]\\C[1]Bolas Chinas\\C[0] reducirán tu Fuerza. Así que probablemente deberías",
+"deshacerte de cualquier juguete que te inserten lo antes posible."
+]},
 
 
 "map24_ev18_p1_tonkin_1":{
-  "text": [
-    "Oink... ",
-    "Si sigo quedándome dormido justo después de una comida,",
-    "Me voy a convertir en un cerdo de verdad......",
+"text": [
+"Oink... ",
+"Si sigo quedándome dormido justo después de una comida,",
+"Me voy a convertir en un cerdo de verdad......",
 
-    "Debería ir al gimnasio, pero......",
-    "Se está tan bien al sol...... y tan calentito......",
-    "Oinnkk~... Esto es el cielo~......"
-  ]},
+"Debería ir al gimnasio, pero......",
+"Se está tan bien al sol...... y tan calentito......",
+"Oinnkk~... Esto es el cielo~......"
+]},
 
 "map24_ev18_p2_tonkin_1":{
-  "text": [
-    "Oink... Oink...",
-    "No hay nada mejor que tomar el sol en el jardín...."
-  ]},
+"text": [
+"Oink... Oink...",
+"No hay nada mejor que tomar el sol en el jardín...."
+]},
 
 
 "map24_ev21_tachiename_1":{
-  "text": ["Pícaro Grosero"]},
+"text": ["Pícaro Grosero"]},
 
 "map24_ev21_p1_1":{
-  "text": [
-    "Los vagabundos son escoria enviada al Fuerte Ganon ",
-    "por el delito de no tener un hogar para vivir.",
-    "Así que han decidido hacer del Fuerte Ganon su hogar.",
+"text": [
+"Los vagabundos son escoria enviada al Fuerte Ganon ",
+"por el delito de no tener un hogar para vivir.",
+"Así que han decidido hacer del Fuerte Ganon su hogar.",
 
-    "Estos especímenes sin ambición no son una amenaza.",
-    "Arróllalos como has hecho con tantos otros antes",
-    "si deseas tener éxito en tu búsqueda de la hegemonía.",
+"Estos especímenes sin ambición no son una amenaza.",
+"Arróllalos como has hecho con tantos otros antes",
+"si deseas tener éxito en tu búsqueda de la hegemonía.",
 
-    "Como están acostumbrados a ser empujados y golpeados,",
-    "han desarrollado una resistencia natural a los ataques \\C[2]\\I[305]Contundentes\\C[0]."
-  ]},
+"Como están acostumbrados a ser empujados y golpeados,",
+"han desarrollado una resistencia natural a los ataques \\C[2]\\I[305]Contundentes\\C[0]."
+]},
 
 
 "map24_ev22_tachiename_1":{
@@ -9324,23 +9324,23 @@
 "text":["Hombre Lagarto Corpulento"]},
 
 "map24_ev23_p1_1":{
-  "text": [
-    "Camarada, ten cuidado con los Hombres Lobo.",
-    "A pesar de su apariencia, son muy inteligentes",
-    "Y, por supuesto, son rápidos y audaces.",
+"text": [
+"Camarada, ten cuidado con los Hombres Lobo.",
+"A pesar de su apariencia, son muy inteligentes",
+"Y, por supuesto, son rápidos y audaces.",
 
-    "Son despiadados con sus ataques y",
-    "cuando ven una oportunidad, ",
-    "Se abalanzarán sobre ti.",
+"Son despiadados con sus ataques y",
+"cuando ven una oportunidad, ",
+"Se abalanzarán sobre ti.",
 
-    "Aunque no siempre... ",
-    "Son inteligentes, por lo que evitan las cosas puntiagudas.",
-    "",
+"Aunque no siempre... ",
+"Son inteligentes, por lo que evitan las cosas puntiagudas.",
+"",
 
-    "En otras palabras, ",
-    "si has utilizado un ataque \\C[4]\\I[306]Perforante\\C[0],",
-    "entonces no atacarán. ¡Esto es muy importante!"
-  ]},
+"En otras palabras, ",
+"si has utilizado un ataque \\C[4]\\I[306]Perforante\\C[0],",
+"entonces no atacarán. ¡Esto es muy importante!"
+]},
 
 
 "map24_ev24_tachiename_1":{
@@ -9605,54 +9605,54 @@
 "son montones de tierra"
 ]},
 "map15_ev13_obstacle_name":{
-  "text": [
-    "son montones de ladrillos"
-  ]},
+"text": [
+"son montones de ladrillos"
+]},
 "map15_ev14_obstacle_name":{
-  "text": [
-    "es un montón de bolsas"
-  ]},
+"text": [
+"es un montón de bolsas"
+]},
 "map15_ev15_obstacle_name":{
-  "text": [
-    "es un montón de bolsas"
-  ]},
+"text": [
+"es un montón de bolsas"
+]},
 "map15_ev16_obstacle_name":{
-  "text": [
-    "son montones de basura"
-  ]},
+"text": [
+"son montones de basura"
+]},
 "map15_ev18_obstacle_name":{
-  "text": [
-    "es una barra"
-  ]},
+"text": [
+"es una barra"
+]},
 "map15_ev19_obstacle_name":{
-  "text": [
-    "son escombros"
-  ]},
+"text": [
+"son escombros"
+]},
 
 "map35_ev5_p1_1":{
-  "text": [
-    "\\#¿Quieres iniciar la partida en Modo Secretaria?",
-    "",
-    "\\#Nota: La dificultad no se puede cambiar más adelante."
-  ]},
+"text": [
+"\\#¿Quieres iniciar la partida en Modo Secretaria?",
+"",
+"\\#Nota: La dificultad no se puede cambiar más adelante."
+]},
 "map35_ev5_p1_choice_no":{
 "text":["No"]},
 "map35_ev5_p1_choice_yes":{
 "text":["Si"]},
 
 "map35_ev7_p2_1":{
-  "text": [
-    "\\#",
-    "\\#",
-    "\\#Selecciona una ranura de guardado para tu partida."
-  ]},
+"text": [
+"\\#",
+"\\#",
+"\\#Selecciona una ranura de guardado para tu partida."
+]},
 
 "map35_ev7_p2_2":{
-  "text": [
-    "\\#",
-    "\\#",
-    "\\#¿Quieres saltarte el prólogo?"
-  ]},
+"text": [
+"\\#",
+"\\#",
+"\\#¿Quieres saltarte el prólogo?"
+]},
 
 "map35_ev7_p2_choice_1":{
 "text":["No"]},
@@ -9661,11 +9661,11 @@
 "text":["Si, omitir"]},
 
 "map35_ev8_p1_1":{
-  "text": [
-    "\\#　　　　　¿Quieres iniciar la partida en \\C[2]Modo Guardiana\\C[0]?",
-    "",
-    "\\#Nota: La dificultad solo se puede bajar al Modo Secretaria más tarde."
-  ]},
+"text": [
+"\\#　　　　　¿Quieres iniciar la partida en \\C[2]Modo Guardiana\\C[0]?",
+"",
+"\\#Nota: La dificultad solo se puede bajar al Modo Secretaria más tarde."
+]},
 "map35_ev8_p1_choice_no":{
 "text":["No"]},
 "map35_ev8_p1_choice_yes":{
@@ -9696,42 +9696,42 @@
 ]},
 
 "map35_ev31_p2_1":{
-  "text": [
-    "\\#Bienvenido de nuevo.",
-    "\\#Tienes otra oportunidad de empezar de nuevo.",
-    "",
+"text": [
+"\\#Bienvenido de nuevo.",
+"\\#Tienes otra oportunidad de empezar de nuevo.",
+"",
 
-    "\\#Cuando rehagas tu viaje, comenzarás desde el principio",
-    "\\#                                  y todos los \\C[3]Decretos\\C[0] y \\C[5]Regalos\\C[0] se reiniciarán.",
-    "",
+"\\#Cuando rehagas tu viaje, comenzarás desde el principio",
+"\\#                                  y todos los \\C[3]Decretos\\C[0] y \\C[5]Regalos\\C[0] se reiniciarán.",
+"",
 
-    "\\#Si quieres reiniciar todos sus niveles y estadísticas,",
-    "\\#habla con la persona a mi izquierda.",
-    "",
+"\\#Si quieres reiniciar todos sus niveles y estadísticas,",
+"\\#habla con la persona a mi izquierda.",
+"",
 
-    "\\#Solo puedes cambiar a una dificultad más alta",
-    "\\#si reinicias tus niveles y estadísticas.",
-    "",
+"\\#Solo puedes cambiar a una dificultad más alta",
+"\\#si reinicias tus niveles y estadísticas.",
+"",
 
-    "\\#Por cierto ¿Quieres transferir tu archivo ",
-    "\\#de guardado a una ranura de guardado distinta?",
-    "\\#Es muy recomendable hacer una copia de seguridad de tu partida."
-  ]},
+"\\#Por cierto ¿Quieres transferir tu archivo ",
+"\\#de guardado a una ranura de guardado distinta?",
+"\\#Es muy recomendable hacer una copia de seguridad de tu partida."
+]},
 
 "map35_ev31_p2_choice_1":{
-  "text": ["Cambiar ranura de guardado."]},
+"text": ["Cambiar ranura de guardado."]},
 
 "map35_ev31_p2_choice_2":{
-  "text": ["No hace falta."]},
+"text": ["No hace falta."]},
 
 
 
 "map35_ev33_p1_1":{
-  "text": [
-    "\\#Este juego utiliza un sistema de guardado automático.",
-    "\\#No cierres el juego hasta que desaparezca el mensaje de",
-    "\\#autoguardado en la parte inferior derecha de la pantalla."
-  ]},
+"text": [
+"\\#Este juego utiliza un sistema de guardado automático.",
+"\\#No cierres el juego hasta que desaparezca el mensaje de",
+"\\#autoguardado en la parte inferior derecha de la pantalla."
+]},
 
 "map35_ev33_p2_challengerun_desc":{
 "text":[
@@ -9784,38 +9784,38 @@
 ]},
 
 "map35_ev33_choice_challenge":{
-  "text": [
-    "\\C[4]Desafíos"
-  ]},
+"text": [
+"\\C[4]Desafíos"
+]},
 "map35_ev33_choice_secretary":{
-  "text": [
-    "Desafío Solo Secretaria"
-  ]},
+"text": [
+"Desafío Solo Secretaria"
+]},
 "map35_ev33_choice_excellentleader":{
-  "text": [
-    "Desafío Líder"
-  ]},
+"text": [
+"Desafío Líder"
+]},
 "map35_ev33_choice_disappointment":{
-  "text": [
-    "Desafío Redención"
-  ]},
+"text": [
+"Desafío Redención"
+]},
 "map35_ev33_choice_prisonfighter":{
-  "text": [
-    "Desafío Sin Alabarda"
-  ]},
+"text": [
+"Desafío Sin Alabarda"
+]},
 "map35_ev33_choice_aspiringhero":{
-  "text": [
-    "Desafío Heróico"
-  ]},
+"text": [
+"Desafío Heróico"
+]},
 "map35_ev33_choice_finaldestination":{
-  "text": [
-    "Desafío Combate Enjaulado"
-  ]},
+"text": [
+"Desafío Combate Enjaulado"
+]},
 
 "map35_ev33_choice_cancelchallenge":{
-  "text": [
-    "Cancelar Desafío"
-  ]},
+"text": [
+"Cancelar Desafío"
+]},
 "map35_ev33_p2_cancelchallenge_desc":{
 "text":[
 "\\#Cancela el desafío actual.",
@@ -9944,39 +9944,39 @@
 ]},
 
 "map35_ev95_p1_choice2_yes_3":{
-  "text": [
-    "Es posible que ya hayas experimentado esto personalmente,",
-    "pero ser un aprendiz de mucho y maestro de nada",
-    "te va a desgastar contra tus enemigos, miau.",
+"text": [
+"Es posible que ya hayas experimentado esto personalmente,",
+"pero ser un aprendiz de mucho y maestro de nada",
+"te va a desgastar contra tus enemigos, miau.",
 
-    "Lo que quieres hacer es decidir al principio qué estadística ",
-    "(FUE, DES, AGI, MEN, VIG) quieres tener alta, para así tener un",
-    "arma principal en la que puedas confiar en todo momento, miau.",
+"Lo que quieres hacer es decidir al principio qué estadística ",
+"(FUE, DES, AGI, MEN, VIG) quieres tener alta, para así tener un",
+"arma principal en la que puedas confiar en todo momento, miau.",
 
-    "Y una vez hayas decidido en qué estadística enfocarte,",
-    "debes intentar hacer solo acciones que te den",
-    "experiencia con esa estadística, miau.",
+"Y una vez hayas decidido en qué estadística enfocarte,",
+"debes intentar hacer solo acciones que te den",
+"experiencia con esa estadística, miau.",
 
-    "Por supuesto, no puedes sobrevivir con solo subir de nivel una estadística. miau.",
-    "Así que, deberás pensar en una estadística secundaria, tal vez incluso en una",
-    "terciaria, que te gustaría subir de nivel un poco, pero no tanto como la principal, miau.",
+"Por supuesto, no puedes sobrevivir con solo subir de nivel una estadística. miau.",
+"Así que, deberás pensar en una estadística secundaria, tal vez incluso en una",
+"terciaria, que te gustaría subir de nivel un poco, pero no tanto como la principal, miau.",
 
-    "Para resumir, dos de las mayores trampas de este juego intentan",
-    "hacerte creer que el Orden es lo más importante del mundo,",
-    "y que puedes sobrevivir haciendo un poco de todo, miau.",
+"Para resumir, dos de las mayores trampas de este juego intentan",
+"hacerte creer que el Orden es lo más importante del mundo,",
+"y que puedes sobrevivir haciendo un poco de todo, miau.",
 
-    "El resultado final de ese camino es la pérdida, la derrota y un callejón sin salida.",
-    "Es cruel, pero no estés demasiado enfadado con el mundo, miau.",
-    "",
+"El resultado final de ese camino es la pérdida, la derrota y un callejón sin salida.",
+"Es cruel, pero no estés demasiado enfadado con el mundo, miau.",
+"",
 
-    "Solo está haciendo todo lo posible para pervertir todos los agujeros de ",
-    "Karryn con docenas de hombres vulgares todo el día, todos los días ¡Miau!",
-    "",
+"Solo está haciendo todo lo posible para pervertir todos los agujeros de ",
+"Karryn con docenas de hombres vulgares todo el día, todos los días ¡Miau!",
+"",
 
-    "Pero espero que ahora armado con este conocimiento del metajuego,",
-    "podrás hacerlo mejor la próxima vez ¡Miau!",
-    ""
-  ]},
+"Pero espero que ahora armado con este conocimiento del metajuego,",
+"podrás hacerlo mejor la próxima vez ¡Miau!",
+""
+]},
 
 "map35_ev95_p1_choice2_no_1":{
 "text":[
@@ -10014,90 +10014,90 @@
 "\\#Conservarás todos tus Títulos pase lo que pase."
 ]},
 "map35_ev37_p3_choice_1":{
-  "text": ["Mantener el reinicio."
-  ]},
+"text": ["Mantener el reinicio."
+]},
 "map35_ev37_p3_choice_2":{
-  "text": ["Cancelar el reinicio."
-  ]},
+"text": ["Cancelar el reinicio."
+]},
 "map35_ev37_p3_2":{
-  "text": [
-    "\\#Estás ahora mismo en un Desafío.",
-    "\\#Primero debes cancelarlo antes de poder cancelar el reinicio."
-  ]},
+"text": [
+"\\#Estás ahora mismo en un Desafío.",
+"\\#Primero debes cancelarlo antes de poder cancelar el reinicio."
+]},
 
 "map36_ev2_can_not_enter_next_room_name":{
-  "text": [
-    "el gimnasio"
-  ]},
+"text": [
+"el gimnasio"
+]},
 "map36_ev3_can_not_enter_next_room_name":{
-  "text": [
-    "el area común C"
-  ]},
+"text": [
+"el area común C"
+]},
 
 "map36_ev7_tachiename_1":{
-  "text": [ "\\C[29]Voz de un Cerdo"]},
+"text": [ "\\C[29]Voz de un Cerdo"]},
 "map36_ev7_p2_tonkin_1":{
-  "text": [
-    "¡¡Señorita Karryn!! ¡¡Señorita Karrrryyyyn!!"
-  ]},
+"text": [
+"¡¡Señorita Karryn!! ¡¡Señorita Karrrryyyyn!!"
+]},
 "map36_ev7_p2_tonkin_2":{
-  "text": [
-    "¡Oink~!",
-    "¡E-espéreme, Señorita Karryn!"
-  ]},
+"text": [
+"¡Oink~!",
+"¡E-espéreme, Señorita Karryn!"
+]},
 "map36_ev7_p2_karryn_1":{
-  "text": [
-    "¿Tú otra vez, Tonkin?",
-    "¿Qué pasa?",
-    "¿Has decidido volver a tu celda?"
-  ]},
+"text": [
+"¿Tú otra vez, Tonkin?",
+"¿Qué pasa?",
+"¿Has decidido volver a tu celda?"
+]},
 "map36_ev7_p2_tonkin_3":{
-  "text": [
-    "¡No, no es eso!",
-    "Sra. Karryn, esta es su primera vez en el Nivel 3, ¿Verdad?",
-    "¡Estoy aquí para decirle algo muy importante!",
-    "¡El nivel 3 es el territorio de los hombres lagarto!",
-    "Los hombres lagarto no son como cualquier otro recluso......",
-    "Así que no baje la guardia, ¿Vale?"
-  ]},
+"text": [
+"¡No, no es eso!",
+"Sra. Karryn, esta es su primera vez en el Nivel 3, ¿Verdad?",
+"¡Estoy aquí para decirle algo muy importante!",
+"¡El nivel 3 es el territorio de los hombres lagarto!",
+"Los hombres lagarto no son como cualquier otro recluso......",
+"Así que no baje la guardia, ¿Vale?"
+]},
 "map36_ev7_p2_karryn_2":{
-  "text": [
-    "¿Qué es lo que los hace tan diferentes?"
-  ]},
+"text": [
+"¿Qué es lo que los hace tan diferentes?"
+]},
 "map36_ev7_p2_tonkin_4":{
-  "text": [
-    "¡Los hombres lagarto se vuelven más fuertes cuando están juntos!",
-    "Un hombre lagarto cuando está solo no es nada...",
-    "¡Pero cuando están en grupo, cada uno de ellos se vuelve más fuerte!"
-  ]},
+"text": [
+"¡Los hombres lagarto se vuelven más fuertes cuando están juntos!",
+"Un hombre lagarto cuando está solo no es nada...",
+"¡Pero cuando están en grupo, cada uno de ellos se vuelve más fuerte!"
+]},
 "map36_ev7_p2_karryn_3":{
-  "text": [
-    "Nunca había escuchado algo así",
-    "Así que los hombres lagarto tienen algún tipo de sinergia racial entre ellos...",
-    "¿Es biológico o son solo los que viven en esta prisión?"
-  ]},
+"text": [
+"Nunca había escuchado algo así",
+"Así que los hombres lagarto tienen algún tipo de sinergia racial entre ellos...",
+"¿Es biológico o son solo los que viven en esta prisión?"
+]},
 "map36_ev7_p2_tonkin_5":{
-  "text": [
-    "Ni puta idea......",
-    "¡Pero bueno, lo único que sé es que son peligrosos!"
-  ]},
+"text": [
+"Ni puta idea......",
+"¡Pero bueno, lo único que sé es que son peligrosos!"
+]},
 "map36_ev7_p2_tonkin_6":{
-  "text": [
-    "¡Y lo más aterrador es el jefe de este piso!",
-    "Es el líder de todos los hombres lagarto",
-    "y vive en el Nivel 5, ¡Así que debe ser muy fuerte!"
-  ]},
+"text": [
+"¡Y lo más aterrador es el jefe de este piso!",
+"Es el líder de todos los hombres lagarto",
+"y vive en el Nivel 5, ¡Así que debe ser muy fuerte!"
+]},
 "map36_ev7_p2_karryn_4":{
-  "text": [
-    "El líder de todos los hombres lagarto......",
-    "Hmm, entonces es como el alfa de los hombres lagarto..."
-  ]},
+"text": [
+"El líder de todos los hombres lagarto......",
+"Hmm, entonces es como el alfa de los hombres lagarto..."
+]},
 "map36_ev7_p2_tonkin_7":{
-  "text": [
-    "¿Alfa......? Oink...",
-    "No conozco los detalles, ¡Pero la gente dice que el jefe",
-    "nació siendo de la élite entre los hombres lagarto!"
-  ]},
+"text": [
+"¿Alfa......? Oink...",
+"No conozco los detalles, ¡Pero la gente dice que el jefe",
+"nació siendo de la élite entre los hombres lagarto!"
+]},
 "map36_ev7_p2_karryn_5":{
 "text":[
 "En biología lo llaman alfa.",
