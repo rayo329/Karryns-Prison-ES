@@ -311,7 +311,7 @@
 "text":["\\C[27]Un Deseo Sexual Aleatorio aumenta cada turno en base a las veces que se use un juguete sexual ese mismo día."]
 },
 "peffect_randomdesireup_everyturn_lizardman":{
-"text":["\\C[27]Un Deseo Sexual Aleatorio aumenta cada turno mientras que haya varios hombres lagarto presentes."]
+"text":["\\C[27]Un Deseo Sexual Aleatorio aumenta cada turno mientras que haya varios Hombres Lagarto presentes."]
 },
 "peffect_randomdesireup_everyturn_hobo":{
 "text":["\\C[1]Un Deseo Sexual Aleatorio aumenta cada turno mientras que haya un vagabundo presente."]
@@ -987,7 +987,7 @@
 },
 
 "peffect_asexlvlup":{
-  "text":["\\C[1]¡Sexo Anal Subio de Nivel!"]
+  "text":["\\C[1]¡Sexo Anal Subió de Nivel!"]
 },
 "peffect_asexunlocked":{
   "text":["\\C[27]Nueva Habilidad Sexual Desbloqueada: Sexo Anal."]
@@ -1427,7 +1427,7 @@
   "text":["\\C[27]Todas las Resistencias disminuyen cuando Karryn es derrotada."]
 },
 "peffect_allresistdown_lizardman":{
-  "text":["\\C[27]Todas las Resistencias disminuyen mientras haya varios hombres lagarto presentes."]
+  "text":["\\C[27]Todas las Resistencias disminuyen mientras haya varios Hombres Lagarto presentes."]
 },
 "peffect_allresistdown_rj_people_day":{
   "text":["\\C[27]Todas las Resistencias disminuyen por cada anilingus dado en ese mismo día."]
@@ -2039,7 +2039,7 @@
 "text":["\\C[27]\\C[27]La Destreza aumenta por cada vello púbico en el cuerpo."]
 },
 "effect_stray_chance_up":{
-"text":["\\C[11]\\I[596]La Probabilidad de fijación de vello púbico"]
+"text":["\\C[11]\\I[596]Probabilidad de que se adhiera un vello púbico "]
 },
 "effect_stray_end_up":{
 "text":["\\C[11]\\I[596]El Aguante aumenta por cada vello púbico en el cuerpo"]
@@ -2064,10 +2064,10 @@
   "text":["\\C[0] (Durante el Show de Stripper)"]
 },
 "effect_during_bliss":{
-  "text":["\\C[0] (Durante la Dicha)"]
+  "text":["\\C[0] (Durante el estado Dicha)"]
 },
 "effect_during_counterstance":{
-  "text":["\\C[0] (Durante \\I[325]Contraposición)"]
+  "text":["\\C[0] (Durante \\I[325]la pose de Contraataque)"]
 },
 
 "effect_while_bankrupted":{
@@ -2075,10 +2075,10 @@
 },
 
 "effect_equip_wholeday":{
-  "text":["\\C[0] (Equipado por todo un día)"]
+  "text":["\\C[0] (Equipar todo el día)"]
 },
 "effect_subduing_rioters":{
-  "text":["\\C[0] (Dominando a los alborotadores)"]
+  "text":["\\C[0] (Subyugando a los amotinados)"]
 },
 
 
@@ -2086,19 +2086,19 @@
 
 
 "effect_initialmouthdesire_exact_plus":{
-  "text":["\\C[10]\\I[57]El Valor Inicial del Deseo: Boca "]
+  "text":["\\C[10]\\I[57]Valor Inicial del Deseo: Boca "]
 },
 "effect_initialboobsdesire_exact_plus":{
-  "text":["\\C[10]\\I[58]El Valor Inicial del Deseo: Tetas "]
+  "text":["\\C[10]\\I[58]Valor Inicial del Deseo: Tetas "]
 },
 "effect_initialpussydesire_exact_plus":{
-  "text":["\\C[10]\\I[59]El Valor Inicial del Deseo: Coño "]
+  "text":["\\C[10]\\I[59]Valor Inicial del Deseo: Coño "]
 },
 "effect_initialbuttdesire_exact_plus":{
-  "text":["\\C[10]\\I[60]El Valor Inicial del Deseo: Culo "]
+  "text":["\\C[10]\\I[60]Valor Inicial del Deseo: Culo "]
 },
 "effect_initialcockdesire_exact_plus":{
-  "text":["\\C[10]\\I[61]El Valor Inicial del Deseo: Polla "]
+  "text":["\\C[10]\\I[61]Valor Inicial del Deseo: Polla "]
 },
 
 "effect_mouthdesiregain_exact_plus":{
@@ -2139,46 +2139,46 @@
 },
 
 "effect_kiss_mouthdesirereq_raise":{
-  "text":["\\C[11]\\I[288]Deseo: Boca requerido para el Beso "]
+  "text":["\\C[11]\\I[288]Deseo: Boca requerido para un Beso "]
 },
 "effect_kiss_mouthdesirereq_lower":{
-  "text":["\\C[1]\\I[288]Deseo: Boca requerido para el Beso "]
+  "text":["\\C[1]\\I[288]Deseo: Boca requerido para un Beso "]
 },
 "effect_hj_cockdesirereq_raise":{
-  "text":["\\C[11]\\I[289]Deseo: Polla requerido para la Paja "]
+  "text":["\\C[11]\\I[289]Deseo: Polla requerido para una Paja "]
 },
 "effect_hj_cockdesirereq_lower":{
-  "text":["\\C[1]\\I[289]Deseo: Polla requerido para la Paja "]
+  "text":["\\C[1]\\I[289]Deseo: Polla requerido para una Paja "]
 },
 "effect_bj_mouthcockdesirereq_lower":{
-  "text":["\\C[1]\\I[294]Deseo: Boca y Polla requeridos para la Mamada "]
+  "text":["\\C[1]\\I[294]Deseo: Boca y Polla requeridos para una Mamada "]
 },
 "effect_tj_cockdesirereq_raise":{
-  "text":["\\C[11]\\I[293]Deseo: Polla requerido para la Paja con las Tetas "]
+  "text":["\\C[11]\\I[293]Deseo: Polla requerido para una Paja con las Tetas "]
 },
 "effect_tj_boobscockdesirereq_lower":{
-  "text":["\\C[1]\\I[293]Deseo: Tetas y Polla requeridos para la Paja con las Tetas "]
+  "text":["\\C[1]\\I[293]Deseo: Tetas y Polla requeridos para una Paja con las Tetas "]
 },
 "effect_pussysex_pussycockdesirereq_lower":{
-  "text":["\\C[1]\\I[295]Deseo: Coño y Polla requeridos para el Sexo Vaginal "]
+  "text":["\\C[1]\\I[295]Deseo: Coño y Polla requeridos para tener Sexo Vaginal "]
 },
 "effect_pussysexcreampie_cockdesirereq_raise":{
-  "text":["\\C[11]\\I[295]Deseo: Polla requerido para el Sexo Vaginal y la Corrida Interna "]
+  "text":["\\C[11]\\I[295]Deseo: Polla requerido para tener Sexo Vaginal y que se corran dentro "]
 },
 "effect_buttspank_buttdesirereq_raise":{
-  "text":["\\C[11]\\I[297]Deseo: Culo requerido para las Nalgadas "]
+  "text":["\\C[11]\\I[297]Deseo: Culo requerido para Recibir Nalgadas "]
 },
 "effect_analsexcreampie_cockdesirereq_raise":{
-  "text":["\\C[11]\\I[296]Deseo: Polla requerido para el Sexo Anal y la Corrida Anal "]
+  "text":["\\C[11]\\I[296]Deseo: Polla requerido para tener Sexo Anal y que se corran dentro "]
 },
 "effect_analsex_buttcockdesirereq_raise":{
-  "text":["\\C[1]\\I[296]Deseo: Culo y Pollla requerido para el Sexo Anal "]
+  "text":["\\C[1]\\I[296]Deseo: Culo y Polla requeridos para tener Sexo Anal "]
 },
 "effect_rj_mouthdesirereq_raise":{
-  "text":["\\C[11]\\I[299]Deseo: Oral requerido para el Anilingus "]
+  "text":["\\C[11]\\I[299]Deseo: Boca requerido para un Anilingus "]
 },
 "effect_fj_cockdesirereq_raise":{
-  "text":["\\C[11]\\I[219]Deseo: Polla requerido para la Paja con los pies "]
+  "text":["\\C[11]\\I[219]Deseo: Polla requerido para una Paja con los pies "]
 },
 
 "effect_confident_start_plus":{
@@ -2229,13 +2229,13 @@
   "text":["\\C[10]\\I[409]Orden "]
 },
 "effect_order_gain_plus":{
-  "text":["\\C[11]\\I[408]Ganas Orden "]
+  "text":["\\C[11]\\I[408]Orden diario "]
 },
 "effect_order_gain_minus":{
-  "text":["\\C[10]\\I[409]Ganas Orden "]
+  "text":["\\C[10]\\I[409]Orden diario "]
 },
 "effect_order_gain_no_battle":{
-  "text":["\\C[10]\\I[409]No Ganas Orden de la batallas"]
+  "text":["\\C[10]\\I[409]No Ganas Orden por las batallas"]
 },
 "effect_control_exact_plus":{
 "text":["\\C[11]\\I[376]Control "]
@@ -2244,7 +2244,7 @@
 "text":["\\C[10]\\I[377]Control "]
 },
 "effect_control_half":{
-  "text":["\\C[11]\\I[376]Mitad de Control"]
+  "text":["\\C[11]\\I[376]El control se reduce a la mitad"]
 },
 "effect_corruption_exact":{
   "text":["\\C[31]\\I[10]Corrupción "]
@@ -2287,10 +2287,10 @@
   "text":["\\C[10]\\I[401]Gasto por Nivel Subyugado "]
 },
 "effect_riotminimumdays_plus2":{
-  "text":["\\C[11]\\I[406]Días mínimos antes de que ocurran motines en ese mismo Nivel +2"]
+  "text":["\\C[11]\\I[406]Días mínimos antes de que ocurran motines en el mismo Nivel +2"]
 },
 "effect_riotchance_edictsdouble":{
-  "text":["\\C[11]\\I[406]\\I[407]Probabilidad de Motín es duplicado por los Decretos promulgados"]
+  "text":["\\C[11]\\I[406]\\I[407]Se duplican los efectos de probabilidad de Motín de los decretos promulgados"]
 },
 
 
@@ -2301,16 +2301,16 @@
   "text":["\\C[11]\\I[420]Probabilidad de Invasión"]
 },
 "effect_office_invasionchance_plus":{
-  "text":["\\C[10]\\I[421]Probabilidad de Invasión a la Oficina"]
+  "text":["\\C[10]\\I[421]Probabilidad de Invasión en la Oficina"]
 },
 "effect_office_invasionchance_minus":{
-  "text":["\\C[11]\\I[420]Probabilidad de Invasión a la Oficina"]
+  "text":["\\C[11]\\I[420]Probabilidad de Invasión en la Oficina"]
 },
 "effect_guardstation_invasionchance_minus":{
-  "text":["\\C[11]\\I[420]Probabilidad de Invasión a la Estación de Guardia"]
+  "text":["\\C[11]\\I[420]Probabilidad de Invasión en la Estación de Guardia"]
 },
 "effect_visitorcenter_invasionchance_plus":{
-  "text":["\\C[10]\\I[487]Los Goblins del Centro de Visitantes"]
+  "text":["\\C[10]\\I[487]Probabilidad de Invasión de Goblins en el Centro de Visitantes"]
 },
 
 
@@ -2336,7 +2336,7 @@
   "text":["\\C[11]\\I[384]Probabilidad de Ataque de los Goblins"]
 },
 "effect_rogue_attackchance_minus":{
-  "text":["\\C[11]\\I[384]Probabilidad de Ataque de los Picaros"]
+  "text":["\\C[11]\\I[384]Probabilidad de Ataque de los Pícaros"]
 },
 "effect_orc_attackchance_plus":{
   "text":["\\C[10]\\I[385]Probabilidad de Ataque de los Orcos"]
@@ -2345,10 +2345,10 @@
   "text":["\\C[11]\\I[384]Probabilidad de Ataque de los Orcos"]
 },
 "effect_lizardman_attackchance_plus":{
-  "text":["\\C[10]\\I[385]Probabilidad de Ataque de los Hombres lagarto"]
+  "text":["\\C[10]\\I[385]Probabilidad de Ataque de los Hombres Lagarto"]
 },
 "effect_lizardman_attackchance_minus":{
-  "text":["\\C[11]\\I[384]Probabilidad de Ataque de los Hombres lagarto"]
+  "text":["\\C[11]\\I[384]Probabilidad de Ataque de los Hombres Lagarto"]
 },
 "effect_inmate_charmreq_plus":{
   "text":["\\C[10]\\I[387]Requerimiento de Atractivo de los Reclusos"]
@@ -2363,7 +2363,7 @@
   "text":["\\C[11]\\I[390]Estadísticas de los Reclusos"]
 },
 "effect_inmate_agi_minus":{
-  "text":["\\C[11]\\I[390]Agilidad de los Recluso "]
+  "text":["\\C[11]\\I[390]Agilidad de los Reclusos "]
 },
 
 "effect_thug_stamina_plus":{
@@ -2391,32 +2391,32 @@
   "text":["\\C[11]\\I[390]Evasión de los Goblins"]
 },
 "effect_rogue_acc_plus":{
-  "text":["\\C[10]\\I[423]Precisión de los Picaros"]
+  "text":["\\C[10]\\I[423]Precisión de los Pícaros"]
 },
 "effect_rogue_acc_minus":{
-  "text":["\\C[11]\\I[422]Precisión de los Picaros"]
+  "text":["\\C[11]\\I[422]Precisión de los Pícaros"]
 },
 "effect_nerds_stats_plus":{
-  "text":["\\C[10]\\I[391]Estadísticas de los Nerds"]
+  "text":["\\C[10]\\I[391]Estadísticas de los Frikis"]
 },
 
 "effect_guard_aggr_plus":{
   "text":["\\C[10]\\I[413]Agresión de los Guardias"]
 },
 "effect_guard_aggr_minus":{
-  "text":["\\C[11]\\I[412]Agresión de los Guardia"]
+  "text":["\\C[11]\\I[412]Agresión de los Guardias"]
 },
 "effect_guard_stats_plus":{
   "text":["\\C[10]\\I[405]Estadísticas de los Guardias"]
 },
 "effect_guard_stats_minus":{
-  "text":["\\C[11]\\I[404]Estadísticas de los Guardia"]
+  "text":["\\C[11]\\I[404]Estadísticas de los Guardias"]
 },
 "effect_rioter_stats_plus":{
-  "text":["\\C[10]\\I[391]Estadísticas de Alborotadores"]
+  "text":["\\C[10]\\I[391]Estadísticas de Amotinados"]
 },
 "effect_rioter_stats_minus":{
-  "text":["\\C[11]\\I[391]Estadísticas de Alborotadores"]
+  "text":["\\C[11]\\I[391]Estadísticas de Amotinados"]
 },
 
 "effect_inmate_ejvolume_plus":{
@@ -2426,165 +2426,165 @@
   "text":["\\C[10]\\I[367]Volumen de eyaculación de los Reclusos"]
 },
 "effect_visitor_ejvolume_plus":{
-  "text":["\\C[11]\\I[356]Volumen de eyaculación de los Visitante"]
+  "text":["\\C[11]\\I[356]Volumen de eyaculación de los Visitantes"]
 },
 "effect_goblin_ejvolume_plus":{
   "text":["\\C[11]\\I[356]Volumen de eyaculación de los Goblins"]
 },
 "effect_guard_ejvolume_plus":{
-  "text":["\\C[11]\\I[356]Volumen de eyaculaci de los Guardias"]
+  "text":["\\C[11]\\I[356]Volumen de eyaculación de los Guardias"]
 },
 
 "effect_orgasm_energydmg_plus":{
-  "text":["\\C[10]\\I[383]Daño de Energía de los Orgasmos"]
+  "text":["\\C[10]\\I[383]Daño de Energía por Orgasmos"]
 },
 "effect_orgasm_energydmg_minus":{
-  "text":["\\C[11]\\I[382]Daño de Energía de los Orgasmos"]
+  "text":["\\C[11]\\I[382]Daño de Energía por Orgasmos"]
 },
 
 "effect_learn_slam":{
-  "text":["\\C[11]\\I[307]Aprende 'Golpe', una poderosa Habilidad de Ataque de Alabarda de tipo Contundente"]
+  "text":["\\C[11]\\I[307]Aprendes 'Atizar', una poderosa Habilidad de Ataque de Alabarda de tipo Contundente"]
 },
 "effect_slam_strdmg1":{
-  "text":["\\C[11]\\I[307]El daño de Golpe aumenta aún más con la Fuerza"]
+  "text":["\\C[11]\\I[307]El daño de Atizar aumenta según la Fuerza"]
 },
 "effect_slam_strdmg2":{
-  "text":["\\C[11]\\I[308]El daño de Golpe aumenta aún más con la Fuerza"]
+  "text":["\\C[11]\\I[308]El daño de Atizar aumenta según la Fuerza"]
 },
 
 "effect_learn_strike":{
-  "text":["\\C[11]\\I[305]Aprende 'Impacto', una Habilidad de Ataque de tipo Contundente"]
+  "text":["\\C[11]\\I[305]Aprendes 'Impacto', una Habilidad de Ataque de tipo Contundente"]
 },
 "effect_learn_headstrike":{
-  "text":["\\C[11]\\I[310]Aprende 'Impacto en la Cabeza', una Habilidad de Ataque de Alabarda de tipo Contundente"]
+  "text":["\\C[11]\\I[310]Aprendes 'Impacto a la cabeza', una Habilidad de Ataque de Alabarda de tipo Contundente"]
 },
 "effect_headstrike_strdmg":{
-  "text":["\\C[11]\\I[305]El daño de Impacto e \\I[310]Impacto en la Cabeza aumenta aún más con la Fuerza"]
+  "text":["\\C[11]\\I[305]El daño de Impacto e \\I[310]Impacto a la cabeza aumenta según la Fuerza"]
 },
 
 "effect_learn_cleave":{
-  "text":["\\C[11]\\I[312]Aprende 'Partir', una Habilidad de Ataque de Alabarda vertical de tipo Cortante con Área de Efecto"]
+  "text":["\\C[11]\\I[312]Aprendes 'Filo', una Habilidad de Ataque de Alabarda vertical de tipo Cortante con Área de Efecto"]
 },
 "effect_cleave_dexdmg1":{
-  "text":["\\C[11]\\I[312]El daño de Partir aumenta aún más con Destreza"]
+  "text":["\\C[11]\\I[312]El daño de Filo aumenta según la Destreza"]
 },
 "effect_cleave_aoeupgrade":{
-  "text":["\\C[11]\\I[313]El Área de Efecto de Partir aumentó"]
+  "text":["\\C[11]\\I[313]El Área de Efecto de Filo aumentó"]
 },
 
 "effect_learn_slash":{
-  "text":["\\C[11]\\I[304]Aprende 'Corte', una Habilidad de Ataque de Tipo Cortante"]
+  "text":["\\C[11]\\I[304]Aprendes 'Corte', una Habilidad de Ataque de Tipo Cortante"]
 },
 "effect_learn_armslash":{
-  "text":["\\C[11]\\I[314]Aprende 'Corte de Brazo', una Habilidad de Ataque de Alabarda de Tipo Cortante"]
+  "text":["\\C[11]\\I[314]Aprendes 'Cortabrazos', una Habilidad de Ataque de Alabarda de Tipo Cortante"]
 },
 "effect_armslash_dexdmg":{
-  "text":["\\C[11]\\I[304]El daño de Corte y \\I[314]Corte de Brazo aumenta aún más con la Destreza"]
+  "text":["\\C[11]\\I[304]El daño de Corte y \\I[314]Cortabrazos aumenta según la Destreza"]
 },
 
 "effect_learn_skewer":{
-  "text":["\\C[11]\\I[317]Aprende 'Estocada', una Habilidad de Ataque de Alabarda de Tipo Perforante de múltiples golpes"]
+  "text":["\\C[11]\\I[317]Aprendes 'Estocada', una Habilidad de Ataque de Alabarda de Tipo Perforante de múltiples golpes"]
 },
 "effect_skewer_hitupgrade1":{
-  "text":["\\C[11]\\I[317]La Estocada puede golpear una tercera vez"]
+  "text":["\\C[11]\\I[317]Estocada puede golpear una tercera vez"]
 },
 "effect_skewer_hitupgrade2":{
-  "text":["\\C[11]\\I[239]La Estocada golpea una vez más"]
+  "text":["\\C[11]\\I[239]Estocada golpea una vez más"]
 },
 
 "effect_learn_thrust":{
-  "text":["\\C[11]\\I[306]Aprende 'Empuje', una Habilidad de Ataque Tipo Perforante"]
+  "text":["\\C[11]\\I[306]Aprendes 'Empalar', una Habilidad de Ataque Tipo Perforante"]
 },
 "effect_learn_legthrust":{
-  "text":["\\C[11]\\I[316]Aprende 'Empuje de Piernas', una Habilidad de Ataque de Alabarda de tipo Perforante"]
+  "text":["\\C[11]\\I[316]Aprendes 'Empalapiernas', una Habilidad de Ataque de Alabarda de tipo Perforante"]
 },
 "effect_legthrust_agidmg":{
-  "text":["\\C[11]\\I[306]El daño de Empuje y \\I[316]Empuje de Piernas aumenta aún más con la Agilidad"]
+  "text":["\\C[11]\\I[306]El daño de Empalar y \\I[316]Empalapiernas aumenta según la Agilidad"]
 },
 
 "effect_learn_revitalize":{
-"text":["\\C[11]\\I[321]Aprende 'Revitalizar', una Habilidad de Energía que restaura la Resistencia"]
+"text":["\\C[11]\\I[321]Aprendes 'Revitalizar', una Habilidad de Energía que restaura la Resistencia"]
 },
 "effect_learn_secondwind":{
-"text":["\\C[11]\\I[322]Aprende 'Segundo Aire', una Habilidad de Energía que restaura enormemente la Resistencia",
-"\\C[11]Segundo Aire solo se puede usar después de quedarse sin Resistencia."]
+"text":["\\C[11]\\I[322]Aprendes 'Fuerzas Renovadas', una Habilidad de Energía que restaura enormemente la Resistencia",
+"\\C[11]Fuerzas Renovadas solo se puede usar cuando no queda Resistencia."]
 },
 "effect_revitalize_buff":{
 "text":["\\C[11]\\I[321]Revitalizar restaura más Resistencia"]
 },
 "effect_learn_cautiousstance":{
-"text":["\\C[11]\\I[323]Aprende 'Postura Cautelosa', una Habilidad de Energía que aumenta la Evasión y la Evasión Crítica"]
+"text":["\\C[11]\\I[323]Aprendes 'Postura Cautelosa', una Habilidad de Energía que aumenta la Evasión y la Evasión Crítica"]
 },
 "effect_learn_defensivestance":{
-"text":["\\C[11]\\I[324]Aprende 'Postura Defensiva', una Habilidad de Energía que aumenta la Defensa, la Protección contra Sobregolpe,",
-"\\C[11]a Perder Ropa, así como prevenir la mayoría de las desventajas."]
+"text":["\\C[11]\\I[324]Aprendes 'Postura Defensiva', una Habilidad de Energía que aumenta la Defensa, el Control de Daño,",
+"\\C[11]la Resistencia a Perder Ropa y previene la mayoría de desventajas."]
 },
 "effect_learn_counterstance":{
-"text":["\\C[11]\\I[325]Aprende 'Contraposición', una Habilidad de Energía que aumenta la tasa de contraataque,",
-"\\C[11]los Contraataques Máximos y aumenta ligeramente la protección contra Sobregolpes."]
+"text":["\\C[11]\\I[325]Aprendes 'Posición de Contraataque', una Habilidad de Energía que aumenta la tasa de contraataque,",
+"\\C[11]el Máximo de Contraataques y aumenta ligeramente el Control de Daño."]
 },
 
 "effect_defensivestance_buff1":{
-"text":["\\C[11]\\I[324]La Postura Defensiva aumenta más la Defensa y también agrega un poco de regeneración de Resistencia."]
+"text":["\\C[11]\\I[324]La Postura Defensiva aumenta más la Defensa y también añade un poco de regeneración de Resistencia."]
 },
 "effect_counterstance_buff1":{
-"text":["\\C[11]\\I[325]La Contraposición también aumenta el Ataque."]
+"text":["\\C[11]\\I[325]La Posición de Contraataque también aumenta el Ataque."]
 },
 
 
 "effect_learn_suppressdesire":{
-"text":["\\C[11]\\I[327]Aprende 'Suprimir los Deseos', un grupo de Habilidades de Voluntad que disminuyen los Deseos"]
+"text":["\\C[11]\\I[327]Aprendes 'Suprimir Deseos', un grupo de Habilidades de Voluntad que disminuyen los Deseos"]
 },
 "effect_learn_releasedesire":{
-"text":["\\C[11]\\I[328]Aprende 'Liberar los Deseos', un grupo de Habilidades de Voluntad que aumentan los Deseos"]
+"text":["\\C[11]\\I[328]Aprendes 'Liberar Deseos', un grupo de Habilidades de Voluntad que aumentan los Deseos"]
 },
 "effect_learn_releasecockdesire":{
-"text":["\\C[11]\\I[328]Aprende 'Liberar el Deseo Polla', una Habilidad de Voluntad que aumenta el Deseo: Polla"]
+"text":["\\C[11]\\I[328]Aprendes 'Liberar Deseo: Polla', una Habilidad de Voluntad que aumenta el Deseo: Polla"]
 },
 "effect_learn_healingthoughts":{
-"text":["\\C[11]\\I[328]Aprende 'Pensamientos Curativos', una Habilidad de Voluntad que restaura la Energía"]
+"text":["\\C[11]\\I[328]Aprendes 'Pensamientos Curativos', una Habilidad de Voluntad que restaura la Energía"]
 },
 "effect_healingthoughts_buff":{
 "text":["\\C[11]\\I[328]Pensamientos Curativos restaura más Energía"]
 },
 "effect_learn_mindovermatter":{
-"text":["\\C[11]\\I[330]Aprende 'Mente Sobre Materia', una Habilidad de Voluntad que restaura enormemente la Energía"]
+"text":["\\C[11]\\I[330]Aprendes 'Mente Sobre Materia', una Habilidad de Voluntad que restaura enormemente la Energía"]
 },
 "effect_learn_seenoevil":{
-"text":["\\C[11]\\I[331]Aprende 'No Ver el Mal', una Habilidad de Voluntad que aumenta la resistencia a las Miradas"]
+"text":["\\C[11]\\I[331]Aprendes 'No Ver el Mal', una Habilidad de Voluntad que aumenta la resistencia a las Miradas"]
 },
 "effect_learn_hearnoevil":{
-"text":["\\C[11]\\I[348]Aprende 'No Escuchar el Mal', una Habilidad de Voluntad que aumenta la resistencia a los Comentarios"]
+"text":["\\C[11]\\I[348]Aprendes 'No Escuchar el Mal', una Habilidad de Voluntad que aumenta la resistencia a los Comentarios"]
 },
 "effect_learn_speaknoevil":{
-"text":["\\C[11]\\I[333]Aprende 'No Hablar del Mal', una Habilidad de Voluntad que reduce Todos los Deseos",
-"\\C[11]No Hablar del Mal requiere de \\I[331]'No Ver el Mal' y \\I[348]'No Escuchar el Mal' se usen en el mismo turno."]
+"text":["\\C[11]\\I[333]Aprendes 'No Decir del Mal', una Habilidad de Voluntad que reduce Todos los Deseos",
+"\\C[11]No Decir el Mal requiere que \\I[331]'No Ver el Mal' y \\I[348]'No Escuchar el Mal' se usen antes en el mismo turno."]
 },
 "effect_learn_eyeofthemind":{
-"text":["\\C[11]\\I[336]Aprende el 'Ojo de la Mente', una Habilidad de Voluntad que aumenta la Precisión, la Evasión y la Probabilidad de Críticos"]
+"text":["\\C[11]\\I[336]Aprendes 'Ojo de la Mente', una Habilidad de Voluntad que aumenta la Precisión, la Evasión y la Probabilidad de Críticos"]
 },
 "effect_learn_realitymarble":{
-"text":["\\C[11]\\I[337]Aprende 'Esfera de Realidad', una Habilidad de Voluntad que aumenta el Atractivo"]
+"text":["\\C[11]\\I[337]Aprendes 'Esfera de Realidad', una Habilidad de Voluntad que aumenta el Atractivo"]
 },
 "effect_learn_ki":{
-"text":["\\C[11]\\I[338]Aprende 'Ki', una Habilidad de Voluntad que aumenta el Ataque"]
+"text":["\\C[11]\\I[338]Aprendes 'Ki', una Habilidad de Voluntad que aumenta el Ataque"]
 },
 "effect_learn_focus":{
-"text":["\\C[11]\\I[339]Aprende 'Concentración', una Habilidad de Voluntad que aumenta la Probabilidad de Contraataque"]
+"text":["\\C[11]\\I[339]Aprendes 'Concentración', una Habilidad de Voluntad que aumenta la Probabilidad de Contraataque"]
 },
 "effect_learn_edgingcontrol":{
-"text":["\\C[11]\\I[187]Aprende 'Control del Orgasmo', Habilidad de Voluntad que aumenta el Placer necesario para eyacular"]
+"text":["\\C[11]\\I[187]Aprendes 'Control del Orgasmo', una Habilidad de Voluntad que aumenta el Placer necesario para eyacular"]
 },
 "effect_learn_resistorgasm":{
-"text":["\\C[11]\\I[186]Aprende 'Resistir el Orgasmo', Habilidad de Voluntad que aumenta el Placer necesario del orgasmo"]
+"text":["\\C[11]\\I[186]Aprendes 'Resistir el Orgasmo', una Habilidad de Voluntad que aumenta el Placer necesario del orgasmo"]
 },
 
 
 "effect_freeartisanmeal":{
-"text":["\\C[31]\\I[544]Comida artesanal gratuita para Karryn en el Comedor"]
+"text":["\\C[31]\\I[544]Una Comida artesanal gratuita para Karryn en el Comedor"]
 },
 "effect_publishstatus":{
-"text":["\\C[31]\\I[545]Puede ver más información en Estadísticas"]
+"text":["\\C[31]\\I[545]Se puede ver más información en Estadísticas"]
 },
 "effect_freestoreitem":{
 "text":["\\C[31]\\I[184]Artículos de la Tienda gratis para Karryn"]
@@ -2594,31 +2594,31 @@
 },
 
 "effect_classeffectsdoubled":{
-"text":["\\C[11]\\I[245]El Decreto de Efectos del Aula y las Clases se duplican."]
+"text":["\\C[11]\\I[245]Los efectos de los Decretos de las clases y las aulas se duplican."]
 },
 "effect_gymeffectsdoubled":{
-"text":["\\C[11]\\I[364]El Decreto sobre Política del Gimnasio se duplica."]
+"text":["\\C[11]\\I[364]Los efectos de los Decretos sobre Políticas del Gimnasio se duplican."]
 },
 
 "effect_nerd_blackmail":{
-"text":["\\C[10]\\I[459]Chantaje de Nerds, un gasto que aumenta según la Corrupción"]
+"text":["\\C[10]\\I[459]Chantajeada por Frikis, un gasto que aumenta según la Corrupción"]
 },
 "effect_nerd_blackmail_nomore":{
-"text":["\\C[11]\\I[476]No más Chantaje de Nerds"]
+"text":["\\C[11]\\I[476]No más Chantaje de Frikis"]
 },
 
 "effect_nerd_exposeweakness_buff":{
-"text":["\\C[10]\\I[489]Efecto de los Nerds Exposición de debilidades"]
+"text":["\\C[10]\\I[489]Efecto de 'Exponer Debilidades' de los Frikis"]
 },
 "effect_nerd_exposeweakness_nerf":{
-"text":["\\C[11]\\I[488]Efecto de los Nerds Exposición de debilidades"]
+"text":["\\C[11]\\I[488]Efecto de 'Exponer Debilidades' de los Frikis"]
 },
 "effect_nerd_exposeweakness_always":{
-"text":["\\C[10]\\I[489]Efecto Permanentemente por Exposición de Debilidades"]
+"text":["\\C[10]\\I[489]Afectada permanentemente por Exponer Debilidades"]
 },
 
 "effect_rogue_nocharge":{
-"text":["\\C[10]\\I[461]Los Picaros pueden fingir ataques instantaneos."]
+"text":["\\C[10]\\I[461]Ahora, los Pícaros pueden hacer fintas inmediatamente."]
 },
 
 
@@ -2640,13 +2640,13 @@
 "text":["\\C[11]\\I[212]Reputación del Bar"]
 },
 "effect_receptionist_fame":{
-"text":["\\C[11]\\I[354]Fama de Recepcionista"]
+"text":["\\C[11]\\I[354]Fama como Recepcionista"]
 },
 "effect_receptionist_notoriety":{
-"text":["\\C[10]\\I[365]Notoriedad de Recepcionista"]
+"text":["\\C[10]\\I[365]Notoriedad como Recepcionista"]
 },
 "effect_visitorcenter_rep":{
-"text":["\\C[11]\\I[213]Reputación del Centro de Visitas"]
+"text":["\\C[11]\\I[213]Reputación del Centro de Visitantes"]
 },
 "effect_toilet_rep":{
 "text":["\\C[10]\\I[355]Reputación del Baño"]
@@ -2665,17 +2665,17 @@
 "text":["\\C[11]\\I[212]Las habilidades de Camarera y Bartender tardan 2 segundos menos"]
 },
 "effect_waitress_mugsglasses_plus":{
-"text":["\\C[11]\\I[164]Tarro y Vasos disponibles durante el trabajo Camarera."]
+"text":["\\C[11]\\I[164]Jarras y Vasos disponibles durante el trabajo de Camarera."]
 },
 "effect_waitress_barinsurance":{
-"text":["\\C[11]\\I[165]Daño que el Bar sufre por las riñas durante el trabajo de Camarera."]
+"text":["\\C[11]\\I[165]Daño que el Bar sufre por las peleas durante el trabajo de Camarera."]
 },
 "effect_waitress_unlock":{
 "text":["\\C[31]\\I[173]Desbloquea el trabajo de Camarera en el Bar."]
 },
 
 "effect_receptionist_unlock":{
-"text":["\\C[31]\\I[128]Desbloquea el trabajo de Recepcionista en el Centro de Visitas."]
+"text":["\\C[31]\\I[128]Desbloquea el trabajo de Recepcionista en el Centro de Visitantes."]
 },
 "effect_receptionist_handshaketip":{
 "text":["\\C[11]\\I[458]Obtienes propina de los apretones de manos"]
@@ -2685,7 +2685,7 @@
 },
 
 "effect_toiletstall_unlock":{
-"text":["\\C[31]\\I[234]Desbloquea el retrete de en medio del Baño"]
+"text":["\\C[31]\\I[234]Desbloqueas el retrete del medio en el Baño"]
 },
 
 "effect_stripper_unlock":{
@@ -2695,17 +2695,17 @@
 "text":["\\C[31]\\I[17]Desbloquea el baile privado en el Club de Striptease"]
 },
 "effect_strippercondom_money":{
-"text":["\\C[11]\\I[410]Ingresos por uso condones "]
+"text":["\\C[11]\\I[410]Ingresos por los condones "]
 },
 "effect_strippervip_money":{
 "text":["\\C[11]\\I[410]Ingresos por participación en Baile Privado "]
 },
 
 "effect_trainer_unlock":{
-"text":["\\C[31]\\I[566]Desbloquea el trabajo de Entrenador en el Gimnasio"]
+"text":["\\C[31]\\I[566]Desbloquea el trabajo de Entrenadora en el Gimnasio"]
 },
 "effect_gym_no_riots":{
-"text":["\\C[11]\\I[32]El Gimnasio ya no está en revuelta"]
+"text":["\\C[11]\\I[32]El Gimnasio ya no se amotina"]
 },
 
 "effect_breathe_recovery":{
@@ -2733,37 +2733,37 @@
 },
 
 "effect_unlockpassivefaster_lightkick":{
-"text":["\\C[11]\\I[209]Desbloquea Pasivos para aprender la habilidad Patada Ligera rápido"]
+"text":["\\C[11]\\I[209]Desbloquea Pasivas para aprender la habilidad Patada Ligera rápido"]
 },
 "effect_unlockpassivefaster_kiss":{
-"text":["\\C[11]\\I[288]Desbloquea Pasivos para aprender la habilidad Beso rápido"]
+"text":["\\C[11]\\I[288]Desbloquea Pasivas para aprender la habilidad Beso rápido"]
 },
 "effect_unlockpassivefaster_cockstare":{
-"text":["\\C[11]\\I[256]Desbloquea Pasivos para aprender la habilidad Mira Polla rápido"]
+"text":["\\C[11]\\I[256]Desbloquea Pasivas para aprender la habilidad Mira Polla rápido"]
 },
 "effect_unlockpassivefaster_petcock":{
-"text":["\\C[11]\\I[298]Desbloquea Pasivos para aprender la habilidad Acariciar Polla rápido"]
+"text":["\\C[11]\\I[298]Desbloquea Pasivas para aprender la habilidad Acariciar Polla rápido"]
 },
 "effect_unlockpassivefaster_handjob":{
-"text":["\\C[11]\\I[289]Desbloquea Pasivos para aprender la habilidad de Paja rápido"]
+"text":["\\C[11]\\I[289]Desbloquea Pasivas para aprender la habilidad de Paja rápido"]
 },
 "effect_unlockpassivefaster_blowjob":{
-"text":["\\C[11]\\I[294]Desbloquea Pasivos para aprender la habilidad de Mamada rápido"]
+"text":["\\C[11]\\I[294]Desbloquea Pasivas para aprender la habilidad de Mamada rápido"]
 },
 "effect_unlockpassivefaster_rimjob":{
-"text":["\\C[11]\\I[299]Desbloquea Pasivos para aprender la habilidad Anilingus rápido"]
+"text":["\\C[11]\\I[299]Desbloquea Pasivas para aprender la habilidad Anilingus rápido"]
 },
 "effect_unlockpassivefaster_footjob":{
-"text":["\\C[11]\\I[219]Desbloquea Pasivos para aprender la habilidad de Paja con los Pies rápido"]
+"text":["\\C[11]\\I[219]Desbloquea Pasivas para aprender la habilidad de Paja con los Pies rápido"]
 },
 "effect_unlockpassivefaster_titjob":{
-"text":["\\C[11]\\I[221]Desbloquea Pasivos para aprender la habilidad Paja con las Tetas rápido"]
+"text":["\\C[11]\\I[221]Desbloquea Pasivas para aprender la habilidad Paja con las Tetas rápido"]
 },
 "effect_unlockpassivefaster_vaginalsex":{
-"text":["\\C[11]\\I[295]Desbloquea Pasivos para aprender la habilidad de Sexo Vaginal rápido"]
+"text":["\\C[11]\\I[295]Desbloquea Pasivas para aprender la habilidad de Sexo Vaginal rápido"]
 },
 "effect_unlockpassivefaster_analsex":{
-"text":["\\C[11]\\I[296]Desbloquea Pasivos para aprender la habilidad de Sexo Anal rápido"]
+"text":["\\C[11]\\I[296]Desbloquea Pasivas para aprender la habilidad de Sexo Anal rápido"]
 },
 
 "effect_pleasuredmg_handjob_plus":{
@@ -2925,22 +2925,22 @@
 },
 
 "effect_counterstance_edictcost_exact_minus":{
-"text":["\\C[11]\\I[325]Costo del Decreto de Contraposición"]
+"text":["\\C[11]\\I[325]Costo del Decreto de Posición de Contraataque"]
 },
 "effect_headstrike_edictcost_exact_minus":{
-"text":["\\C[11]\\I[310]Costo del Decreto de Impacto en la Cabeza"]
+"text":["\\C[11]\\I[310]Costo del Decreto de Impacto a la cabeza"]
 },
 "effect_legthrust_edictcost_exact_minus":{
-"text":["\\C[11]\\I[316]Costo del Decreto de Empuje de Pierna"]
+"text":["\\C[11]\\I[316]Costo del Decreto de Empalapiernas"]
 },
 "effect_armslash_edictcost_exact_minus":{
-"text":["\\C[11]\\I[314]Costo del Decreto de Corte de Brazo"]
+"text":["\\C[11]\\I[314]Costo del Decreto de Cortabrazos"]
 },
 "effect_slam_edictcost_exact_minus":{
-"text":["\\C[11]\\I[307]Costo del Decreto de Golpe"]
+"text":["\\C[11]\\I[307]Costo del Decreto de Atizar"]
 },
 "effect_cleave_edictcost_exact_minus":{
-"text":["\\C[11]\\I[312]Costo del Decreto de Partir"]
+"text":["\\C[11]\\I[312]Costo del Decreto de Filo"]
 },
 "effect_skewer_edictcost_exact_minus":{
 "text":["\\C[11]\\I[317]Costo del Decreto de Estocada"]
