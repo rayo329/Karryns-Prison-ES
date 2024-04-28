@@ -2733,37 +2733,37 @@
 },
 
 "effect_unlockpassivefaster_lightkick":{
-"text":["\\C[11]\\I[209]Desbloquea Pasivas para aprender la habilidad Patada Ligera rápido"]
+"text":["\\C[11]\\I[209]Desbloqueas Pasivas para aprender la habilidad Patada Ligera más rápido"]
 },
 "effect_unlockpassivefaster_kiss":{
-"text":["\\C[11]\\I[288]Desbloquea Pasivas para aprender la habilidad Beso rápido"]
+"text":["\\C[11]\\I[288]Desbloqueas Pasivas para aprender la habilidad Beso más rápido"]
 },
 "effect_unlockpassivefaster_cockstare":{
-"text":["\\C[11]\\I[256]Desbloquea Pasivas para aprender la habilidad Mira Polla rápido"]
+"text":["\\C[11]\\I[256]Desbloqueas Pasivas para aprender la habilidad Mirar Polla Fijamente más rápido"]
 },
 "effect_unlockpassivefaster_petcock":{
-"text":["\\C[11]\\I[298]Desbloquea Pasivas para aprender la habilidad Acariciar Polla rápido"]
+"text":["\\C[11]\\I[298]Desbloqueas Pasivas para aprender la habilidad Acariciar Polla más rápido"]
 },
 "effect_unlockpassivefaster_handjob":{
-"text":["\\C[11]\\I[289]Desbloquea Pasivas para aprender la habilidad de Paja rápido"]
+"text":["\\C[11]\\I[289]Desbloqueas Pasivas para aprender la habilidad Paja más rápido"]
 },
 "effect_unlockpassivefaster_blowjob":{
-"text":["\\C[11]\\I[294]Desbloquea Pasivas para aprender la habilidad de Mamada rápido"]
+"text":["\\C[11]\\I[294]Desbloqueas Pasivas para aprender la habilidad Mamada más rápido"]
 },
 "effect_unlockpassivefaster_rimjob":{
-"text":["\\C[11]\\I[299]Desbloquea Pasivas para aprender la habilidad Anilingus rápido"]
+"text":["\\C[11]\\I[299]Desbloqueas Pasivas para aprender la habilidad Anilingus más rápido"]
 },
 "effect_unlockpassivefaster_footjob":{
-"text":["\\C[11]\\I[219]Desbloquea Pasivas para aprender la habilidad de Paja con los Pies rápido"]
+"text":["\\C[11]\\I[219]Desbloqueas Pasivas para aprender la habilidad Paja con los Pies más rápido"]
 },
 "effect_unlockpassivefaster_titjob":{
-"text":["\\C[11]\\I[221]Desbloquea Pasivas para aprender la habilidad Paja con las Tetas rápido"]
+"text":["\\C[11]\\I[221]Desbloqueas Pasivas para aprender la habilidad Paja con las Tetas más rápido"]
 },
 "effect_unlockpassivefaster_vaginalsex":{
-"text":["\\C[11]\\I[295]Desbloquea Pasivas para aprender la habilidad de Sexo Vaginal rápido"]
+"text":["\\C[11]\\I[295]Desbloqueas Pasivas para aprender la habilidad Sexo Vaginal más rápido"]
 },
 "effect_unlockpassivefaster_analsex":{
-"text":["\\C[11]\\I[296]Desbloquea Pasivas para aprender la habilidad de Sexo Anal rápido"]
+"text":["\\C[11]\\I[296]Desbloqueas Pasivas para aprender la habilidad Sexo Anal más rápido"]
 },
 
 "effect_pleasuredmg_handjob_plus":{
@@ -2789,7 +2789,7 @@
 },
 
 "effect_mouthsensitivity_plus":{
-  "text":["\\C[11]\\I[57]Sensibilidad Oral"]
+  "text":["\\C[11]\\I[57]Sensibilidad de la boca"]
 },
 "effect_kiss_debuff":{
   "text":["\\C[11]\\I[288]La habilidad Beso causa desventajas en los enemigos"]
@@ -2799,11 +2799,11 @@
   "text":["\\C[11]\\I[360]Bonificación de experiencia por someter a enemigos de Metal"]
 },
 "effect_metal_appearancerate":{
-  "text":["\\C[11]\\I[122]Probabilidad de Aparición de Metal"]
+  "text":["\\C[11]\\I[122]Probabilidad de Aparición de enemigos de Metal"]
 },
 
 "effect_virgin_appearancerate":{
-  "text":["\\C[11]\\I[122]Probabilidad de Aparición de Virgenes"]
+  "text":["\\C[11]\\I[122]Probabilidad de Aparición de Vírgenes"]
 },
 
 "effect_rareenemy_plus":{
@@ -2866,13 +2866,13 @@
   "text":["\\C[11]\\I[418]Ganancia de Fatiga "]
 },
 "effect_warden_outfitdura_exact_plus":{
-  "text":["\\C[11]\\I[462]Durabilidad del Atuendo de Guardiana "]
+  "text":["\\C[11]\\I[462]Durabilidad del Uniforme de Guardiana "]
 },
 "effect_waitress_outfitdura_exact_plus":{
-  "text":["\\C[11]\\I[173]Durabilidad del Atuendo de Camarera "]
+  "text":["\\C[11]\\I[173]Durabilidad del Uniforme de Camarera "]
 },
 "effect_receptionist_outfitdura_exact_plus":{
-  "text":["\\C[11]\\I[128]Durabilidad del Atuendo de Recepcionista "]
+  "text":["\\C[11]\\I[128]Durabilidad del Uniforme de Recepcionista "]
 },
 "effect_edictpoints_daily_plus":{
   "text":["\\C[11]\\I[364]Punto de Decreto todos los días "]
@@ -2893,66 +2893,66 @@
   "text":["\\C[10]\\I[365]Punto de Decreto en días impares "]
 },
 "effect_edictpoints_carryover":{
-  "text":["\\C[11]\\I[364]Punto de Decreto acumulado al día siguiente cuando no se usa "]
+  "text":["\\C[11]\\I[364]Punto de Decreto que pasa al día siguiente cuando no se usa "]
 },
 "effect_edictpoints_gold":{
   "text":["\\C[11]\\I[410]Exceso de puntos de decreto no utilizados se convierte en 100 de oro al final del día"]
 },
 
 "effect_all_edictcost_exact_plus":{
-  "text":["\\C[10]\\I[363]Costo del Decreto"]
+  "text":["\\C[10]\\I[363]Coste de los Decretos"]
 },
 "effect_all_edictcost_exact_minus":{
-  "text":["\\C[11]\\I[362]Costo del Decreto"]
+  "text":["\\C[11]\\I[362]Coste de los Decretos"]
 },
 "effect_research_edictcost_exact_plus":{
-  "text":["\\C[10]\\I[363]Costo del Decreto de Investigación"]
+  "text":["\\C[10]\\I[363]Coste de los Decretos de Investigación"]
 },
 "effect_research_edictcost_exact_minus":{
-  "text":["\\C[11]\\I[362]Costo del Decreto de Investigación"]
+  "text":["\\C[11]\\I[362]Coste de los Decretos de Investigación"]
 },
 "effect_acc_edictcost_exact_plus":{
-  "text":["\\C[10]\\I[363]Costo del Decreto de Accesorio "]
+  "text":["\\C[10]\\I[363]Coste de los Decretos de Accesorio "]
 },
 "effect_acc_edictcost_exact_minus":{
-  "text":["\\C[11]\\I[362]Costo del Decreto de Accesorio "]
+  "text":["\\C[11]\\I[362]Coste de los Decretos de Accesorio "]
 },
 "effect_training_edictcost_exact_plus":{
-  "text":["\\C[10]\\I[363]Costo del Decreto de Estadística de Entrenamiento "]
+  "text":["\\C[10]\\I[363]Coste de los Decretos de Estadísticas de Entrenamiento "]
 },
 "effect_training_edictcost_exact_minus":{
-  "text":["\\C[11]\\I[362]Costo del Decreto de Estadística de Entrenamiento "]
+  "text":["\\C[11]\\I[362]Coste de los Decretos de Estadísticas de Entrenamiento "]
 },
 
 "effect_counterstance_edictcost_exact_minus":{
-"text":["\\C[11]\\I[325]Costo del Decreto de Posición de Contraataque"]
+"text":["\\C[11]\\I[325]Coste de los Decretos de Posición de Contraataque"]
 },
 "effect_headstrike_edictcost_exact_minus":{
-"text":["\\C[11]\\I[310]Costo del Decreto de Impacto a la cabeza"]
+"text":["\\C[11]\\I[310]Coste de los Decretos de Impacto a la cabeza"]
 },
 "effect_legthrust_edictcost_exact_minus":{
-"text":["\\C[11]\\I[316]Costo del Decreto de Empalapiernas"]
+"text":["\\C[11]\\I[316]Coste de los Decretos de Empalapiernas"]
 },
 "effect_armslash_edictcost_exact_minus":{
-"text":["\\C[11]\\I[314]Costo del Decreto de Cortabrazos"]
+"text":["\\C[11]\\I[314]Coste de los Decretos de Cortabrazos"]
 },
 "effect_slam_edictcost_exact_minus":{
-"text":["\\C[11]\\I[307]Costo del Decreto de Atizar"]
+"text":["\\C[11]\\I[307]Coste de los Decretos de Atizar"]
 },
 "effect_cleave_edictcost_exact_minus":{
-"text":["\\C[11]\\I[312]Costo del Decreto de Filo"]
+"text":["\\C[11]\\I[312]Coste de los Decretos de Filo"]
 },
 "effect_skewer_edictcost_exact_minus":{
-"text":["\\C[11]\\I[317]Costo del Decreto de Estocada"]
+"text":["\\C[11]\\I[317]Coste de los Decretos de Estocada"]
 },
 "effect_defensivestance_edictcost_exact_minus":{
-"text":["\\C[11]\\I[324]Costo del Decreto de Postura Defensiva"]
+"text":["\\C[11]\\I[324]Coste de los Decretos de Postura Defensiva"]
 },
 "effect_healingthoughts_edictcost_exact_minus":{
-"text":["\\C[11]\\I[329]Costo del Decreto de Pensamientos Curativos"]
+"text":["\\C[11]\\I[329]Coste de los Decretos de Pensamientos Curativos"]
 },
 "effect_cautiousstance_edictcost_exact_minus":{
-"text":["\\C[11]\\I[323]Costo del Decreto de Postura Cautelosa"]
+"text":["\\C[11]\\I[323]Coste de los Decretos de Postura Cautelosa"]
 },
 
 
@@ -3055,25 +3055,25 @@
 "text":["\\C[10]\\I[427]Evasión "]
 },
 "effect_critrate_exact_plus":{
-"text":["\\C[11]\\I[428]Probabilidad Crítica "]
+"text":["\\C[11]\\I[428]Probabilidad de Crítico "]
 },
 "effect_critrate_exact_minus":{
-"text":["\\C[10]\\I[429]Probabilidad Crítica "]
+"text":["\\C[10]\\I[429]Probabilidad de Crítico "]
 },
 "effect_halberd_critrate_exact_plus":{
-"text":["\\C[11]\\I[428]Probabilidad Crítica del Alabarda "]
+"text":["\\C[11]\\I[428]Probabilidad de Crítico con Alabarda "]
 },
 "effect_halberd_critrate_exact_minus":{
-"text":["\\C[10]\\I[429]Probabilidad Crítica del Alabarda"]
+"text":["\\C[10]\\I[429]Probabilidad de Crítico con Alabarda"]
 },
 "effect_enemy_critrate_exact_plus":{
-"text":["\\C[10]\\I[429]Probabilidad Crítica de los Enemigos "]
+"text":["\\C[10]\\I[429]Probabilidad de Crítico de los Enemigos "]
 },
 "effect_enemy_critrate_exact_minus":{
-"text":["\\C[11]\\I[428]Probabilidad Crítica de los Enemigos"]
+"text":["\\C[11]\\I[428]Probabilidad de Crítico de los Enemigos"]
 },
 "effect_double_critrate_all":{
-"text":["\\C[10]\\I[429]Doble Probabilidad Crítica para todos"]
+"text":["\\C[10]\\I[429]Doble Probabilidad de Crítico para todos"]
 },
 "effect_critdmg_exact_plus":{
 "text":["\\C[11]\\I[430]Daño Crítico "]
@@ -3103,10 +3103,10 @@
 "text":["\\C[11]\\I[414]Evasión Crítica de los Enemigos"]
 },
 "effect_graze_exact_plus":{
-"text":["\\C[11]\\I[416]Rozar "]
+"text":["\\C[11]\\I[416]Roce "]
 },
 "effect_graze_exact_minus":{
-"text":["\\C[10]\\I[417]Rozar "]
+"text":["\\C[10]\\I[417]Roce "]
 },
 "effect_unarmed_graze_exact_plus":{
 "text":["\\C[11]\\I[416]Roce Desarmada "]
@@ -3133,28 +3133,28 @@
 "text":["\\C[10]\\I[467]Defensa "]
 },
 "effect_halberd_attack_exact_plus":{
-"text":["\\C[11]\\I[448]Ataque del Alabarda "]
+"text":["\\C[11]\\I[448]Ataque con Alabarda "]
 },
 "effect_halberd_attack_exact_minus":{
-"text":["\\C[10]\\I[449]Ataque del Alabarda "]
+"text":["\\C[10]\\I[449]Ataque con Alabarda "]
 },
 "effect_halberd_def_exact_plus":{
-"text":["\\C[11]\\I[450]Defensa del Alabarda "]
+"text":["\\C[11]\\I[450]Defensa con Alabarda "]
 },
 "effect_halberd_def_exact_minus":{
-"text":["\\C[10]\\I[451]Defensa del Alabarda "]
+"text":["\\C[10]\\I[451]Defensa con Alabarda "]
 },
 "effect_halberd_atkspd_exact_plus":{
-"text":["\\C[11]\\I[448]Velocidad de Ataque del Alabarda "]
+"text":["\\C[11]\\I[448]Velocidad de Ataque con Alabarda "]
 },
 "effect_halberd_atkspd_exact_minus":{
-"text":["\\C[10]\\I[449]Velocidad de Ataque del Alabarda "]
+"text":["\\C[10]\\I[449]Velocidad de Ataque con Alabarda "]
 },
 "effect_unarmed_attack_exact_plus":{
 "text":["\\C[11]\\I[480]Ataque Desarmada "]
 },
 "effect_unarmed_atkspd_exact_plus":{
-  "text":["\\C[11]\\I[480]Velocidad de Ataque Desaramda "]
+  "text":["\\C[11]\\I[480]Velocidad de Ataque Desarmada "]
 },
 "effect_unarmed_atkspd_exact_minus":{
   "text":["\\C[10]\\I[481]Velocidad de Ataque Desarmada "]
