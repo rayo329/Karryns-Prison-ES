@@ -3754,7 +3754,7 @@
 "skill_70_desc":{
 "text":[
 "Restaura el atuendo a su forma original.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Resistencia a Perder la Ropa por 1 turno."
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Resistencia a Perder la Ropa durante 1 turno."
 ]},
 "skill_70_msg1":{
 "text":["¡%1 se reajusta la ropa y se la deja bien puesta."]
@@ -3810,7 +3810,7 @@
 "text":[
 "Adoptas una postura defensiva.",
 "\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Defensa, el Control de Daño y la Resistencia a Perder la Ropa durante 1 turno.",
-"\\C[9]➤\\C[0] Protége contra varias desventajas por 1 turno."
+"\\C[9]➤\\C[0] Protege contra varias desventajas durante 1 turno."
 ]},
 "skill_75_msg1":{
 "text":["¡%1 adopta una postura defensiva!"]
@@ -3821,7 +3821,7 @@
 "skill_76_desc":{
 "text":[
 "Adoptas una postura de contraataque.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Probabilidad de Contraataque y el Máximo de Contraataques por 1 turno.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Probabilidad de Contraataque y el Máximo de Contraataques durante 1 turno.",
 "\\C[9]➤\\C[0] Aumenta ligeramente el Control de Daño durante 1 turno."
 ]},
 "skill_76_msg1":{
