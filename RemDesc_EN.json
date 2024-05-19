@@ -3153,6 +3153,9 @@
 "effect_unarmed_attack_exact_plus":{
 "text":["\\C[11]\\I[480]Ataque Desarmada "]
 },
+"effect_unarmed_attack_exact_minus":{
+"text":["\\C[10]\\I[481]Ataque Desarmada "]
+},
 "effect_unarmed_atkspd_exact_plus":{
   "text":["\\C[11]\\I[480]Velocidad de Ataque Desarmada "]
 },
@@ -3175,295 +3178,295 @@
   "text":["\\C[10]\\I[461]Probabilidad de Contraataque "]
 },
 "effect_unarmed_counterrate_exact_plus":{
-  "text":["\\C[11]\\I[460]Tasa de contraataque desarmado "]
+  "text":["\\C[11]\\I[460]Probabilidad de Contraataque desarmado "]
 },
 "effect_counterdmg_exact_plus":{
-  "text":["\\C[11]\\I[460]Tasa de contraataque desarmado "]
+  "text":["\\C[11]\\I[460]Probabilidad de Contraataque desarmado "]
 },
 "effect_counterdmg_exact_minus":{
-  "text":["\\C[10]\\I[461]Daño de contraataque "]
+  "text":["\\C[10]\\I[461]Daño de Contraataque "]
 },
 "effect_max_counteratk_exact_plus":{
-  "text":["\\C[11]\\I[460]Contraataques máx. "]
+  "text":["\\C[11]\\I[460]Contraataques Máximos "]
 },
 "effect_max_counteratk_exact_minus":{
-  "text":["\\C[10]\\I[461]Contraataques máx. "]
+  "text":["\\C[10]\\I[461]Contraataques Máximos "]
 },
 
 "effect_staminacost_counteratk_exact_minus":{
-  "text":["\\C[11]\\I[460]Costo de resistencia de los contraataques "]
+  "text":["\\C[11]\\I[460]Coste de Resistencia de los Contraataques "]
 },
 "effect_staminacost_evasion_exact_minus":{
-  "text":["\\C[11]\\I[468]Costo de aguante de evasión "]
+  "text":["\\C[11]\\I[468]Coste de Resistencia de la Evasión "]
 },
 "effect_staminacost_barkickout_exact_minus":{
-  "text":["\\C[11]\\I[167]Expulsar el costo de resistencia "]
+  "text":["\\C[11]\\I[167]Coste de Resitencia de Echar "]
 },
 
 "effect_overblow_exact_plus":{
-  "text":["\\C[11]\\I[474]Prote. contra sobrecargas "]
+  "text":["\\C[11]\\I[474]Control de Daño "]
 },
 "effect_overblow_exact_minus":{
-  "text":["\\C[10]\\I[475]Prote. contra sobrecargas "]
+  "text":["\\C[10]\\I[475]Control de Daño "]
 },
 "effect_unarmed_overblow_exact_plus":{
-  "text":["\\C[11]\\I[474]Prote. contra sobrecargas desarmado "]
+  "text":["\\C[11]\\I[474]Control de Daño Desarmada "]
 },
 "effect_unarmed_overblow_exact_minus":{
-  "text":["\\C[10]\\I[475]Prote. potente desarmado "]
+  "text":["\\C[10]\\I[475]Control de Daño Desarmada "]
 },
 "effect_enemy_overblow_exact_plus":{
-"text":["\\C[10]\\I[475]Prote. potente contra no jefes "]
+"text":["\\C[10]\\I[475]Control de Daño contra Enemigos "]
 },
 "effect_enemy_overblow_exact_minus":{
-  "text":["\\C[11]\\I[474]Prote. potente contra no jefes "]
+  "text":["\\C[11]\\I[474]Control de Daño contra Enemigos "]
 },
 "effect_wardenlvlimit_exact_plus":{
-  "text":["\\C[11]\\I[352]Límite de nivel de guardián "]
+  "text":["\\C[11]\\I[352]Nivel máximo de Guardiana "]
 },
 "effect_wardenlvlimit_exact_minus":{
-  "text":["\\C[10]\\I[353]Límite de nivel de guardián "]
+  "text":["\\C[10]\\I[353]Nivel máximo de Guardiana "]
 },
 
 "effect_atkskillcost_exact_plus":{
-  "text":["\\C[10]\\I[469]Costo de habilidad de ataque "]
+  "text":["\\C[10]\\I[469]Coste de Habilidad de Ataque "]
 },
 "effect_atkskillcost_exact_minus":{
-  "text":["\\C[11]\\I[468]Costo de habilidad de ataque "]
+  "text":["\\C[11]\\I[468]Coste de Habilidad de Ataque "]
 },
 "effect_slashatkskillcost_exact_minus":{
-  "text":["\\C[11]\\I[304]Costo de habilidad tipo Corte "]
+  "text":["\\C[11]\\I[304]Coste de Habilidad de tipo Cortante "]
 },
 "effect_bluntatkskillcost_exact_minus":{
-  "text":["\\C[11]\\I[305]Costo de habilidad tipo Contundente "]
+  "text":["\\C[11]\\I[305]Coste de Habilidad de tipo Contundente "]
 },
 "effect_pierceatkskillcost_exact_minus":{
-  "text":["\\C[11]\\I[306]Costo de habilidad tipo Perforante"]
+  "text":["\\C[11]\\I[306]Coste de habilidad tipo Perforante "]
 },
 
 "effect_sexskillcost_exact_plus":{
-  "text":["\\C[10]\\I[471]Costo de habilidad sexual "]
+  "text":["\\C[10]\\I[471]Coste de Habilidad Sexual "]
 },
 "effect_sexskillcost_exact_minus":{
-  "text":["\\C[11]\\I[470]Costo de habilidad sexual "]
+  "text":["\\C[11]\\I[470]Coste de Habilidad Sexual "]
 },
 "effect_stats_exact_plus":{
-  "text":["\\C[11]\\I[484]Todas las estadísticas "]
+  "text":["\\C[11]\\I[484]Todas las Estadísticas "]
 },
 "effect_stats_exact_minus":{
-  "text":["\\C[10]\\I[485]Todas las estadísticas "]
+  "text":["\\C[10]\\I[485]Todas las Estadísticas "]
 },
 "effect_stats_except_charm_exact_plus":{
-  "text":["\\C[11]\\I[484]Todas las estadísticas excepto Encanto "]
+  "text":["\\C[11]\\I[484]Todas las Estadísticas excepto Atractivo "]
 },
 "effect_stats_except_charm_exact_minus":{
-  "text":["\\C[10]\\I[485]Todas las estadísticas excepto Encanto "]
+  "text":["\\C[10]\\I[485]Todas las Estadísticas excepto Atractivo "]
 },
 
 "effect_sta_growth_plus":{
-  "text":["\\C[11]\\I[341]Subida de la resistencia "]
+  "text":["\\C[11]\\I[341]Crecimiento de la Resistencia "]
 },
 "effect_sta_growth_minus":{
-  "text":["\\C[10]\\I[341]Subida de la resistencia "]
+  "text":["\\C[10]\\I[341]Crecimiento de la Resistencia "]
 },
 "effect_energy_growth_plus":{
-  "text":["\\C[11]\\I[342]Subida energético "]
+  "text":["\\C[11]\\I[342]Crecimiento de la Energía "]
 },
 "effect_energy_growth_minus":{
-  "text":["\\C[10]\\I[342]Subida energético "]
+  "text":["\\C[10]\\I[342]Crecimiento de la Energía "]
 },
 "effect_str_growth_plus":{
-  "text":["\\C[11]\\I[309]Subida de fuerza "]
+  "text":["\\C[11]\\I[309]Crecimiento de la Fuerza "]
 },
 "effect_str_growth_minus":{
-  "text":["\\C[10]\\I[309]Subida de fuerza "]
+  "text":["\\C[10]\\I[309]Crecimiento de la Fuerza "]
 },
 "effect_dex_growth_plus":{
-  "text":["\\C[11]\\I[311]Subida de la destreza "]
+  "text":["\\C[11]\\I[311]Crecimiento de la Destreza "]
 },
 "effect_dex_growth_minus":{
-  "text":["\\C[10]\\I[311]Subida de la destreza "]
+  "text":["\\C[10]\\I[311]Crecimiento de la Destreza "]
 },
 "effect_agi_growth_plus":{
-  "text":["\\C[11]\\I[315]Subida de la agilidad "]
+  "text":["\\C[11]\\I[315]Crecimiento de la Agilidad "]
 },
 "effect_agi_growth_minus":{
-  "text":["\\C[10]\\I[315]Subida de la agilidad "]
+  "text":["\\C[10]\\I[315]Crecimiento de la Agilidad "]
 },
 "effect_end_growth_plus":{
-  "text":["\\C[11]\\I[318]Subida de aguante "]
+  "text":["\\C[11]\\I[318]Crecimiento del Aguante "]
 },
 "effect_end_growth_minus":{
-  "text":["\\C[10]\\I[318]Subida de aguanteh "]
+  "text":["\\C[10]\\I[318]Crecimiento del Aguante "]
 },
 "effect_mind_growth_plus":{
-  "text":["\\C[11]\\I[326]Subida Mental "]
+  "text":["\\C[11]\\I[326]Crecimiento de la Mente "]
 },
 "effect_mind_growth_minus":{
-  "text":["\\C[10]\\I[326]Subida Mental "]
+  "text":["\\C[10]\\I[326]Crecimiento de la Mente "]
 },
 "effect_charm_growth_plus":{
-  "text":["\\C[11]\\I[319]Subida del encanto "]
+  "text":["\\C[11]\\I[319]Crecimiento del Atractivo "]
 },
 "effect_charm_growth_minus":{
-  "text":["\\C[10]\\I[319]Subida del encanto "]
+  "text":["\\C[10]\\I[319]Crecimiento del Atractivo "]
+},
+"effect_exprate_exact_plus":{
+  "text":["\\C[11]\\I[360]Ganancia de Experiencia "]
 },
 
-"effect_exprate_exact_plus":{
-  "text":["\\C[11]\\I[360]Tasa de Exp. "]
-},
 "effect_exprate_exact_minus":{
-  "text":["\\C[10]\\I[361]Tasa de Exp. "]
+  "text":["\\C[10]\\I[361]Ganancia de Experiencia "]
 },
 "effect_talkresist_exact_plus":{
-  "text":["\\C[11]\\I[438]Resis. al Hablar "]
+  "text":["\\C[11]\\I[438]Resistencia a los Comentarios "]
 },
 "effect_talkresist_exact_minus":{
-  "text":["\\C[10]\\I[439]Resis. al Hablar "]
+  "text":["\\C[10]\\I[439]Resistencia a los Comentarios "]
 },
 "effect_sightresist_exact_plus":{
-  "text":["\\C[11]\\I[442]Resis. a la vista "]
+  "text":["\\C[11]\\I[442]Resistencia a las Miradas "]
 },
 "effect_sightresist_exact_minus":{
-  "text":["\\C[10]\\I[443]Resis. a la vista "]
+  "text":["\\C[10]\\I[443]Resistencia a las Miradas "]
 },
 "effect_stripresist_exact_plus":{
-  "text":["\\C[11]\\I[446]Resis. al desnudo"]
+  "text":["\\C[11]\\I[446]Resistencia a Perder Ropa "]
 },
 "effect_stripresist_exact_minus":{
-  "text":["\\C[10]\\I[447]Resis. al desnudo"]
+  "text":["\\C[10]\\I[447]Resistencia a Perder Ropa "]
 },
 "effect_pettingresist_exact_plus":{
-  "text":["\\C[11]\\I[444]Resis. al manoseo "]
+  "text":["\\C[11]\\I[444]Resistencia al Manoseo "]
 },
 "effect_pettingresist_exact_minus":{
-  "text":["\\C[10]\\I[445]Resis. manoseo "]
+  "text":["\\C[10]\\I[445]Resistencia al Manoseo "]
 },
 "effect_sexresist_exact_plus":{
-  "text":["\\C[11]\\I[440]Resis. sexual "]
+  "text":["\\C[11]\\I[440]Resistencia al Sexo "]
 },
 "effect_sexresist_exact_minus":{
-  "text":["\\C[10]\\I[441]Resis. sexual"]
+  "text":["\\C[10]\\I[441]Resistencia al Sexo"]
 },
 "effect_slashresist_exact_plus":{
-  "text":["\\C[11]\\I[432]Resis. corte "]
+  "text":["\\C[11]\\I[432]Resistencia al daño Cortante "]
 },
 "effect_slashresist_exact_minus":{
-  "text":["\\C[10]\\I[433]Resis. corte "]
+  "text":["\\C[10]\\I[433]Resistencia al daño Cortante "]
 },
 "effect_pierceresist_exact_plus":{
-  "text":["\\C[11]\\I[436]Resis. perforacion "]
+  "text":["\\C[11]\\I[436]Resistencia al daño Perforante "]
 },
 "effect_pierceresist_exact_minus":{
-  "text":["\\C[10]\\I[437]Resis. perforacion "]
+  "text":["\\C[10]\\I[437]Resistencia al daño Perforante "]
 },
 "effect_bluntresist_exact_plus":{
-  "text":["\\C[11]\\I[434]Resis. Contundente "]
+  "text":["\\C[11]\\I[434]Resistencia al daño Contundente"]
 },
 "effect_bluntresist_exact_minus":{
-  "text":["\\C[10]\\I[435]Resis. Contundente "]
+  "text":["\\C[10]\\I[435]Resistencia al daño Contundente "]
 },
 
 "effect_strike_stun_chance":{
-  "text":["\\C[11]\\I[305]Probabil. de Impacto básico infligiendo Aturdimiento"]
+  "text":["\\C[11]\\I[305]Probabilidad de infligir aturdimiento al usar Impacto "]
 },
 "effect_strike_bonusslash":{
-  "text":["\\C[11]\\I[304]Inflige daño de tipo   aumentado un 50 % en el siguiente turno después de usar Impacto básico"]
+  "text":["\\C[11]\\I[304]Tras usar Impacto, aumenta el daño cortante en un 50% en el siguiente turno "]
 },
 "effect_headstrike_dizzybuff":{
-  "text":["\\C[11]\\I[310]El mareo infligido por Impacto en la cabeza es más fuerte"]
+  "text":["\\C[11]\\I[310]El mareo infligido por Impacto a la cabeza es más fuerte"]
 },
 "effect_headstrike_unarmed":{
-  "text":["\\C[11]\\I[310]Impacto en la cabeza es utilizable mientras está desarmado"]
+  "text":["\\C[11]\\I[310]Se puede usar Impacto a la cabeza estando desarmada"]
 },
 "effect_slam_pushdown":{
-  "text": ["\\C[11]\\I[307]Golpe empuja al enemigo hacia abajo en un punto.",
-    "\\C[11]Si el enemigo no puede ser empujado hacia abajo en un punto, Golpe infligirá un 15 % de daño adicional",
+  "text": ["\\C[11]\\I[307]Atizar empuja al enemigo hacia abajo en la lista de enemigos.",
+    "\\C[11]Si el enemigo no puede ser empujado hacia abajo, Atizar infligirá un 15 % de daño adicional",
     "\\C[11]Además, si un enemigo está bloqueando, ese enemigo recibe Vulnerable."]
 },
 "effect_slam_cooldown_minus":{
-  "text":["\\C[11]\\I[307]Reduce el tiempo de reutilización de Golpe en 1 turno"]
+  "text":["\\C[11]\\I[307]Reduce el tiempo de enfriamiento de Atizar en 1 turno"]
 },
 
 "effect_slash_vulnerable_chance":{
-  "text":["\\C[11]\\I[304]Probabil. de que Corte básico inflija Vulnerable"]
+  "text":["\\C[11]\\I[304]Probabilidad de infligir Vulnerable al usar Corte"]
 },
 "effect_slash_bonuspierce":{
-  "text":["\\C[11]\\I[306]Inflige daño de tipo perforante aumentado un 50% en el siguiente turno después de usar corte básico"]
+  "text":["\\C[11]\\I[306]Tras usar Corte, Aumenta el daño perforante en un 50% en el siguiente turno"]
 },
 "effect_armslash_weakenbuff":{
-  "text":["\\C[11]\\I[314]La debilidad infligida por Corte de brazo es más fuerte"]
+  "text":["\\C[11]\\I[314]El Debilitamiento infligido por Cortabrazos es más fuerte"]
 },
 "effect_armslash_unarmed":{
-  "text":["\\C[11]\\I[314]'Corte de brazo' se puede usar mientras está desarmada"]
+  "text":["\\C[11]\\I[314]Se puede usar Cortabrazos estando desarmada"]
 },
 "effect_cleave_offbalance":{
-  "text":["\\C[11]\\I[312]Partir inflige Desequilibrio a todos los enemigos golpeados"]
+  "text":["\\C[11]\\I[312]Filo inflige Desequilibrio a todos los enemigos golpeados"]
 },
 "effect_cleave_cooldown_minus":{
-  "text":["\\C[11]\\I[312]Reducir el tiempo de reutilización de Partir en 1 turno"]
+  "text":["\\C[11]\\I[312]Reduce el tiempo de enfriamiento de Filo en 1 turno"]
 },
 
 "effect_thrust_doubledmg_chance":{
-  "text":["\\C[11]\\I[306]Probabil. de que el Empuje básico inflija el doble de daño +25 %"]
+  "text":["\\C[11]\\I[306]Probabilidad de que Empalar inflija el doble de daño +25%"]
 },
 "effect_thrust_bonusblunt":{
-  "text":["\\C[11]\\I[305]Inflige un 50 % más de daño de tipo contundente en el siguiente turno después de usar Empuje básico"]
+  "text":["\\C[11]\\I[305]Tras usar Empalar, Aumenta el daño Contundente en un 50 % en el siguiente turno "]
 },
 "effect_legthrust_slowbuff":{
-  "text":["\\C[11]\\I[316]La lentitud infligida por Empuje de piernas es más fuerte"]
+  "text":["\\C[11]\\I[316]La lentitud infligida por Empalapiernas es más fuerte"]
 },
 "effect_legthrust_unarmed":{
-  "text":["\\C[11]\\I[316]Empuje de piernas se puede usar mientras está desarmado"]
+  "text":["\\C[11]\\I[316]Se puede usar Empalapiernas estando desarmada"]
 },
 "effect_skewer_cooldown_minus":{
-  "text":["\\C[11]\\I[317]Reduce el tiempo de reutilización de Estocada en 1 turno"]
+  "text":["\\C[11]\\I[317]Reduce el tiempo de enfriamiento de Estocada en 1 turno"]
 },
 
 "effect_cooldown_slamheadstrike_lowerturn":{
-  "text":["\\C[11]\\I[307]Reduce el tiempo de reutilización de Impacto en la cabeza en la cabeza en 1 turno"]
+  "text":["\\C[11]\\I[307]Reduce el tiempo de enfriamiento de Atizar e Impacto a la cabeza en 1 turno"]
 },
 "effect_cooldown_skewerlegthrust_lowerturn":{
-  "text":["\\C[11]\\I[317]\\}Reduce el tiempo de reutilización de Estocada y Empuje de piernas en 1 turno"]
+  "text":["\\C[11]\\I[317]\\}Reduce el tiempo de enfriamiento de Estocada y Empalapiernas en 1 turno"]
 },
 "effect_cooldown_cleavearmslash_lowerturn":{
-  "text":["\\C[11]\\I[312]Reducir el tiempo de reutilización de Partir y Corte de brazo en 1 turno"]
+  "text":["\\C[11]\\I[312]Reduce el tiempo de enfriamiento de Filo y Cortabrazos en 1 turno"]
 },
 
 "effect_secondwind_cooldown_minus":{
-  "text":["\\C[11]\\I[322]Reduce el tiempo de reutilización de Segundo aire en 1 turno"]
+  "text":["\\C[11]\\I[322]Reduce el tiempo de enfriamiento de Fuerzas Renovadas en 1 turno"]
 },
 "effect_focus_overblow":{
-  "text":["\\C[11]\\I[336]El enfoque también aumenta la protección contra sobrecargas."]
+  "text":["\\C[11]\\I[336]Concentración también aumenta el Control de Daño."]
 },
 "effect_healingthoughts_cooldown_minus":{
-  "text":["\\C[11]\\I[329]Reducción del tiempo de reutilización de Pensamientos curativos en 1 turno"]
+  "text":["\\C[11]\\I[329]Reduce el tiempo de enfriamiento de Pensamientos Curativos en 1 turno"]
 },
 "effect_ki_critdmg":{
-  "text":["\\C[11]\\I[338]Ki también aumenta el daño crítico"]
+  "text":["\\C[11]\\I[338]Ki también aumenta el Daño Crítico"]
 },
 "effect_mindoftheeye_critdmg":{
-  "text":["\\C[11]\\I[339]Ojo de la mente también aumenta ligeramente el daño crítico"]
+  "text":["\\C[11]\\I[339]Ojo de la Mente también aumenta ligeramente el Daño Crítico"]
 },
 "effect_restoremind_mentalphase":{
-  "text":["\\C[11]\\I[238]Permanecer en fase mental después de usar Restaurar mente"]
+  "text":["\\C[11]\\I[238]Te mantienes en la Fase Mental después de usar Restaurar Mente"]
 },
 "effect_mindoftheeye_sex":{
-  "text":["\\C[11]\\I[339]Ojo de la mente se puede usar mientras se tiene sexo"]
+  "text":["\\C[11]\\I[339]Ojo de la Mente se puede usar mientras se tiene sexo"]
 },
 
 
 
 
 "effect_artisan_meal_effects":{
-"text":["\\C[11]\\I[544]Efectos de las comidas artesanales"]
+"text":["\\C[11]\\I[544]Efectos de las Comidas Artesanales"]
 },
 
 "effect_atkdef_against_orc_plus":{
-  "text":["\\C[11]\\I[464]\\I[466]Ataque y Defensa contra enemigos tipo Orco"]
+  "text":["\\C[11]\\I[464]\\I[466]Ataque y Defensa contra Orcos"]
 },
 "effect_atkdef_against_monstrous_plus":{
-  "text":["\\C[11]\\I[464]\\I[466]Ataque y Defensa contra enemigos de tipo Monstruoso "]
+  "text":["\\C[11]\\I[464]\\I[466]Ataque y Defensa contra Monstruos "]
 },
 "effect_atkdef_against_yelloworred_plus":{
   "text":["\\C[11]\\I[464]\\I[466]Ataque y Defensa contra enemigos con nombres amarillos o rojos"]
@@ -3476,64 +3479,64 @@
 },
 
 "effect_lizardman_call":{
-  "text":["\\C[10]\\I[49]Los hombres lagarto pueden pedir refuerzos en medio de la batalla."]
+  "text":["\\C[10]\\I[49]Los Hombres Lagarto pueden pedir refuerzos en medio de la batalla."]
 },
 "effect_lizardman_delayed_call":{
-  "text":["\\C[11]\\I[49]Los hombres lagarto no pedirán refuerzos durante sus dos primeros turnos."]
+  "text":["\\C[11]\\I[49]Los Hombres Lagarto no pedirán refuerzos durante sus dos primeros turnos."]
 },
 "effect_lizardman_synergy_plus":{
-  "text":["\\C[10]\\I[49]Sinergia racial de los hombres lagarto"]
+  "text":["\\C[10]\\I[49]Sinergia racial de los Hombres Lagarto"]
 },
 "effect_lizardman_synergy_minus":{
-  "text":["\\C[11]\\I[49]Sinergia racial de los hombres lagarto"]
+  "text":["\\C[11]\\I[49]Sinergia racial de los Hombres Lagarto"]
 },
 
 "effect_orc_presence_buffed":{
-  "text":["\\C[10]\\I[51]La habilidad Presencia de los orcos ahora aumentar también el ataque y la evasión."]
+  "text":["\\C[10]\\I[51]La habilidad Presencia de los orcos ahora aumenta el Ataque y la Evasión."]
 },
 "effect_orc_problem":{
-  "text":["\\C[10]\\I[365]El segundo efecto de todos los demás decretos Problemáticos se duplica"]
+  "text":["\\C[10]\\I[365]El efecto secundario de cada Problema se duplica"]
 },
 "effect_orc_presence_no_attack":{
-  "text":["\\C[11]\\I[51]La habilidad Presencia de los orcos ya no aumenta el ataque."]
+  "text":["\\C[11]\\I[51]La habilidad Presencia de los orcos ya no aumenta el Ataque"]
 },
 "effect_orc_problem_left":{
-  "text":["\\C[11]\\I[364]El segundo efecto de cada decreto de problema ya no se duplica si se promulgó su solución más a la izquierda"]
+  "text":["\\C[11]\\I[364]El efecto secundario de cada Problema ya no se duplica si se decreta la solución de la izquierda del todo"]
 },
 "effect_orc_presence_no_def":{
-  "text":["\\C[11]\\I[51]La habilidad Presencia de los orcos ya no aumenta la defensa o la evasión."]
+  "text":["\\C[11]\\I[51]La habilidad Presencia de los orcos ya no aumenta la Defensa o la Evasión"]
 },
 "effect_orc_problem_center":{
-  "text":["\\C[11]\\I[364]El segundo efecto de cada decreto de problema ya no se duplica si se promulgó su solución intermedia"]
+  "text":["\\C[11]\\I[364]El efecto secundario de cada Problema ya no se duplica si se decreta la solución intermedia"]
 },
 "effect_orc_presence_sex":{
-  "text":["\\C[11]\\I[51]La habilidad Presencia de los orcos ahora solo aumenta el daño por placer."]
+  "text":["\\C[11]\\I[51]La habilidad Presencia de los orcos ahora solo aumenta el Daño de placer"]
 },
 "effect_orc_problem_right":{
-  "text":["\\C[11]\\I[364]El segundo efecto de cada decreto de problema ya no se duplica si se promulgó su solución más a la derecha."]
+  "text":["\\C[11]\\I[364]El efecto secundario de cada Problema ya no se duplica si se decreta la solución de la derecha del todo"]
 },
 
 "edict_req_thugproblems":{
-"text":["No he elegido una solución para \\REM_DESC[skill_531_name]"]
+"text":["No se ha escogido una solución para \\REM_DESC[skill_531_name]"]
 },
 "edict_req_goblinproblems":{
-"text":["No he elegido una solución para \\REM_DESC[skill_535_name]"]
+"text":["No se ha escogido una solución para \\REM_DESC[skill_535_name]"]
 },
 "edict_req_nerdproblems":{
-"text":["No he elegido una solución para \\REM_DESC[skill_549_name]"]
+"text":["No se ha escogido una solución para \\REM_DESC[skill_549_name]"]
 },
 "edict_req_rogueproblems":{
-"text":["No he elegido una solución para \\REM_DESC[skill_553_name]"]
+"text":["No se ha escogido una solución para \\REM_DESC[skill_553_name]"]
 },
 "edict_req_lizardmanproblems":{
-"text":["No he elegido una solución para \\REM_DESC[skill_611_name]"]
+"text":["No se ha escogido una solución para \\REM_DESC[skill_611_name]"]
 },
 "edict_req_orcproblems":{
-"text":["No he elegido una solución para \\REM_DESC[skill_615_name]"]
+"text":["No se ha escogido una solución para \\REM_DESC[skill_615_name]"]
 },
 
 "edict_req_riotissue":{
-"text":["No he elegido una solución para \\REM_DESC[skill_604_name]』"]
+"text":["No se ha escogido una solución para \\REM_DESC[skill_604_name]』"]
 },
 
 "edict_req_lessthantwospecializations":{
@@ -3541,47 +3544,47 @@
 },
 
 "edict_req_haveover15brownpassives":{
-  "text":["Tener más de 15 Pasivos marrones \\C[25](Actualmente: \\REM_BCP[0])"]
+  "text":["Tener más de 15 Pasivas marrones \\C[25](Actualmente: \\REM_BCP[0])"]
 },
 
 "effect_gym_rep":{
-"text":["\\C[11]\\I[33]Reputación de gimnasio "]
+"text":["\\C[11]\\I[33]Reputación del gimnasio "]
 },
 "effect_enemy_attackchance_plus":{
-"text":["\\C[10]\\I[385]Probabilidad de ataque enemigo"]
+"text":["\\C[10]\\I[385]Probabilidad de Ataque Enemigo"]
 },
 "effect_enemy_attackchance_minus":{
-"text":["\\C[11]\\I[384]Probabilidad de ataque enemigo"]
+"text":["\\C[11]\\I[384]Probabilidad de Ataque Enemigo"]
 },
 "effect_enemy_stats_plus":{
 "text":["\\C[10]\\I[391]Estadísticas del enemigo"]
 },
 "effect_enemy_lessangry":{
-"text":["\\C[11]\\I[122]Tasa de aparición de enemigos enojados"]
+"text":["\\C[11]\\I[122]Probabilidad de Aparición de enemigo enfadado"]
 },
 "effect_wantedenemy_gym_badworkout_minus":{
-"text":["\\C[10]\\I[491]Bonificación de nivel de entrenamiento malo del enemigo buscado "]
+"text":["\\C[10]\\I[491]Bonificación de nivel de un mal entrenamiento de un Enemigo Buscado "]
 },
 "effect_wantedenemy_gym_goodworkout_plus":{
-"text":["\\C[11]\\I[490]Bonificación de buen nivel de entrenamiento del enemigo buscado "]
+"text":["\\C[11]\\I[490]Bonificación de nivel de un mal entrenamiento de un Enemigo Buscado "]
 },
 
 "effect_bar_waiter":{
-"text":["\\C[11]\\I[164]Las tazas y vasos usados se retiran y limpian periódicamente."]
+"text":["\\C[11]\\I[164]Las jarras y vasos usados se retiran y limpian periódicamente."]
 },
 
 "effect_visitorcenter_highrep_minorbonus":{
-"text":["\\C[11]\\I[213]La alta reputación del centro de visitantes da una bonificación menor a Control"]
+"text":["\\C[11]\\I[213]Tener Reputación alta en el Centro de Visitantes da una bonificación menor de Control"]
 },
 "effect_visitorcenter_highrep_majorbonus":{
-"text":["\\C[11]\\I[213]La alta reputación del centro de visitantes da una mayor bonificación a Control"]
+"text":["\\C[11]\\I[213]Tener Reputación alta en el Centro de Visitantes da una bonificación mayor de Control"]
 },
 
 "skill_1_msg1":{
-"text":["%1 ataques!"]
+"text":["¡%1 ataca!"]
 },
 "skill_3_msg1":{
-"text":["%1 huye!"]
+"text":["¡%1 huye!"]
 },
 
 "skill_51_name":{
@@ -3589,496 +3592,496 @@
 },
 "skill_51_desc":{
 "text":[
-"Ataca a un objetivo con daño contundente.",
-"\\}\\}\\C[9]➤\\C[0] Los ataques de tipo contundente tienen una ventaja sobre los ataques de tipo \\I[306]Perforantes.",
-"\\C[13]➤\\C[0] Los ataques de tipo contundente infligen daño basándose únicamente en la Fuerza."
+"Ataca a un objetivo con daño Contundente.",
+"\\}\\}\\C[9]➤\\C[0] Los ataques Contundentes tienen ventaja sobre los ataques \\I[306]Perforantes.",
+"\\C[13]➤\\C[0] Los ataques Contundentes hacen daño en base a la Fuerza."
 ]},
 "skill_51_msg1":{
-"text":["%1 ataca con la parte plana de su alabarda!"]
+"text":["%1 ¡Ataca con la parte plana de su alabarda!"]
 },
 "skill_52_name":{
-"text":["Impacto a la cabeza"]
+"text":["Impacto en la cabeza"]
 },
 "skill_52_desc":{
 "text":[
-"Ataca a un objetivo con daño contundente.",
-"\\}\\}\\C[9]➤\\C[0] Provoca mareos al golpear.",
-"\\C[13]➤\\C[0] Mareado es una desventaja que disminuye la precisión y la evasión."
+"Ataca a un objetivo con daño Contundente.",
+"\\}\\}\\C[9]➤\\C[0] Inflige mareo al golpear.",
+"\\C[13]➤\\C[0] Mareo es una desventaja que disminuye la Precisión y la Evasión."
 ]},
 "skill_52_msg1":{
-"text":["%1 golpea la cabeza de %2 con la parte plana de su alabarda!"]
+"text":["¡%1 golpea la cabeza de %2 con la parte plana de su alabarda!"]
 },
 "skill_53_name":{
-"text":["Golpe"]
+"text":["Atizar"]
 },
 "skill_53_desc":{
 "text":[
-"Ataca a un objetivo con daño contundente.",
+"Ataca a un objetivo con daño Contundente.",
 "\\}\\}\\C[9]➤\\C[0] Hace mucho daño."
 ]},
 "skill_53_msg1":{
-"text":["%1 golpea con su alabarda!"]
+"text":["¡%1 atiza con su alabarda!"]
 },
 "skill_54_name":{
-"text":["Patada en las bolas"]
+"text":["Patada en los Cojones"]
 },
 "skill_54_desc":{
 "text":[
-"Ataca a un objetivo con daño contundente.",
-"\\}\\}\\C[9]➤\\C[0] Los enemigos erguidos reciben mucho más daño.",
-"\\C[9]➤\\C[0] La mayoría de los enemigos se enojarán después de este ataque."
+"Ataca a un objetivo con daño Contundente.",
+"\\}\\}\\C[9]➤\\C[0] Los enemigos con una erección reciben más daño.",
+"\\C[9]➤\\C[0] La mayoría de los enemigos se enfadarán tras este ataque."
 ]},
 "skill_54_msg1":{
-"text":["%1 patea a %2 en la polla!!"]
+"text":["¡¡%1 patea a %2 en la polla!!"]
 },
 "skill_55_name":{
 "text":["Corte"]
 },
 "skill_55_desc":{
 "text":[
-"Ataca a un objetivo con daño tipo Corte.",
-"\\}\\}\\C[9]➤\\C[0] Los ataques de tipo corte tienen una ventaja sobre los ataques de tipo \\I[305]Contundente.",
-"\\C[13]➤\\C[0] Los ataques de tipo corte infligen daño según la destreza y la fuerza."
+"Ataca a un objetivo con daño Cortante.",
+"\\}\\}\\C[9]➤\\C[0] Los ataques cortantes tienen ventaja sobre los ataques \\I[305]Contundentes.",
+"\\C[13]➤\\C[0] Los ataques Cortantes hacen daño en base a la Destreza y la Fuerza."
 ]},
 "skill_55_msg1":{
-"text":["%1 corta con su alabarda!"]
+"text":["¡%1 acuchilla con su alabarda!"]
 },
 "skill_56_name":{
-"text":["Corte de brazo"]
+"text":["Cortabrazos"]
 },
 "skill_56_desc":{
 "text":[
-"Ataca a un objetivo con daño tipo Corte.",
-"\\}\\}\\C[9]➤\\C[0] Inflige debilitamiento al golpear.",
-"\\C[13]➤\\C[0] WEaten es una desventaja que disminuye el ataque y la fuerza."
+"Ataca a un objetivo con daño Cortante.",
+"\\}\\}\\C[9]➤\\C[0] Inflige Debilitamiento al golpear.",
+"\\C[13]➤\\C[0] Debilitamiento es una desventaja que disminuye el Ataque y la Fuerza."
 ]},
 "skill_56_msg1":{
-"text":["%1 corta los brazos de %2 con su alabarda!"]
+"text":["¡%1 acuchilla el brazo de %2 con su alabarda!"]
 },
 "skill_57_name":{
-"text":["Partir"]
+"text":["Filo"]
 },
 "skill_57_desc":{
 "text":[
-"Ataca a un objetivo con daño tipo Corte.",
-"\\}\\}\\C[9]➤\\C[0] Golpea hasta 2 objetivos."
+"Ataca a un objetivo con daño Cortante.",
+"\\}\\}\\C[9]➤\\C[0] Golpea hasta a 2 objetivos."
 ]},
 "skill_57_msg1":{
-"text":["%1 parte con su alabarda!"]
+"text":["¡%1 Corta con su alabarda!"]
 },
 "skill_58_name":{
-"text":["Particion Tormeta"]
+"text":["Vendaval de Cortes"]
 },
 "skill_58_desc":{
 "text":[
-"Ataca a un objetivo con daño tipo Corte.",
-"\\}\\}\\C[9]➤\\C[0] Golpea hasta 3 objetivos."
+"Ataca a un objetivo con daño Cortante.",
+"\\}\\}\\C[9]➤\\C[0] Golpea hasta a 3 objetivos."
 ]},
 "skill_58_msg1":{
-"text":["%1 parte con su alabarda!"]
+"text":["¡%1 corta con su alabarda!"]
 },
 "skill_59_name":{
-"text":["Empuje"]
+"text":["Empalar"]
 },
 "skill_59_desc":{
 "text":[
-"Ataca a un objetivo con daño tipo Perforador.",
-"\\}\\}\\C[9]➤\\C[0] Los ataques de tipo Perforantes tienen una ventaja sobre los ataques de tipo \\I[304]Corte",
-"\\C[13]➤\\C[0] Los ataques de tipo Perforantes infligen daño según la agilidad y la fuerza."
+"Ataca a un objetivo con daño Perforante.",
+"\\}\\}\\C[9]➤\\C[0] Los ataques Perforantes tienen ventaja sobre los ataques \\I[304]Cortantes",
+"\\C[13]➤\\C[0] Los ataques Perforantes hacen daño en base a la Agilidad y la Fuerza."
 ]},
 "skill_59_msg1":{
-"text":["%1 empuja con su alabarda!"]
+"text":["¡%1 empala con su alabarda!"]
 },
 "skill_60_name":{
-"text":["Empuje de piernas"]
+"text":["Empalapiernas"]
 },
 "skill_60_desc":{
 "text":[
-"Ataca a un objetivo con daño tipo Perforantor",
-"\\}\\}\\C[9]➤\\C[0] Inflige ralentización al golpear.",
-"\\C[13]➤\\C[0] La lentitud es una desventaja que disminuye la agilidad."
+"Ataca a un objetivo con daño Perforante",
+"\\}\\}\\C[9]➤\\C[0] Inflige Ralentización al golpear.",
+"\\C[13]➤\\C[0] La Ralentización es una desventaja que disminuye la Agilidad."
 ]},
 "skill_60_msg1":{
-"text":["%1 lanza su alabarda a las piernas de %2!"]
+"text":["¡%1 empala con su alabarda las piernas de %2!"]
 },
 "skill_61_name":{
 "text":["Estocada"]
 },
 "skill_61_desc":{
 "text":[
-"Ataca a un objetivo con daño tipo Perforador.",
-"\\}\\}\\C[9]➤\\C[0] Llega hasta \\REM_SD_SKR[0] veces aleatoriamente."
+"Ataca a un objetivo con daño Perforante.",
+"\\}\\}\\C[9]➤\\C[0] Ataca hasta \\REM_SD_SKR[0] veces aleatoriamente."
 ]},
 "skill_61_msg1":{
-"text":["%1 saca rápidamente su alabarda!"]
+"text":["¡%1 perfora rápidamente con su alabarda!"]
 },
 "skill_62_name":{
-"text":["Estocada Furiosa"]
+"text":["Ráfaga de Estocadas"]
 },
 "skill_62_desc":{
 "text":[
-"Ataca a un objetivo con daño tipo Perforador.",
-"\\}\\}\\C[9]➤\\C[0] Llega hasta \\REM_SD_SKR[0] veces aleatoriamente."
+"Ataca a un objetivo con daño Perforante.",
+"\\}\\}\\C[9]➤\\C[0] Ataca hasta \\REM_SD_SKR[0] veces aleatoriamente."
 ]},
 "skill_62_msg1":{
-"text":["%1 saca rápidamente su alabarda!"]
+"text":["¡%1 perfora rápidamente con su alabarda!"]
 },
 "skill_63_name":{
-"text":["Golpe de meteoro"]
+"text":["Golpe Meteoro"]
 },
 "skill_63_desc":{
 "text":[
-"Ataca a un objetivo con daño contundente.",
+"Ataca a un objetivo con daño Contundente.",
 "\\}\\}\\C[9]➤\\C[0] Hace un daño masivo."
 ]},
 "skill_63_msg1":{
-"text":["%1 golpea con su alabarda!"]
+"text":["¡%1 atiza con su alabarda!"]
 },
 "skill_68_name":{
 "text":["Patada ligera"]
 },
 "skill_68_desc":{
 "text":[
-"Ataca a un objetivo con daño en desventaja."
+"Ataca a un objetivo con desventaja."
 ]},
 "skill_68_msg1":{
-"text":["%1 envía una ligera patada hacia %2..."]
+"text":["¡%1 da una patada ligera a %2..."]
 },
 
 "skill_70_name":{
-"text":["Arreglar ropa"]
+"text":["Arreglar la ropa"]
 },
 "skill_70_desc":{
 "text":[
 "Restaura el atuendo a su forma original.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la resistencia al desnudo durante 1 turno."
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Resistencia a Perder la Ropa durante 1 turno."
 ]},
 "skill_70_msg1":{
-"text":["%1 se sube y baja la ropa por su cuerpo correctamente."]
+"text":["¡%1 se reajusta la ropa y se la deja bien puesta."]
 },
 "skill_71_name":{
 "text":["Revitalizar"]
 },
 "skill_71_desc":{
 "text":[
-"Restaura algo de Estamina.",
-"\\}\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en la regeneración de Estamina."
+"Restaura algo de Resistencia.",
+"\\}\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en la Regeneración de Resistencia."
 ]},
 "skill_71_msg1":{
-"text":["%1 respira profundamente para revitalizarse..."]
+"text":["¡%1 toma un respiro profundamente para revitalizarse..."]
 },
 "skill_72_name":{
-"text":["Segundo aire"]
+"text":["Fuerzas Renovadas"]
 },
 "skill_72_desc":{
 "text":[
-"Restaura mucha Estamina.",
-"\\}\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en la regeneración de Estamina"
+"Restaura mucha Resistencia.",
+"\\}\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en la Regeneración de Resistencia"
 ]},
 "skill_72_msg1":{
-"text":["¡%1 usa su energía interior para provocar un segundo aire!"]
+"text":["¡%1 usa su energía interior para Renovar sus Fuerzas!"]
 },
 "skill_73_name":{
-"text":["Breathe"]
+"text":["Respirar"]
 },
 "skill_73_desc":{
 "text":[
-"Restaura un poco de resistencia.",
-"\\}\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en la regeneración de Estamina"
+"Restaura un poco de Resistencia.",
+"\\}\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en la Regeneración de Resistencia"
 ]},
 "skill_73_msg1":{
-"text":["%1 toma aire y se estabiliza..."]
+"text":["%1 toma un respiro y se estabiliza..."]
 },
 "skill_74_name":{
-"text":["Postura cautelosa"]
+"text":["Postura Cautelosa"]
 },
 "skill_74_desc":{
 "text":[
-"Adopte una postura cautelosa.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la evasión y la evasión crítica durante 1 turno."
+"Adoptas una postura cautelosa.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Evasión y la Evasión crítica durante 1 turno."
 ]},
 "skill_74_msg1":{
-"text":["%1 observa con cautela a sus enemigos!"]
+"text":["¡%1 observa con cautela a sus enemigos!"]
 },
 "skill_75_name":{
-"text":["Posición defensiva"]
+"text":["Postura Defensiva"]
 },
 "skill_75_desc":{
 "text":[
-"Adopte una postura defensiva.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la defensa, la protección contra sobregolpes y la resistencia al despojo durante 1 turno.",
-"\\C[9]➤\\C[0] Protégete contra varias desventajas durante 1 turno."
+"Adoptas una postura defensiva.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Defensa, el Control de Daño y la Resistencia a Perder la Ropa durante 1 turno.",
+"\\C[9]➤\\C[0] Protege contra varias desventajas durante 1 turno."
 ]},
 "skill_75_msg1":{
-"text":["%1 adopta una postura defensiva!"]
+"text":["¡%1 adopta una postura defensiva!"]
 },
 "skill_76_name":{
-"text":["Postura de contraataque"]
+"text":["Posición de contraataque"]
 },
 "skill_76_desc":{
 "text":[
-"Adopte una postura contraria.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la tasa de contraataque y los contraataques máximos durante 1 turno.",
-"\\C[9]➤\\C[0] Aumenta ligeramente la protección contra sobregolpes durante 1 turno."
+"Adoptas una postura de contraataque.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Probabilidad de Contraataque y el Máximo de Contraataques durante 1 turno.",
+"\\C[9]➤\\C[0] Aumenta ligeramente el Control de Daño durante 1 turno."
 ]},
 "skill_76_msg1":{
-"text":["%1 adopta una postura de contraataque!"]
+"text":["¡%1 adopta una postura de contraataque!"]
 },
 "skill_77_name":{
-"text":["Postura de secretaria"]
+"text":["Postura de Secretaria"]
 },
 "skill_77_desc":{
-  "text": [
-    "\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la capacidad de hablar, ver, acariciar y tener sexo durante 1 turno..",
-    "\\C[9]➤\\C[0] Reduce la duración de \\I[320]Horny en 1 turno.",
-    "\\C[8]➤\\C[0] Aumenta el placer infligido a los enemigos durante 1 turno."
-  ]},
+"text": [
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente las Resistencias a los Comentarios, las miradas, las Caricias, los Manoseos y al Sexo durante 1 turno.",
+"\\C[9]➤\\C[0] Reduce la duración de \\I[320]Cachonda en 1 turno.",
+"\\C[8]➤\\C[0] Aumenta el Placer infligido a los enemigos durante 1 turno."
+]},
 "skill_77_msg1":{
-  "text":["%1 trata de superar el placer!"]
+"text":["¡%1 trata de resistirse al placer!"]
 },
 "skill_78_name":{
 "text":["Postura de Dama"]
 },
 "skill_78_desc":{
-  "text": [
-    "\\}\\}\\C[9]➤\\C[0] Aumenta ligeramente la resistencia a las caricias y al sexo durante 1 turno.",
-    "\\C[9]➤\\C[0] Incrementa encanto por 1 turno.",
-    "\\C[9]➤\\C[0] Restablecer \\I[101]Coste de energía de la postura de la secretaria."
-  ]},
+"text": [
+"\\}\\}\\C[9]➤\\C[0] Aumenta ligeramente las Resistencia a las Caricias y al Sexo durante 1 turno.",
+"\\C[9]➤\\C[0] Incrementa el Atractivo durante 1 turno.",
+"\\C[9]➤\\C[0] Restablece \\I[101]El coste de energía de la Postura de Secretaria."
+]},
 "skill_78_msg1":{
-  "text":["%1 trata de soportar el placer!"]
+"text":["¡%1 trata de soportar el placer!"]
 },
 "skill_79_name":{
-  "text":["Postura de placer (1 turno)"]
+"text":["Postura de Placer (1 turno)"]
 },
 "skill_79_desc":{
-  "text": [
-    "\\}\\}\\C[1]➤\\C[0] No hacer nada durante 1 turno."
-  ]},
+"text": [
+"\\}\\}\\C[1]➤\\C[0] No haces nada durante 1 turno."
+]},
 "skill_79_msg1":{
-  "text":["%1 se abre al placer!"]
+"text":["¡%1 se deja llevar por el placer!"]
 },
 
 "skill_81_name":{
-"text":["Suprimir Deseo Oral"]
+"text":["Suprimir Deseo: Boca"]
 },
 "skill_81_desc":{
-  "text": [
-    "Disminuir Deseo Oral.",
-    "\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
-    "♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
-  ]},
+"text": [
+"Disminuye el Deseo: Boca.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
+"♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
+]},
 "skill_82_name":{
-"text":["Suprimir Deseo de Tetas"]
+"text":["Suprimir Deseo: Tetas"]
 },
 "skill_82_desc":{
-  "text": [
-    "Disminuir Deseo de Tetas.",
-    "\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
-    "♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
-  ]},
+"text": [
+"Disminuye el Deseo: Tetas.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
+"♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
+]},
 "skill_83_name":{
-"text":["Suprimir Deseo de Vagina"]
+"text":["Suprimir Deseo: Coño"]
 },
 "skill_83_desc":{
-  "text": [
-    "Decrease Deseo de Vagina.",
-    "\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
-    " ♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
-  ]},
+"text": [
+"Disminuye el Deseo: Coño.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
+" ♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
+]},
 "skill_84_name":{
-"text":["Suprimir Deseo de Culo"]
+"text":["Suprimir Deseo: Culo"]
 },
 "skill_84_desc":{
-  "text": [
-    "Decrease Deseo de Culo.",
-    "\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
-    " ♥50 ➠Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
-  ]},
+"text": [
+"Disminuye el Deseo: Culo.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
+" ♥50 ➠Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
+]},
 "skill_85_name":{
-"text":["Suprimir Deseo de Pene"]
+"text":["Suprimir Deseo: Polla"]
 },
 "skill_85_desc":{
-  "text": [
-    "Decrease Deseo de Pene.",
-    "\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
-    " ♥50 ➠ Handjob ♥65 ➠ Servicio ♥85 ➠ Penetración"
-  ]},
+"text": [
+"Disminuye el Deseo: Polla.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
+" ♥50 ➠ Paja ♥65 ➠ Servicio ♥85 ➠ Penetración"
+]},
 "skill_86_name":{
-"text":["Pensamientos curativos"]
+"text":["Pensamientos Curativos"]
 },
 "skill_86_desc":{
-  "text": [
-    "Recupera un poco de Energía."
-  ]},
+"text": [
+"Recupera un poco de Energía."
+]},
 "skill_87_name":{
-"text":["No ver el mal"]
+"text":["No Ver el Mal"]
 },
 "skill_87_desc":{
-  "text": [
-    "Aumenta la resistencia a la vista durante 1 turno."
-  ]},
+"text": [
+"Aumenta la Resistencia a las Miradas durante 1 turno."
+]},
 "skill_88_name":{
-"text":["No escuchar el mal"]
+"text":["No Escuchar el Mal"]
 },
 "skill_88_desc":{
-  "text": [
-    "Aumenta la resistencia a hablar durante 1 turno."
-  ]},
+"text": [
+"Aumenta la Resistencia a los Comentarios durante 1 turno."
+]},
 "skill_89_name":{
-"text":["No hables cosas malas"]
+"text":["No Decir el Mal"]
 },
 "skill_89_desc":{
-  "text": [
-    "Disminuir todos los Deseos."
-  ]},
+"text": [
+"Disminuye todos los Deseos."
+]},
 "skill_90_name":{
-"text":["No hables cosas malas"]
+"text":["No Decir el Mal"]
 },
 "skill_90_desc":{
-  "text": [
-    "Disminuye todos los deseos.",
-    "\\}\\}\\C[13]➤\\C[0] \\I[331]No ver el mal y \\I[348]No escuchar el mal deben usarse primero."
-  ]},
+"text": [
+"Disminuye todos los Deseos.",
+"\\}\\}\\C[13]➤\\C[0] \\I[331]No Ver el Mal y \\I[348]No Escuchar el Mal deben usarse primero."
+]},
 "skill_91_name":{
-"text":["Liberar Deseo Oral"]
+"text":["Liberar Deseo: Boca"]
 },
 "skill_91_desc":{
 "text":[
-"Increase Deseo Oral.",
-"\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
+"Aumenta el Deseo: Boca.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
 " ♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
 ]},
 "skill_92_name":{
-"text":["Liberar Deseo de Tetas"]
+"text":["Liberar Deseo: Tetas"]
 },
 "skill_92_desc":{
 "text":[
-"Increase Deseo de Tetas.",
-"\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
+"Aumenta el Deseo: Tetas.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
 " ♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
 ]},
 "skill_93_name":{
-"text":["Liberar Deseo de Vagina"]
+"text":["Liberar Deseo: Coño"]
 },
 "skill_93_desc":{
 "text":[
-"Increase Deseo de Vagina.",
-"\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
+"Aumenta el Deseo: Coño.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
 " ♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
 ]},
 "skill_94_name":{
-"text":["Liberar Deseo de Culo"]
+"text":["Liberar Deseo: Culo"]
 },
 "skill_94_desc":{
 "text":[
-"Increase Deseo de Culo.",
-"\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
+"Aumenta el Deseo: Culo.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
 " ♥50 ➠ Caricias ligeras ♥75 ➠ Caricias intensas ♥100 ➠ Sexo"
 ]},
 "skill_95_name":{
-"text":["Liberar Deseo de Pene"]
+"text":["Liberar Deseo: Polla"]
 },
 "skill_95_desc":{
 "text":[
-"Increase Deseo de Pene.",
-"\\}\\}\\C[1]Requisito de deseo predeterminado para actos sexuales",
-" ♥50 ➠ Paja ♥65 ➠ Servicio ♥85 ➠ Penetracion"
+"Aumenta el Deseo: Polla.",
+"\\}\\}\\C[1]Requisitos de Deseo por defecto para Actos Sexuales",
+" ♥50 ➠ Paja ♥65 ➠ Servicio ♥85 ➠ Penetración"
 ]},
 "skill_96_name":{
-"text":["Mente sobre materia"]
+"text":["Mente Sobre Materia"]
 },
 "skill_96_desc":{
-  "text": [
-    "Recupera mucha energía."
-  ]},
+"text": [
+"Recupera mucha Energía."
+]},
 
 "skill_99_name":{
-"text":["Mármol de realidad"]
+"text":["Esfera de Realidad"]
 },
 "skill_99_desc":{
-  "text": [
-    "Aumenta Encanto por 1 turno."
-  ]},
+"text": [
+"Aumenta el Atractivo durante 1 turno."
+]},
 "skill_100_name":{
-"text":["Ojo de la mente"]
+"text":["Ojo de la Mente"]
 },
 "skill_100_desc":{
-  "text": [
-    "\\}Aumenta la precisión, la evasión y la tasa crítica durante 1 turno."
-  ]},
+"text": [
+"\\}Aumenta la Precisión, la Evasión y la Probabilidad de Crítico durante 1 turno."
+]},
 "skill_101_name":{
 "text":["Ki"]
 },
 "skill_101_desc":{
-  "text": [
-    "Aumenta el ataque durante 1 turno."
-  ]},
+"text": [
+"Aumenta el Ataque durante 1 turno."
+]},
 "skill_102_name":{
-"text":["Enfocar"]
+"text":["Concentración"]
 },
 "skill_102_desc":{
-  "text": [
-    "Aumenta la tasa de contraataque durante 1 turno."
-  ]},
+"text": [
+"Aumenta la Probabilidad de Contraataque durante 1 turno."
+]},
 "skill_103_name":{
-"text":["Control de bordes"]
+"text":["Control del Orgasmo"]
 },
 "skill_103_desc":{
-  "text": [
-    "Aumenta el placer requerido para eyacular durante 1 turno.",
-    "\\}\\}\\C[13]➤\\C[0] Solo funciona en el objetivo de una habilidad sexual."
-  ]},
+"text": [
+"Aumenta el Placer necesario para eyacular durante 1 turno.",
+"\\}\\}\\C[13]➤\\C[0] Solo funciona en el objetivo de una habilidad sexual."
+]},
 "skill_104_name":{
-  "text":["resistir el orgasmo"]
+"text":["Resistir el Orgasmo"]
 },
 "skill_104_desc":{
-  "text": [
-    "\\}Aumenta el placer necesario para tener un orgasmo durante 1 turno."
-  ]},
+"text": [
+"\\}Aumenta el Placer necesario para tener un orgasmo durante 1 turno."
+]},
 "skill_105_name":{
-"text":["Restaurar la mente"]
+"text":["Restaurar la Mente"]
 },
 "skill_105_desc":{
-  "text": [
-    "\\}Intente reducir la duración de la dicha posorgásmica."
-  ]},
+"text": [
+"\\}Intentas reducir la duración de la Dicha postorgásmica."
+]},
 "skill_106_name":{
-"text":["Permitir eyaculaciones externas"]
+"text":["Permitir las Corridas Externas"]
 },
 "skill_106_desc":{
-  "text": [
-    "\\}\\}Restaurar Deseo de Pene original Requisitos para:",
-    "Bukkake y Corrida Facial",
-    "\\C[9]➤\\C[0] Voluntad Maxima también aumentará en 10."
-  ]},
+"text": [
+"\\}\\}Restaura los requerimientos originales de Deseo: Polla para",
+"Bukkakes y Corrida Faciales",
+"\\C[9]➤\\C[0] La Voluntad Maxima también aumenta en 10."
+]},
 "skill_107_name":{
-"text":["Negar las eyaculaciones externas"]
+"text":["Negar las Corridas Externas"]
 },
 "skill_107_desc":{
-  "text": [
-    "\\}\\}Aumenta los requisitos de Deseo de Pene según el nivel de sadismo para:",
-    "Bukkake y Corrida Facial",
-    "\\C[9]➤\\C[0] La Voluntad máxima se reduce en 10 mientras este efecto está activo."
-  ]},
+"text": [
+"\\}\\}Aumenta los requerimientos de Deseo: Polla según el nivel de sadismo para",
+"Bukkakes y Corridas Faciales",
+"\\C[9]➤\\C[0] La Voluntad máxima se reduce en 10 mientras este efecto está activo."
+]},
 "skill_108_name":{
-"text":["Permitir eyaculaciones internas"]
+"text":["Permitir las Corridas Internas"]
 },
 "skill_108_desc":{
-  "text": [
-    "\\}\\}Restaurar Deseo de Pene original Requisitos para:",
-    "Tragando semen, corrida en la vagina y corrida en el ano",
-    "\\C[9]➤\\C[0] Voluntad Maxima también aumentará en 10."
-  ]},
+"text": [
+"\\}\\}Restaura los requerimientos originales de Deseo: Polla para",
+"Tragar semen y corridas internas vaginales y anales",
+"\\C[9]➤\\C[0] La Voluntad Maxima también aumenta en 10."
+]},
 "skill_109_name":{
-"text":["Negar las eyaculaciones internas"]
+"text":["Negar las Corridas Internas"]
 },
 "skill_109_desc":{
-  "text": [
-    "\\}\\}Aumenta los requisitos de Deseo de Pene según el nivel de sadismo para:",
-    "Tragando semen, corrida en la vagina y corrida en el ano",
-    "\\C[9]➤\\C[0] Voluntad Máxima se reduce en 10 mientras este efecto está activo."
-  ]},
+"text": [
+"\\}\\}Aumenta los requerimientos de Deseo: Polla según el nivel de sadismo para",
+"Tragar semen y corridas internas vaginales y anales",
+"\\C[9]➤\\C[0] La Voluntad Máxima se reduce en 10 mientras este efecto está activo."
+]},
 
 
 "skill_114_name":{
