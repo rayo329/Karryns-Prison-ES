@@ -6180,7 +6180,7 @@
 },
 "skill_368_desc":{
 "text":[
-"Los encargados de ayudar a mantener el orden dentro de la prisión.",
+"Los encargados de mantener el orden dentro de la prisión.",
 "Probablemente lo único esencial en una prisión además de tener presos.",
 "\\REM_EFF[skill_368_effect]"
 ]},
@@ -6189,8 +6189,8 @@
 },
 "skill_369_desc":{
 "text":[
-"Hay una iniciativa en todo el imperio para pagar a los empresarios que contratan a ex delincuentes.",
-"Así que participamos en ese programa contratando a nuestros propios ex reclusos.",
+"Hay una iniciativa en el imperio que da una ayuda a los empresarios que contraten ex delincuentes.",
+"Así que hemos participado en el programa contratando a nuestros propios ex reclusos.",
 "\\REM_EFF[skill_369_effect]"
 ]},
 "skill_370_name":{
@@ -6198,57 +6198,57 @@
 },
 "skill_370_desc":{
 "text":[
-"A los guardias recién contratados sólo se les capacita con un folleto de doble cara.",
-"Es rentable, y el folleto se puede redistribuir al siguiente empleado una vez que haya terminado de leerlo.",
+"A los guardias recién contratados solo se les da un folleto a doble cara.",
+"Es rentable, y el folleto se le puede dar al siguiente empleado una vez que haya terminado de leerlo.",
 "\\REM_EFF[skill_370_effect]"
 ]},
 "skill_371_name":{
-"text":["Equipo de Guardia de Segunda mano"]
+"text":["Guardias con Equipo de Segunda mano"]
 },
 "skill_371_desc":{
 "text":[
-"Los guardias están con equipados con material barato y mal ajustado procedente de un vendedor de artículos usados.",
-"El costo de repararlos supera con creces el coste inicial de compra...",
+"Los guardias están equipados con material barato procedente de un vendedor de artículos usados.",
+"El coste de repararlos supera el coste inicial de compra...",
 "\\REM_EFF[skill_371_effect]"
 ]},
 "skill_372_name":{
-"text":["El Nivel 1 está Subyugado"]
+"text":["Nivel 1 Subyugado"]
 },
 "skill_372_desc":{
 "text":[
 "\\}Se ha dado el primer paso hacia la restauración de la prisión.",
-"\\}Ahora podemos empezar a reconstruir algunas de las principales funciones necesarias para que la prisión se mantenga.",
+"\\}Ahora podemos empezar a restaurar algunas de las funciones necesarias para que la prisión se mantenga.",
 "\\}\\REM_EFF[skill_372_effect]"
 ]},
 "skill_373_name":{
-"text":["El Nivel 2 está Subyugado"]
+"text":["Nivel 2 Subyugado"]
 },
 "skill_373_desc":{
 "text":[
-"\\}Con el orden restablecido en el Nivel 2, ya se dispone de las últimas piezas necesarias para que la prisión sea autosuficiente.",
-"\\}¡Ha llegado el momento de escribir un nuevo capítulo para el Fuerte Ganon!",
+"\\}Con el orden restablecido en el Nivel 2, ya tenemos las últimas piezas para que la prisión sea autosuficiente.",
+"\\}¡Ha llegado el momento de escribir un nuevo capítulo en la historia  del Fuerte Ganon!",
 "\\}\\}\\REM_EFF[skill_373_effect]"
 ]},
 "skill_374_name":{
-"text":["El Nivel 3 está Subyugado"]
+"text":["Nivel 3 Subyugado"]
 },
 "skill_374_desc":{
 "text":[
-"\\}Aunque el Nivel 3 nunca puede ser realmente subyugado, sí nos permite a avanzar por el Fuerte Ganon con seguridad.",
-"\\}Es por eso que la cuestión de qué hacer con más distrubios realmente necesita ser abordada en este punto.",
+"\\}Aunque el Nivel 3 nunca puede ser realmente subyugado, ahora podemos seguir avanzando con seguridad.",
+"\\}Es por eso que debemos abordar ahora mismo la cuestión de qué hacer con los próximos disturbios.",
 "\\}\\}\\REM_EFF[skill_374_effect]"
 ]},
 "skill_375_name":{
-"text":["El Nivel 4 está Subyugado"]
+"text":["Nivel 4 Subyugado"]
 },
 "skill_375_desc":{
 "text":[
 "\\}¡Por fin está despejado el camino hacia el Nivel 5!",
-"\\}No hay tiempo que perder, ¡Tus enemigos no se quedarán quietos!",
+"\\}No hay tiempo que perder, ¡Tus enemigos no se quedarán de brazos cruzados!",
 "\\}\\}\\}\\REM_EFF[skill_375_effect]"
 ]},
 "skill_376_name":{
-"text":["Normas de Contratación más Laxas"]
+"text":["Relajar los Requisitos de Contratación"]
 },
 "skill_376_desc":{
 "text":[
@@ -6257,39 +6257,39 @@
 "\\REM_EFF[skill_376_effect]"
 ]},
 "skill_377_name":{
-"text":["Contratar a Reclusos Actuales"]
+"text":["Contratar a Reclusos"]
 },
 "skill_377_desc":{
 "text":[
-"¡Sáltate el paso intermedio de esperar a que los reclusos salgan",
-"y contrátalos mientras cumplen su condena!",
+"¡No esperes a que los reclusos salgan¡",
+"¡Contrátalos mientras cumplen su condena!",
 "\\REM_EFF[skill_377_effect]"
 ]},
 "skill_378_name":{
-"text":["No hay Normas de Contratación"]
+"text":["Sin Requisitos de Contratación"]
 },
 "skill_378_desc":{
 "text":[
-"Suprime todo tipo de comprobación de antecedentes antes de contratar a un guardia.",
+"Quita todo tipo de comprobación de antecedentes antes de contratar a un guardia.",
 "Cualquier recluso que desee ser guardia podrá serlo de inmediato.",
 "\\REM_EFF[skill_378_effect]"
 ]},
 "skill_379_name":{
-"text":["Entrenamiento Básico de Guardias"]
+"text":["Entrenamiento Básico para Guardias"]
 },
 "skill_379_desc":{
 "text":[
-"Todos los nuevos guardias contratados recibirán primero una semana de capacitación en el puesto de trabajo.",
+"Todos los nuevos guardias recibirán primero una semana de entrenamiento en sus funciones.",
 "Esto aumentará nuestros costes, pero los guardias serán mejores en su trabajo.",
 "\\REM_EFF[skill_379_effect]"
 ]},
 "skill_380_name":{
-"text":["Entrenamiento Avanzado de Guardias"]
+"text":["Entrenamiento Avanzado para Guardias"]
 },
 "skill_380_desc":{
 "text":[
-"Implementar un programa de formación de tres semanas para los nuevos empleados.",
-"Todos los guardias actuales también tendrán ahora revisiones trimestrales de su rendimiento.",
+"Implementa un programa de formación de tres semanas para los nuevos empleados.",
+"Todos los guardias tendrán ahora revisiones trimestrales de su rendimiento.",
 "\\REM_EFF[skill_380_effect]"
 ]},
 "skill_381_name":{
@@ -6297,7 +6297,7 @@
 },
 "skill_381_desc":{
 "text":[
-"Equipar a los guardias con equipo estándar.",
+"Equipa a los guardias con equipo estándar.",
 "Contar con equipamiento nuevo les subirá la moral.",
 "\\REM_EFF[skill_381_effect]"
 ]},
@@ -6306,7 +6306,7 @@
 },
 "skill_382_desc":{
 "text":[
-"Mejora todo el equipo de los guardias para que puedan resistir disturbios.",
+"Mejora todo el equipo de los guardias para que puedan resistir motines.",
 "Dicen que a veces el traje hace al hombre.",
 "\\REM_EFF[skill_382_effect]"
 ]},
@@ -6315,8 +6315,8 @@
 },
 "skill_383_desc":{
 "text":[
-"A partir de ahora, todo el equipamiento de los guardias se pagará por adelantado con el propio salario de los guardias. ",
-"Puede que sea un centro penitenciario, pero deben gestionarse adecuadamente.",
+"A partir de ahora, todo el equipo de los guardias se pagará por adelantado con su propio salario. ",
+"Aunque esto sea un centro penitenciario, se debe gestionar adecuadamente.",
 "\\REM_EFF[skill_383_effect]"
 ]},
 "skill_384_name":{
@@ -6324,17 +6324,17 @@
 },
 "skill_384_desc":{
 "text":[
-"Los guardias son ahora responsables de sufragar los costes de mantenimiento de sus equipos.",
-"Esto les enseñará a cuidar mejor sus equipos a partir de ahora.",
+"Los guardias son ahora responsables de pagar el mantenimiento de su equipo.",
+"Esto les enseñará a cuidarlo mejor.",
 "\\REM_EFF[skill_384_effect]"
 ]},
 "skill_385_name":{
-"text":["Si Rompes, Pagas"]
+"text":["Quien lo Rompe lo Paga"]
 },
 "skill_385_desc":{
 "text":[
-"Los guardias son ahora responsables de pagar los equipos cuando se rompen",
-"en acto de servicio. Podrán quejarse de este decreto, pero tú eres la Directora.",
+"Los guardias son ahora responsables de pagar el equipo cuando se rompe en",
+"acto de servicio. Seguramente se quejarán, pero al final tú eres la Directora.",
 "\\REM_EFF[skill_385_effect]"
 ]},
 "skill_386_name":{
@@ -6343,7 +6343,7 @@
 "skill_386_desc":{
 "text":[
 "Las zona de la prisión donde se prepara la comida y luego se sirve a los guardias y reclusos.",
-"Todos, lleven la ropa que lleven, necesitan comer.",
+"Todo el mundo necesitan comer.",
 "\\REM_EFF[skill_386_effect]"
 ]},
 "skill_387_name":{
@@ -6361,7 +6361,7 @@
 "skill_388_desc":{
 "text":[
 "La modernización de los equipos de cocina ahorrará a la prisión más dinero",
-"a largo plazo, con menores costos de mantenimiento y mayor eficiencia energética.",
+"a largo plazo, con menores costes de mantenimiento y mayor eficiencia energética.",
 "\\REM_EFF[skill_388_effect]"
 ]},
 "skill_389_name":{
@@ -6378,8 +6378,8 @@
 },
 "skill_390_desc":{
 "text":[
-"Comprueba los antecedentes de los reclusos para encontrar a los que que estén cualificados para ser cocineros.",
-"¡Lo mejor de todo es que no te exigirán ninguna paga!",
+"Revisa los papeles de los reclusos para encontrar a los que que estén cualificados para ser cocineros.",
+"¡Lo mejor de todo es que no necesitas pagarles!",
 "\\REM_EFF[skill_390_effect]"
 ]},
 "skill_391_name":{
@@ -6387,26 +6387,26 @@
 },
 "skill_391_desc":{
 "text":[
-"Poner en marcha un programa de formación para que los reclusos capaces entren",
+"Pon en marcha un programa de formación para que reclusos hábiles entren",
 "en la cocina y podamos sustituir a todos los cocineros asalariados.",
 "\\REM_EFF[skill_391_effect]"
 ]},
 "skill_392_name":{
-"text":["Contratar Lavavajillas"]
+"text":["Contratar Lavaplatos"]
 },
 "skill_392_desc":{
 "text":[
-"La prisión necesita lavavajillas para poder hacer frente al aumento de vajillas",
-"sin lavar que se acumulan. A nadie le gusta comer en un plato sucio.",
+"La prisión necesita lavaplatos para poder hacer frente a la pila de platos sucios.",
+"A nadie le gusta comer en un plato sucio.",
 "\\REM_EFF[skill_392_effect]"
 ]},
 "skill_393_name":{
-"text":["Utilizar a Reclusos como Lavavajillas"]
+"text":["Utilizar Reclusos de Lavaplatos"]
 },
 "skill_393_desc":{
 "text":[
 "Cualquiera puede fregar platos, especialmente los reclusos.",
-"Así que por qué pagar a alguien para que lo haga cuando hay mano de obra gratuita para hacerlo en casa.",
+"Así que para qué vamos a pagar a alguien cuando tenemos mano de obra gratuita.",
 "\\REM_EFF[skill_393_effect]"
 ]},
 "skill_394_name":{
@@ -6414,8 +6414,8 @@
 },
 "skill_394_desc":{
 "text":[
-"La mayoría de los nuevos equipos de cocina se están desperdiciando sin que nadie los utilice.",
-"Contratemos a un chef para mejorar la calidad de los alimentos de la cocina.",
+"La mayoría del nuevo equipamiento de la cocina se está desperdiciando sin que nadie lo utilice.",
+"Contratemos a un chef para mejorar la calidad de la comida.",
 "\\REM_EFF[skill_394_effect]"
 ]},
 "skill_395_name":{
@@ -6424,7 +6424,7 @@
 "skill_395_desc":{
 "text":[
 "Ser la Directora es un trabajo duro, por eso la cocina debe tomarse el tiempo necesario",
-"cada días para ofrecerte una comida con ingredientes de alta calidad.",
+"cada día para ofrecerte una comida con ingredientes de alta calidad.",
 "\\REM_EFF[skill_395_effect]"
 ]},
 "skill_396_name":{
@@ -6433,7 +6433,7 @@
 "skill_396_desc":{
 "text":[
 "Hagamos un contrato con un proveedor de alimentos para que los reclusos",
-"no tengan que comer un plato de comida insipida en cada comida.",
+"no tengan que comer un rancho insípido todos los días.",
 "\\REM_EFF[skill_396_effect]"
 ]},
 "skill_397_name":{
@@ -6442,7 +6442,7 @@
 "skill_397_desc":{
 "text":[
 "Podemos ampliar el menú de los reclusos con ingredientes como carne y pescado.",
-"Ahora es como si lleváramos un restaurante.",
+"Es como si lleváramos un restaurante.",
 "\\REM_EFF[skill_397_effect]"
 ]},
 "skill_398_name":{
@@ -6455,12 +6455,12 @@
 "\\}\\REM_EFF[skill_398_effect]"
 ]},
 "skill_399_name":{
-"text":["Pagar por un Mejor Programa Alimentario"]
+"text":["Quien Quiera Comer Mejor, Que Pague"]
 },
 "skill_399_desc":{
 "text":[
 "Es un desperdicio dejar que los reclusos coman tan bien gratis.",
-"Hagamos que paguen por ciertas opciones de comida, como que les den la comida caliente.",
+"Hagamos que paguen por ciertas opciones, como por ejemplo que les den la comida caliente.",
 "\\REM_EFF[skill_399_effect]"
 ]},
 "skill_400_name":{
@@ -6477,17 +6477,17 @@
 },
 "skill_401_desc":{
 "text":[
-"Mantén contentos a los guardias y el resto se alineará.",
-"Podemos permitirnos mimar a los guardias con opíparas comidas.",
+"Mantén contentos a los guardias y estará todo bajo control.",
+"Podemos permitirnos mimar a los guardias con buena comida.",
 "\\REM_EFF[skill_401_effect]"
 ]},
 "skill_402_name":{
-"text":["El Guardia Paga por la Comida"]
+"text":["Los Guardias Pagan por la Comida"]
 },
 "skill_402_desc":{
 "text":[
-"Resulta demasiado caro alimentar gratuitamente a todos los guardias con comida cara.",
-"Ahora los guardias tendrán que pagar por una comida no estándar.",
+"Es demasiado caro alimentar gratuitamente a todos los guardias.",
+"Ahora tendrán que pagar por una comida no estándar.",
 "\\REM_EFF[skill_402_effect]"
 ]},
 "skill_403_name":{
@@ -6504,16 +6504,16 @@
 },
 "skill_404_desc":{
 "text":[
-"No se escatimaron gastos en la construcción y acondicionamiento de la enfermería de la prisión.",
-"Con nuestra enfermería no hay que preocuparse por lesiones o enfermedades.",
+"No se escatimaron gastos en la construcción de la enfermería de la prisión.",
+"Con la enfermería no hay que preocuparse por lesiones o enfermedades.",
 "\\REM_EFF[skill_404_effect]"
 ]},
 "skill_405_name":{
-"text":["Modernizar los Equipos Médicos"]
+"text":["Modernizar el Equipamiento Médico"]
 },
 "skill_405_desc":{
 "text":[
-"Algunos de los equipos actuales pueden actualizarse para ser más compactos y eficientes energéticamente",
+"Parte del equipo actual puede actualizarse para ser más compacto y eficiente",
 "",
 "\\REM_EFF[skill_405_effect]"
 ]},
@@ -6549,17 +6549,17 @@
 },
 "skill_409_desc":{
 "text":[
-"Es caro comprar a propósito medicamentos de marca. Será mucho más barato comprar fármacos",
-"con los mismos efectos a un proveedor especializado en medicamentos experimentales.",
+"Es caro comprar medicamentos de marca. Es más barato comprar fármacos",
+"con los mismos efectos a un proveedor de medicamentos experimentales.",
 "\\REM_EFF[skill_409_effect]"
 ]},
 "skill_410_name":{
-"text":["Permitir Pruebas de Investigación"]
+"text":["Permitir Experimentación"]
 },
 "skill_410_desc":{
 "text":[
-"Al parecer, los farmacéuticos experimentales pagarán a la prisión por los informes sobre los efectos",
-"de sus medicamentos en nuestros reclusos y personal. No hay razón para no hacerlo.",
+"Parece que los farmacéuticos pagarían a la prisión por los informes sobre los efectos",
+"de sus medicamentos experimentales en nuestros reclusos y personal. No hay razón para no hacerlo.",
 "\\REM_EFF[skill_410_effect]"
 ]},
 "skill_411_name":{
@@ -6567,7 +6567,7 @@
 },
 "skill_411_desc":{
 "text":[
-"Los reclusos lesionados son una buena fuente de oportunidad para probar los fármacos experimentales más arriesgados",
+"Los reclusos heridos son una buena oportunidad de probar los fármacos experimentales más arriesgados",
 "y los farmacéuticos pagarán generosamente a la prisión por los resultados.",
 "\\REM_EFF[skill_411_effect]"
 ]},
@@ -6581,12 +6581,12 @@
 "\\}\\REM_EFF[skill_412_effect]"
 ]},
 "skill_413_name":{
-"text":["Medicamentos de Resistencia Sexual para los Guardias"]
+"text":["Medicamentos de Rendimiento Sexual para los Guardias"]
 },
 "skill_413_desc":{
 "text":[
 "Si no estas satisfecha con el rendimiento sexual de los guardias, podemos encargarle algunos fármacos",
-"de resistencia sexual que deberían hacer que duren más. Todo para su disfrute, por supuesto.",
+"de rendimiento sexual que deberían hacer que duren más. Todo para su disfrute, por supuesto.",
 "\\REM_EFF[skill_413_effect]"
 ]},
 "skill_414_name":{
@@ -6594,7 +6594,7 @@
 },
 "skill_414_desc":{
 "text":[
-"\\}¿Sigues insatisfecha con los guardias? Entonces tal vez algunas drogas para mejorar el rendimiento les hagan mucho mejores en el.",
+"\\}¿Sigues insatisfecha con los guardias? Tal vez algunas drogas para mejorar el rendimiento les hagan mucho mejores en el.",
 "\\}cumplimiento de sus deberes extraoficiales. Al fin y al cabo, complacer a la Directora es la razón por la que se alistaron.",
 "\\REM_EFF[skill_414_effect]"
 ]},
@@ -6604,25 +6604,25 @@
 "skill_415_desc":{
 "text":[
 "Proporcionar a los reclusos libre acceso a drogas recreativas hará que sean más fáciles de controlar",
-"Una mente embotada es una mente obediente.",
+"Una mente obtusa es una mente obediente.",
 "\\}\\}\\REM_EFF[skill_415_effect]"
 ]},
 "skill_416_name":{
-"text":["Medicamentos de Resistencia Sexual para los Reclusos"]
+"text":["Medicamentos de Rendimiento Sexual para los Reclusos"]
 },
 "skill_416_desc":{
 "text":[
 "¿Te decepciona lo rápido que se corren los reclusos?",
-"Podemos intentar proporcionarle píldoras de resistencia sexual obligatorias para que pueda divertirse más.",
+"Podemos intentar proporcionarles píldoras de rendimiento sexual para que puedas divertirte más.",
 "\\}\\REM_EFF[skill_416_effect]"
 ]},
 "skill_417_name":{
-"text":["Medicamentos Afrodisíacos para los Reclusos"]
+"text":["Afrodisíacos para los Reclusos"]
 },
 "skill_417_desc":{
 "text":[
 "\\}Proporcionemos drogas afrodisíacas a los reclusos mientras les decimos que son drogas para mejorar el rendimiento.",
-"\\}Los afrodisíacos te ayudaran a seducirlos más fácil con tu cuerpo.",
+"\\}Los afrodisíacos te ayudaran a seducirlos más fácilmente con tu cuerpo.",
 "\\}\\REM_EFF[skill_417_effect]"
 ]},
 
@@ -6631,7 +6631,7 @@
 },
 "skill_427_desc":{
 "text":[
-"Entrena para desbloquear la capacidad de canalizar el ki interior.",
+"Entrena para desbloquear la capacidad de canalizar tu ki interior.",
 "",
 "\\REM_EFF[skill_427_effect]"
 ]},
@@ -6640,7 +6640,7 @@
 },
 "skill_428_desc":{
 "text":[
-"Entrena para desbloquear la capacidad de enfocar la mente.",
+"Entrena para desbloquear la capacidad de enfocar tu mente.",
 "",
 "\\REM_EFF[skill_428_effect]"
 ]},
@@ -6651,20 +6651,20 @@
 },
 "skill_450_desc":{
 "text":[
-"Establecer una puerta trasera para la compra secreta de artículos personales con fondos de la prisión.",
-"Cada accesorio comprado aquí aumenta \\C[11]\\I[378]Atractivo \\C[0]y \\C[31]\\I[10]Corrupción \\C[0]en 1."
+"Establece una puerta trasera para la compra secreta de artículos personales con fondos de la prisión.",
+"Cada accesorio comprado aquí aumenta el \\C[11]\\I[378]Atractivo \\C[0]y la \\C[31]\\I[10]Corrupción \\C[0]en 1."
 ]},
 "skill_451_name":{
 "text":["Publicar Perfil"]
 },
 "skill_451_desc":{
 "text":[
-"La gente de aquí tiene un interés anormal en su información personal.",
-"Así que vamos a vender esa información a tus fans por algo de dinero.",
+"La gente de aquí tiene un interés anormal en tu información personal.",
+"Vendamos esa información a tus fans por algo de dinero.",
 "\\REM_EFF[skill_451_effect]"
 ]},
 "skill_452_name":{
-"text":["Publicar tu Estado de Virginidad"]
+"text":["Publicar Estado de tu Virginidad"]
 },
 "skill_452_desc":{
 "text":[
@@ -6673,7 +6673,7 @@
 "\\REM_EFF[skill_452_effect]"
 ]},
 "skill_453_name":{
-"text":["Publicar tus Primeras Veces"]
+"text":["Publicar Primeras Veces"]
 },
 "skill_453_desc":{
 "text":[
@@ -6682,39 +6682,39 @@
 "\\REM_EFF[skill_453_effect]"
 ]},
 "skill_454_name":{
-"text":["Publicar tus Actos Recientes"]
+"text":["Publicar Actos Recientes"]
 },
 "skill_454_desc":{
 "text":[
-"Sólo a unos pocos fans desviados les interesa ​​saber con qué persona has estado recientemente.",
-"Aún así, el dinero fácil es dinero fácil.",
+"Sólo a unos pocos degenerados les interesa saber con qué persona has estado recientemente.",
+"El dinero fácil es dinero fácil.",
 "\\REM_EFF[skill_454_effect]"
 ]},
 "skill_455_name":{
-"text":["Publicar tus Resistencias"]
+"text":["Publicar Resistencias"]
 },
 "skill_455_desc":{
 "text":[
-"Algunos en la prisión están interesados ​​en tus debilidades generales.",
-"No debería doler mucho decírselos.",
+"Algunos están interesados en saber qué cosas toleras mejor.",
+"Contarlo no será para tanto.",
 "\\REM_EFF[skill_455_effect]"
 ]},
 "skill_456_name":{
-"text":["Publicar los Niveles de Sexo"]
+"text":["Publicar Niveles Sexuales"]
 },
 "skill_456_desc":{
 "text":[
-"Algunos en la prisión pagarán dinero para saber más sobre tus diversas habilidades extracurriculares.",
-"Todas tus habilidades extracurriculares.",
+"Algunos pagarán dinero para saber más sobre tus diversas habilidades 'extracurriculares'.",
+"TODAS tus habilidades extracurriculares.",
 "\\REM_EFF[skill_456_effect]"
 ]},
 "skill_457_name":{
-"text":["Publicar las Sensibilidades"]
+"text":["Publicar Sensibilidades"]
 },
 "skill_457_desc":{
 "text":[
-"Casi todos en esta prisión pagarán generosamente para",
-"averiguar los puntos débiles exactos de tu cuerpo.",
+"Casi todo el mundo pagaría generosamente para",
+"averiguar exactamente los puntos débiles de tu cuerpo.",
 "\\REM_EFF[skill_457_effect]"
 ]},
 "skill_458_name":{
@@ -6723,7 +6723,7 @@
 "skill_458_desc":{
 "text":[
 "Has estado llevando la cuenta de las diversas cosas que te han pasado, ¿verdad?",
-"Mucha gente estará muy interesada en ver publicados esos contenidos.",
+"Mucha gente estaría muy interesada en ver esos registros.",
 "\\REM_EFF[skill_458_effect]"
 ]},
 "skill_459_name":{
@@ -6731,8 +6731,8 @@
 },
 "skill_459_desc":{
 "text":[
-"¿Todavía tienes más contenido inéditos de los que has estado haciendo?",
-"Si es así, vamos a publicar ese contenido.",
+"¿Todavía hay más cosas de las que has ido llevando un registro?",
+"Si es así, vamos a publicarlas.",
 "\\REM_EFF[skill_459_effect]"
 ]},
 "skill_460_name":{
@@ -6741,7 +6741,7 @@
 "skill_460_desc":{
 "text":[
 "La gente quiere saber. Necesita saber.",
-"Libera el resto de los registros secretos que ha estado guardando, por favor.",
+"Publica el resto de registros secretos que has estado guardando, por favor.",
 "\\REM_EFF[skill_460_effect]"
 ]},
 "skill_461_name":{
@@ -6785,7 +6785,7 @@
 "skill_466_desc":{
 "text":[
 "Esta es la alabarda que usas para proteger a Su Majestad Imperial el Emperador.",
-"Te fue otorgado por Su Majestad Imperial cuando te convertiste en Secretaria Imperial."
+"Te fue otorgada por Su Majestad Imperial cuando te convertiste en Secretaria Imperial."
 ]},
 "skill_467_name":{
 "text":["Alabarda Reforzada I"]
@@ -6793,7 +6793,7 @@
 "skill_467_desc":{
 "text":[
 "Por muy fuerte que sea la Alabarda de Secretaria, aún se puede mejorar",
-"para especializarla para el combate en interiores contra los reclusos.",
+"para especializarla en el combate en interiores contra los reclusos.",
 "\\REM_EFF[skill_467_effect]"
 ]},
 "skill_468_name":{
@@ -6810,8 +6810,8 @@
 },
 "skill_469_desc":{
 "text":[
-"A medida que te adentres en la prisión, necesitarás especializarte",
-"en la alabarda para el combate antimonstruos.",
+"A medida que te adentres en la prisión, necesitarás especializar la",
+"alabarda para combate antimonstruos.",
 "\\REM_EFF[skill_469_effect]"
 ]},
 "skill_470_name":{
@@ -6819,8 +6819,8 @@
 },
 "skill_470_desc":{
 "text":[
-"Uno de los reclusos es herrero y me ha dicho que puede trabajar",
-"en tu alabarda para hacerla aún más fuerte si le pagas.",
+"Uno de los reclusos es herrero y me ha dicho que si le pagas puede trabajar",
+"en tu alabarda para hacerla aún más fuerte.",
 "\\REM_EFF[skill_470_effect]"
 ]},
 "skill_471_name":{
@@ -6829,7 +6829,7 @@
 "skill_471_desc":{
 "text":[
 "Modifica la alabarda para fines más ofensivos.",
-"Nota: Tomar este decreto eliminará todas las mejoras defensivas.",
+"Nota: Elegir este decreto eliminará todas las mejoras defensivas.",
 "\\REM_EFF[skill_471_effect]"
 ]},
 "skill_472_name":{
@@ -6855,7 +6855,7 @@
 },
 "skill_474_desc":{
 "text":[
-"Aumente el alcance haciendo la alabarda un poco más larga.",
+"Aumenta el alcance haciendo la alabarda un poco más larga.",
 "",
 "\\REM_EFF[skill_474_effect]"
 ]},
@@ -6865,7 +6865,7 @@
 "skill_475_desc":{
 "text":[
 "Curva aún más la hoja para que pueda alcanzar a tu oponente",
-"por mucho que intente esquivarla.",
+"por mucho que la intente esquivar.",
 "\\REM_EFF[skill_475_effect]"
 ]},
 "skill_476_name":{
@@ -6874,7 +6874,7 @@
 "skill_476_desc":{
 "text":[
 "Modifica la alabarda para fines más defensivos.",
-"Nota: Tomar este decreto eliminará todas las mejoras ofensivas.",
+"Nota: Elegir este decreto eliminará todas las mejoras ofensivas.",
 "\\REM_EFF[skill_476_effect]"
 ]},
 "skill_477_name":{
@@ -6891,7 +6891,7 @@
 },
 "skill_478_desc":{
 "text":[
-"Haz que el asta de la alabarda sea más robuta",
+"Haz que el asta de la alabarda sea más robusta",
 "para que puedas resistir ataques fuertes.",
 "\\REM_EFF[skill_478_effect]"
 ]},
@@ -6910,7 +6910,7 @@
 "skill_480_desc":{
 "text":[
 "Es necesario modificar la alabarda para que tenga el tamaño perfecto para ti, de modo ",
-"que puedas reaccionar y contrarrestar fácilmente los ataques de tu oponente con ella.",
+"que puedas reaccionar y contrarrestar fácilmente los ataques de tu oponente.",
 "\\REM_EFF[skill_480_effect]"
 ]},
 "skill_481_name":{
@@ -6919,7 +6919,7 @@
 "skill_481_desc":{
 "text":[
 "La versión femenina del uniforme de director con su diseño cambiado",
-"para dificultar que alguien más lo lleve.",
+"para dificultar que alguien te lo quite.",
 "\\REM_EFF[skill_481_effect]"
 ]},
 "skill_482_name":{
@@ -6927,7 +6927,7 @@
 },
 "skill_482_desc":{
 "text":[
-"Puedo encontrar a alguien que te ajuste el uniforme más a la línea del cuerpo, ",
+"Puedo encontrar a alguien que te ajuste el más uniforme a tus curvas, ",
 "lo que reforzará el uniforme.",
 "\\REM_EFF[skill_482_effect]"
 ]},
@@ -6946,7 +6946,7 @@
 "skill_484_desc":{
 "text":[
 "Aprieta aún más la zona superior para que sea más",
-"difícil que se produzcan fallos de vestuario.",
+"difícil que se produzca algún 'desliz'.",
 "\\REM_EFF[skill_484_effect]"
 ]},
 "skill_485_name":{
@@ -6959,7 +6959,7 @@
 "\\REM_EFF[skill_485_effect]"
 ]},
 "skill_486_name":{
-"text":["Una Cama de Mierda"]
+"text":["Cama Cutre"]
 },
 "skill_486_desc":{
 "text":[
@@ -6968,7 +6968,7 @@
 "\\REM_EFF[skill_486_effect]"
 ]},
 "skill_487_name":{
-"text":["Cambia las Sabanas, Añade Edredón"]
+"text":["Cambia las Sabanas, Añade un Edredón"]
 },
 "skill_487_desc":{
 "text":[
@@ -6986,7 +6986,7 @@
 "\\}\\REM_EFF[skill_488_effect]"
 ]},
 "skill_489_name":{
-"text":["Mejora a una Cama de Lujo"]
+"text":["Mejorar a una Cama de Lujo"]
 },
 "skill_489_desc":{
 "text":[
@@ -6999,7 +6999,7 @@
 },
 "skill_490_desc":{
 "text":[
-"Su Majestad Imperial el Emperador ha empleado algunos soldados imperiales para vigilar la oficina.",
+"Su Majestad Imperial el Emperador ha mandado algunos soldados imperiales para vigilar la oficina.",
 "Es una señal de lo mucho que Su Majestad Imperial aprecia tu seguridad.",
 "\\REM_EFF[skill_490_effect]"
 ]},
@@ -7008,17 +7008,17 @@
 },
 "skill_491_desc":{
 "text":[
-"Por muy buenos que sean, es muy costoso retener a esos guardias imperiales.",
-"Usemos nuestros guardias normales para vigilar su oficina.",
+"Por muy buenos que sean, es muy costoso mantener a esos guardias imperiales.",
+"Usemos nuestros guardias normales para vigilar la oficina.",
 "\\REM_EFF[skill_491_effect]"
 ]},
 "skill_492_name":{
-"text":["Reclusos como Guardias para la Oficina"]
+"text":["Prisioneros Guardias para la Oficina"]
 },
 "skill_492_desc":{
 "text":[
-"Envíe carteles de guardia para los reclusos protejan la oficina de la Directora.",
-"Utilizar Reclusos para proteger su oficina reducirá considerablemente nuestros gastos.",
+"Pon carteles para que los reclusos que son guardias protejan la oficina de la Directora.",
+"Utilizar Reclusos para proteger la oficina reducirá considerablemente nuestros gastos.",
 "\\REM_EFF[skill_492_effect]"
 ]},
 "skill_493_name":{
@@ -7026,24 +7026,24 @@
 },
 "skill_493_desc":{
 "text":[
-"Que quien quiera vigilar la oficina de la Directora que lo haga.",
-"¡Lo mejor es que ni siquiera tenemos que pagar a nadie para que vigile tú oficina!",
+"Deja que quien quiera vigilar la oficina de la Directora lo haga.",
+"¡Lo mejor es que ni siquiera tenemos que pagar a nadie para que vigile tu oficina!",
 "\\REM_EFF[skill_493_effect]"
 ]},
 "skill_494_name":{
-"text":["Puerta de Cerradura Simple"]
+"text":["Cerradura Simple"]
 },
 "skill_494_desc":{
 "text":[
 "La oficina está asegurada con una cerradura sencilla, sin florituras."
 ]},
 "skill_495_name":{
-"text":["Cerradura de Alta Resistente"]
+"text":["Cerradura Resistente"]
 },
 "skill_495_desc":{
 "text":[
-"Si lo necesita, podemos sustituir la cerradura de la puerta por una de alta resistencia.",
-"Tener una cerradura de puerta mejor puede proporcionar un poco de comodidad y seguridad.",
+"Si lo necesita, podemos sustituir la cerradura de la puerta por una más resistente.",
+"Tener una cerradura mejor puede proporcionar más comodidad y seguridad.",
 "\\REM_EFF[skill_495_effect]"
 ]},
 "skill_496_name":{
@@ -7051,7 +7051,7 @@
 },
 "skill_496_desc":{
 "text":[
-"Instale una costosa cerradura electrónica para asegurar mejor la oficina.",
+"Instala una costosa cerradura electrónica para asegurar mejor la oficina.",
 "\\REM_EFF[skill_496_effect]"
 ]},
 "skill_497_name":{
@@ -7059,7 +7059,7 @@
 },
 "skill_497_desc":{
 "text":[
-"Instale un panel de control en el interior de la oficina para desactivar la cerradura.",
+"Instala un panel de control en el interior de la oficina para desactivar la cerradura.",
 "Esto permitirá a cualquiera entrar en la oficina."
 ]},
 "skill_498_name":{
@@ -7067,8 +7067,8 @@
 },
 "skill_498_desc":{
 "text":[
-"Instale una cámara de seguridad fuera de la oficina.",
-"Con suerte disuadiría a cualquier posible intruso de intentarlo.",
+"Instala una cámara de seguridad fuera de la oficina.",
+"Con suerte disuadirá cualquier intento de entrar.",
 "\\REM_EFF[skill_498_effect]"
 ]},
 "skill_499_name":{
@@ -7076,7 +7076,7 @@
 },
 "skill_499_desc":{
 "text":[
-"Instale también una cámara de seguridad en el interior de la oficina.",
+"Instala también una cámara de seguridad en el interior de la oficina.",
 "Cualquiera que consiga entrar podría pensárselo dos veces después de verla.",
 "\\REM_EFF[skill_499_effect]"
 ]},
