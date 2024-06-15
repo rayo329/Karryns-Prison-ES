@@ -1,6 +1,6 @@
 # Karryns Prison en español  
 
-## Proofreading in progress:  
+## Translation in progress:  
 
 **RemMap_EN.json**  14996/14996  100%  
   
