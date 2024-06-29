@@ -6227,7 +6227,7 @@
 "text":[
 "\\}Con el orden restablecido en el Nivel 2, ya tenemos las últimas piezas para que la prisión sea autosuficiente.",
 "\\}¡Ha llegado el momento de escribir un nuevo capítulo en la historia  del Fuerte Ganon!",
-"\\}\\}\\REM_EFF[skill_373_effect]"
+"\\}\\REM_EFF[skill_373_effect]"
 ]},
 "skill_374_name":{
 "text":["Nivel 3 Subyugado"]
@@ -6236,7 +6236,7 @@
 "text":[
 "\\}Aunque el Nivel 3 nunca puede ser realmente subyugado, ahora podemos seguir avanzando con seguridad.",
 "\\}Es por eso que debemos abordar ahora mismo la cuestión de qué hacer con los próximos disturbios.",
-"\\}\\}\\REM_EFF[skill_374_effect]"
+"\\}\\REM_EFF[skill_374_effect]"
 ]},
 "skill_375_name":{
 "text":["Nivel 4 Subyugado"]
@@ -7090,7 +7090,7 @@
 "\\REM_EFF[skill_500_effect]"
 ]},
 "skill_501_name":{
-"text":["Entrenamiento en Combate Desarmado"]
+"text":["Entrenamiento en Combate Sin Armas"]
 },
 "skill_501_desc":{
 "text":[
@@ -7102,7 +7102,7 @@
 "text":["\\}\\REM_DESC[skill_301_name] o \\REM_DESC[skill_312_name] o \\REM_DESC[skill_323_name]"]
 },
 "skill_502_name":{
-"text":["Entrenamiento de Ataque Desarmado I"]
+"text":["Entrenamiento en Combate Sin Armas I"]
 },
 "skill_502_desc":{
 "text":[
@@ -7114,7 +7114,7 @@
 "text":["\\}\\REM_DESC[skill_302_name] o \\REM_DESC[skill_313_name] o \\REM_DESC[skill_324_name]"]
 },
 "skill_503_name":{
-"text":["Entrenamiento de Ataque Desarmado II"]
+"text":["Entrenamiento en Combate Sin Armas II"]
 },
 "skill_503_desc":{
 "text":[
@@ -7126,19 +7126,19 @@
 "text":["\\}\\REM_DESC[skill_304_name] o \\REM_DESC[skill_315_name] o \\REM_DESC[skill_326_name]"]
 },
 "skill_504_name":{
-"text":["Entrenamiento de Defensa Desarmado I"]
+"text":["Entrenamiento en Defensa Sin Armas I"]
 },
 "skill_504_desc":{
 "text":[
-"Defenderse desarmada es cuestión de postura y prevención.",
-"Practiquemos con algunas buenas y sólidas posturas defensivas.",
+"Defenderse sin armas es cuestión de postura y prevención.",
+"Practiquemos con algunas posturas defensivas buenas y sólidas.",
 "\\REM_EFF[skill_504_effect]"
 ]},
 "skill_504_msg3":{
 "text":["\\}\\REM_DESC[skill_302_name] o \\REM_DESC[skill_313_name] o \\REM_DESC[skill_324_name]"]
 },
 "skill_505_name":{
-"text":["Entrenamiento de Defensa Desarmado II"]
+"text":["Entrenamiento en Defensa Sin Armas II"]
 },
 "skill_505_desc":{
 "text":[
@@ -7154,7 +7154,7 @@
 },
 "skill_506_desc":{
 "text":[
-"La reparación del bar nos devolverá unos ingresos muy necesarios para la prisión.",
+"La reparación del bar nos traerá unos ingresos muy necesarios para la prisión.",
 "De hecho, ni siquiera será tan caro reparar el bar, ya que no está muy dañado.",
 "\\}\\REM_EFF[skill_506_effect]"
 ]},
@@ -7163,8 +7163,8 @@
 },
 "skill_507_desc":{
 "text":[
-"Sólo pale ale más agua es un poco triste para un bar.",
-"¡Firmamos un contrato de almacenamiento para añadir vodka y ron al menú!",
+"Tener solo cerveza rubia y agua es un poco triste para un bar.",
+"¡Firmemos un contrato de envíos para añadir vodka y ron al menú!",
 "\\REM_EFF[skill_507_effect]"
 ]},
 "skill_508_name":{
@@ -7173,7 +7173,7 @@
 "skill_508_desc":{
 "text":[
 "Consigamos whisky para el bar, es el favorito de algunos bebedores.",
-"Y al mismo tiempo, deberíamos añadir otra marca de cerveza para el presupuesto de los reclusos.",
+"Y al mismo tiempo, deberíamos añadir otra marca de cerveza para los reclusos con menos dinero.",
 "\\REM_EFF[skill_508_effect]"
 ]},
 "skill_509_name":{
@@ -7186,7 +7186,7 @@
 "\\REM_EFF[skill_509_effect]"
 ]},
 "skill_510_name":{
-"text":["Contratar Camareros de Bar"]
+"text":["Contratar Camareros"]
 },
 "skill_510_desc":{
 "text":[
@@ -7208,17 +7208,17 @@
 },
 "skill_512_desc":{
 "text":[
-"Para reducir aún más los costes, sólo pudimos recurrir a voluntarios para el personal de camareros del bar.",
+"Para reducir aún más los costes, sólo pudimos recurrir a voluntarios para el personal del bar.",
 "Aunque creo que lo más probable es que el nuevo personal se limite a beber en lugar de trabajar.",
 "\\REM_EFF[skill_512_effect]"
 ]},
 "skill_513_name":{
-"text":["Ampliar Cristalería de Bar I"]
+"text":["Ampliar Cristalería del Bar I"]
 },
 "skill_513_desc":{
 "text":[
 "Si crees que no tenemos suficientes jarras y vasos",
-"vacíos en el bar, puedo ir a pedir más.",
+"en el bar, puedo ir a pedir más.",
 "\\REM_EFF[skill_513_effect]"
 ]},
 "skill_514_name":{
@@ -7240,21 +7240,21 @@
 "\\REM_EFF[skill_515_effect]"
 ]},
 "skill_516_name":{
-"text":["Comprar un Seguro de Bar"]
+"text":["Contratar un Seguro para el Bar"]
 },
 "skill_516_desc":{
 "text":[
 "\\}Es muy costoso reemplazar todas las sillas y vasos rotos cada vez que alguien en el bar decide",
-"\\}portarse mal por alguna razón. Contratar un seguro para el bar cubrirá parte de los gastos.",
+"\\}liarla por alguna razón. Contratar un seguro para el bar cubrirá parte de los gastos.",
 "\\REM_EFF[skill_516_effect]"
 ]},
 "skill_517_name":{
-"text":["Mejora el Seguro del Bar"]
+"text":["Mejorar el Seguro del Bar"]
 },
 "skill_517_desc":{
 "text":[
 "Actualizar la póliza del seguro del bar aumentará el coste de las primas, pero",
-"también reducirá aún más la responsabilidad que tenemos que pagar por los daños",
+"también reducirá aún más la cantidad que tenemos que pagar por los daños",
 "\\REM_EFF[skill_517_effect]"
 ]},
 "skill_518_name":{
@@ -7262,12 +7262,12 @@
 },
 "skill_518_desc":{
 "text":[
-"\\}\\}¿Sabes qué necesita el bar? Una tía bue... Qué diga... ¡Una camarera! Con tu permiso, puedo usar algunos materiales de repuesto para hacerte un uniforme.",
+"\\}\\}¿Sabes qué necesita el bar? Una tía bue... Qué diga... ¡Una camarera! Con tu permiso, puedo usar algunos tejidos para hacerte un uniforme.",
 "\\}\\}¡Pásate por el bar cuando tengas tiempo para echar una mano! ¡Creo que tu presencia aumentará las ventas del bar!",
 "\\REM_EFF[skill_518_effect]"
 ]},
 "skill_519_name":{
-"text":["Mejora del Uniforme de Camarera"]
+"text":["Mejorar el Uniforme de Camarera"]
 },
 "skill_519_desc":{
 "text":[
@@ -7298,7 +7298,7 @@
 },
 "skill_522_desc":{
 "text":[
-"El centro de visitantes es donde los externos pueden acudir a visitar a los reclusos.",
+"El centro de visitantes es donde la gente puede acudir a visitar a los reclusos.",
 "Repararlo haría muy felices a muchos de los reclusos.",
 "\\REM_EFF[skill_522_effect]"
 ]},
@@ -7307,7 +7307,7 @@
 },
 "skill_523_desc":{
 "text":[
-"El lavadero es donde los reclusos lavan la ropa de la prisión.",
+"La lavandería es donde los reclusos lavan la ropa de la prisión.",
 "Repararlo les hará felices, ya que a nadie le gusta pasearse con la ropa sucia.",
 "\\REM_EFF[skill_523_effect]"
 ]},
@@ -7316,12 +7316,12 @@
 },
 "skill_524_desc":{
 "text":[
-"No nos hará ganar mucho dinero, pero podemos ofrecer el servicios de lavandería a otros lugares.",
-"El trato consiste en que cogemos su ropa sucia y utilizamos nuestra mano de obra gratuita para lavarla por ellos.",
+"No nos hará ganar mucho dinero, pero podemos ofrecer el servicios de lavandería a otros.",
+"Consistiría en que cogemos su ropa sucia y utilizamos nuestra mano de obra gratuita para lavarla por ellos.",
 "\\REM_EFF[skill_524_effect]"
 ]},
 "skill_525_name":{
-"text":["No hay Lavandería Gratuita"]
+"text":["Sin Lavandería Gratuita"]
 },
 "skill_525_desc":{
 "text":[
@@ -7343,7 +7343,7 @@
 },
 "skill_527_desc":{
 "text":[
-"Podemos hacer que los reclusos en servicio de taller tengan que trabajar muchas más horas",
+"Podemos hacer que los reclusos del taller tengan que trabajar muchas más horas",
 "Aunque esto no les va a gustar.",
 "\\REM_EFF[skill_527_effect]"
 ]},
@@ -7357,16 +7357,16 @@
 "\\REM_EFF[skill_528_effect]"
 ]},
 "skill_529_name":{
-"text":["Reparar el Lavado de Vajillas"]
+"text":["Reparar el Área de Lavado de Vajillas"]
 },
 "skill_529_desc":{
 "text":[
-"En el lavavajillas se lavan las vajillas del comedor y de la cocina.",
-"Repararlo nos permitirá volver a lavar correctamente las vajillas.",
+"En el el Área de Lavado de Vajilla se lavan los enseres del comedor y de la cocina.",
+"Repararlo nos permitirá volver a lavar todo correctamente.",
 "\\REM_EFF[skill_529_effect]"
 ]},
 "skill_530_name":{
-"text":["Reparar la Reparación"]
+"text":["Reparar la Recepción"]
 },
 "skill_530_desc":{
 "text":[
@@ -7375,7 +7375,7 @@
 "\\REM_EFF[skill_530_effect]"
 ]},
 "skill_531_name":{
-"text":["El Problema del los Matones"]
+"text":["El Problema con los Matones"]
 },
 "skill_531_desc":{
 "text":[
@@ -7384,7 +7384,7 @@
 "\\}\\}\\REM_EFF[skill_531_effect]"
 ]},
 "skill_532_name":{
-"text":["No hay Trabajo Obligatorio para los Matones"]
+"text":["Sin Trabajo Obligatorio para los Matones"]
 },
 "skill_532_desc":{
 "text":[
@@ -7397,57 +7397,57 @@
 },
 "skill_533_desc":{
 "text":[
-"\\}\\}Tú eres la jefa aquí, no ellos. No podemos permitir que exijan concesiones como reclusos de la prisión.",
+"\\}\\}Tú eres la jefa aquí, no ellos. No podemos permitir que exijan nada siendo reclusos de la prisión.",
 "\\}\\}En su lugar, podemos poner drogas en su comida que debilitarán su fuerza para que ya no sean una amenaza.",
 "\\}\\REM_EFF[skill_533_effect]"
 ]},
 "skill_534_name":{
-"text":["Alivio del Estrés de los Matón"]
+"text":["Aliviar el Estrés de los Matones"]
 },
 "skill_534_desc":{
 "text":[
-"\\}\\}Podemos decirles a los matones que si dejan de hacer huelga y vuelven al trabajo, podrán disfrutar de tu cuerpo como alivio del estrés postlaboral.",
+"\\}\\}Podemos decirles a los matones que si dejan de hacer huelga y vuelven al trabajo, podrán disfrutar de tu cuerpo para aliviar su estrés.",
 "\\}\\}No hace falta que cumplas esa promesa, por supuesto.",
 "\\REM_EFF[skill_534_effect]"
 ]},
 "skill_535_name":{
-"text":["El Problema de los Goblins"]
+"text":["El Problema con los Goblins"]
 },
 "skill_535_desc":{
 "text":[
 "\\}\\}Los goblins han aprendido de su experiencia y han sabido aprovechar su baja estatura y su rapidez.",
-"\\}\\}Ahora causan estragos en la prisión mientras evaden y se esconden de nuestra fuerza de guardias.",
+"\\}\\}Ahora causan estragos en la prisión mientras evaden y se esconden de nuestros guardias.",
 "\\REM_EFF[skill_535_effect]"
 ]},
 "skill_536_name":{
-"text":["Entrena un Escuadron Antigoblins"]
+"text":["Entrenar un Escuadron Antigoblins"]
 },
 "skill_536_desc":{
 "text":[
-"\\}\\}Podemos entrenar fuerzas especiales antigoblins para que se encarguen de los goblins.",
+"\\}\\}Podemos entrenar fuerzas especiales antigoblins para que se encarguen de ellos.",
 "\\}\\}Tendremos que suministrarles también antorchas y aceite, además de los gastos de formación.",
 "\\REM_EFF[skill_536_effect]"
 ]},
 "skill_537_name":{
-"text":["Degradar a los Goblins"]
+"text":["Denigrar a los Goblins"]
 },
 "skill_537_desc":{
 "text":[
-"\\}\\}Llamemos a los goblins por lo que son: los roedores del Fuerte Ganon. Los únicos goblins buenos son los que se quedan en sus celdas.",
-"\\}\\}Esto no ayudará en nada a los guardias a lidiar con ellos, pero te será más fácil someterlos tú mismo.",
+"\\}\\}Llamemos a los goblins por lo que son: las ratas del Fuerte Ganon. Los únicos goblins buenos son los que se quedan en sus celdas.",
+"\\}\\}Esto no ayudará en nada a los guardias a lidiar con ellos, pero te será más fácil someterlos tú misma.",
 "\\REM_EFF[skill_537_effect]"
 ]},
 "skill_538_name":{
-"text":["Cebo para los Goblins"]
+"text":["Engaña a los Goblins"]
 },
 "skill_538_desc":{
 "text":[
-"\\}\\}Digámosles a los goblins que, en lugar de causar travesuras en la prisión, centren sus esfuerzos en causar travesuras en tu cuerpo.",
+"\\}\\}Digámosles a los goblins que, en lugar de hacer travesuras en la prisión, centren sus esfuerzos en hacer travesuras con tu cuerpo.",
 "\\}\\}Incluso un goblin de poca monta sabría que este es un uso más sabio de su energía. Por supuesto, no se lo permitirás, ¿verdad?",
 "\\REM_EFF[skill_538_effect]"
 ]},
 "skill_539_name":{
-"text":["Mejora de la Postura Defensiva"]
+"text":["Mejorar la Postura Defensiva"]
 },
 "skill_539_desc":{
 "text":[
@@ -7456,11 +7456,11 @@
 "\\REM_EFF[skill_539_effect]"
 ]},
 "skill_540_name":{
-"text":["Mejora de la Postura de Contraataque"]
+"text":["Mejorar la Postura de Contraataque"]
 },
 "skill_540_desc":{
 "text":[
-"Tus oponentes son los más vulnerables justo después de atacar, ¡Aprovechémoslo!",
+"Tus oponentes son más vulnerables justo después de atacar, ¡Aprovechémoslo!",
 "",
 "\\REM_EFF[skill_540_effect]"
 ]},
@@ -7489,7 +7489,7 @@
 "text":[
 "La sala de visitas D está más dañada que las otras tres.",
 "Así que va a costar mucho más dinero, pero puede que merezca la pena.",
-"\\}\\REM_EFF[skill_543_effect]"
+"\\REM_EFF[skill_543_effect]"
 ]},
 "skill_544_name":{
 "text":["Cobrar a los Visitantes por las Visitas"]
@@ -7505,8 +7505,8 @@
 },
 "skill_545_desc":{
 "text":[
-"\\}Podemos implementar un sistema en el que los visitantes paguen aún más dinero para adelantarse ligeramente a los que no lo hicieron.",
-"\\}En defenitiva, el tiempo de espera y el servicio siguen siendo los mismos, pero la prisión gana más dinero.",
+"\\}Podemos implementar un sistema en el que los visitantes paguen más dinero para colarse delante de los que no lo hicieron.",
+"\\}En definitiva, el tiempo de espera y el servicio siguen siendo los mismos, pero la prisión gana más dinero.",
 "\\REM_EFF[skill_545_effect]"
 ]},
 "skill_546_name":{
@@ -7514,8 +7514,8 @@
 },
 "skill_546_desc":{
 "text":[
-"\\}¿Por qué limitarse a cobrar por las visitas? Podemos cobrar también a los reclusos. ",
-"\\}Hasta ahora se han enfadado bastante con nuestros otros cambios, pero esto podría llevarles al límite.",
+"\\}¿Por qué limitarse a cobrar solo a los visitantes? Podemos cobrar también a los reclusos. ",
+"\\}Se han enfadado bastante con nuestros otros cambios, esto podría llevarles al límite.",
 "\\REM_EFF[skill_546_effect]"
 ]},
 "skill_547_name":{
@@ -7528,7 +7528,7 @@
 "\\}\\REM_EFF[skill_547_effect]"
 ]},
 "skill_548_name":{
-"text":["Mejora del Atuendo de Recepcionista"]
+"text":["Mejora del Uniforme de Recepcionista"]
 },
 "skill_548_desc":{
 "text":[
@@ -7537,16 +7537,16 @@
 "\\REM_EFF[skill_548_effect]"
 ]},
 "skill_549_name":{
-"text":["El Problema de los Frikis"]
+"text":["El Problema con los Frikis"]
 },
 "skill_549_desc":{
 "text":[
-"\\}\\}Los frikis han obtenido acceso a los datos de la prisión cuando previamente tomaron el control del Nivel 2.",
+"\\}\\}Los frikis han obtenido acceso a los datos de la prisión cuando tomaron el control del Nivel 2.",
 "\\}\\}Ahora aprovechan esa información para pedirnos dos cosas: Dinero y tu información privada.",
 "\\}\\REM_EFF[skill_549_effect]"
 ]},
 "skill_550_name":{
-"text":["Paga a los Frikis"]
+"text":["Pagar a los Frikis"]
 },
 "skill_550_desc":{
 "text":[
@@ -7560,34 +7560,34 @@
 "skill_551_desc":{
 "text":[
 "\\}\\}Los frikis sólo intentan aprovecharse de nuestra falta de recursos. Envía a los guardias a amenazar a los frikis",
-"\\}\\}para que se rindan diciéndoles que les romperemos sus preciosos ordenadores y juguetes si no ponen fin a su chantaje.",
+"\\}\\}para que se rindan, diciéndoles que les romperémos sus ordenadores y juguetes si no ponen fin a su chantaje.",
 "\\REM_EFF[skill_551_effect]"
 ]},
 "skill_552_name":{
-"text":["Sométete a los Frikis"]
+"text":["Ríndete ante los Frikis"]
 },
 "skill_552_desc":{
 "text":[
 "\\}\\}Por favor, sacrifique su información privada por el bien de la prisión.",
-"\\}\\}De todos modos, sólo hay un tipo de información que realmente interese a los frikis.",
+"\\}\\}De todos modos, sólo hay un tipo de información que realmente interesa a los frikis.",
 "\\REM_EFF[skill_552_effect]"
 ]},
 "skill_553_name":{
-"text":["El Problema de los Pícaros"]
+"text":["El Problema con los Pícaros"]
 },
 "skill_553_desc":{
 "text":[
-"\\}\\}Lo único que les faltaba a los pícaros era experiencia en combate, que ahora tienen.",
+"\\}\\}Lo único que les faltaba a los pícaros era experiencia en combate, y ahora la tienen.",
 "\\}\\}Han empezado a causar problemas a nuestros guardias desarmándolos antes de volver a las sombras.",
 "\\}\\REM_EFF[skill_553_effect]"
 ]},
 "skill_554_name":{
-"text":["Entrena a los Guardias Contra los Pícaros"]
+"text":["Entrenar a los Guardias Contra los Pícaros"]
 },
 "skill_554_desc":{
 "text": [
 "\\}\\}Podemos gastar el dinero en entrenar a los guardias para que usen los mismos trucos que los pícaros.",
-"\\}\\}De esta modo, los guardias no sólo no tendrán que preocuparse más por los pícaros, sino que serán aún más fuertes.",
+"\\}\\}De esta manera, los guardias no sólo no tendrán que preocuparse más por los pícaros, sino que serán aún más fuertes.",
 "\\REM_EFF[skill_554_effect]"
 ]},
 "skill_555_name":{
@@ -7596,37 +7596,37 @@
 "skill_555_desc":{
 "text": [
 "\\}\\}Pon a los pícaros a realizar trabajos duros y físicamente exigentes en la prisión.",
-"\\}\\}Se fatigarán demasiado como para meterse con los guardias mientras dan trabajo.",
+"\\}\\}Estarán demasiado cansados como para meterse con los guardias y además trabajarán.",
 "\\}\\REM_EFF[skill_555_effect]"
 ]},
 "skill_556_name":{
-"text":["Distrae a los Pícaros"]
+"text":["Distraer a los Pícaros"]
 },
 "skill_556_desc":{
 "text": [
 "\\}\\}Luchemos contra las distracciones con distracciones. En lugar de desarmar a los guardias,",
-"\\}\\}haz saber a los pícaros que deberían intentar hacértelo a ti en su lugar.",
+"\\}\\}haz saber a los pícaros que deberían desarmarte a ti.",
 "\\REM_EFF[skill_556_effect]"
 ]},
 "skill_557_name":{
-"text":["El Nivel 1 no está en Motín"]
+"text":["El Nivel 1 no está Amotinándose"]
 },
 "skill_558_name":{
-"text":["El Nivel 2 no está en Motín"]
+"text":["El Nivel 2 no está Amotinándose"]
 },
 "skill_559_name":{
-"text":["El Nivel 3 no esta en Motín"]
+"text":["El Nivel 3 no esta Amotinándose"]
 },
 "skill_560_name":{
-"text":["El Nivel 4 no está en Motín"]
+"text":["El Nivel 4 no está Amotinándose"]
 },
 "skill_561_name":{
 "text":["Reparar la Oficina"]
 },
 "skill_561_desc":{
 "text": [
-"\\}\\}La oficina del Nivel 2 es extremadamente importante para que el Fuerte Ganon funcione por sí mismo, ya que sirve como el centro principal de administración.",
-"\\}\\}Por eso el está imperio está dispuesto a cubrir todos los gastos relacionados para restaurarla y mantenerla en funcionamiento.",
+"\\}\\}La oficina del Nivel 2 es extremadamente importante para que el Fuerte Ganon funcione, ya que sirve como el centro principal de administración.",
+"\\}\\}Por eso el imperio está dispuesto a cubrir todos los gastos para restaurarla y mantenerla en funcionamiento.",
 "\\REM_EFF[skill_561_effect]"
 ]},
 "skill_562_name":{
@@ -7648,21 +7648,21 @@
 "\\REM_EFF[skill_563_effect]"
 ]},
 "skill_564_name":{
-"text":["Contratar a un Contador"]
+"text":["Contratar a un Contable"]
 },
 "skill_564_desc":{
 "text": [
-"\\}Contratar a un contador nos ayudará a mantener los gastos de la prisión bajo control",
-"\\}Tener un contador es casi una necesidad.",
+"\\}Contratar a un contable nos ayudará a mantener los gastos de la prisión bajo control",
+"\\}Tener un contable es casi una necesidad.",
 "\\REM_EFF[skill_564_effect]"
 ]},
 "skill_565_name":{
-"text":["Utilizar Reclusos de Contadores"]
+"text":["Utilizar Reclusos de Contable"]
 },
 "skill_565_desc":{
 "text": [
 "\\}Utilizar a algunos de nuestros reclusos más instruidos como ayudantes de contabilidad puede ayudar a",
-"\\}nuestros contadores contratados a trabajar de forma más eficiente sin coste adicional para nosotros.",
+"\\}nuestros contables contratados a trabajar de forma más eficiente sin coste adicional para nosotros.",
 "\\REM_EFF[skill_565_effect]"
 ]},
 "skill_566_name":{
@@ -7680,7 +7680,7 @@
 "skill_567_desc":{
 "text": [
 "\\}Busquemos una compañía de seguros que esté dispuesta a asegurarnos.",
-"\\}Lo ideal sería una compañía de seguros que nos ayudara a reparar la prisión después de un motín.",
+"\\}Lo ideal sería una compañía de seguros que nos ayude a reparar la prisión después de un motín.",
 "\\REM_EFF[skill_567_effect]"
 ]},
 "skill_568_name":{
@@ -7720,11 +7720,11 @@
 "\\REM_EFF[skill_571_effect]"
 ]},
 "skill_572_name":{
-"text":["Artículo de la Tienda Gratis para la Directora"]
+"text":["Artículos de la Tienda Gratis para la Directora"]
 },
 "skill_572_desc":{
 "text": [
-"\\}Se le debe permitir tomar lo que quiera de la tienda como la Directora.",
+"\\}Deberías tener permitido tomar lo que quiera de la tienda por ser la Directora.",
 "\\}Adelante, usa los artículos de la tienda como te plazca.",
 "\\REM_EFF[skill_572_effect]"
 ]},
@@ -7733,12 +7733,12 @@
 },
 "skill_573_desc":{
 "text": [
-"Reparar el baño que quedó destrozado cuando los slimes subieron al Nivel 2",
-"a través de las cañerías haría feliz a mucha gente.",
+"Reparar el baño, que quedó destrozado cuando los slimes subieron",
+"al Nivel 2 a través de las cañerías, haría feliz a mucha gente.",
 "\\REM_EFF[skill_573_effect]"
 ]},
 "skill_574_name":{
-"text":["Utiliza Reclusos de Conserje"]
+"text":["Utilizar Reclusos de Conserje"]
 },
 "skill_574_desc":{
 "text": [
@@ -7760,7 +7760,7 @@
 },
 "skill_576_desc":{
 "text": [
-"La sala de reuniones sirve de sala de conferencias para que los funcionarios de prisiones",
+"La sala de reuniones sirve de sala de conferencias para que los funcionarios de la prisión",
 "decidan y planifiquen cosas relacionadas con la prisión.",
 "\\REM_EFF[skill_576_effect]"
 ]},
@@ -7769,16 +7769,16 @@
 },
 "skill_577_desc":{
 "text": [
-"Nuestros funcionarios de prisiones son un despilfarro de dinero cuando no hacen nada.",
-"Que trabajen por más dinero cuando no hacen nada más por la prisión.",
+"Nuestros funcionarios de la prisión son un despilfarro de dinero cuando no hacen nada.",
+"Haz que trabajen para otros cuando no están haciendo nada para la prisión.",
 "\\}\\REM_EFF[skill_577_effect]"
 ]},
 "skill_578_name":{
-"text":["Reparar la sala de Investigación"]
+"text":["Reparar el Laboratorio"]
 },
 "skill_578_desc":{
 "text": [
-"La sala de investigación es un lugar para la investigación y el desarrollo.",
+"El laboratorio es un lugar para la investigación y el desarrollo.",
 "Investigar nuevas ideas, conceptos y artículos puede ayudar a la prisión.",
 "\\REM_EFF[skill_578_effect]"
 ]},
@@ -7796,12 +7796,12 @@
 },
 "skill_580_desc":{
 "text": [
-"\\}Los empleados cualificados, como cocineros, contadores o abogados, necesitan una sala de descanso como parte de sus ventajas.",
+"\\}Los empleados cualificados, como cocineros, contables o abogados, necesitan una sala de descanso como parte de sus beneficios.",
 "\\}Además, trabajarán con menos eficacia si su sala de descanso se ve arruinada por los motines.",
 "\\REM_EFF[skill_580_effect]"
 ]},
 "skill_581_name":{
-"text":["El Sala ya No es Gratis"]
+"text":["La Sala ya no es Gratis"]
 },
 "skill_581_desc":{
 "text": [
@@ -7814,7 +7814,7 @@
 },
 "skill_582_desc":{
 "text": [
-"El aula es el lugar al que los reclusos pueden acudir para aprender del plan de estudios que les proponemos.",
+"El aula es el lugar al que los reclusos pueden acudir para aprender lo que les propongamos.",
 "",
 "\\REM_EFF[skill_582_effect]"
 ]},
@@ -7850,8 +7850,8 @@
 },
 "skill_586_desc":{
 "text": [
-"Lo único que deben aprender nuestros reclusos es a ganar dinero para nosotros-",
-"Eehh, me refiero a habilidades valiosas como la artesanía y la construcción.",
+"Lo único que deben aprender nuestros reclusos es a ganar dinero para nosotr-",
+"Eehh, quiero decir... habilidades valiosas como la artesanía y la construcción.",
 "\\REM_EFF[skill_586_effect]"
 ]},
 "skill_587_name":{
@@ -7859,8 +7859,8 @@
 },
 "skill_587_desc":{
 "text": [
-"¿Qué tal si dejamos que los reclusos aprendan más sobre anatomía?",
-"Concretamente, la anatomía de las hembras humanas.",
+"¿Qué te parece si dejamos que los reclusos aprendan más sobre anatomía?",
+"Concretamente, la anatomía de las mujeres.",
 "\\}\\REM_EFF[skill_587_effect]"
 ]},
 "skill_588_name":{
@@ -7869,7 +7869,7 @@
 "skill_588_desc":{
 "text": [
 "\\}Para ayudar a los reclusos a comprender mejor la anatomía, quizá deberíamos suministrarles un modelo anatómicamente correcto.",
-"\\}Y sugiero que nuestra investigación utilice su figura como modelo para ahorrar tiempo y dinero.",
+"\\}Y sugiero que el modelo esté basado en tu cuerpo para ahorrar tiempo y dinero.",
 "\\REM_EFF[skill_588_effect]"
 ]},
 "skill_589_name":{
@@ -7877,7 +7877,7 @@
 },
 "skill_589_desc":{
 "text": [
-"La sala de lectura es donde los reclusos pueden ir a leer los libros que elegimos.",
+"La sala de lectura es donde los reclusos pueden ir a leer los libros que elijamos.",
 "También podemos sustituir los libros por material de lectura especial.",
 "\\REM_EFF[skill_589_effect]"
 ]},
@@ -7895,17 +7895,17 @@
 },
 "skill_591_desc":{
 "text": [
-"Mantenga la sala de lectura llena de libros para entretener",
+"Mantengamos la sala de lectura llena de libros para entretener",
 "a los reclusos, como novelas ligeras, revistas y cómics.",
 "\\REM_EFF[skill_591_effect]"
 ]},
 "skill_592_name":{
-"text":["Material de Lectura: Texto imperial"]
+"text":["Material de Lectura: Textos imperiales"]
 },
 "skill_592_desc":{
 "text": [
-"Llena las estanterías de literatura sobre el imperio.",
-"Libros de historia, autobiografías de emperadores del pasados y otros textos que alaben el imperio.",
+"Llenémos las estanterías de literatura sobre el imperio.",
+"Libros de historia, autobiografías de emperadores pasados y otros textos que alaben el imperio.",
 "\\REM_EFF[skill_592_effect]"
 ]},
 "skill_593_name":{
@@ -7913,7 +7913,7 @@
 },
 "skill_593_desc":{
 "text": [
-"Tener sólo libros que enseñen a los reclusos",
+"Tengamos sólo libros que enseñen a los reclusos",
 "a fortalecer su cuerpo física y mentalmente.",
 "\\REM_EFF[skill_593_effect]"
 ]},
@@ -7922,7 +7922,7 @@
 },
 "skill_594_desc":{
 "text": [
-"Todos en la prisión son adultos, tratémosles como tales.",
+"Todo el mundo en la prisión es adulto, tratémosles como tal.",
 "Pongamos sólo libros para adultos en la sala de lectura.",
 "\\REM_EFF[skill_594_effect]"
 ]},
@@ -7932,7 +7932,7 @@
 "skill_595_desc":{
 "text": [
 "Establezcamos un sistema en el que los reclusos puedan tomar prestados libros para",
-"adultos de la sala de lectura para llevárselos a su celda por un módico precio.",
+"adultos de la sala de lectura, para llevárselos a su celda por un módico precio.",
 "\\}\\REM_EFF[skill_595_effect]"
 ]},
 "skill_596_name":{
@@ -7979,12 +7979,12 @@
 "\\REM_EFF[skill_600_effect]"
 ]},
 "skill_601_name":{
-"text":["Formación de Guardias Expertos"]
+"text":["Entrenamiento de Guardias Expertos"]
 },
 "skill_601_desc":{
 "text": [
 "Todos los nuevos reclutas recibirán formación durante un mes,",
-"y todos los guardias tendrán que recibir formación obligatoria de 3 días cada mes.",
+"y todos los guardias tendrán que recibir una formación obligatoria de 3 días cada mes.",
 "\\REM_EFF[skill_601_effect]"
 ]},
 "skill_602_name":{
@@ -7993,7 +7993,7 @@
 "skill_602_desc":{
 "text": [
 "Equipa a los guardias con equipo militar de los herreros del imperio.",
-"Se recuperará el control en Fuerte Ganon a toda costa.",
+"Se recuperará el control del Fuerte Ganon a toda costa.",
 "\\REM_EFF[skill_602_effect]"
 ]},
 "skill_603_name":{
@@ -8006,7 +8006,7 @@
 "\\REM_EFF[skill_603_effect]"
 ]},
 "skill_604_name":{
-"text":["El Problema de los Motines"]
+"text":["El Problema con los Motines"]
 },
 "skill_604_desc":{
 "text": [
@@ -8028,7 +8028,7 @@
 },
 "skill_606_desc":{
 "text": [
-"\\}\\}Hemos proporcionado tantas diversiones y comodidades a los reclusos que han empezado a darlas por sentadas.",
+"\\}\\}Hemos proporcionado tanto entretenimiento y comodidades a los reclusos que han empezado a darlas por sentado.",
 "\\}\\}Podemos utilizar esto a nuestro favor quitando esos privilegios durante cierto tiempo a cualquiera que se atreva a amotinarse contra nosotros.",
 "\\}\\}\\REM_EFF[skill_606_effect]"
 ]},
@@ -8070,7 +8070,7 @@
 ]},
 
 "skill_611_name":{
-"text":["El problema del hombre lagarto"]
+"text":["El problema con los hombres lagarto"]
 },
 "skill_611_desc":{
 "text": [
