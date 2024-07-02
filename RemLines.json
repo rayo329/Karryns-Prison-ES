@@ -11013,71 +11013,71 @@
 
 "karryn_receptionist_summon_visitor_sexual_exp2_1":{
 "en":["\\fb\\C[5]\"Uhh......",
-	"\\fb\\C[5]¿El visitante con el número llamado......",
-	"\\fb\\C[5]por favor correteeeeeee...\""],
+	"\\fb\\C[5]¿Puede el visitante al que le toca......",
+	"\\fb\\C[5]Correr... H-hasta aquí...?\""],
 "jp":["\\fb\\C[5]「あぁッ……次の方……どうぞォ…」"]
 },
 
 "karryn_receptionist_summon_visitor_sexual_exp2_2":{
 "en":["\\fb\\C[5]\"Nnh... hrgh......",
-	"\\fb\\C[5]Por favor ven... hasta la recepción...",
+	"\\fb\\C[5]Por favor... corre... al mostrador...",
 	"\\fb\\C[5]Nnh... ah...\""],
 "jp":["\\fb\\C[5]「ンッ…ふぐっ……デスクに…んっ…アッ…」"]
 },
 
 "karryn_receptionist_summon_visitor_sexual_exp2_3":{
-"en":["\\fb\\C[5]\"Siguiente persona... por favor... correte......\""],
+"en":["\\fb\\C[5]\"Siguiente persona... por favor... que corra......\""],
 "jp":["\\fb\\C[5]「こちら…ッ…こちらです…どうぞ……ッ」"]
 },
 
 "karryn_receptionist_summon_visitor_sexual_exp3_1":{
-"en":["\\fb\\C[5]\"Nnh♥ Siguiente persona♥ correte♥ correte aquí♥",
-	"\\fb\\C[5]Por favor♥ AH♥ Por aquíii.♥\""],
+"en":["\\fb\\C[5]\"Nnh♥ Siguiente♥ corre♥ ven corriendoo♥",
+	"\\fb\\C[5]Por favor♥ AH♥ Por aquííí.♥\""],
 "jp":["\\fb\\C[5]「ンッ♥来てッ♥来てくださッ♥アッ♥来るゥ♥」"] 
 },
 
 "karryn_receptionist_summon_visitor_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"Siguiente♥ Siguiente visitante♥",
-	"\\fb\\C[5]Date prisa y correte♥ Uh♥ Here♥\""],
+"en":["\\fb\\C[5]\"Siguiente♥ Que pase el siguiente♥",
+	"\\fb\\C[5]Date prisa y córrete♥ que diga... Corre♥\""],
 "jp":["\\fb\\C[5]「次ッ♥次よ♥早く来てッ♥あっ♥早くゥ♥」"]
 },
 
 "karryn_receptionist_summon_visitor_sexual_exp3_3":{
-"en":["\\fb\\C[5]\"Próximo visitante♥ También puedes correrte aquí~♥\""],
+"en":["\\fb\\C[5]\"Siguiente♥ Córrete... Corre para acá~♥\""],
 "jp":["\\fb\\C[5]「前ッ♥前に来てもイイわよーッ♥」"]
 },
 
 
 "karryn_receptionist_greet_visitor_normal_exp1_1":{
-"en":["\\fb\\C[5]\"Hola, Indique el propósito de su visita.\""],
+"en":["\\fb\\C[5]\"Buenas, Indique el motivo de su visita.\""],
 "jp":["\\fb\\C[5]「今日は。ご用件を伺います」"]
 },
 
 "karryn_receptionist_greet_visitor_normal_exp1_2":{
-"en":["\\fb\\C[5]\"¿Cuál es el propósito de su visita aquí hoy?\""],
+"en":["\\fb\\C[5]\"¿Cuál es el motivo de su visita?\""],
 "jp":["\\fb\\C[5]「本日はいかがなされましたか？」"]
 },
 
 "karryn_receptionist_greet_visitor_normal_exp1_3":{
 "en":["\\fb\\C[5]\"Gracias por esperar.",
-	"\\fb\\C[5]Por favor indique el propósito de su visita.\""],
+	"\\fb\\C[5]Por favor indique el motivo de su visita.\""],
 "jp":["\\fb\\C[5]「お待たせ致しました。ご用件をどうぞ」"]
 },
 
 "karryn_receptionist_greet_visitor_normal_exp2_1":{
 "en":["\\fb\\C[5]\"¡Bienvenido!",
-	"\\fb\\C[5]¿Estás aquí para visitas?\""],
+	"\\fb\\C[5]¿Estás aquí para visitar a alguien?\""],
 "jp":["\\fb\\C[5]「いらっしゃいませ！ご面会ですね？」"]
 },
 
 "karryn_receptionist_greet_visitor_normal_exp2_2":{
-"en":["\\fb\\C[5]\"Hola, ¿qué estás aquí hoy?\""],
+"en":["\\fb\\C[5]\"Buenas, ¿A qué ha venido?\""],
 "jp":["\\fb\\C[5]「ご用件をお伺いしますね！」"]
 },
 
 "karryn_receptionist_greet_visitor_normal_exp2_3":{
-"en":["\\fb\\C[5]\"Bienvenido a Fuerte Ganon.",
-	"\\fb\\C[5]¡Por favor dime para qué estás aquí!\""],
+"en":["\\fb\\C[5]\"Bienvenido al Fuerte Ganon.",
+	"\\fb\\C[5]¡Por favor indíqueme el motivo de su visita!\""],
 "jp":["\\fb\\C[5]「ようこそ要塞ガナンへ。ご用件をどうぞ！」"]
 },
 
@@ -11088,159 +11088,159 @@
 },
 
 "karryn_receptionist_greet_visitor_normal_exp3_2":{
-"en":["\\fb\\C[5]\"Hey amor~♥",
-	"\\fb\\C[5]Gracias♥ por♥ esperar.♥\""],
+"en":["\\fb\\C[5]\"Holii~♥",
+	"\\fb\\C[5]Gracias♥ Por♥ Esperar.♥\""],
 "jp":["\\fb\\C[5]「どうも♥お・ま・た・せ♥」"]
 },
 
 "karryn_receptionist_greet_visitor_normal_exp3_3":{
-"en":["\\fb\\C[5]\"¿Esperaste mucho?",
-	"\\fb\\C[5]Entonces, ¿para qué estás aquí hoy?♪\""],
+"en":["\\fb\\C[5]\"¿Has esperado mucho?",
+	"\\fb\\C[5]Dime, ¿para qué estás aquí hoy?♪\""],
 "jp":["\\fb\\C[5]「待ちくたびれた？ゆっくりして行ってね♪」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp1_1":{
 "en":["\\fb\\C[5]\"Ho-... Hola...",
-	"\\fb\\C[5]Indique el propósito... de su visita......\""],
+	"\\fb\\C[5]Indique el motivo... de su visita......\""],
 "jp":["\\fb\\C[5]「こ…こんにち…は…。ご用件を伺います……」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp1_2":{
 "en":["\\fb\\C[5]\"Nnh... Gracias ... por esperar......",
-	"\\fb\\C[5]Haa haa......\""],
+	"\\fb\\C[5]Aah aah......\""],
 "jp":["\\fb\\C[5]「…お待たせ…致しました……ハァハァ……」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp1_3":{
-"en":["\\fb\\C[5]\"Bienvenido ... a Fort Ganon......",
-	"\\fb\\C[5]Indique el propósito de su... visita...\""],
+"en":["\\fb\\C[5]\"Bienvenido ... Al Fuerte Ganon......",
+	"\\fb\\C[5]Indique el motivo de su... Visita...\""],
 "jp":["\\fb\\C[5]「よう…こそガナンへ……今日のご用件をどう…ぞ…」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp2_1":{
 "en":["\\fb\\C[5]\"B-bienvenido...... uhhnn......",
-	"\\fb\\C[5]Para qué estás aquí...?\""],
+	"\\fb\\C[5]¿P-para qué estás aquí...?\""],
 "jp":["\\fb\\C[5]「い…いらっしゃいませ……あァッン……ご用件は…？」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp2_2":{
 "en":["\\fb\\C[5]\"Hola...... uh... uhhng...",
-	"\\fb\\C[5]Por favor Disculpame...\""],
+	"\\fb\\C[5]Discúlpeme un m-momento...\""],
 "jp":["\\fb\\C[5]「どうも……アッ…アァンッ…失礼しました…」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp2_3":{
-"en":["\\fb\\C[5]\"D-Date prisa... y dime qué...",
-	"\\fb\\C[5]Nnh... Estás aquí por hoy.......",
-	"\\fb\\C[5]Nnh... hnng...\""],
+"en":["\\fb\\C[5]\"D-Date prisa... dime a...",
+	"\\fb\\C[5]Nnh... A qué has venido hoy.......",
+	"\\fb\\C[5]Nnh... Hnng...\""],
 "jp":["\\fb\\C[5]「は…早く…今日の用件を言って……ンッ…ンンッ…」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp3_1":{
-"en":["\\fb\\C[5]\"H-Huh? NNH♥ Uhh♥",
-	"\\fb\\C[5]Entonces, ¿para qué estás aquí?♥\""],
+"en":["\\fb\\C[5]\"¿H-Huh? NNH♥ Uhh♥",
+	"\\fb\\C[5]Dime, ¿a qué has venido?♥\""],
 "jp":["\\fb\\C[5]「な…ッ何？ヒッ♥あうン♥用件は…一体何なのォ？♥」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"No te preocupes por mí.♥ Y solo dime... hng♥",
-	"\\fb\\C[5]Para qué estás aquí.♥\""],
+"en":["\\fb\\C[5]\"No te preocupes.♥ Solo dime... hng♥",
+	"\\fb\\C[5]A qué has venido.♥\""],
 "jp":["\\fb\\C[5]「私の事はッ♥気にしないで…ンッ♥用件を言いなさい♥」"]
 },
 
 "karryn_receptionist_greet_visitor_sexual_exp3_3":{
-"en":["\\fb\\C[5]\"Entonces, ¿estás aquí para visitas? ¿Un apretón de manos?",
-	"\\fb\\C[5]O... ¿estás aquí por algo más?♥\""],
+"en":["\\fb\\C[5]\"Dime, ¿estás aquí para visitar a alguien?",
+	"\\fb\\C[5]¿Para darme la mano? O... ¿buscas otra cosa?♥\""],
 "jp":["\\fb\\C[5]「何？面会？握手？それとも…別の用事かしら～ッ？♥」"] 
 },
 
 
 "karryn_receptionist_give_paper_normal_exp1_1":{
-"en":["\\fb\\C[5]\"Por favor complete este papeleo",
-	"\\fb\\C[5]y tráemelo de vuelta.\""],
+"en":["\\fb\\C[5]\"Por favor rellene estos papeles",
+	"\\fb\\C[5]y tráigamelos de vuelta.\""],
 "jp":["\\fb\\C[5]「こちらの申込書に記入してお返し下さい」"]
 },
 
 "karryn_receptionist_give_paper_normal_exp1_2":{
-"en":["\\fb\\C[5]\"Tome este papeleo y llénelo por favor.\""],
+"en":["\\fb\\C[5]\"Tome estos papeles y rellénelos por favor.\""],
 "jp":["\\fb\\C[5]「こちらの用紙にご記入お願いします」"]
 },
 
 "karryn_receptionist_give_paper_normal_exp2_1":{
-"en":["\\fb\\C[5]\"Está bien, toma estos papeles, complétalos,",
+"en":["\\fb\\C[5]\"Está bien, toma estos papeles, rellénalos,",
 	"\\fb\\C[5]y tráemelos por favor.\""],
 "jp":["\\fb\\C[5]「ではこれに記入して戻って下さいね」"]
 },
 
 "karryn_receptionist_give_paper_normal_exp2_2":{
-"en":["\\fb\\C[5]\"¡Aquí está su papeleo!\""],
+"en":["\\fb\\C[5]\"¡Aquí están sus papeles!\""],
 "jp":["\\fb\\C[5]「申込書をどうぞ！」"]
 },
 
 "karryn_receptionist_give_paper_normal_exp3_1":{
-"en":["\\fb\\C[5]\"Está bien, vuelve a mí una vez que",
-	"\\fb\\C[5]hayas completado estos papeles.\""],
+"en":["\\fb\\C[5]\"Vale, vuelve una vez",
+	"\\fb\\C[5]hayas rellenado estos papeles.\""],
 "jp":["\\fb\\C[5]「じゃ、これに記入してまた戻ってきてね」"]
 },
 
 "karryn_receptionist_give_paper_normal_exp3_2":{
 "en":["\\fb\\C[5]\"Aquí están sus papeles.",
-	"\\fb\\C[5]No escribas nada raro en ellos, ¿de acuerdo?♥\""],
+	"\\fb\\C[5]No escribas nada raro en ellos, ¿vale?♥\""],
 "jp":["\\fb\\C[5]「はい、申込書。変なこと書いちゃダメよ？♥」"]
 },
 
 "karryn_receptionist_give_paper_sexual_exp1_1":{
-"en":["\\fb\\C[5]\"A-Aquí... Por favor complete...",
-	"\\fb\\C[5]este papeleo......\""],
+"en":["\\fb\\C[5]\"T-tome... Rellene...",
+	"\\fb\\C[5]estos papeles......\""],
 "jp":["\\fb\\C[5]「で…ではこの申込書に…記入して下さい……」"]
 },
 
 "karryn_receptionist_give_paper_sexual_exp1_2":{
-"en":["\\fb\\C[5]\"Tome este papeleo y...",
-	"\\fb\\C[5]Llena...lo...... Ahnng...\""],
+"en":["\\fb\\C[5]\"Tome estos papeles y...",
+	"\\fb\\C[5]Rellena...los...... Ahnng...\""],
 "jp":["\\fb\\C[5]「こちらの用紙にご記入を…ッ…あっンくゥ…」"]
 },
 
 "karryn_receptionist_give_paper_sexual_exp2_1":{
-"en":["\\fb\\C[5]\"Okay...... uh... uhh...",
-	"\\fb\\C[5]Llena estos papeles por-... Ahhee...\""],
+"en":["\\fb\\C[5]\"E-está bien...... uh... uhh...",
+	"\\fb\\C[5]Rellena estos papeles por-... Aaayy...\""],
 "jp":["\\fb\\C[5]「ではッ……あっ…あッ…書類にご記入くださ…ッあヒンッ」"]
 },
 
 "karryn_receptionist_give_paper_sexual_exp2_2":{
-"en":["\\fb\\C[5]\"Hng...... Aqui...",
-	"\\fb\\C[5]Rellene los formularios en estos...",
-	"\\fb\\C[5]papeles...... Ngh...\""],
+"en":["\\fb\\C[5]\"Hng...... Tome...",
+	"\\fb\\C[5]Rellene... Nngh~... Estos",
+	"\\fb\\C[5]Papeles...... Ngh...\""],
 "jp":["\\fb\\C[5]「ん……っ…これ…この紙に必要事項を書…いて……ぅンッ…」"]
 },
 
 "karryn_receptionist_give_paper_sexual_exp3_1":{
-"en":["\\fb\\C[5]\"Haa haa...... nnh... Okay♥",
-	"\\fb\\C[5]Toma... llena esto y vuélvete a correr...♥\""],
+"en":["\\fb\\C[5]\"Aah Aah...... nnh... Bien♥",
+	"\\fb\\C[5]Toma... rellena esto y ven corriendo...♥\""],
 "jp":["\\fb\\C[5]「ハァハァ……ン…いいわ♥じゃ…コレに書いて来て…♥」"] 
 },
 
 "karryn_receptionist_give_paper_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"Aquí♥ AH♥ Conoces el ejercicio.♥",
-	"\\fb\\C[5]Ve a llenar estos.♥\""],
+"en":["\\fb\\C[5]\"Toma♥ AH♥ Ya sabes como va esto.♥",
+	"\\fb\\C[5]Rellena estos papeles.♥\""],
 "jp":["\\fb\\C[5]「ほらッ♥アッ♥いつも書いてるヤツ♥分かるでしょォ♥」"]
 },
 
 
 "karryn_receptionist_reject_request_normal_exp1_1":{
-"en":["\\fb\\C[5]\"No, lo siento, ¡pero debo negarme enérgicamente!\""],
+"en":["\\fb\\C[5]\"¡No, lo siento mucho pero debo negarme!\""],
 "jp":["\\fb\\C[5]「申し訳ございませんが、お断りします！」"]
 },
 
 "karryn_receptionist_reject_request_normal_exp1_2":{
 "en":["\\fb\\C[5]\"No, y si no estás aquí para visitas,",
-	"\\fb\\C[5]por favor vete de una vez!\""],
+	"\\fb\\C[5]lárgate, por favor!\""],
 "jp":["\\fb\\C[5]「面会が目的でないのならば、お帰り下さい！」"]
 },
 
 "karryn_receptionist_reject_request_normal_exp2_1":{
 "en":["\\fb\\C[5]\"No puedo hacer eso.",
-	"\\fb\\C[5]Eso no está relacionado con mis deberes oficiales.\""],
+	"\\fb\\C[5]Eso está fuera de mis deberes oficiales.\""],
 "jp":["\\fb\\C[5]「ダメですよ。業務とは無関係ですので」"]
 },
 
@@ -11250,25 +11250,25 @@
 },
 
 "karryn_receptionist_reject_request_normal_exp3_1":{
-"en":["\\fb\\C[5]\"Estoy halagada, pero lo siento.\""],
+"en":["\\fb\\C[5]\"Me halagas, pero lo siento.\""],
 "jp":["\\fb\\C[5]「嬉しいんだけど、ごめんなさいっ♪」"]
 },
 
 "karryn_receptionist_reject_request_normal_exp3_2":{
 "en":["\\fb\\C[5]\"¿Otra vez con estas solicitudes~?",
-	"\\fb\\C[5]Por favor dame un respiro~.\""],
+	"\\fb\\C[5]Por favor, dame un respiro~.\""],
 "jp":["\\fb\\C[5]「もうまたなの～？今日は勘弁してちょーだい」"]
 },
 
 "karryn_receptionist_reject_request_sexual_exp1_1":{
 "en":["\\fb\\C[5]\"L-lo siento, pero...... nngh...",
-	"\\fb\\C[5]Estoy trabajando ahora......\""],
+	"\\fb\\C[5]Ahora estoy trabajando......\""],
 "jp":["\\fb\\C[5]「も……申し訳ありませんが……ンくッ…職務中ですので……」"]
 },
 
 "karryn_receptionist_reject_request_sexual_exp1_2":{
-"en":["\\fb\\C[5]\"Haa auu......",
-	"\\fb\\C[5]No puedo cumplir... ese pedido para ti......\""],
+"en":["\\fb\\C[5]\"Aah auu......",
+	"\\fb\\C[5]No puedo cumplir... esa petición......\""],
 "jp":["\\fb\\C[5]「はぁうッ……そういったご要望には……お応え出来かねます……」"]
 },
 
@@ -11280,56 +11280,56 @@
 
 "karryn_receptionist_reject_request_sexual_exp2_2":{
 "en":["\\fb\\C[5]\"Uh... ahnn......",
-	"\\fb\\C[5]No... eso no está relacionado con mis deberes oficiales....\""],
+	"\\fb\\C[5]No... eso está fuera de mis deberes oficiales....\""],
 "jp":["\\fb\\C[5]「あっ…あぅン……いえ……業務とは関係ありませんので……」"]
 },
 
 "karryn_receptionist_reject_request_sexual_exp3_1":{
-"en":["\\fb\\C[5]\"Oh tu~♥ Intenta preguntarme eso otra vez... nnh♥",
-	"\\fb\\C[5]Después de que termineee mi turno.♥ Hngg♥\""],
+"en":["\\fb\\C[5]\"Oh cielo~♥ Vuelve a preguntarme eso... nnh♥",
+	"\\fb\\C[5]Cuando termine mi turnooo~.♥ Hngg♥\""],
 "jp":["\\fb\\C[5]「もう～♥そういうの…ッン♥後にしてちょうだァい♥ンクぅ♥"]
 },
 
 "karryn_receptionist_reject_request_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"No pueeeedo.♥ V-Ves...",
-	"\\fb\\C[5]Estoy... actualmente trabajando... ¿de acuerdo?♥\""],
+"en":["\\fb\\C[5]\"No pueeeedo♥...",
+	"\\fb\\C[5]Estoy... Trabajando... ¿Vale?♥\""],
 "jp":["\\fb\\C[5]「だァめ♥いっ…今は…ホラ……お仕事中だから……ネッ♥」"]
 },
 
 
 "karryn_receptionist_receive_paper_normal_exp1_1":{
-"en":["\\fb\\C[5]\"Gracias, por favor regrese a su asiento.",
+"en":["\\fb\\C[5]\"Gracias, vuelva a su asiento, por favor.",
 	"\\fb\\C[5]Se le llamará en breve.\""],
 "jp":["\\fb\\C[5]「はい、頂きました。席にお戻り下さい。間もなくお呼びします」"]
 },
 
 "karryn_receptionist_receive_paper_normal_exp1_2":{
-"en":["\\fb\\C[5]\"Recibí tu papeleo.",
-	"\\fb\\C[5]Te informaré más tarde cuando puedas ir a las salas de visitas.\""],
+"en":["\\fb\\C[5]\"Vale, ya tengo tus papeles.",
+	"\\fb\\C[5]Te avisaré más tarde cuando puedas ir a las salas de visitas.\""],
 "jp":["\\fb\\C[5]「承りました。後ほど面会室へご案内します」"]
 },
 
 "karryn_receptionist_receive_paper_normal_exp2_1":{
-"en":["\\fb\\C[5]\"Gracias. Llamaré a su número para visitas",
-	"\\fb\\C[5]una vez que haya confirmado sus datos.\""],
+"en":["\\fb\\C[5]\"Gracias. Una vez haya confirmado tus datos.",
+	"\\fb\\C[5]Diré tu número para que puedas ir a la visita\""],
 "jp":["\\fb\\C[5]「有難うございます。面会室を確認してお呼びしますね」"]
 },
 
 "karryn_receptionist_receive_paper_normal_exp2_2":{
-"en":["\\fb\\C[5]\"Gracias. ¡Te llamaré cuando",
-	"\\fb\\C[5]sea tu turno de visita!\""],
+"en":["\\fb\\C[5]\"Gracias. ¡Te aviso cuando",
+	"\\fb\\C[5]sea tu turno!\""],
 "jp":["\\fb\\C[5]「お疲れ様でした。間もなくご案内します！」"]
 },
 
 "karryn_receptionist_receive_paper_normal_exp3_1":{
-"en":["\\fb\\C[5]\"Gracias♪ Puedes volver a tu asiento ahora",
-	"\\fb\\C[5]y espera tu turno.♪\""],
+"en":["\\fb\\C[5]\"Gracias♪ Ya puedes volver a tu asiento.",
+	"\\fb\\C[5]Espera tu turno.♪\""],
 "jp":["\\fb\\C[5]「ハイッありがとう♪それじゃ部屋の割当まで待っててね♪」"]
 },
 
 "karryn_receptionist_receive_paper_normal_exp3_2":{
-"en":["\\fb\\C[5]\"¡Todo se ve bien!",
-	"\\fb\\C[5]Siéntate tranquilo y te llamaré en breve",
+"en":["\\fb\\C[5]\"¡Todo parece correcto!",
+	"\\fb\\C[5]Siéntate y te llamaré en breve",
 	"\\fb\\C[5]cuando haya una habitación disponible.♪\""],
 "jp":["\\fb\\C[5]「うん、大丈夫ね！案内があるまで、イイコで待ってるのよ♪」"]
 },
@@ -11337,194 +11337,194 @@
 
 "karryn_receptionist_receive_paper_sexual_exp1_1":{
 "en":["\\fb\\C[5]\"G-gracias......",
-	"\\fb\\C[5]P-Pon el papel ahí y por favor...",
-	"\\fb\\C[5]Auu... Regresa... a tu asiento...\""],
+	"\\fb\\C[5]P-Pon los papeles ahí y Regresa...",
+	"\\fb\\C[5]Auu... a tu asiento... por favor...\""],
 "jp":["\\fb\\C[5]「は、はい……頂きました……あぅ……席に…お戻り下さ……い…」"]
 },
 
 "karryn_receptionist_receive_paper_sexual_exp1_2":{
-"en":["\\fb\\C[5]\"he recibido tu papeleo......",
-	"\\fb\\C[5]Te... informaré en breve... cuando puedas entrar....\""],
+"en":["\\fb\\C[5]\"Ya tengo tus papeles......",
+	"\\fb\\C[5]Te... llamaré en breve... cuando puedas entrar....\""],
 "jp":["\\fb\\C[5]「承りました……か…ッ確認次第ご案内…しますので…ッ」"] 
 },
 
 "karryn_receptionist_receive_paper_sexual_exp2_1":{
-"en":["\\fb\\C[5]\"Uh...... gracias...... nnh......",
-	"\\fb\\C[5]Por favor espera un poco... más... Nnhee!\""],
+"en":["\\fb\\C[5]\"Uh...... Gracias...... nnh......",
+	"\\fb\\C[5]Por favor espera un poco... más... ¡Nngh!\""],
 "jp":["\\fb\\C[5]「あっ……有難うございま…す……ッ…もう少し待ってて下さ……ンヒィッ！」"]
 },
 
 "karryn_receptionist_receive_paper_sexual_exp2_2":{
-"en":["\\fb\\C[5]\"Huh... Oh, right... Haa haa......",
-	"\\fb\\C[5]Put the paper over there...... Haa haa...\""],
+"en":["\\fb\\C[5]\"Huh... Ah, verdad... Aah Aah......",
+	"\\fb\\C[5]Pon los papeles ahí...... Aah aah...\""],
 "jp":["\\fb\\C[5]「えっ…書けましたか？…ハァハァ……わ、分かりました……はぁはぁ…」"]
 },
 
 "karryn_receptionist_receive_paper_sexual_exp3_1":{
-"en":["\\fb\\C[5]\"Uh♥ Aah♥ Oh, has terminado.♥ M-Muy bien...",
+"en":["\\fb\\C[5]\"Uh♥ Aah♥ Oh, has acabado.♥ M-Muy bien...",
 	"\\fb\\C[5]Revisaré tus papeles más tarde.♥ Nghh♥\""],
 "jp":["\\fb\\C[5]「アッ♥あぁッ♥書けたのねッ♥う、うんじゃあ…見るわね♥ンクゥ♥」"]
 },
 
 "karryn_receptionist_receive_paper_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"I-Si ya terminaste de llenar tus papeles...♥",
+"en":["\\fb\\C[5]\"S-Si ya terminaste de llenar tus papeles...♥",
 	"\\fb\\C[5]Déjalos aquí, los revisaré pronto....♥\""],
 "jp":["\\fb\\C[5]「しょ…書類ならそこに置いてて…ッ♥すぐ見るから…ッ♥」"]
 },
 
 
 "karryn_receptionist_check_room_normal_exp1_1":{
-"en":["\\fb\\C[5]\"Centro de visitantes aquí.",
-	"\\fb\\C[5]¿Puedo obtener el estado de la Sala de Visitas? cambio.\""],
+"en":["\\fb\\C[5]\"Buenas, llamo del Centro de visitantes.",
+	"\\fb\\C[5]¿Me podeis decir si está ocupada la Sala de Visitas? Cambio.\""],
 "jp":["\\fb\\C[5]「こちら案内所。面会室の空き状況を知らせなさい」"]
 },
 
 "karryn_receptionist_check_room_normal_exp1_2":{
-"en":["\\fb\\C[5]\"Karryn aquí.",
-	"\\fb\\C[5]Infórmenme del estado de la Sala de Visitas, cambio.\""],
+"en":["\\fb\\C[5]\"Buenas, soy Karryn.",
+	"\\fb\\C[5]Informádme del estado de la Sala de Visitas, cambio.\""],
 "jp":["\\fb\\C[5]「こちらカリン。面会室の現状を報告せよ」"]
 },
 
 "karryn_receptionist_check_room_normal_exp2_1":{
-"en":["\\fb\\C[5]\"Karryn del Centro de Visitantes aquí.",
-	"\\fb\\C[5]¿Está disponible la sala de visitas? cambio\""],
+"en":["\\fb\\C[5]\"Karryn, llamando desde el Centro de Visitantes.",
+	"\\fb\\C[5]¿Está disponible la sala de visitas? Cambio\""],
 "jp":["\\fb\\C[5]「受付のカリンよ。面会室の空きはどう？」"]
 },
 
 "karryn_receptionist_check_room_normal_exp2_2":{
-"en":["\\fb\\C[5]\"Hola soy yo.",
-	"\\fb\\C[5]¿Está disponible la sala de visitas? cambio.\""],
+"en":["\\fb\\C[5]\"Buenas, soy yo.",
+	"\\fb\\C[5]¿Está disponible la sala de visitas? Cambio.\""],
 "jp":["\\fb\\C[5]「もしもし私よ。空き状況、どう？」"]
 },
 
 "karryn_receptionist_check_room_normal_exp3_1":{
-"en":["\\fb\\C[5]\"Karryn aquí.",
-	"\\fb\\C[5]¿Está abierta la sala de visitas de allí? cambio.\""],
+"en":["\\fb\\C[5]\"Soy Karryn.",
+	"\\fb\\C[5]¿Está abierta la sala de visitas? Cambio.\""],
 "jp":["\\fb\\C[5]「カリンよ！面会室、今空いてる？」"]
 },
 
 "karryn_receptionist_check_room_normal_exp3_2":{
-"en":["\\fb\\C[5]\"Hola soy yo.",
-	"\\fb\\C[5]Dígame el estado de la Sala de Visitas, cambio\""],
+"en":["\\fb\\C[5]\"Buenas, soy yo.",
+	"\\fb\\C[5]Dime el estado de la Sala de Visitas, cambio\""],
 "jp":["\\fb\\C[5]「あ、私。面会室の状態、教えてくれるかしら？」"]
 },
 
 
 "karryn_receptionist_check_room_sexual_exp1_1":{
-"en":["\\fb\\C[5]\"K-Karryn aqui......",
-	"\\fb\\C[5]Repórtenme... El estado de la Sala, ngh...",
+"en":["\\fb\\C[5]\"S-soy K-Karryn......",
+	"\\fb\\C[5]Decidme... El estado de la Sala, ngh...",
 	"\\fb\\C[5]de Visitas, cambio...\""],
 "jp":["\\fb\\C[5]「こ…こちらカリン……面会室の現状……をッ…報告せよ……」"] 
 },
 
 "karryn_receptionist_check_room_sexual_exp1_2":{
-"en":["\\fb\\C[5]\"Nrgh...... no, solo soy yo......",
-	"\\fb\\C[5]Uh, reportar el estado de la sala...",
-	"\\fb\\C[5]de visitas... cambio......\""],
+"en":["\\fb\\C[5]\"Nrgh...... no, estoy sola......",
+	"\\fb\\C[5]Uh, decidme si está libre...",
+	"\\fb\\C[5]la sala de visitas... cambio......\""],
 "jp":["\\fb\\C[5]「んく……私だけど……アッ…空き状況を…報告して……ッ」"]
 },
 
 "karryn_receptionist_check_room_sexual_exp2_1":{
-"en":["\\fb\\C[5]\"Th-... ngh...... Este es el Centro de Visitantes......",
-	"\\fb\\C[5]Dígame si la sala de visitas esta dis-...",
-	"\\fb\\C[5]Nnh, ponible, cambio... Nngh......\""],
+"en":["\\fb\\C[5]\"Ce-... ngh...... Centro de Visitantes......",
+	"\\fb\\C[5]Decidme si la sala de visitas esta dis-...",
+	"\\fb\\C[5]Nngh ...ponible, cambio... Nngh......\""],
 "jp":["\\fb\\C[5]「こッ…んく……こちら受付……面会室の状況を伝えてちょうだ…い…クッふ…」"]
 },
 
 "karryn_receptionist_check_room_sexual_exp2_2":{
-"en":["\\fb\\C[5]\"Hola? Haa haa...",
+"en":["\\fb\\C[5]\"¿Hola? Aah Aah...",
 	"\\fb\\C[5]la sala de visitas......",
-	"\\fb\\C[5]Dime si está abierto... nnh, cambio...\""],
+	"\\fb\\C[5]Dime si está ocupada... nnh, cambio...\""],
 "jp":["\\fb\\C[5]「もしもしッ？ハァハァ…ッ…部屋の空きよ…空きを教えて…ッ…」"] 
 },
 
 "karryn_receptionist_check_room_sexual_exp3_1":{
 "en":["\\fb\\C[5]\"Uh♥ Ahhnn♥",
-	"\\fb\\C[5]Sí, estoy llamando para el estado de la Sala de Visitas.♥",
-	"\\fb\\C[5]Así que dime tu informe.♥ Nnnf, cambio.♥\""],
+	"\\fb\\C[5]Sí, estoy llamando para saber si está libre",
+	"\\fb\\C[5] la Sala de Visitas.♥ Nnnf, cambio.♥\""],
 "jp":["\\fb\\C[5]「アッ♥あハン♥うん、そう空き状況♥教えてェッ♥ンふンッ♥」"]
 },
 
 "karryn_receptionist_check_room_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"Nnhee♥ es la sala de visitas...♥",
+"en":["\\fb\\C[5]\"Nnhee♥ ¿Está la sala de visitas...♥",
 	"\\fb\\C[5]disponible? cambio.♥\""],
 "jp":["\\fb\\C[5]「ンヒィッん♥面会のォお部屋…ッ♥空いてるかしらァ？♥」"]
 },
 
 "karryn_receptionist_assign_room_normal_exp1_1":{
-"en":["\\fb\\C[5]\"Diríjase a la puerta a su derecha y vaya",
+"en":["\\fb\\C[5]\"Diríjase a la puerta a su derecha y ve",
 	"\\fb\\C[5]a la sala de visitas asignada.\""],
 "jp":["\\fb\\C[5]「右手の扉から、該当の面会室へお入り下さい」"]
 },
 
 "karryn_receptionist_assign_room_normal_exp1_2":{
-"en":["\\fb\\C[5]\"Gracias por esperar.",
-	"\\fb\\C[5]Por favor dirígete a la puerta a mi izquierda.\""],
+"en":["\\fb\\C[5]\"Gracias por la espera.",
+	"\\fb\\C[5]Por favor ve a la puerta a mi izquierda.\""],
 "jp":["\\fb\\C[5]「お待たせいたしました。右側の扉へお進み下さい」"]
 },
 
 "karryn_receptionist_assign_room_normal_exp2_1":{
-"en":["\\fb\\C[5]\"¡Por favor tome la puerta de la derecha a la Sala de Visitas!\""],
+"en":["\\fb\\C[5]\"¡Vaya a la puerta de la derecha, por favor!\""],
 "jp":["\\fb\\C[5]「では、右扉から面会室へどうぞ！」"]
 },
 
 "karryn_receptionist_assign_room_normal_exp2_2":{
-"en":["\\fb\\C[5]\"Ahora puede tener su visitación.",
-	"\\fb\\C[5]Pasa por la puerta de mi izquierda.\""],
+"en":["\\fb\\C[5]\"Ya puede entrar a la sala.",
+	"\\fb\\C[5]Pase por la puerta de mi izquierda.\""],
 "jp":["\\fb\\C[5]「それではご案内致しますね。面会室はあちらですよ」"]
 },
 
 "karryn_receptionist_assign_room_normal_exp3_1":{
-"en":["\\fb\\C[5]\"Gracias por esperar.♥",
+"en":["\\fb\\C[5]\"Gracias por la espera.♥",
 	"\\fb\\C[5]Diríjase a la Sala de Visitas.♪\""],
 "jp":["\\fb\\C[5]「お待たせ♥それじゃ面会室へレッツゴー♪」"]
 },
 
 "karryn_receptionist_assign_room_normal_exp3_2":{
-"en":["\\fb\\C[5]\"Su recluso ahora lo está esperando en la sala de visitas.♪",
-	"\\fb\\C[5]Cuida tus pasos al salir.♥\""],
+"en":["\\fb\\C[5]\"El recluso le está esperando en la sala de visitas.♪",
+	"\\fb\\C[5]Tenga cuidado al salir.♥\""],
 "jp":["\\fb\\C[5]「お相手さんがお待ちよ♪いってらっしゃい♥」"]
 },
 
 "karryn_receptionist_assign_room_sexual_exp1_1":{
 "en":["\\fb\\C[5]\"Dirígete a la puerta a tu derecha.......",
-	"\\fb\\C[5]Y luego vaya a su sala de visitas ...asignada.......\""],
+	"\\fb\\C[5]Y luego entra a la sala de visitas ...asignada.......\""],
 "jp":["\\fb\\C[5]「右手の扉です……そちらから面会室へ…どうぞ……」"]
 },
 
 "karryn_receptionist_assign_room_sexual_exp1_2":{
 "en":["\\fb\\C[5]\"Dirígete a la sala de visitas.......",
-	"\\fb\\C[5]A través de la puerta a... mi izquierda......\""],
+	"\\fb\\C[5]A través de la puerta de... mi izquierda......\""],
 "jp":["\\fb\\C[5]「面会室は扉……あっあッは……右の扉から…ですッ……」"] 
 },
 
 "karryn_receptionist_assign_room_sexual_exp2_1":{
-"en":["\\fb\\C[5]\"no me hagas caso......",
-	"\\fb\\C[5]Vaya a su sala de visitas asignadooouuu......\""],
+"en":["\\fb\\C[5]\"No te preocupes por esto......",
+	"\\fb\\C[5]Ve a la sala de visitas asignadaaaa~......\""],
 "jp":["\\fb\\C[5]「私に構わず……どうぞ面会室へ行って下さいィ……」"]
 },
 
 "karryn_receptionist_assign_room_sexual_exp2_2":{
-"en":["\\fb\\C[5]\"Haa haa......",
+"en":["\\fb\\C[5]\"Aah Aah......",
 	"\\fb\\C[5]P-Por favor vaya a la Sala de Visitasshh......\""],
 "jp":["\\fb\\C[5]「はぁはぁ……で、では面会室へお向かい下さ……ィ…ッ」"]
 },
 
 "karryn_receptionist_assign_room_sexual_exp3_1":{
-"en":["\\fb\\C[5]\"Cum♥ a la sala de visitas♥",
-	"\\fb\\C[5]Por la puerta a tu derecha~♥\""],
+"en":["\\fb\\C[5]\"Corre♥ a la sala de visitas♥",
+	"\\fb\\C[5]Por la puerta de la derecha~♥\""],
 "jp":["\\fb\\C[5]「イッて♥右のドアよッ♥さぁイッてぇ～♥」"]
 },
 
 "karryn_receptionist_assign_room_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"A-Muy bien♥ Ahora puede ir a su sala de visitas asignada.♥",
-	"\\fb\\C[5]Cuidarse...♥\""],
+"en":["\\fb\\C[5]\"M-muy bien♥ ya puedes ir a la sala de visitas.♥",
+	"\\fb\\C[5]Ten cuidado...♥\""],
 "jp":["\\fb\\C[5]「そ…それじゃ♥いつも通り割当の部屋で♥ヨロシクね…♥」"] 
 },
 
 
 "karryn_receptionist_normal_apology_normal_exp1_1":{
-"en":["\\fb\\C[5]\"Siento mucho la confusión.",
+"en":["\\fb\\C[5]\"Perdón por la confusión.",
 	"\\fb\\C[5]Me aseguraré de que no vuelva a suceder.\""],
 "jp":["\\fb\\C[5]「大変申し訳ございませんでした。お詫び申し上げます」"]
 },
@@ -11535,33 +11535,33 @@
 },
 
 "karryn_receptionist_normal_apology_normal_exp1_3":{
-"en":["\\fb\\C[5]\"Pido disculpas sinceramente por mi error,",
+"en":["\\fb\\C[5]\"Pido disculpas de forma sincera por mi error,",
 	"\\fb\\C[5]Seré más cuidadosa a partir de ahora.\""],
 "jp":["\\fb\\C[5]「誠にすみません、以後気を付けさせて頂きます」"]
 },
 
 "karryn_receptionist_normal_apology_normal_exp2_1":{
-"en":["\\fb\\C[5]\"¡Lo lamento! ¡Por favor, perdóname!\""],
+"en":["\\fb\\C[5]\"¡Lo siento mucho! ¡Discúlpeme, por favor!\""],
 "jp":["\\fb\\C[5]「すみません！どうかご容赦下さい！」"]
 },
 
 "karryn_receptionist_normal_apology_normal_exp2_2":{
-"en":["\\fb\\C[5]\"¡Siento mucho haberte molestado!\""],
+"en":["\\fb\\C[5]\"¡Siento mucho las molestias!\""],
 "jp":["\\fb\\C[5]「ご迷惑おかけしました！」"]
 },
 
 "karryn_receptionist_normal_apology_normal_exp2_3":{
-"en":["\\fb\\C[5]\"¡Lo lamento! ¡Seré mejor la próxima vez!\""],
+"en":["\\fb\\C[5]\"¡Lo lamento! ¡Lo haré mejor la próxima vez!\""],
 "jp":["\\fb\\C[5]「すみません！善処致します！」"]
 },
 
 "karryn_receptionist_normal_apology_normal_exp3_1":{
-"en":["\\fb\\C[5]\"¡Lo siento~! ¡Pero no descargues tu ira conmigo!\""],
+"en":["\\fb\\C[5]\"¡Lo siento~! ¡Pero no la tomes conmigo!\""],
 "jp":["\\fb\\C[5]「すみませぇ～ん！怒らないでね！」"]
 },
 
 "karryn_receptionist_normal_apology_normal_exp3_2":{
-"en":["\\fb\\C[5]\"¡Lo lamento! ¡No lo volveré a hacer!\""],
+"en":["\\fb\\C[5]\"¡Lo siento! ¡No lo volveré a hacer!\""],
 "jp":["\\fb\\C[5]「ごめんなさい！反省してます！」"]
 },
 
@@ -11571,55 +11571,55 @@
 },
 
 "karryn_receptionist_normal_apology_sexual_exp1_1":{
-"en":["\\fb\\C[5]\"¡Lo siento mucho... por la confusión!",
-	"\\fb\\C[5]Haa haa... por favoooooor tome asiento por ahoraaaaaa.....\""],
+"en":["\\fb\\C[5]\"¡Siento mucho... la confusión!",
+	"\\fb\\C[5]Aah Aah... por favoooooor tome asiento por ahoraaaaaa.....\""],
 "jp":["\\fb\\C[5]「もッ…申し訳……ございません……ッ！",
 	"\\fb\\C[5]ハァハァ…ともかくお戻り下さヒぃン……ッ」"]
 },
 
 "karryn_receptionist_normal_apology_sexual_exp1_2":{
-"en":["\\fb\\C[5]\"Yo... lo siento por las molestias...",
-	"\\fb\\C[5]Causada por mi ... error......\""],
+"en":["\\fb\\C[5]\"Lo... lo siento por las molestias...",
+	"\\fb\\C[5]Causadas por mi ... error......\""],
 "jp":["\\fb\\C[5]「ご迷惑…おかけしてッ…す…すみませン……ッ」"]
 },
 
 "karryn_receptionist_normal_apology_sexual_exp1_3":{
-"en":["\\fb\\C[5]\"Por favor...... Haa...",
-	"\\fb\\C[5]Por favor perdoneme......\""],
+"en":["\\fb\\C[5]\"Por favor...... Aah...",
+	"\\fb\\C[5]Por favor perdóneme......\""],
 "jp":["\\fb\\C[5]「お……ハゥッ…お許しください……」"]
 },
 
 "karryn_receptionist_normal_apology_sexual_exp2_1":{
-"en":["\\fb\\C[5]\"Lo si... siento mucho-...",
-	"\\fb\\C[5]Nnhhooo...... ...siento... uh......\""],
+"en":["\\fb\\C[5]\"P-perd-...",
+	"\\fb\\C[5]Nnhhooo...... ...Perdón... uh......\""],
 "jp":["\\fb\\C[5]「すみま…せ…ンほぉっ……ん…あ……ッ」"]
 },
 
 "karryn_receptionist_normal_apology_sexual_exp2_2":{
 "en":["\\fb\\C[5]\"Lo... Lo siento mucho......",
-	"\\fb\\C[5]Por favor regrese a su asiento......\""],
+	"\\fb\\C[5]Por favor vuelva a su asiento......\""],
 "jp":["\\fb\\C[5]「ご……めんなさい……席にお戻りを……ッ」"]
 },
 
 "karryn_receptionist_normal_apology_sexual_exp2_3":{
-"en":["\\fb\\C[5]\"Lo siento mucho......",
-	"\\fb\\C[5]No volvera a pashaaaar...!\""],
+"en":["\\fb\\C[5]\"¡Lo siento mucho......",
+	"\\fb\\C[5]No volverá a pashaaaar...!\""],
 "jp":["\\fb\\C[5]「申し訳ないです……反省してますッン…ッ！」"]
 },
 
 "karryn_receptionist_normal_apology_sexual_exp3_1":{
-"en":["\\fb\\C[5]\"Lo siento... Lo siento......♥",
-	"\\fb\\C[5]Pero estoy un poco ocupado ahora mismoooouu.♥\""],
+"en":["\\fb\\C[5]\"Perdón... Perdón......♥",
+	"\\fb\\C[5]Pero estoy un poco liada ahora mismoooouu.♥\""],
 "jp":["\\fb\\C[5]「ごめんン…ねェ……ッ♥でも今ちょっと無理ィッ♥」"]
 },
 
 "karryn_receptionist_normal_apology_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"Nnhee♥ No estés tan enojado♥ NNHOOHH♥\""],
+"en":["\\fb\\C[5]\"Nnhee♥ No te enfades tanto♥ NNHOOHH♥\""],
 "jp":["\\fb\\C[5]「んへぁッ♥怒らないでェ♥んほぉぁっ♥」"] 
 },
 
 "karryn_receptionist_normal_apology_sexual_exp3_3":{
-"en":["\\fb\\C[5]\"Uh♥ Uhh...♥ Por facor, perdonemeee~♥\""],
+"en":["\\fb\\C[5]\"Uh♥ Uhh...♥ Por favor, perdónameee~♥\""],
 "jp":["\\fb\\C[5]「あっ♥あぁ…♥どうか堪忍してェェ～♥」"] 
 },
 
@@ -11629,27 +11629,27 @@
 },
 
 "karryn_receptionist_shoo_away_normal_exp1_2":{
-"en":["\\fb\\C[5]((¡Aléjate de mí, peste!))"],
+"en":["\\fb\\C[5]((¡Vete por ahí, bicho!))"],
 "jp":["\\fb\\C[5]((近寄るな！仕事の邪魔よ！))"]
 },
 
 "karryn_receptionist_shoo_away_normal_exp1_3":{
-"en":["\\fb\\C[5]((No te acerques mas!))"],
+"en":["\\fb\\C[5]((¡Que no te acerques!))"],
 "jp":["\\fb\\C[5]((こっちへ来るんじゃない！))"]
 },
 
 "karryn_receptionist_shoo_away_normal_exp2_1":{
-"en":["\\fb\\C[5]((¡¿Hay más de ustedes...?!))"],
+"en":["\\fb\\C[5]((¡¿Sois más de uno...?!))"],
 "jp":["\\fb\\C[5]((また来たの…？！))"]
 },
 
 "karryn_receptionist_shoo_away_normal_exp2_2":{
-"en":["\\fb\\C[5]((¡Oye, estoy trabajando aquí!))"],
+"en":["\\fb\\C[5]((¡Oye, que estoy trabajando!))"],
 "jp":["\\fb\\C[5]((もうっ…仕事中よ！))"]
 },
 
 "karryn_receptionist_shoo_away_normal_exp2_3":{
-"en":["\\fb\\C[5]((Que estan haciendo los guardias......?))"],
+"en":["\\fb\\C[5]((¿Qué estan haciendo los guardias......?))"],
 "jp":["\\fb\\C[5]((全く警備兵は何してるのよ……))"]
 },
 
@@ -11659,60 +11659,60 @@
 },
 
 "karryn_receptionist_shoo_away_normal_exp3_2":{
-"en":["\\fb\\C[5]((Chico malo.♥ Compórtate.♥))"],
+"en":["\\fb\\C[5]((Niño malo.♥ Pórtate bien.♥))"],
 "jp":["\\fb\\C[5]((メッ♥だからね♥))"]
 },
 
 "karryn_receptionist_shoo_away_normal_exp3_3":{
-"en":["\\fb\\C[5]((Que goblin travieso.))"],
+"en":["\\fb\\C[5]((Que goblin más travieso.))"],
 "jp":["\\fb\\C[5]((イタズラっ子なんだから～))"]
 },
 
 
 "karryn_receptionist_shoo_away_sexual_exp1_1":{
-"en":["\\fb\\C[5]((no...... ve para ahi...!))"],
+"en":["\\fb\\C[5]((No...... ¡Vete...!))"],
 "jp":["\\fb\\C[5]((ちょッ……んく……あっちに行きなさい…ッ！))"]
 },
 
 "karryn_receptionist_shoo_away_sexual_exp1_2":{
-"en":["\\fb\\C[5]((No... no te acerques a mí.))"],
+"en":["\\fb\\C[5]((No... no te me acerques.))"],
 "jp":["\\fb\\C[5]((く……ッ…来るんじゃな……いッ))"] 
 },
 
 "karryn_receptionist_shoo_away_sexual_exp1_3":{
-"en":["\\fb\\C[5]((Lar...gate...))"],
+"en":["\\fb\\C[5]((Ve...vete...))"],
 "jp":["\\fb\\C[5]((出なさいよ…ッ))"]
 },
 
 "karryn_receptionist_shoo_away_sexual_exp2_1":{
-"en":["\\fb\\C[5]((No... vengas aquí... ahora mismo......))"],
+"en":["\\fb\\C[5]((No... vengas... ahora......))"],
 "jp":["\\fb\\C[5]((今は…来ちゃ…ダメェ……))"]
 },
 
 "karryn_receptionist_shoo_away_sexual_exp2_2":{
-"en":["\\fb\\C[5]((Haa...... uu... marchate......))"],
+"en":["\\fb\\C[5]((Aah...... uu... márchate......))"],
 "jp":["\\fb\\C[5]((はぁ……ぅ…邪魔しちゃダメ……ッ))"]
 },
 
 "karryn_receptionist_shoo_away_sexual_exp2_3":{
-"en":["\\fb\\C[5]((Haa haa...... vete......))"],
+"en":["\\fb\\C[5]((Aah aah...... vete......))"],
 "jp":["\\fb\\C[5]((はぁはぁ……で……出るのよ……))"]
 },
 
 "karryn_receptionist_shoo_away_sexual_exp3_1":{
-"en":["\\fb\\C[5]((¡No te acerques a mí ahora mismo!))"],
+"en":["\\fb\\C[5]((¡No te me acerques ahora!))"],
 "jp":["\\fb\\C[5]((ヤダ……このタイミングで来るのォ？！))"]
 },
 
 "karryn_receptionist_shoo_away_sexual_exp3_2":{
-"en":["\\fb\\C[5]((Mantente alejado.♥",
-	"\\fb\\C[5]Estoy en medio de algo aquí.♥))"],
+"en":["\\fb\\C[5]((Vete.♥",
+	"\\fb\\C[5]Estoy trabajando.♥))"],
 "jp":["\\fb\\C[5]((ダメェ♥今とってもイイところ…♥なんだから♥))"]
 },
 
 "karryn_receptionist_shoo_away_sexual_exp3_3":{
 "en":["\\fb\\C[5]((Ufufu......",
-	"\\fb\\C[5]Ve y párate allí y tócate.♪))"],
+	"\\fb\\C[5]Ponte ahí y hazte una paja.♪))"],
 "jp":["\\fb\\C[5]((ンフフ……キミは１人でシコってなさい♪))"] 
 },
 
@@ -11723,32 +11723,32 @@
 },
 
 "karryn_receptionist_kick_away_exp1_2":{
-"en":["\\fb\\C[5]((¡Te estás interponiendo en mi camino!))"],
+"en":["\\fb\\C[5]((¡Mira que eres pesado!))"],
 "jp":["\\fb\\C[5]((邪魔するんじゃないッ！))"]
 },
 
 "karryn_receptionist_kick_away_exp1_3":{
-"en":["\\fb\\C[5]((¡Eres un guisante!))"],
+"en":["\\fb\\C[5]((¡Zoquete!))"],
 "jp":["\\fb\\C[5]((こンのッ！！！))"]
 },
 
 "karryn_receptionist_kick_away_exp2_1":{
-"en":["\\fb\\C[5]((Ohhh, ¡ustedes goblins simplemente no aprenden!))"],
+"en":["\\fb\\C[5]((Ohhh, ¡Los goblins no aprendéis ni a patadas!))"],
 "jp":["\\fb\\C[5]((あぁんっ懲りないわね！))"] 
 },
 
 "karryn_receptionist_kick_away_exp2_2":{
-"en":["\\fb\\C[5]((¡rindete ya!))"],
+"en":["\\fb\\C[5]((¡Ríndete ya!))"],
 "jp":["\\fb\\C[5]((諦めの悪いヤツ！))"]
 },
 
 "karryn_receptionist_kick_away_exp2_3":{
-"en":["\\fb\\C[5]((Hmph!))"],
+"en":["\\fb\\C[5]((¡Hmph!))"],
 "jp":["\\fb\\C[5]((んっ…もう！))"]
 },
 
 "karryn_receptionist_kick_away_exp3_1":{
-"en":["\\fb\\C[5]((No me molestes mientras trabajo, ¿de acuerdo?))"],
+"en":["\\fb\\C[5]((No me molestes mientras trabajo, ¿Vale?))"],
 "jp":["\\fb\\C[5]((邪魔しちゃダメよ？))"] 
 },
 
@@ -11758,13 +11758,13 @@
 },
 
 "karryn_receptionist_kick_away_exp3_3":{
-"en":["\\fb\\C[5]((Mira, no toques.))"],
+"en":["\\fb\\C[5]((Se mira pero no se toca.))"],
 "jp":["\\fb\\C[5]((外で見てて！))"]
 },
 
 
 "karryn_ejaculate_desk_exp1_1":{
-"en":["\\fb\\C[5]\"Oye, espera... Estás haciendo un lío.......\""],
+"en":["\\fb\\C[5]\"Oye, mira la que estás liando.......\""],
 "jp":["\\fb\\C[5]「ちょっ……書類が汚れちゃうじゃない……」"]
 },
 
@@ -11775,74 +11775,74 @@
 
 "karryn_ejaculate_desk_exp1_3":{
 "en":["\\fb\\C[5]\"Esto no es bueno...",
-	"\\fb\\C[5]Otras personas se darán cuenta si te corres tanto......\""],
+	"\\fb\\C[5]Si te corres tanto se van a dar cuenta ......\""],
 "jp":["\\fb\\C[5]「こんなにたっぷり……他の人に気付かれちゃうわ……」"]
 },
 
 "karryn_ejaculate_desk_exp1_4":{
-"en":["\\fb\\C[5]\"Wow......",
-	"\\fb\\C[5]te estas corriendo mucho......\""],
+"en":["\\fb\\C[5]\"Guau......",
+	"\\fb\\C[5]te estás corriendo mucho......\""],
 "jp":["\\fb\\C[5]「すごい……こんなに勢い良く出るなんて……」"]
 },
 
 "karryn_ejaculate_desk_exp1_5":{
-"en":["\\fb\\C[5]\"Aaahh, estas borrando los papeles......\""],
+"en":["\\fb\\C[5]\"Aaahh, estas manchando los papeles......\""],
 "jp":["\\fb\\C[5]「あぁっ、書類が汚れちゃう……っ」"]
 },
 
 "karryn_ejaculate_desk_exp2_1":{
-"en":["\\fb\\C[5]\"Me alegro de que estés satisfecho ahora.\""],
+"en":["\\fb\\C[5]\"Me alegro de que estés satisfecho.\""],
 "jp":["\\fb\\C[5]「満足してくれたみたいね」"]
 },
 
 "karryn_ejaculate_desk_exp2_2":{
-"en":["\\fb\\C[5]\"Phew. Ahora de vuelta al trabajo.\""],
+"en":["\\fb\\C[5]\"Uff. Ahora a seguir trabajando.\""],
 "jp":["\\fb\\C[5]「ふぅっ。これくらい朝飯前ね」"] 
 },
 
 "karryn_ejaculate_desk_exp2_3":{
 "en":["\\fb\\C[5]\"Ah, sí, no te preocupes por eso.",
-	"\\fb\\C[5]No te corriste en ninguno de los papeles.\""],
+	"\\fb\\C[5]No te has corrido en ningún papel.\""],
 "jp":["\\fb\\C[5]「書類には……かかってないから大丈夫だわ」"]
 },
 
 "karryn_ejaculate_desk_exp2_4":{
-"en":["\\fb\\C[5]\"No le cuentes a nadie más sobre esto, ¿de acuerdo?\""],
+"en":["\\fb\\C[5]\"No le cuentes a nadie más esto, ¿Vale?\""],
 "jp":["\\fb\\C[5]「みんなにはナイショにするのよ？」"]
 },
 
 "karryn_ejaculate_desk_exp2_5":{
-"en":["\\fb\\C[5]\"Oh wow......",
-	"\\fb\\C[5]viniste tanto......\""],
+"en":["\\fb\\C[5]\"Guau......",
+	"\\fb\\C[5]te has corrido muchísimo......\""],
 "jp":["\\fb\\C[5]「ヤダ、濃いわ……すごい……」"]
 },
 
 "karryn_ejaculate_desk_exp3_1":{
 "en":["\\fb\\C[5]\"Mira eso.♥",
-	"\\fb\\C[5]Aceptaré esto como un regalo y lo dejaré en el escritorio.♪\""],
+	"\\fb\\C[5]Voy a dejar este regalito en el escritorio.♪\""],
 "jp":["\\fb\\C[5]「あらあら♥せっかくだから拭かないでおくわね♪」"]
 },
 
 "karryn_ejaculate_desk_exp3_2":{
-"en":["\\fb\\C[5]\"Deberías haber corrido sobre mí en su lugar.♥\""],
+"en":["\\fb\\C[5]\"¡Deberías haberte corrido en mí!♥\""],
 "jp":["\\fb\\C[5]「私にかけてくれても良かったのに♥」"]
 },
 
 "karryn_ejaculate_desk_exp3_3":{
 "en":["\\fb\\C[5]\"Ufufu......♥",
-	"\\fb\\C[5]Has estado ahorrando para hoy, ¿no?♥\""],
+	"\\fb\\C[5]Has estado acumulando para hoy, ¿no?♥\""],
 "jp":["\\fb\\C[5]「ウフフ……♥溜まってたのね♥」"]
 },
 
 "karryn_ejaculate_desk_exp3_4":{
-"en":["\\fb\\C[5]\"Ahora mi escritorio va a oler como",
-	"\\fb\\C[5]tu pene por el resto de mi turno.♥\""],
+"en":["\\fb\\C[5]\"Ahora mi escritorio va a oler a",
+	"\\fb\\C[5]tu pene el resto de mi turno.♥\""],
 "jp":["\\fb\\C[5]「デスクがチンポ臭くなっちゃうじゃない♥」"]
 },
 
 "karryn_ejaculate_desk_exp3_5":{
-"en":["\\fb\\C[5]\"Oh mi♥",
-	"\\fb\\C[5]Gracias por la bonita decoración del escritorio.♥\""],
+"en":["\\fb\\C[5]\"Oh cielos♥",
+	"\\fb\\C[5]Gracias por el adorno tan bonito para el escritorio.♥\""],
 "jp":["\\fb\\C[5]「まぁ♥キレイなデコレーション有難う♥」"]
 },
 
@@ -11855,147 +11855,147 @@
 },
 
 "karryn_toilet_start_exp0_2":{
-"en":["\\fb\\C[5]\"Que lugar tan horrible.........\""],
+"en":["\\fb\\C[5]\"Que sitio tan horrible.........\""],
 "jp":["\\fb\\C[5]「なんてヒドイ場所なの…………」"]
 },
 
 "karryn_toilet_start_exp1_1":{
-"en":["\\fb\\C[5](Solo voy a tomar un breve descanso.......)"],
+"en":["\\fb\\C[5](Solo voy a tomar un descanso.......)"],
 "jp":["\\fb\\C[5]（ちょっと休憩するだけよ……）"]
 },
 
 "karryn_toilet_start_exp1_2":{
-"en":["\\fb\\C[5](Tengo que estar muy callado para que esos",
-	"\\fb\\C[5]hombres no se den cuenta de que estoy aquí.......)"],
+"en":["\\fb\\C[5](No puedo hacer ningún ruido para",
+	"\\fb\\C[5]que no se den cuenta de que estoy aquí.......)"],
 "jp":["\\fb\\C[5]（私がここに居る事……、",
 	"\\fb\\C[5]外の男共にバレないよう静かにしてなきゃ……）"]
 },
 
 "karryn_toilet_start_exp1_3":{
-"en":["\\fb\\C[5](Nadie me vio entrar aquí, ¿verdad......?)"],
+"en":["\\fb\\C[5](Nadie me ha visto entrar, ¿verdad......?)"],
 "jp":["\\fb\\C[5]（トイレに入ったところ誰にも見られてないわよね……？）"]
 },
 
 "karryn_toilet_start_exp2_1":{
-"en":["\\fb\\C[5]\"Finalmente puedo relajarme un poco ahora.\""],
+"en":["\\fb\\C[5]\"Por fin puedo relajarme un poco.\""],
 "jp":["\\fb\\C[5]「やっぱりここは落ち着くわね」"]
 },
 
 "karryn_toilet_start_exp2_2":{
-"en":["\\fb\\C[5]\"Uf, hora de un respiro......\""],
+"en":["\\fb\\C[5]\"Uf, hora de tomarme un descanso......\""],
 "jp":["\\fb\\C[5]「よいしょっと……」"]
 },
 
 "karryn_toilet_start_exp2_3":{
-"en":["\\fb\\C[5]\"Phew...\""],
+"en":["\\fb\\C[5]\"Uff...\""],
 "jp":["\\fb\\C[5]「ふぅっ…」"]
 },
 
 "karryn_toilet_start_exp2_4":{
-"en":["\\fb\\C[5](Siento que este puesto tiene un hedor extra......)"],
+"en":["\\fb\\C[5](Este inodoro apesta a algo más que el resto......)"],
 "jp":["\\fb\\C[5]（この個室だけやけにイカ臭い気がする……）"]
 },
 
 "karryn_toilet_start_exp3_1":{
-"en":["\\fb\\C[5]\"Haa haa♥ alguien......♥",
-	"\\fb\\C[5]Alguien...♥ Dame su verga...♥\""],
+"en":["\\fb\\C[5]\"Aah aah♥ alguien......♥",
+	"\\fb\\C[5]Que alguien...♥ Me de su polla...♥\""],
 "jp":["\\fb\\C[5]「はァはァ♥早く……♥チンポ…♥早くぅゥ…♥」"]
 },
 
 "karryn_toilet_start_exp3_2":{
-"en":["\\fb\\C[5]\"No soy diferente al baño aquí.♥\""],
+"en":["\\fb\\C[5]\"No soy tan distinta del váter de aquí.♥\""],
 "jp":["\\fb\\C[5]「もう私ってば完全に便器♥」"]
 },
 
 "karryn_toilet_start_exp3_3":{
-"en":["\\fb\\C[5]\"Mmm~♥ Este lugar también huele a locura hoy.♥",
-	"\\fb\\C[5]Me estoy poniendo tan excitada......♥\""],
+"en":["\\fb\\C[5]\"Mmm~♥ Hoy también apesta este lugar.♥",
+	"\\fb\\C[5]Me estoy poniendo cachondísima......♥\""],
 "jp":["\\fb\\C[5]「ん～ッ♥今日もくっさァ♥ドキドキしちゃう……♥」"]
 },
 
 "karryn_toilet_start_exp3_4":{
-"en":["\\fb\\C[5]\"¿Quién es el responsable de estos agujeros sucios?♥",
-	"\\fb\\C[5]Gracias a ellos, tengo que seguir viniendo aquí para verlos.♥\""],
+"en":["\\fb\\C[5]\"¿Quién ha hecho estos agujeros?♥",
+	"\\fb\\C[5]Por su culpa, tengo que seguir viniendo aquí a revisarlos.♥\""],
 "jp":["\\fb\\C[5]「こんなスケベな穴♥一体誰が空けたのよ、全くもう♥",
 	"\\fb\\C[5]おかげでトイレ通いがクセになっちゃったじゃない♥」"]
 },
 
 "karryn_toilet_start_exp3_5":{
 "en":["\\fb\\C[5]\"Este es MI asiento~♪",
-	"\\fb\\C[5]Woow♥ Puedo oler lo apestosos que son esos agujeros desde aquí.♥♥\""],
+	"\\fb\\C[5]Guau♥ Puedo oler desde aquí lo que apestan esos agujeros.♥♥\""],
 "jp":["\\fb\\C[5]「やっぱりここが私の特等席～♪",
 	"\\fb\\C[5]すごォい♥エロくっさい臭いがスケベ穴から漂ってきてるゥ♥♥」"]
 },
 
 
 "karryn_toilet_cock_appear_first_exp0_1":{
-"en":["\\fb\\C[5]\".....................Huh.........?!\""],
+"en":["\\fb\\C[5]\"¡¿.....................Huh.........?!\""],
 "jp":["\\fb\\C[5]「…………………………えっ………？！」"]
 },
 
 "karryn_toilet_cock_appear_first_exp0_2":{
-"en":["\\fb\\C[5]\"............Qu-.........Que?!\""],
+"en":["\\fb\\C[5]\"¡¿............Qu-.........Qué?!\""],
 "jp":["\\fb\\C[5]「………………なっ…………何？！」"]
 },
 
 "karryn_toilet_cock_appear_first_exp1_1":{
-"en":["\\fb\\C[5](De ninguna manera... Me estás tomando el pelo con esto.......)"],
+"en":["\\fb\\C[5](Ni de coña... no me lo creo.......)"],
 "jp":["\\fb\\C[5]（ウソでしょ……こんなのって……）"]
 },
 
 "karryn_toilet_cock_appear_first_exp1_2":{
-"en":["\\fb\\C[5](¿Qué tipo de maníaco haría esto?......?!)"],
+"en":["\\fb\\C[5](¡¿Qué clase de demente haría esto......?!)"],
 "jp":["\\fb\\C[5]（一体どういう神経してるのよ……？！）"]
 },
 
 "karryn_toilet_cock_appear_first_exp1_3":{
-"en":["\\fb\\C[5](No puedo quedarme aquí y descansar así...)"],
+"en":["\\fb\\C[5](No puedo ni tomarme un descansito...)"],
 "jp":["\\fb\\C[5]（これじゃゆっくり休憩も出来ないわ…）"]
 },
 
 "karryn_toilet_cock_appear_first_exp1_4":{
-"en":["\\fb\\C[5](¿Quién hizo este agujero?......?!)"],
+"en":["\\fb\\C[5](¡¿Quién ha hecho este agujero......?!)"],
 "jp":["\\fb\\C[5]（こんな穴があるせいで……！）"]
 },
 
 "karryn_toilet_cock_appear_first_exp1_5":{
-"en":["\\fb\\C[5]\"que molestia......\""],
+"en":["\\fb\\C[5]\"Qué pereza......\""],
 "jp":["\\fb\\C[5]「やれやれだわ……」"]
 },
 
 "karryn_toilet_cock_appear_first_exp2_1":{
-"en":["\\fb\\C[5]\"Ey. Estoy de descanso aquí.\""],
+"en":["\\fb\\C[5]\"Oye, que estoy descansando.\""],
 "jp":["\\fb\\C[5]「もう。休憩中よ？」"]
 },
 
 "karryn_toilet_cock_appear_first_exp2_2":{
-"en":["\\fb\\C[5]\"¿De nuevo?\""],
+"en":["\\fb\\C[5]\"¿Otra vez?\""],
 "jp":["\\fb\\C[5]「来たわね」"]
 },
 
 "karryn_toilet_cock_appear_first_exp2_3":{
-"en":["\\fb\\C[5](S-Supongo que no puedo culparlos ya",
-	"\\fb\\C[5]que este es un baño de hombres.)"],
+"en":["\\fb\\C[5](S-supongo que no tienen culpa de nada.",
+	"\\fb\\C[5]Al final esto es un baño de hombres.)"],
 "jp":["\\fb\\C[5]（私が男便所にいるんだからしょうがないか……）"]
 },
 
 "karryn_toilet_cock_appear_first_exp2_4":{
-"en":["\\fb\\C[5](Bueno, no tengo nada mejor que hacer aquí.)"],
+"en":["\\fb\\C[5](Bueno, no tengo nada mejor que hacer.)"],
 "jp":["\\fb\\C[5]（まぁ、暇つぶしにはなるかもね）"]
 },
 
 "karryn_toilet_cock_appear_first_exp2_5":{
-"en":["\\fb\\C[5]\"Oh, estaba pensando en esto......\""],
+"en":["\\fb\\C[5]\"Oh, justo estaba pensando en esto......\""],
 "jp":["\\fb\\C[5]「あら、丁度いいところに……」"]
 },
 
 "karryn_toilet_cock_appear_first_exp3_1":{
-"en":["\\fb\\C[5]\"He estado esperando.♥ Es hora de divertirse.♥\""],
+"en":["\\fb\\C[5]\"Lo estaba esperando.♥ Hora de divertirse.♥\""],
 "jp":["\\fb\\C[5]「待ってたわよ♥さァ遊びましょ♥」"]
 },
 
 "karryn_toilet_cock_appear_first_exp3_2":{
-"en":["\\fb\\C[5]\"Oooo♥ Los pájaros madrugadores consiguen a la zorra madrugadora.♪\""],
+"en":["\\fb\\C[5]\"Ooooh♥ A quien madruga, se la chupan~♪\""],
 "jp":["\\fb\\C[5]「あーんッ♥早速お出ましィ♪」"]
 },
 
