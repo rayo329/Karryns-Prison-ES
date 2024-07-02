@@ -11071,13 +11071,13 @@
 },
 
 "karryn_receptionist_greet_visitor_normal_exp2_2":{
-"en":["\\fb\\C[5]\"Buenas, ¿A qué has venido?\""],
+"en":["\\fb\\C[5]\"Buenas, ¿A qué ha venido?\""],
 "jp":["\\fb\\C[5]「ご用件をお伺いしますね！」"]
 },
 
 "karryn_receptionist_greet_visitor_normal_exp2_3":{
 "en":["\\fb\\C[5]\"Bienvenido al Fuerte Ganon.",
-	"\\fb\\C[5]¡Por favor indíqueme el mótivo de su visita!\""],
+	"\\fb\\C[5]¡Por favor indíqueme el motivo de su visita!\""],
 "jp":["\\fb\\C[5]「ようこそ要塞ガナンへ。ご用件をどうぞ！」"]
 },
 
@@ -11156,7 +11156,7 @@
 
 
 "karryn_receptionist_give_paper_normal_exp1_1":{
-"en":["\\fb\\C[5]\"Por favor rellene esto papeles",
+"en":["\\fb\\C[5]\"Por favor rellene estos papeles",
 	"\\fb\\C[5]y tráigamelos de vuelta.\""],
 "jp":["\\fb\\C[5]「こちらの申込書に記入してお返し下さい」"]
 },
@@ -11375,7 +11375,7 @@
 
 "karryn_receptionist_check_room_normal_exp1_1":{
 "en":["\\fb\\C[5]\"Buenas, llamo del Centro de visitantes.",
-	"\\fb\\C[5]¿Me podeis decir si está ocupada la Sala de Visitas? cambio.\""],
+	"\\fb\\C[5]¿Me podeis decir si está ocupada la Sala de Visitas? Cambio.\""],
 "jp":["\\fb\\C[5]「こちら案内所。面会室の空き状況を知らせなさい」"]
 },
 
@@ -11425,7 +11425,7 @@
 },
 
 "karryn_receptionist_check_room_sexual_exp2_1":{
-"en":["\\fb\\C[5]\"Th-... ngh...... Centro de Visitantes......",
+"en":["\\fb\\C[5]\"Ce-... ngh...... Centro de Visitantes......",
 	"\\fb\\C[5]Decidme si la sala de visitas esta dis-...",
 	"\\fb\\C[5]Nngh ...ponible, cambio... Nngh......\""],
 "jp":["\\fb\\C[5]「こッ…んく……こちら受付……面会室の状況を伝えてちょうだ…い…クッふ…」"]
@@ -11481,8 +11481,8 @@
 },
 
 "karryn_receptionist_assign_room_normal_exp3_2":{
-"en":["\\fb\\C[5]\"Su recluso lo está esperando ahora en la sala de visitas.♪",
-	"\\fb\\C[5]Ten cuidado al salir.♥\""],
+"en":["\\fb\\C[5]\"El recluso le está esperando en la sala de visitas.♪",
+	"\\fb\\C[5]Tenga cuidado al salir.♥\""],
 "jp":["\\fb\\C[5]「お相手さんがお待ちよ♪いってらっしゃい♥」"]
 },
 
@@ -11499,7 +11499,7 @@
 },
 
 "karryn_receptionist_assign_room_sexual_exp2_1":{
-"en":["\\fb\\C[5]\"no te preocupes por esto......",
+"en":["\\fb\\C[5]\"No te preocupes por esto......",
 	"\\fb\\C[5]Ve a la sala de visitas asignadaaaa~......\""],
 "jp":["\\fb\\C[5]「私に構わず……どうぞ面会室へ行って下さいィ……」"]
 },
@@ -11517,7 +11517,7 @@
 },
 
 "karryn_receptionist_assign_room_sexual_exp3_2":{
-"en":["\\fb\\C[5]\"M-muy bien♥ ya puede ir a la sala de visitas.♥",
+"en":["\\fb\\C[5]\"M-muy bien♥ ya puedes ir a la sala de visitas.♥",
 	"\\fb\\C[5]Ten cuidado...♥\""],
 "jp":["\\fb\\C[5]「そ…それじゃ♥いつも通り割当の部屋で♥ヨロシクね…♥」"] 
 },
@@ -11603,7 +11603,7 @@
 
 "karryn_receptionist_normal_apology_sexual_exp2_3":{
 "en":["\\fb\\C[5]\"¡Lo siento mucho......",
-	"\\fb\\C[5]No volvera a pashaaaar...!\""],
+	"\\fb\\C[5]No volverá a pashaaaar...!\""],
 "jp":["\\fb\\C[5]「申し訳ないです……反省してますッン…ッ！」"]
 },
 
@@ -11670,7 +11670,7 @@
 
 
 "karryn_receptionist_shoo_away_sexual_exp1_1":{
-"en":["\\fb\\C[5]((no...... ¡Vete...!))"],
+"en":["\\fb\\C[5]((No...... ¡Vete...!))"],
 "jp":["\\fb\\C[5]((ちょッ……んく……あっちに行きなさい…ッ！))"]
 },
 
@@ -11685,7 +11685,7 @@
 },
 
 "karryn_receptionist_shoo_away_sexual_exp2_1":{
-"en":["\\fb\\C[5]((No... vengas... ahora mismo......))"],
+"en":["\\fb\\C[5]((No... vengas... ahora......))"],
 "jp":["\\fb\\C[5]((今は…来ちゃ…ダメェ……))"]
 },
 
@@ -11959,7 +11959,7 @@
 },
 
 "karryn_toilet_cock_appear_first_exp1_5":{
-"en":["\\fb\\C[5]\"que pereza......\""],
+"en":["\\fb\\C[5]\"Qué pereza......\""],
 "jp":["\\fb\\C[5]「やれやれだわ……」"]
 },
 
