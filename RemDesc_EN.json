@@ -8070,30 +8070,30 @@
 ]},
 
 "skill_611_name":{
-"text":["El problema con los hombres lagarto"]
+"text":["El Problema con los Hombres Lagarto"]
 },
 "skill_611_desc":{
 "text": [
-"\\}\\}Después de luchar junto a Aron, que suele evitar la confrontación directa, los hombres lagarto han aprendido a llamar para que acuda en su ayuda.",
-"\\}\\}También han recogido su deseo de tener un club de striptease y se amotinarán hasta que se construya un club de striptease en el Fuerte Ganon..",
-"\\}\\}\\REM_EFF[skill_611_effect]"
+"\\}\\}Tras luchar junto a Aron, que suele evitar la confrontación directa, los hombres lagarto han aprendido a llamarse entre si, para que acuda en su ayuda.",
+"\\}\\}También han captado su deseo de tener un club de striptease y se amotinarán hasta que se construya un club de striptease en el Fuerte Ganon.",
+"\\}\\REM_EFF[skill_611_effect]"
 ]},
 "skill_612_name":{
-"text":["Ofrece bebidas gratis a los hombres lagarto"]
+"text":["Ofrece Bebidas Gratis a los Hombres Lagarto"]
 },
 "skill_612_desc":{
 "text": [
-"\\}A los hombres lagarto les encanta el whisky, usemos esto en su contra ofreciendo bebidas gratis a todos los",
-"\\}hombres lagarto en el bar. Entonces estarán demasiado borrachos y lejos para ayudarse mutuamente.",
-"\\}\\}\\REM_EFF[skill_612_effect]"
+"\\}A los hombres lagarto les encanta el whisky, usemos esto contra ellos ofreciendo a todos los hombres lagarto bebidas gratis en el bar.",
+"\\}Así estarán demasiado borrachos y lejos para acudir en ayuda de los demás.",
+"\\}\\REM_EFF[skill_612_effect]"
 ]},
 "skill_613_name":{
-"text":["Usa la ciencia para luchar contra los hombres lagarto"]
+"text":["Utiliza la Ciencia para Luchar Contra los Hombres Lagarto"]
 },
 "skill_613_desc":{
 "text": [
-"\\}\\}Nuestros investigadores han descubierto que hay un tipo de feromona en los hombres lagarto que se activa cuando están cerca unos de otros.",
-"\\}\\}Podemos aprovechar esto poniendo un fármaco en su comida que ayude a suprimir todas sus feromonas. ",
+"\\}\\}Nuestros investigadores han descubierto que existe un tipo de feromona en los hombres lagarto que se activa cuando están cerca el uno del otro.",
+"\\}\\}Podemos aprovecharnos de ello poniendo un fármaco en su comida que ayude a suprimir toda su feromonas.",
 "\\}\\REM_EFF[skill_613_effect]"
 ]},
 "skill_614_name":{
@@ -8102,43 +8102,43 @@
 "skill_614_desc":{
 "text": [
 "\\}Unidos contra el Fuerte Ganon, los hombres lagarto son una seria amenaza que no se puede pasar por alto.",
-"\\}Lo que debemos hacer es decirles que redirijan su atención hacia ti en lugar de desperdiciar energía en disturbios.",
-"\\}\\}\\REM_EFF[skill_614_effect]"
+"\\}Lo que tenemos que hacer es decirles que redirijan su atención hacia ti en lugar de malgastar energía amotinándose.",
+"\\}\\REM_EFF[skill_614_effect]"
 ]},
 "skill_615_name":{
-"text":["El problema de los orcos"]
+"text":["El Problema de los Orcos"]
 },
 "skill_615_desc":{
 "text": [
-"\\}\\}Los reclusos se han dado cuenta de que los orcos, con su altura y compostura cuando están tranquilos, son excelentes comandantes durante las",
-"\\}\\}batallas. Aprovechando su mayor importancia, los orcos están solicitando más opciones de accesibilidad alrededor de la prisión para ellos.",
+"\\}\\}Todos los demás reclusos se han dado cuenta de que los orcos, con su altura y compostura cuando están tranquilos, son excelentes comandantes durante las batallas.",
+"\\}\\}Aprovechando su creciente importancia, los orcos están solicitando más opciones de accesibilidad en torno a la prisión para ellos.",
 "\\}\\}\\REM_EFF[skill_615_effect]"
 ]},
 "skill_616_name":{
-"text":["Ofrecer accesibilidad para orcos"]
+"text":["Ofrecer Accesibilidad a los Orcos"]
 },
 "skill_616_desc":{
 "text": [
-"\\}El método más barato para satisfacer las necesidades de los orcos es usar nuestro trabajo de prisión en el taller.",
+"\\}El método más barato para satisfacer las necesidades de los orcos es utilizar la mano de obra de nuestro prisioneros en el taller.",
 "\\}Significaría que ya no podemos cancelar el seguro del taller.",
 "\\}\\}\\}\\REM_EFF[skill_616_effect]"
 ]},
 "skill_617_name":{
-"text":["Rechazar rotundamente a los orcos"]
+"text":["Rechazar de Plano a los Orcos"]
 },
 "skill_617_desc":{
 "text": [
-"\\}\\}¿Opciones de accesibilidad para los orcos? ¿Qué sigue, quieren una ventana en su celda? ¿Privacidad en las duchas? No!.",
+"\\}\\}¿Opciones de accesibilidad para los orcos? ¿Qué es lo siguente, quieren una ventana en su celda? ¿Intimidad en las duchas? No, esto es una mala pendiente resbaladiza.",
 "\\}\\}\\}\\REM_EFF[skill_617_effect_a]",
 "\\}\\}\\}\\REM_EFF[skill_617_effect_b]"
 ]},
 "skill_618_name":{
-"text":["Llegar a un entendimiento con los orcos"]
+"text":["Llegar a un Entendimiento con los Orcos"]
 },
 "skill_618_desc":{
 "text":[
-"\\}Apelar al lado afable de los orcos de que el Fuerte Ganon no puede permitirse gastos en su estado actual. ",
-"\\}\\}Sin embargo, si bien el Fuerte Ganon puede carecer de opciones de accesibilidad, es el único lugar donde pueden acceder a usted.",
+"\\}Apela al lado bondadoso de los orcos que el Fuerte Ganon no puede permitirse gastos extra en su estado actual.",
+"\\}Sin embargo, aunque el Fuerte Ganon carezca de opciones de accesibilidad, es el único lugar donde pueden acceder a ti.",
 "\\}\\}\\}\\REM_EFF[skill_618_effect]"
 ]},
 
@@ -8147,99 +8147,99 @@
 },
 "skill_619_desc":{
 "text":[
-"El gimnasio en el Nivel 3 es donde la mayoría de los reclusos van a trabajar su estrés.",
+"El gimnasio del Nivel 3 es el lugar al que acuden la mayoría de los reclusos para eliminar su estrés.",
 "Convenientemente, las duchas también están justo al lado del gimnasio.",
 "\\REM_EFF[skill_619_effect]"
 ]},
 "skill_620_name":{
-"text":["Restaurar equipo de gimnasio"]
+"text":["Renovar el Equipamiento del Gimnasio"]
 },
 "skill_620_desc":{
 "text":[
-"Algunos de los equipos más antiguos del gimnasio podrían necesitar una renovación.",
-"Si lo hace, reducirá los costos de mantenimiento en el futuro.",
-"\\}\\}\\REM_EFF[skill_620_effect]"
+"Algunos de los aparatos más antiguos del gimnasio podrían renovarse",
+"De este modo se reducirán los costes de mantenimiento.",
+"\\}\\REM_EFF[skill_620_effect]"
 ]},
 "skill_621_name":{
-"text":["Membresía de gimnasio pagada"]
+"text":["Membresía de Pago en el Gimnasio"]
 },
 "skill_621_desc":{
 "text":[
-"Implementar una membresía de gimnasio paga nos dará bastantes ingresos, ver cómo tantos",
-"reclusos incluyen un entrenamiento de gimnasio en sus rutinas diarias normales.",
+"La implantación de un gimnasio de pago nos proporcionará bastantes ingresos,",
+"dado que muchos reclusos incluyen el gimnasio en su rutina diarias.",
 "\\}\\REM_EFF[skill_621_effect]"
 ]},
 "skill_622_name":{
-"text":["Política del gimnasio: horario estándar"]
+"text":["Política del Gimnasio: Horario Estándar"]
 },
 "skill_622_desc":{
 "text":[
 "El gimnasio estará abierto en horario de mañana y tarde.",
-"Estas son las horas con las que la mayoría de los reclusos están bien.",
+"Son las horas que le parecen bien a la mayoría de los reclusos.",
 "\\REM_EFF[skill_622_effect]"
 ]},
 "skill_623_name":{
-"text":["Política del gimnasio: horario extendido"]
+"text":["Política del Gimnasio: Horario Ampliado"]
 },
 "skill_623_desc":{
 "text":[
 "El gimnasio estará abierto en horario de mañana, tarde y noche.",
-"Extender el horario asegurará que los reclusos no tengan que esperar para usar el gimnasio.",
-"\\}\\}\\REM_EFF[skill_623_effect]"
+"La amplación del horario garantizará que los reclusos no tengan que esperar para utilizar el gimnasio.",
+"\\REM_EFF[skill_623_effect]"
 ]},
 "skill_624_name":{
-"text":["Política del gimnasio: acortar el horario"]
+"text":["Política del Gimnasio: Reducir Horarios"]
 },
 "skill_624_desc":{
 "text":[
-"El gimnasio solo estará abierto durante el horario de la tarde.",
-"Una buena manera de mantener ocupados a los reclusos más fuertes.",
+"El gimnasio sólo estará abierto en horario de tarde.",
+"Una buena forma de mantener ocupados a los reclusos más fuertes.",
 "\\REM_EFF[skill_624_effect]"
 ]},
 "skill_625_name":{
-"text":["Duchas frias"]
+"text":["Duchas Frías"]
 },
 "skill_625_desc":{
 "text":[
-"Podemos ahorrar dinero si solo permitimos agua fría en las duchas.",
-"Tal vez esto también los ayude a refrescarse un poco.",
-"\\}\\}\\REM_EFF[skill_625_effect]"
+"Podemos ahorrar dinero permitiendo sólo agua fría en las duchas.",
+"Tal vez esto también les ayude a refrescarse un poco.",
+"\\}\\REM_EFF[skill_625_effect]"
 ]},
 "skill_626_name":{
-"text":["Entrenamiento de ataque desarmado III"]
+"text":["Entrenamiento en Combate Sin Armas III"]
 },
 "skill_626_desc":{
 "text":[
-"Termina con tus piernas.",
-"Tus piernas deberían ser consideradas un arma mortal ahora.",
+"Remátalos con las piernas.",
+"Tus piernas deben ser consideradas un arma mortal ahora.",
 "\\REM_EFF[skill_626_effect]"
 ]},
 "skill_626_msg3":{
 "text":["\\}\\REM_DESC[skill_305_name] o \\REM_DESC[skill_316_name] o \\REM_DESC[skill_327_name]"]
 },
 "skill_627_name":{
-"text":["Entrenamiento de defensa desarmada III"]
+"text":["Entrenamiento en Defensa Sin Armas III"]
 },
 "skill_627_desc":{
 "text":[
-"Sincroniza tus brazos con tus piernas en la misma respiración.",
-"Pase con fluidez de la defensa al ataque.",
+"Sincroniza los brazos con las piernas en la misma respiración.",
+"Pasa con fluidez de la defensa al ataque.",
 "\\REM_EFF[skill_627_effect]"
 ]},
 "skill_627_msg3":{
 "text":["\\}\\REM_DESC[skill_305_name] o \\REM_DESC[skill_316_name] o \\REM_DESC[skill_327_name]"]
 },
 "skill_628_name":{
-"text":["construir un club de striptease"]
+"text":["Construir un Club de Striptease"]
 },
 "skill_628_desc":{
 "text":[
-"\\}\\}Construir el club de striptease que el equipo de Aron está pidiendo no es realmente tan difícil, principalmente porque",
-"\\}\\}ya han hecho la mayor parte del trabajo y solo necesitan algunas herramientas y recursos más que no pueden conseguir.",
+"\\}Construir el club de striptease que pide el equipo de Aron no es en realidad tan difícil, sobre todo porque",
+"\\}ya han hecho la mayor parte del trabajo y sólo necesitan algunas herramientas y recursos más que no pueden conseguir.",
 "\\}\\}\\REM_EFF[skill_628_effect]"
 ]},
 "skill_629_name":{
-"text":["Compartir alcohol con club de striptease"]
+"text":["Compartir el Alcohol con Club de Striptease"]
 },
 "skill_629_desc":{
 "text":[
@@ -8248,830 +8248,830 @@
 "\\REM_EFF[skill_629_effect]"
 ]},
 "skill_630_name":{
-"text":["Extender club de striptease"]
+"text":["Ampliar el Club de Striptease"]
 },
 "skill_630_desc":{
 "text":[
-"El negocio está mejorando en el club de striptease y Aron ha solicitado una extensión del club",
-"para construir un área más privada para los clientes que estén dispuestos a pagar más.",
+"El negocio está repuntando en el Club de Striptease y Aron ha solicitado una ampliación",
+"para construir una zona más privada para los clientes que estén dispuestos a pagar más.",
 "\\REM_EFF[skill_630_effect]"
 ]},
 "skill_630_msg3":{
-"text":["La reputación del club de striptease es 5 o superior"]
+"text":["La Reputación del Club de Striptease es de 5 o superior"]
 },
 "skill_631_name":{
-"text":["Impuesto a los condones del club de striptease"]
+"text":["Impuestos en los Envíos de los Condones del Club de Striptease"]
 },
 "skill_631_desc":{
 "text":[
-"Aquí hay una oportunidad de ganar dinero fácil para la prisión ",
-"gravando los condones que Aron está ordenando para el Strip Club.",
+"Hay una oportunidad de hacer dinero fácil para la prisión",
+"impuestando los condones que Aron pide para el Club de Striptease.",
 "\\REM_EFF[skill_631_effect]"
 ]},
 "skill_632_name":{
-"text":["Traje de entrenador de gimnasio"]
+"text":["Uniforme de Entrenadora de Gimnasio"]
 },
 "skill_632_desc":{
 "text":[
-"\\}\\}Eso me recuerda, ¿no solías ser un habitual en el Gimnasio Imperial?",
-"\\}\\}Podemos hacer que le entreguemos su equipo de entrenamiento aquí si está interesado.",
-"\\}\\REM_EFF[skill_632_effect]"
+"\\}\\}Eso me recuerda, ¿no solías frecuentar el Gimnasio Imperial?",
+"\\}\\}Podemos hacer que te traigan tu ropa de entrenamiento si te interesa.",
+"\\REM_EFF[skill_632_effect]"
 ]},
 
 
 "skill_701_name":{
-"text":["Ano de ordeño de semen"]
+"text":["Ano Ordeñodor de Semen"]
 },
 "skill_701_desc":{
 "text":["Bueno, si tu polla ya está dentro de mi culo, no veo por qué no deberías correrte dentro de él.",
 "\\REM_EFF[skill_701_effect]"
 ]},
 "skill_702_name":{
-"text":["semen agujero negro"]
+"text":["Agujero Negro de Semen"]
 },
 "skill_702_desc":{
-"text":["Mi trasero... está lleno de semen como un saco de bolas...♥",
+"text":["Mi trasero...... está lleno de semen como un saco de pelotas...♥",
 "\\REM_EFF[skill_702_effect]"
 ]},
 "skill_703_name":{
-"text":["Adentro Siempre Lleno de Semen"]
+"text":["Las Entrañas Simpre Llenas de Semen"]
 },
 "skill_703_desc":{
-"text":["Estoy tan feliz de que mi culo-vagina siempre esté lleno de esperma apestoso♥♥",
+"text":["Estoy tan feliz de mi culo siempre se bombea lleno de esperma de polla maloliente♥♥",
 "\\REM_EFF[skill_703_effect]"
 ]},
 "skill_704_name":{
-"text":["intestinos llenos"]
+"text":["Intestinos Llenos"]
 },
 "skill_704_desc":{
 "text":["No hay nada como tener un agujero popular. Me siento tan llena de que todos se corran dentro de mi culo.~.",
 "\\REM_EFF[skill_704_effect]"
 ]},
 "skill_705_name":{
-"text":["El ano del alcaide principal es un almacén de semen compartido para todos los reclusos"]
+"text":["El Ano de la Directora es un Almacén de Semen Compartido para Todos los Reclusos"]
 },
 "skill_705_desc":{
-"text":["No puedo creer que todos se corrieron tanto dentro de mí al mismo tiempo...♥ Las palabras no pueden expresar lo feliz que está mi trasero.♥",
+"text":["No puedo creer que todos se corrieran tanto dentro de mí a la vez...♥ Las palabras no pueden expresar lo feliz que está mi culo.♥",
 "\\REM_EFF[skill_705_effect]"
 ]},
 "skill_706_name":{
-"text":["orgasmo de enema de semen"]
+"text":["Orgasmo por Enema de Semen"]
 },
 "skill_706_desc":{
-"text":["Todo ese semen fresco y caliente inyectado en mi trasero... Finalmente no pude resistirme a correrme más......",
+"text":["Con todo ese semen fresco y caliente inyectado en mi culo... al final no pude resistirme más que correrme......",
 "\\REM_EFF[skill_706_effect]"
 ]},
 "skill_707_name":{
-"text":["Los enemas de semen desencadenan el orgasmo QTE"]
+"text":["Los Enemas de Semen Provocan QTEs de Orgasmo"]
 },
 "skill_707_desc":{
-"text":["Adelante, suelta todo, desde tu polla hasta mi culo, dispararás mi tarjeta de trampa de orgasmo.♥♥",
+"text":["Adelante, libera todo de tu polla en mi culo, desencadenarás mi carta trampa del orgasmo♥♥",
 "\\REM_EFF[skill_707_effect]"
 ]},
 "skill_708_name":{
-"text":["Charla sobre acoso sexual"]
+"text":["Charla Sobre Acoso Sexual"]
 },
 "skill_708_desc":{
-"text":["Los hombres repugnantes aquí solo pueden hablar como un inodoro! Existe el concepto de vergüenza con ellos? ",
+"text":["¡Los asquerosos hombres de aquí sólo saben hablar como un retrete! ¡¿Existe el concepto de vergüenza con ellos?",
 "\\REM_EFF[skill_708_effect]"
 ]},
 "skill_709_name":{
-"text":["Palabras eróticas de boca en boca"]
+"text":["Palabras Eróticas de Una Boca a Otra"]
 },
 "skill_709_desc":{
-"text":["¡Tan pronto como miran mis labios, las únicas palabras que salen de su boca son basura! ¡Cuándo finalmente saldrán de la pubertad!",
+"text":["En cuanto me miran a los labios, las únicas palabras que salen de su boca son ¡basura! ¡Cuándo saldrán de una vez de la pubertad!",
 "\\REM_EFF[skill_709_effect]"
 ]},
 "skill_710_name":{
-"text":["Las bromas sexuales son solo juegos previos orales"]
+"text":["Las Bromas Sexuales son Sólo Preliminares Orales"]
 },
 "skill_710_desc":{
-"text":["Tan grosero... Están hablando como si yo fuera una puta de callejón que se la chuparía a cualquiera.......",
+"text":["Qué grosero...... Hablan como si yo fuera una puta de callejón que se la chuparía a cualquiera......",
 "\\REM_EFF[skill_710_effect]"
 ]},
 "skill_711_name":{
-"text":["Mucho chismorreo sobre las tetas"]
+"text":["Mucho Cotilleo Sobre mis Tetas"]
 },
 "skill_711_desc":{
-"text":["Siguen hablando de mis tetas...! No hay una pizca de decoro con estos bastardos!",
+"text":["¡No paran de hablar de mis tetas...! ¡No hay ni una pizca de decoro con estos bastardos!",
 "\\REM_EFF[skill_711_effect]"
 ]},
 "skill_712_name":{
-"text":["Joder, esas tetas no dejanda de mirarme"]
+"text":["No Pueden Dejar de Hablar de Esas Tetas"]
 },
 "skill_712_desc":{
-"text":["Todos se ven tan felices... cuando hablan de mis senos...",
+"text":["Todos parecen tan felices... cuando hablan de mis tetas...",
 "\\REM_EFF[skill_712_effect]"
 ]},
 
 
 "skill_713_name":{
-"text":["Charla sexual que vibra en todo el cuerpo"]
+"text":["Conversaciones Sexuales que Hacen Vibrar Todo el Cuerpo"]
 },
 "skill_713_desc":{
-"text":["¡M-Me estoy poniendo tan caliente!... ¡No me digas más palabras sucias...!",
+"text":["¡M-Me estoy acalorando...! ¡¡No me digas más palabras sucias...!!",
 "\\REM_EFF[skill_713_effect]"
 ]},
 "skill_714_name":{
-"text":["Charla de almohada fuera de la cama con extraños"]
+"text":["Charla de Almohada Fuera de la Cama con Extraños"]
 },
 "skill_714_desc":{
 "text":["Dejemos todos los temas difíciles~♥ Ven aquí♥ ¿Por qué no hablamos de lo que quieres hacerme con esa polla tuya?♥♥",
 "\\REM_EFF[skill_714_effect]"
 ]},
 "skill_715_name":{
-"text":["hablar sucio orgasmo"]
+"text":["Orgasmo de Charla Sucia"]
 },
 "skill_715_desc":{
-"text":["De ninguna... manera...♥ Acabo de venir de que me hablaran mal de......♥",
+"text":["De ninguna... manera...♥ Acabo de correrme, porque me hablaran mal......♥",
 "\\REM_EFF[skill_715_effect]"
 ]},
 "skill_716_name":{
-"text":["Prefiero ser llamada puta"]
+"text":["Prefiero que me Llamen Puta"]
 },
 "skill_716_desc":{
-"text":["\\}Me encanta~ cuando todos se burlan de mí♥ Cada vez que alguien me llama zorra desagradable, mi cerebro se apaga y mi vagina no puede dejar de correrse.♥\\{",
+"text":["\\}Me eencanta~ cuando todo el mundo se burlan de mí♥ Cada vez que alguien me llama zorra asquerosa, mi cerebro se apaga y mi coño no puede parar de correrse.♥\\{",
 "\\REM_EFF[skill_716_effect]"
 ]},
 "skill_717_name":{
-"text":["Blanco de miradas vulgares"]
+"text":["Blanco de Miradas Vulgares"]
 },
 "skill_717_desc":{
-"text":["Qué ojos llenos de lujuria...! Mantén esos ojos cerrados alrededor de las damas!",
+"text":["¡Qué ojos tan llenos de lujuria......! ¡Mantén esos ojos cerrados alrededor de las damas!",
 "\\REM_EFF[skill_717_effect]"
 ]},
 "skill_718_name":{
-"text":["Espectáculo de orgasmo público de una mujer"]
+"text":["Espectáculo de Orgasmos Públicos de una Mujer"]
 },
 "skill_718_desc":{
-"text":["Bien... ven y mírame bien.♥ ¿Estás listo, porque viene... me estoy... corriendo!♥ Acabo de correrme frente a ti.♥",
+"text":["Bien... ven y mírame bien.♥ ¡¿Estás listo?¡ porque ya viene... me estoy... corriendo!♥ Acabo de correrme delante de ti.♥",
 "\\REM_EFF[skill_718_effect]"
 ]},
 "skill_719_name":{
-"text":["Doctrina de venir públicamente"]
+"text":["Doctrina de Correrse Públicamente"]
 },
 "skill_719_desc":{
-"text":["HHNNNGGGG~♥ P-Parezco idiota mientras Co-coooorroooooo♥ NNH♥ Y todos me miraaaaaaan♥ ",
+"text":["HHNNNGGGG~♥ P-Parezco idiota mientras me co-COOORROO♥ NNH♥ Y todo el mundo me miraAAA♥ ",
 "\\REM_EFF[skill_719_effect]"
 ]},
 "skill_720_name":{
-"text":["hermoso rostro"]
+"text":["Hermoso Rostro"]
 },
 "skill_720_desc":{
-"text":["Oye, no tienes que mirarme tan fuerte... Sé que soy hermosa.......",
+"text":["Oye, no hace falta que me mires tanto...... Sé que soy hermosa.......",
 "\\REM_EFF[skill_720_effect]"
 ]},
 "skill_721_name":{
-"text":["Expresiones puras y naturales que se muestran solo aquí"]
+"text":["Expresiones Puras y Naturales que Sólo se Muestran Aquí"]
 },
 "skill_721_desc":{
-"text":["Sé que no debería reaccionar cuando los hombres me miran, pero no puedo evitar sonreír cuando noto sus miradas... uhnng...♥",
+"text":["Sé que no debería reaccionar ante los hombres me miran, pero no puedo evitar sonreír cuando me fijo en sus miradas... uhnng......♥",
 "\\REM_EFF[skill_721_effect]"
 ]},
 "skill_722_name":{
-"text":["Cara de cachonda hecha para ser maliciosa"]
+"text":["Cara de Zorra Hecha para Ser Mirada con Lascivia"]
 },
 "skill_722_desc":{
-"text":["Aahhn, todos me están mirando ♥ Tú ahí, besémonos ♥ ¿O prefieres meter tu polla en mi boca? ♥",
+"text":["Aahhn, Todo el mundo me miraa♥ Tú ahí, vamos a enrollarnos♥ ¿O prefieres meterme la polla en la boca?♥",
 "\\REM_EFF[skill_722_effect]"
 ]},
 "skill_723_name":{
-"text":["Las tetas grandes están hechas para lucirse"]
+"text":["Las Tetas Grandes están Hechas para Presumir"]
 },
 "skill_723_desc":{
-"text":["No mires tanto mis pechos... Mi corazón... sigue latiendo más rápido....",
+"text":["No me mires mis mucho las tetas...... Mi corazón... sigue latiendo más rápido...",
 "\\REM_EFF[skill_723_effect]"
 ]},
 "skill_724_name":{
-"text":["Grandes tetas nacidas del deseo de ser vistas"]
+"text":["Tetas Grandes Nacidas del Deseo de ser Vistas"]
 },
 "skill_724_desc":{
-"text":["¿Otra vez sólo estás mirando mis pezones? Mira mis areolas también... Las mías tienen un color tan bonito...♥",
+"text":["¿Sólo estás mirando mis pezones otra vez? Mira también mis areolas...... Las mías tienen un color tan bonito...♥",
 "\\REM_EFF[skill_724_effect]"
 ]},
 "skill_725_name":{
-"text":["Pezones que se endurecen al ser comidos con los ojos"]
+"text":["Pezones que se Ponen Duros de Tanto Mirarlos"]
 },
 "skill_725_desc":{
-"text":["Todos no pueden dejar de mirar mis pezones con lascivia♥ Mira~ ahora están todos duros y erectos como un pene♥♥",
+"text":["Todo el mundo no puede dejar de mirar lascivamente mis peeezones♥ Mira~ ahora están todos duros y erectos como un pene♥♥",
 "\\REM_EFF[skill_725_effect]"
 ]},
 "skill_726_name":{
-"text":["Partes privadas en exhibición"]
+"text":["Partes Privadas en Exhibición"]
 },
 "skill_726_desc":{
-"text":["¡Sé más que suficiente que a ustedes los hombres les encantan las vaginas...! Pero no estudiéis el mío con tanta atención... o lo haré....",
+"text":["¡Sé más que de sobra que a los hombres os encantan las coños...! Pero no estudies el mío tan intensamente... o lo haré...",
 "\\REM_EFF[skill_726_effect]"
 ]},
 "skill_727_name":{
-"text":["Labios vaginales que se contraen con las miradas"]
+"text":["Labios de Coño que se Contraen a las Miradas"]
 },
 "skill_727_desc":{
-"text":["Va en contra de todo buen sentido común... No debería dejar que los hombres miren libremente todavía.......♥",
+"text":["Va en contra de todo sentido común...... No debería dejar que los hombres miren libremente todavía......♥",
 "\\REM_EFF[skill_727_effect]"
 ]},
 "skill_728_name":{
-"text":["puta vagina molestamente pidiendo a ser visto"]
+"text":["Coño de Adoración Pidiendo ser Visto"]
 },
 "skill_728_desc":{
-"text":["No puedo soportar todas estas miradas♥ Mi clítoris-pene se siente como si estuviera a punto de eyacular de todo el placer♥",
+"text":["No puedo soportar todas estas miradas♥ Mi clítoris parece como si estubiera a punto de eyacular de tanto placer♥",
 "\\REM_EFF[skill_728_effect]"
 ]},
 "skill_729_name":{
-"text":["Glúteos saludables para ojos saludables"]
+"text":["Glúteos Sanos para Ojos Sanos"]
 },
 "skill_729_desc":{
-"text":["¿Entiendes las palabras que salen de mi boca? Sé que mi trasero es bonito... pero mantenlo modesto...",
+"text":["¿Entiendes las palabras que salen de mi boca? Sé que mi trasero es bonito... pero mantenlo modesto......",
 "\\REM_EFF[skill_729_effect]"
 ]},
 "skill_730_name":{
-"text":["exposición anal"]
+"text":["Exhibición Anal"]
 },
 "skill_730_desc":{
-"text":["Todos me miran tan serios como si mi trasero fuera un objeto para exhibir en un museo...♥",
+"text":["Todos me miran tan seriamente como si mi culo fuera un objeto para exponer en un museo......♥",
 "\\REM_EFF[skill_730_effect]"
 ]},
 "skill_731_name":{
-"text":["Sacudiendo el culo gordo para llamar la atención del mundo"]
+"text":["Culo Gordo Temblando por la Atención del Mundo"]
 },
 "skill_731_desc":{
-"text":["\\}Jsolo así♥ Mírame el trasero con tus ojos inyectados en sangre♥ ......Hauuu♥ Me veo como una puta tan patética, y se siente genial♥\\{",
+"text":["\\}Así, sin más♥ Mírame el culo con tus ojos lascivos♥ ......Hauuu♥ Parezco una puta patética, y me siento genial♥\\{",
 "\\REM_EFF[skill_731_effect]"
 ]},
 "skill_732_name":{
-"text":["Placer de aprendizaje"]
+"text":["Placer Lascivo"]
 },
 "skill_732_desc":{
-"text":["Disfruto sexualmente de los hombres que violan cada parte de mi cuerpo con sus ojos... Es como si fuera una especie de enferma...",
+"text":["Disfruto sexualmente de hombres que violan cada parte de mi cuerpo con sus ojos...... Es como si yo fuera una especie de enferma...",
 "\\REM_EFF[skill_732_effect]"
 ]},
 "skill_733_name":{
-"text":["Deseo y deseo Eyecandy"]
+"text":["Tía Buena Deseando ser Mirada"]
 },
 "skill_733_desc":{
-"text":["Me encanta que me bañen con las miradas cachondas de todos ♥♥ Se siente tan bien~♥",
+"text":["Me encanta que me mire todo el mundo de forma lasciva♥♥ Sienta genial~♥",
 "\\REM_EFF[skill_733_effect]"
 ]},
 "skill_734_name":{
-"text":["Orgasmo comida con los ojos"]
+"text":["Orgasmo Obsesivo"]
 },
 "skill_734_desc":{
 "text":["¡Cómo esperas que aguante el placer......! Cuando me siguen jodiendo con sus ojos varoniles......♥",
 "\\REM_EFF[skill_734_effect]"
 ]},
 "skill_735_name":{
-"text":["KO instantáneo de ojos cachondos"]
+"text":["KO Instantáneo de Ojos Calientes"]
 },
 "skill_735_desc":{
-"text":["\\}Solo quiero rodear ♥ y 'alreder♥ esos globos oculares cachondos ♥ Uh ♥ Y correrme ♥ mientras siguen mirándome ♥ Ahn, me vengo otra vez~♥♥\\{",
+"text":["\\}Solo quiero dar vueltas ♥ y vueltas♥ alrededor de esos ojos cachondos♥ Uh♥ Y correrme♥ mientras me siguen mirando♥ Ahn, Me corro otra vez~♥♥\\{",
 "\\REM_EFF[skill_735_effect]"
 ]},
 "skill_736_name":{
-"text":["asientos de primera fila"]
+"text":["Asientos de Primera Fila"]
 },
 "skill_736_desc":{
-"text":["¡De ninguna manera! Están parados allí masturbándose frente a mí.......?!",
+"text":["¡No puede ser! ¡¿Están ahí de pie masturbándose delante de mí......?!",
 "\\REM_EFF[skill_736_effect]"
 ]},
 "skill_737_name":{
-"text":["Curiosidad estimulada"]
+"text":["Curiosidad Estimulada"]
 },
 "skill_737_desc":{
-"text":["Siempre me siguen masturbándose... ¿Realmente se siente tan bien?......",
+"text":["Siempre me hacen pajas..... ¿De verdad se siente tan bien?......",
 "\\REM_EFF[skill_737_effect]"
 ]},
 "skill_738_name":{
-"text":["Buffet de carne para los ojos"]
+"text":["Buffet de Carne para los Ojos"]
 },
 "skill_738_desc":{
-"text":["Es tan increíblemente caliente ver a los hombres masturbarse salvajemente.♥ No puedo dejar de mirar.♥",
+"text":["Es increíblemente excitante ver a hombres masturbándose salvajemente.♥ No puedo dejar de mirar.♥",
 "\\REM_EFF[skill_738_effect]"
 ]},
 "skill_739_name":{
-"text":["Primera masturbación en prisión"]
+"text":["Primera Masturbación en Prisión"]
 },
 "skill_739_desc":{
 "text":["¿Por qué me masturbé aquí aunque ni siquiera es mi casa?......",
 "\\REM_EFF[skill_739_effect]"
 ]},
 "skill_740_name":{
-"text":["Tiene que masturbarse o no puede dormir"]
+"text":["Sin Masturbarse No Puede Dormir"]
 },
 "skill_740_desc":{
-"text":["Me siento tan renovado a la mañana siguiente después de una buena noche de masturbación..♪",
+"text":["Me siento tan fresca a la mañana siguiente después de una buena noche de masturbación.♪",
 "\\REM_EFF[skill_740_effect]"
 ]},
 "skill_741_name":{
-"text":["La masturbación es una rutina nocturna"]
+"text":["La Masturbación es una Rutina Nocturna"]
 },
 "skill_741_desc":{
-"text":["¡No me importa quién pueda oírme! No hay forma de que no me masturbe antes de irme a la cama.",
+"text":["¡No me importa quién pueda oírme! Es imposible que no me masturbe antes de irme a la cama.",
 "\\REM_EFF[skill_741_effect]"
 ]},
 "skill_742_name":{
-"text":["No pude resistirme a masturbarme frente a otros"]
+"text":["Onanista Exhibicionista"]
 },
 "skill_742_desc":{
-"text":["Si los hombres pueden masturbarse frente a mí... entonces yo también debería poder hacerlo...",
+"text":["Si los hombres pueden masturbarse delante de mí...... yo también debería poder hacerlo......",
 "\\REM_EFF[skill_742_effect]"
 ]},
 "skill_743_name":{
-"text":["Masturbador de restricción cero"]
+"text":["Masturbadora sin Restricciones"]
 },
 "skill_743_desc":{
-"text":["¡Es malo para mi cuerpo si trato de reprimir mis impulsos! esto es perfectamente normal!",
+"text":["¡Es malo para mi cuerpo si intento de reprimir mis impulsos! ¡Esto es perfectamente normal!",
 "\\REM_EFF[skill_743_effect]"
 ]},
 "skill_744_name":{
-"text":["Masturbador impenitente"]
+"text":["Masturbadora Impenitente"]
 },
 "skill_744_desc":{
-"text":["Oh? Mi vagina está empezando a doler. Lo siento chicos, dejemos nuestra pequeña batalla en espera por unos momentos.♥",
+"text":["Oh? Me empieza a doler el coño. Lo siento chicos, vamos a poner nuestra pequeña batalla en espera por unos momentos.♥",
 "\\REM_EFF[skill_744_effect]"
 ]},
 "skill_745_name":{
-"text":["Masturbador público degenerado"]
+"text":["Onanista Exhibicionista Degenerada"]
 },
 "skill_745_desc":{
-"text":["No puedo tener suficiente de este sentimiento liberador de poder masturbarme frente a hombres al azar.♥",
+"text":["No me canso de esta sensación liberadora al masturbarme delante de un hombres cualquiera.♥",
 "\\REM_EFF[skill_745_effect]"
 ]},
 "skill_746_name":{
-"text":["masturbacion orgasmo"]
+"text":["Orgasmo por Masturbación"]
 },
 "skill_746_desc":{
-"text":["Nunca supe que se sentiría tan bien correrse mientras se masturba......",
+"text":["Nunca imaginé que me sentiría tan bien masturbándome......",
 "\\REM_EFF[skill_746_effect]"
 ]},
 "skill_747_name":{
-"text":["No puedo dejar de masturbarme y correrme"]
+"text":["No Puedo Parar de Masturbarme y Correrme"]
 },
 "skill_747_desc":{
-"text":["Solo cuando me masturbo y tengo un orgasmo me siento tan renovado.♪",
+"text":["Sólo cuando me masturbo y tengo un orgasmo me siento tan renovada.♪",
 "\\REM_EFF[skill_747_effect]"
 ]},
 
 "skill_750_name":{
-"text":["acariciando el orgasmo"]
+"text":["Orgasmo de Caricias"]
 },
 "skill_750_desc":{
-"text":["Además de que me toquen todo el cuerpo, ahora tengo orgasmos gracias a él.......",
+"text":["Además de tocarme todo el cuerpo, ahora tengo orgasmos por ello.......",
 "\\REM_EFF[skill_750_effect]"
 ]},
 "skill_751_name":{
-"text":["Acariciar enciende todo"]
+"text":["Las Caricias la Excitan Toda"]
 },
 "skill_751_desc":{
-"text":["Haa hng♥ Me vine de nuevo cuando alguien me tocó♥ ¿Por qué mi cuerpo está tan sensible ahora? Uhh♥ Otra vez......♥",
+"text":["Haa hng♥ Me corrí otra vez porque alguien me tocó♥ ¿Por qué mi cuerpo es tan sensible ahora? Uhh♥ Otra vez......♥",
 "\\REM_EFF[skill_751_effect]"
 ]},
 "skill_752_name":{
-"text":["Traje de guardián desnudo"]
+"text":["Despojada del Uniforme de la Directora"]
 },
 "skill_752_desc":{
-"text":["¡Deja de andar tirando la ropa de otras personas! Los monos aquí realmente carecen de sentido común!",
+"text":["¡Deja de ir por ahí tirando de la ropa de los demás! ¡Estos monos carecen de sentido común!",
 "\\REM_EFF[skill_752_effect]"
 ]},
 "skill_753_name":{
-"text":["Ropa desaparecida y Vergüenza"]
+"text":["Vergüenza y Ropa Desaparecida"]
 },
 "skill_753_desc":{
-"text":["Estos hombres se ponen duros tan pronto como miran mi piel desnuda... Fufufu... Se lo merecen....♥",
+"text":["Estos hombres se ponen duros en cuanto ven mi piel desnuda...... Fufufu... Se lo merecen....♥",
 "\\REM_EFF[skill_753_effect]"
 ]},
 "skill_754_name":{
-"text":["Escalada del exhibicionismo"]
+"text":["Exhibicionismo en Aumento"]
 },
 "skill_754_desc":{
-"text":["Oh mi.♥ No malinterpretes la situación aquí, no soy yo quien me quitó la ropa.♥",
+"text":["Oh, vaya.♥ No malinterpretes la situación aquí. Yo no soy la que se quitó la ropa.♥",
 "\\REM_EFF[skill_754_effect]"
 ]},
 "skill_755_name":{
-"text":["Pervertido desnudo merodeando por el fuerte"]
+"text":["Una Pervertida Desnuda Merodeando por el Fuerte"]
 },
 "skill_755_desc":{
-"text":["\\}Es genial caminar sin ropa mientras mi vagina está empapado ♥ Todos me miran todo el tiempo... como si fuera un ídolo.♥\\{",
+"text":["\\}Es genial pasear sin ropa mientras mi coño está empapado♥ Todo el mundo me mira... como si fuera una ídol.♥\\{",
 "\\REM_EFF[skill_755_effect]"
 ]},
 "skill_756_name":{
-"text":["Dueña de las bragas robadas"]
+"text":["Bragas Despojadas"]
 },
 "skill_756_desc":{
-"text":["¿Qué planeas hacer con mis bragas, después de que las hayas tomado y las hayas llevado a tu celda?",
+"text":["¿Qué piensas hacer con mis bragas, después de cogerlas y llevártelas a tu celda?",
 "\\REM_EFF[skill_756_effect]"
 ]},
 "skill_757_name":{
-"text":["Bragas que se quitan fácilmente"]
+"text":["Bragas Fáciles de Quitar"]
 },
 "skill_757_desc":{
-"text":["Hay un cierto tipo de emoción... de entrar como comando dentro de la prisión....... Hnng......♥",
+"text":["Hay un cierto tipo de emoción... de ir de comando dentro de la prisión...... Hnng......♥",
 "\\REM_EFF[skill_757_effect]"
 ]},
 "skill_758_name":{
-"text":["Comando jefe exhibicionista"]
+"text":["Directora de Comando Exhibicionista"]
 },
 "skill_758_desc":{
-"text":["¿Quieres mis bragas?♥ Claro♥ Ven y quítamelas, nunca te detendré~~♥",
+"text":["¿Quieres mis bragas?♥ Claro♥ Ven a quitármelas, nunca te detendré~~♥",
 "\\REM_EFF[skill_758_effect]"
 ]},
 "skill_759_name":{
-"text":["Guardián confiado"]
+"text":["Directora Confiada"]
 },
 "skill_759_desc":{
 "text":["¡Necesito oponentes más fuertes!",
 "\\REM_EFF[skill_759_effect]"
 ]},
 "skill_760_name":{
-"text":["Cien hombres sometidos"]
+"text":["Cientos de Hombres Sometidos"]
 },
 "skill_760_desc":{
-"text":["Nadie puede aceptarme?!",
+"text":["¡¿Nadie puede conmigo?!",
 "\\REM_EFF[skill_760_effect]"
 ]},
 "skill_761_name":{
-"text":["Valiente"]
+"text":["Intrépida"]
 },
 "skill_761_desc":{
-"text":["¡Soy veloz como un rayo! ¡¡La diosa de la victoria ahora camina entre ustedes!!",
+"text":["¡Soy veloz como el rayo! ¡¡La diosa de la victoria camina ahora entre vosotros!!",
 "\\REM_EFF[skill_761_effect]"
 ]},
 "skill_762_name":{
-"text":["Confianza excesiva"]
+"text":["Exceso de Confianza"]
 },
 "skill_762_desc":{
-"text":["¡¿Estás diciendo que mi confianza va a ser aplastada...?!",
+"text":["¡¿Estás diciendo que mi confianza se va venir abajo......?!",
 "\\REM_EFF[skill_762_effect]"
 ]},
 "skill_763_name":{
-"text":["Lucha continua para controlar los deseos mundanos"]
+"text":["Lucha Continua para Frenar los Deseos Mundanos"]
 },
 "skill_763_desc":{
-"text":["¡¿Qué pasa con esta oleada de placer?!... No puedo... tener suficiente......",
+"text":["¡¿Qué es esta oleada de placer?! ...No me...... canso de hacerlo......",
 "\\REM_EFF[skill_763_effect]"
 ]},
 "skill_764_name":{
-"text":["Las dos caras de la confianza"]
+"text":["Las Dos Caras de la Confianza"]
 },
 "skill_764_desc":{
-"text":["Solo hay una razón por la que peleo, y es por placer.♥♥",
+"text":["Solo hay una razón por la que lucho. Y es por placer.♥♥",
 "\\REM_EFF[skill_764_effect]"
 ]},
 "skill_765_name":{
-"text":["Boca provocativa"]
+"text":["Una Boca Provocativa"]
 },
 "skill_765_desc":{
-"text":["¡Nunca me ganarás si te pones tan nervioso después de cada pequeña burla!",
+"text":["¡Nunca me vencerás si te pones así después de cada pequeña burla!",
 "\\REM_EFF[skill_765_effect]"
 ]},
 "skill_766_name":{
-"text":["vanidad"]
+"text":["Vanidad"]
 },
 "skill_766_desc":{
-"text":["¿Estás tratando de decir que no soy tan bueno como digo que soy?",
+"text":["¿Intentas decir que no soy tan buena como digo que soy?",
 "\\REM_EFF[skill_766_effect]"
 ]},
 "skill_767_name":{
-"text":["Boca grande"]
+"text":["Bocazas"]
 },
 "skill_767_desc":{
-"text":["Quieres acosarme?, me gustaria verte intentar, pendejo!!",
+"text":["¿Quieres intimidarme? Me gustaría verte intentarlo, ¡¡Pito chico!!",
 "\\REM_EFF[skill_767_effect]"
 ]},
 "skill_768_name":{
-"text":["cazador de pollas"]
+"text":["Cazadora de Pollas"]
 },
 "skill_768_desc":{
-"text":["Solo trata de vencerme mientras caminas con una erección.",
+"text":["Intentas ganarme mientras caminas con una erección.",
 "\\REM_EFF[skill_768_effect]"
 ]},
 "skill_769_name":{
-"text":["Cazador de pollas espartano"]
+"text":["Cazadora de Pollas Espartana"]
 },
 "skill_769_desc":{
-"text":["¡Gracias por darme un objetivo tan fácil de alcanzar al ponerme erecto!",
+"text":["¡¡Gracias por darme un blanco fácil al tener una erección!!",
 "\\REM_EFF[skill_769_effect]"
 ]},
 "skill_770_name":{
-"text":["Castigador de pollas"]
+"text":["La Castigadora de Pollas"]
 },
 "skill_770_desc":{
-"text":["¡Mostrarme tu erección es lo mismo que pedir que me castiguen!",
+"text":["¡Mostrarme tu erección es lo mismo que pedir que te castigue!",
 "\\REM_EFF[skill_770_effect]"
 ]},
 "skill_771_name":{
-"text":["vencedor de pollas"]
+"text":["La Vencedora de Pollas"]
 },
 "skill_771_desc":{
-"text":["¡Voy a darle una paliza a todas estas vergonzosas pollas erectas!",
+"text":["¡Voy aporrear a todas las pollas erectas!",
 "\\REM_EFF[skill_771_effect]"
 ]},
 "skill_772_name":{
-"text":["jefe matón de penes"]
+"text":["La Director Matapollas"]
 },
 "skill_772_desc":{
 "text":["Ponte duro para mí para que pueda intimidar a tu polla.♥",
 "\\REM_EFF[skill_772_effect]"
 ]},
 "skill_773_name":{
-"text":["Rapto sádico"]
+"text":["Arrebato Sádico"]
 },
 "skill_773_desc":{
-"text":["Ohh... esto es celestial... ¡Pensar que podía sentir tanto éxtasis por intimidar a hombres inútiles e inferiores!",
+"text":["Ohh... esto es celestial... ¡Pensar que puedo sentir tanto éxtasis por intimidar a hombres inútiles e inferiores!",
 "\\REM_EFF[skill_773_effect]"
 ]},
 "skill_774_name":{
-"text":["Escalofríos por todos lados de los hombres que intimidan"]
+"text":["Escalofríos en Todo el Cuerpo por Acosar Hombres"]
 },
 "skill_774_desc":{
-"text":["¿Zanahoria? ¿Por qué desperdiciaría algo útil en estos hombres sin esperanza? No, todo lo que necesitan es mi palo.♥",
+"text":["¿Zanahoria? ¿Por qué iba a desperdiciar algo útil en estos hombres sin esperanza? No, todo lo que necesitan de mí es el palo.♥",
 "\\REM_EFF[skill_774_effect]"
 ]},
 "skill_775_name":{
-"text":["orgasmo sádico"]
+"text":["Un Orgasmo Sádico"]
 },
 "skill_775_desc":{
-"text":["¡De una victoria abrumadora debe surgir un clímax abrumador! ¡Esto no es suficiente, tengo que molestar a más hombres!",
+"text":["¡De una victoria aplastante debe surgir un clímax aplastante! ¡Esto no es suficiente, tengo que molestar a más hombres!",
 "\\REM_EFF[skill_775_effect]"
 ]},
 "skill_776_name":{
-"text":["Los orgasmos egocéntricos del tirano sádico"]
+"text":["Los Orgasmos Egocéntricos de una Tirana Sádica"]
 },
 "skill_776_desc":{
 "text":["Todos los hombres, TOOOOOOODOS LOS HOMBRES♥ No son más que herramientas desechables para llevarme al orgasmo.♥♥",
 "\\REM_EFF[skill_776_effect]"
 ]},
 "skill_777_name":{
-"text":["Sabor a derrota"]
+"text":["El Sabor de la Derrota"]
 },
 "skill_777_desc":{
-"text":["¡¿Perdí?! En una pelea? Yo? Cómo?! Además, a estos don nadies......?!",
+"text":["¡¿Perdí?! ¿En una pelea? ¿Yo? ¡¿Cómo?! ¿¡Además, con estos don nadie......?!",
 "\\REM_EFF[skill_777_effect]"
 ]},
 "skill_778_name":{
-"text":["Derrota tras derrota"]
+"text":["Derrota Tras Derrota"]
 },
 "skill_778_desc":{
-"text":["¡Apostaré mi orgullo en la línea! ¡¡No perderé, no puedo perder más contra estos hombres del fondo del barril!!",
+"text":["¡Me juego mi orgullo! ¡¡No quiero, no puedo, perder más con estos hombres de pacotilla!!",
 "\\REM_EFF[skill_778_effect]"
 ]},
 "skill_779_name":{
-"text":["Corazón cambiando hacia la sumisión"]
+"text":["Cambio de Corazón hacia la Sumisión"]
 },
 "skill_779_desc":{
-"text":["¡¡N-No es como si estuviera perdiendo a propósito para todos ustedes!!",
+"text":["¡¡N-No es como si estuviera perdiendo a propósito contra todos vosotros!!",
 "\\REM_EFF[skill_779_effect]"
 ]},
 
 "skill_784_name":{
-"text":["Éxtasis masoquista"]
+"text":["Éxtasis Masoquista"]
 },
 "skill_784_desc":{
-"text":["Sé que está mal, pero me siento feliz y realizado cuando mi dignidad es pisoteada.......",
+"text":["Sé que está mal, pero me siento feliz y realizada cuando pisotean mi dignidad.......",
 "\\REM_EFF[skill_784_effect]"
 ]},
 "skill_785_name":{
-"text":["El placer de ser la perra de la prisión"]
+"text":["El Placer de Ser la Perra de la Prisión"]
 },
 "skill_785_desc":{
-"text":["Yo... realmente no puedo dejar que nadie del imperio me vea así...♥ Y cada vez que imagino que eso sucede, yo...♥♥",
+"text":["Yo... no puedo dejar que nadie del imperio me vea así...♥ Y cada vez que imagino que eso sucede, yo......♥♥",
 "\\REM_EFF[skill_785_effect]"
 ]},
 "skill_786_name":{
-"text":["orgasmo masoquista"]
+"text":["Un Orgasmo Masoquista"]
 },
 "skill_786_desc":{
-"text":["Nunca había sentido un orgasmo tan poderoso... Y vino de ser humillado y tratado como un perro...",
+"text":["Nunca había sentido un orgasmo tan potente...... Y vino de ser humillada y tratada como un perro...",
 "\\REM_EFF[skill_786_effect]"
 ]},
 "skill_787_name":{
-"text":["Abandona gustosamente toda pretensión de orgullo por los orgasmos"]
+"text":["Abandona con Gusto Toda Pretensión de Orgullo por los Orgasmos"]
 },
 "skill_787_desc":{
-"text":["Sí ♥ soy una zorra masoquista que viene cada vez que alguien me menospreciaaaa♥♥",
+"text":["Sí♥ Soy una zorra masoquista que se corre cada vez que alguien me mira por encima del hombrooo♥♥",
 "\\REM_EFF[skill_787_effect]"
 ]},
 "skill_788_name":{
-"text":["Primer Spitroast"]
+"text":["Primera Doble penetraci[on"]
 },
 "skill_788_desc":{
-"text":["¡No sabía que era posible tomar dos al mismo tiempo!",
+"text":["¡No sabía que fuera posible follarme a dos a la vez!",
 "\\REM_EFF[skill_788_effect]"
 ]},
 "skill_789_name":{
-"text":["Perdió el control de la mitad inferior"]
+"text":["Perdida del Control de la Mitad Inferior"]
 },
 "skill_789_desc":{
-"text":["Siguen follándome la vagina y el culo al mismo tiempo una y otra vez...!",
+"text":["¡No paran de follarme por el coño y por el culo al mismo tiempo una y otra vez...!",
 "\\REM_EFF[skill_789_effect]"
 ]},
 "skill_790_name":{
 "text":["Doble Penetración Inevitable"]
 },
 "skill_790_desc":{
-"text":["¿Este placer viene de mi trasero o de mi vagina? De cualquier manera es demasiado poderoso y me está derritiendo el cerebro.♥",
+"text":["¿Este placer viene de mi trasero? ¿O de mi coño? De cualquier manera es demasiado potente y me está derritiendo el cerebrooo.♥",
 "\\REM_EFF[skill_790_effect]"
 ]},
 "skill_791_name":{
-"text":["Primera orgia"]
+"text":["El Primer Gangbang"]
 },
 "skill_791_desc":{
-"text":["Acabo de tener una polla en mi vagina, en mi trasero y en mi boca al mismo tiempo...♥",
+"text":["Acabo de tener una polla en el coño, en el culo y en la boca al mismo tiempo...♥",
 "\\REM_EFF[skill_791_effect]"
 ]},
 "skill_792_name":{
-"text":["Desfile del triple hoyo de la cerda"]
+"text":["El Desfile del Triple Agujero de Piggy"]
 },
 "skill_792_desc":{
-"text":["Es como matar tres pájaros de un tiro cuando puedo mamar a alguien mientras me follan por mis dos agujeros.♥",
+"text":["Es como matar tres pájaros de un tiro cuando consigo chupársela a alguien mientras me follan por los dos agujeros.♥",
 "\\REM_EFF[skill_792_effect]"
 ]},
 "skill_793_name":{
-"text":["todos los agujeros son para pollas"]
+"text":["Todos los Agujeros Son Para las Pollas"]
 },
 "skill_793_desc":{
-"text":["Es bien sabido que todos mis agujeros deben estar siempre ocupados por pollas duras como rocas.♥",
+"text":["Es bien sabido que todos mis agujeros están siempre ocupados por pollas duras como piedras.♥",
 "\\REM_EFF[skill_793_effect]"
 ]},
 "skill_794_name":{
-"text":["primer orgia de mamada"]
+"text":["Primera Orgía de Mamadas"]
 },
 "skill_794_desc":{
-"text":["Es un espectáculo surrealista ver nada más que... penes frente a mí...",
+"text":["Es surrealista no ver más que... penes delante de mí...",
 "\\REM_EFF[skill_794_effect]"
 ]},
 "skill_795_name":{
-"text":["rodeado de pollas"]
+"text":["Rodeada de Pollas"]
 },
 "skill_795_desc":{
-"text":["Estoy rodeado de pollas otra vez... Todo esto es demasiado surrealista.......",
+"text":["Vuelvo a estar rodeada de pollas...... Todo esto es demasiado surrealista......",
 "\\REM_EFF[skill_795_effect]"
 ]},
 "skill_796_name":{
-"text":["Paraíso de la barra de carne"]
+"text":["El Paraíso de las Barras de Carne"]
 },
 "skill_796_desc":{
-"text":["Ooh... hay pollas hasta donde mis ojos pueden ver.♥♥ Es como si me convirtiera en la princesa de papel de todos.♥♥♥",
+"text":["Ooh... hay pollas hasta donde mis ojos pueden ver.♥♥ Es como si me hubiera convertido en la servilleta de princesa de todo el mundo.♥♥♥",
 "\\REM_EFF[skill_796_effect]"
 ]},
 "skill_797_name":{
-"text":["Exsecretaria enloquecido"]
+"text":["Exsecretaria Enloquecida"]
 },
 "skill_797_desc":{
-"text":["Así que ya... me acosté con más de diez hombres diferentes, ¿no?......",
+"text":["Así que ya... me he acostado con más de diez hombres diferentes, ¿no?......",
 "\\REM_EFF[skill_797_effect]"
 ]},
 "skill_798_name":{
-"text":["Objeto sexual conveniente"]
+"text":["Conveniente Objeto Sexual"]
 },
 "skill_798_desc":{
-"text":["Últimamente siento que pierdo más y más mi pureza... bueno. ♪",
+"text":["Últimamente, siento que estoy perdiendo más y más mi pureza... oh bueno. ♪",
 "\\REM_EFF[skill_798_effect]"
 ]},
 "skill_799_name":{
-"text":["Arrasadora de pollas"]
+"text":["Funda de Polla Andante"]
 },
 "skill_799_desc":{
-"text":["¿Ves ahora? ¡Finalmente he tenido relaciones sexuales con más de cien personas! Este es mi verdadero poder.♥",
+"text":["¿Lo veis ahora? ¡Por fin he tenido relaciones sexuales con más de cien personas! Este es mi verdadero poder.♥",
 "\\REM_EFF[skill_799_effect]"
 ]},
 "skill_800_name":{
-"text":["Descuidado goteando muñeca de carne mojada"]
+"text":["Esposa Holandesa de Carne Mojada"]
 },
 "skill_800_desc":{
 "text":["¿Te gustaría pasar la noche con una dama que tiene relaciones sexuales con más de 300 hombres?♥",
 "\\REM_EFF[skill_800_effect]"
 ]},
 "skill_801_name":{
-"text":["El destino final para todos los penes"]
+"text":["El Destino Final de Todas las Pollas"]
 },
 "skill_801_desc":{
-"text":["¡Para satisfacer a todos los hombres! Esa es mi razon de vivir.♥",
+"text":["¡Para satisfacer a todos los hombres! Esa es mi razón de vivir.♥",
 "\\REM_EFF[skill_801_effect]"
 ]},
 "skill_802_name":{
-"text":["Goblin-sexual"]
+"text":["Goblins Sexuales"]
 },
 "skill_802_desc":{
-"text":["¿Cómo puede alguien como yo haber estado con tantos de estos hombres de bajo coeficiente intelectual?......!",
+"text":["¡Cómo puede alguien como yo haber estado con tantos de estos hombres de bajo coeficiente intelectual......!",
 "\\REM_EFF[skill_802_effect]"
 ]},
 "skill_803_name":{
-"text":["Felpudo de Goblin"]
+"text":["Felpudo Para Goblins"]
 },
 "skill_803_desc":{
-"text":["Sorprendentemente, el sexo con Goblins no es nada malo... pueden hacer cosas con la lengua que los hombres humanos no pueden.",
+"text":["Sorprendentemente, el sexo con goblins no está nada mal... Hacen cosas con la lengua que los humanos no pueden hacer.",
 "\\REM_EFF[skill_803_effect]"
 ]},
 "skill_804_name":{
-"text":["Lavabo de semen Goblin"]
+"text":["Lavado de Goblin"]
 },
 "skill_804_desc":{
-"text":["Absolutamente NO puedo, tener suficiente de la lengua de estos Goblin maravillosos Técnicas.♥",
+"text":["NO me canso en absoluto de las técnicas de la lengua de estos maravillosos Goblins.♥",
 "\\REM_EFF[skill_804_effect]"
 ]},
 "skill_805_name":{
-"text":["Influencia de matones"]
+"text":["Influencia de los Matones"]
 },
 "skill_805_desc":{
-"text":["Estar junto a hombres de este calibre va a perjudicar mi carrera.......!",
+"text":["Estar junto a hombres de este calibre va a perjudicar mi carrera......!",
 "\\REM_EFF[skill_805_effect]"
 ]},
 "skill_806_name":{
-"text":["Amiga sexual de los matónes"]
+"text":["Amiga Sexual de los Matones"]
 },
 "skill_806_desc":{
-"text":["Los matones también tienen sus cosas buenas... en concreto, sus pollas.......",
+"text":["Los matones también tienen sus cosas buenas,... en concreto, sus pollas......",
 "\\REM_EFF[skill_806_effect]"
 ]},
 "skill_807_name":{
-"text":["Esclava sexual de los matónes"]
+"text":["Esclava Sexual de los Matónes"]
 },
 "skill_807_desc":{
-"text":["En el fondo, los matones son solo hombres que realmente quieren follarme, lo cual está perfectamente bien para mí..♥",
+"text":["En el fondo, los matones no son más que hombres que quieren follarme, lo cual me parece perfectamente bien.♥",
 "\\REM_EFF[skill_807_effect]"
 ]},
 "skill_808_name":{
-"text":["El nuevo jefe favorito de los guardias"]
+"text":["La Nueva Jefa Favorita de los Guardias"]
 },
 "skill_808_desc":{
-"text":["¡¿Por qué me dejo hundir al nivel de estos inútiles subordinados?!",
+"text":["¡¿Por qué me dejo hundir al nivel de estos subordinados inútiles?!",
 "\\REM_EFF[skill_808_effect]"
 ]},
 "skill_809_name":{
-"text":["Trabajadora sexual de los guardias"]
+"text":["Trabajadora Sexual de los Guardias"]
 },
 "skill_809_desc":{
-"text":["Gracias a todos por su arduo trabajo. ♪ Como recompensa, vengan a tomar un largo descanso conmigo.♥",
+"text":["Gracias a todos por vuestro duro trabajo.♪ Como recompensa, venid a tomaros un largo descanso conmigo.♥",
 "\\REM_EFF[skill_809_effect]"
 ]},
 "skill_810_name":{
-"text":["Inodoro de carne de guardia"]
+"text":["Cubo de Semen de los Guardia"]
 },
 "skill_810_desc":{
-"text":["Tengo tantas pollas superiores como mis subordinados.♥ Nací para ser el Jefe de Vigilancia aquí.♥",
+"text":["Tengo tantas pollas superiores como mis subordinados.♥ Nací para ser la Directora aquí.♥",
 "\\REM_EFF[skill_810_effect]"
 ]},
 "skill_811_name":{
-"text":["Saludo de chupar la boca"]
+"text":["Saludos con la Boca abierta"]
 },
 "skill_811_desc":{
-"text":["Trae esa sucia boca tuya hacia mí y bésame ya.♥",
+"text":["Acércame esa boca sucia que tienes y bésame de una vez.♥",
 "\\REM_EFF[skill_811_effect]"
 ]},
 "skill_812_name":{
-"text":["No puedo pasar un día sin besar"]
+"text":["No Puedo Pasar Un Día Sin Besar"]
 },
 "skill_812_desc":{
 "text":["Quiero intercambiar saliva con hombres más asquerosos.♥",
 "\\REM_EFF[skill_812_effect]"
 ]},
 "skill_813_name":{
-"text":["Besos locos de fidelidad cero"]
+"text":["Enloquecida Besadora con Cero Fidelidad"]
 },
 "skill_813_desc":{
-"text":["Quiero besar a alguien... oh♥ Encontré a un chico~♥ Hola guapo~ Besémonos aquí~~♥",
+"text":["Quiero besar a alguien... oh♥ He encontrado a un chico~♥ Hola guapo~ Besémonos aquí~~♥",
 "\\REM_EFF[skill_813_effect]"
 ]},
 "skill_814_name":{
-"text":["Mirador de ingle sediento"]
+"text":["Sedienta Mirona de Entrepiernas"]
 },
 "skill_814_desc":{
-"text":["No puedo creer que solía pasar el día sin chupar la polla.♥",
+"text":["No puedo creer que solía pasar el día sin chupar pollas.♥",
 "\\REM_EFF[skill_814_effect]"
 ]},
 "skill_815_name":{
-"text":["Máquina de limpieza de queso Dick"]
+"text":["Máquina Limpiadora de Queso de Pollas"]
 },
 "skill_815_desc":{
-"text":["Oh~ qué es esto~♥ Una nueva polla que nunca había visto antes~♥ Muy bien, es hora de probarla.♥",
+"text":["Oh~ ¿Qué es esto?~♥ Una nueva polla que nunca había visto antes~♥ Muy bien, es hora de probarla.♥",
 "\\REM_EFF[skill_815_effect]"
 ]},
 "skill_816_name":{
-"text":["Inodoro de labios de limpieza de pollas ocupado"]
+"text":["Labios Ocupados con Limpieza de Pollas"]
 },
 "skill_816_desc":{
-"text":["\\}Mmm♥ Las pollas son tan deliciosas♥ Las amo tanto♥ La cabeza es tan linda♥ El eje es tan caliente♥ Y \\REM_SMEGMA_DESC[816] son tan celestialeeeees.♥\\{",
+"text":["\\}Mmm♥ Las pollas son tan deliciosas♥ Me encantan♥ La cabeza es tan mona♥ El eje es tan caliente♥ Y \\REM_SMEGMA_DESC[816] son tan celestialeees.♥\\{",
 "\\REM_EFF[skill_816_effect]"
 ]},
 "skill_817_name":{
-"text":["la necesidad de dar Pajas"]
+"text":["La Necesidad de Hacer Pajas"]
 },
 "skill_817_desc":{
 "text":["Demuéstrame que eres un hombre dejándome pajearte esa maravillosa polla tuya♥",
 "\\REM_EFF[skill_817_effect]"
 ]},
 "skill_818_name":{
-"text":["Talento Despertado para Pajas"]
+"text":["Talento Despertada para las Pajas"]
 },
 "skill_818_desc":{
-"text":["Fufu... que vergüenza.♥ ¿No sientes vergüenza por ser llevado por mis manos de esta manera?♥",
+"text":["Fufu... Que vergüenza.♥ ¿No te da vergüenza que te dirija así con mis manos?♥",
 "\\REM_EFF[skill_818_effect]"
 ]},
 "skill_819_name":{
-"text":["Pone su mano en las ingles de cada recluso"]
+"text":["Coloca Su Mano en las Entrepiernas de Cada Recluso"]
 },
 "skill_819_desc":{
-"text":["Vamos, tengo tantas ganas de masturbarte♥ Quiero hacerte sentir muy bien y correrte de mis manos.♥",
+"text":["Vamos, tengo tantas ganas de pajearte♥ Quiero hacerte sentir muuuy bien y que te corras en mis manos.♥",
 "\\REM_EFF[skill_819_effect]"
 ]},
 "skill_820_name":{
