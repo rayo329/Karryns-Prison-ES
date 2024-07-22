@@ -502,7 +502,7 @@
 "text":["\\C[27]La Probabilidad de ponerse Cachonda aumenta después de que alguien hable de pollas."]
 },
 "peffect_addhorny_flaunt":{
-"text":["\\C[27]La Probabilidad de ponerse Cachonda aumenta después de alardear."]
+"text":["\\C[27]La Probabilidad de ponerse Cachonda aumenta después de Alardear."]
 },
 "peffect_addhorny_falldownrest":{
 "text":["\\C[27]La Probabilidad de ponerse Cachonda aumenta después de usar Descansar."]
@@ -1059,13 +1059,13 @@
 },
 
 "peffect_tauntunlocked":{
-"text":["\\C[27]Nueva Habilidad de Energía Desbloqueada: Burla."]
+"text":["\\C[27]Nueva Habilidad de Energía Desbloqueada: Provocar."]
 },
 "peffect_taunt_angry_cockiness":{
-"text":["\\C[27]La Probabilidad de que los enemigos burlados se enojen aumenta según la Arrogancia."]
+"text":["\\C[27]La Probabilidad de que los enemigos provocados se enfaden aumenta según la Arrogancia."]
 },
 "peffect_taunt_selfdisarm":{
-"text":["\\C[27]Pierdes el arma un turno tras usar Burla."]
+"text":["\\C[27]Pierdes el arma un turno tras usar Provocar."]
 },
 
 "peffect_flauntunlocked":{
@@ -1127,7 +1127,7 @@
 },
 
 "peffect_cockiness_subdueortaunt":{
-"text":["\\C[27]La Arrogancia aumenta por cada enemigo sometido o burlado."]
+"text":["\\C[27]La Arrogancia aumenta por cada enemigo sometido o provocado."]
 },
 "peffect_cockiness_buffs_confident":{
 "text":["\\C[27]La Arrogancia aumenta los beneficios de Confiada."]
@@ -1136,7 +1136,7 @@
 "text":["\\C[27]La Arrogancia disminuye al huir. La Arrogancia se reinicia cuando se es derrotada."]
 },
 "peffect_cockiness_taunt":{
-"text":["\\C[1]La Arrogancia aumenta más al usar Burla."]
+"text":["\\C[1]La Arrogancia aumenta más al usar Provocar."]
 },
 "peffect_cockiness_cockkick":{
 "text":["\\C[1]La Arrogancia aumenta al usar Patada en los Cojones."]
@@ -1157,7 +1157,7 @@
 "text":["\\C[27]La Probabilidad de que todos los enemigos se enfaden aumenta con cada Patada en los Cojones en la misma batalla."]
 },
 "peffect_cockkick_erectbonus":{
-"text":["\\C[27]La Probabilidad de Crítico y el Daño Crítico aumentan al usar Patada en los Cojones en objetivos erectos."]
+"text":["\\C[27]La Probabilidad de Crítico y el Daño Crítico aumentan al usar Patada en los Cojones en objetivos empalmados."]
 },
 
 "peffect_lightkickunlocked":{
@@ -1798,7 +1798,7 @@
 "text":["\\C[27]La Probabilidad de Ataque del enemigo se reduce después de acariciar su polla."]
 },
 "peffect_attackchance_taunt_day":{
-"text":["\\C[27]La Probabilidad de Ataque de los enemigos enemigo aumenta por cada burla realizada en ese mismo día."]
+"text":["\\C[27]La Probabilidad de Ataque de los enemigos enemigo aumenta por cada Provocar realizada en ese mismo día."]
 },
 
 "peffect_attackchance_down_virgin":{
@@ -2513,7 +2513,7 @@
 "text":["\\C[11]\\I[321]Revitalizar restaura más Resistencia"]
 },
 "effect_learn_cautiousstance":{
-"text":["\\C[11]\\I[323]Aprendes 'Postura Cautelosa', una Habilidad de Energía que aumenta la Evasión y la Evasión Crítica"]
+"text":["\\C[11]\\I[323]Aprendes 'Postura Cautelosa', una Habilidad de Energía que aumenta la Evasión y la Evasión de Crítico"]
 },
 "effect_learn_defensivestance":{
 "text":["\\C[11]\\I[324]Aprendes 'Postura Defensiva', una Habilidad de Energía que aumenta la Defensa, el Control de Daño,",
@@ -3085,22 +3085,22 @@
 "text":["\\C[11]\\I[430]Daño Crítico Desarmada "]
 },
 "effect_criteva_exact_plus":{
-"text":["\\C[11]\\I[414]Evasión Crítica "]
+"text":["\\C[11]\\I[414]Evasión de Crítico"]
 },
 "effect_criteva_exact_minus":{
-"text":["\\C[10]\\I[415]Evasión Crítica "]
+"text":["\\C[10]\\I[415]Evasión de Crítico"]
 },
 "effect_unarmed_criteva_exact_plus":{
-"text":["\\C[11]\\I[414]Evasión Crítica Desarmada "]
+"text":["\\C[11]\\I[414]Evasión de Crítico Desarmada"]
 },
 "effect_unarmed_criteva_exact_minus":{
-"text":["\\C[10]\\I[415]Evasión Crítica Desarmada "]
+"text":["\\C[10]\\I[415]Evasión de Crítico Desarmada"]
 },
 "effect_enemy_criteva_exact_plus":{
-"text":["\\C[10]\\I[415]Evasión Crítica de los Enemigos"]
+"text":["\\C[10]\\I[415]Evasión de Crítico de los Enemigos"]
 },
 "effect_enemy_criteva_exact_minus":{
-"text":["\\C[11]\\I[414]Evasión Crítica de los Enemigos"]
+"text":["\\C[11]\\I[414]Evasión de Crítico de los Enemigos"]
 },
 "effect_graze_exact_plus":{
 "text":["\\C[11]\\I[416]Roce "]
@@ -3798,7 +3798,7 @@
 "skill_74_desc":{
 "text":[
 "Adoptas una postura cautelosa.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Evasión y la Evasión crítica durante 1 turno."
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Evasión y la Evasión de Crítico durante 1 turno."
 ]},
 "skill_74_msg1":{
 "text":["¡%1 observa con cautela a sus enemigos!"]
@@ -5914,7 +5914,7 @@
 },
 "skill_338_desc":{
 "text":[
-"Tu Aguante también afecta a tu Evasión crítica. La Evasión crítica evita que",
+"Tu Aguante también afecta a tu Evasión de Crítico. La Evasión de Crítico evita que",
 "recibas golpes críticos de ataques y de actos sexuales.",
 "\\REM_EFF[skill_338_effect]"
 ]},
@@ -8720,7 +8720,7 @@
 "text":["Boca Provocativa"]
 },
 "skill_765_desc":{
-"text":["¡Nunca me vencerás si te pones así después de cada pequeña burla!",
+"text":["¡Nunca me vencerás si te pones así después de cada pequeña provocación!",
 "\\REM_EFF[skill_765_effect]"
 ]},
 "skill_766_name":{
@@ -10014,136 +10014,136 @@
 "\\REM_EFF[skill_955_effect]"
 ]},
 "skill_956_name":{
-"text":["Coño Que Se Moja Después de Ser Mencionado"]
+"text":["Coño Que Se Moja Tras Ser Mencionado"]
 },
 "skill_956_desc":{
-"text":["\\}Están alegremente hablando de las cosas que les gustaría hacer a mi coño de nuevo... Bueno. No está mal que te hagan cumplidos.\\{",
+"text":["\\}Están hablando de las cosas que les gustaría hacerle a mi coño... Bueno. No es malo que te hagan cumplidos.\\{",
 "\\REM_EFF[skill_956_effect]"
 ]},
 "skill_957_name":{
 "text":["Útero que se Estimula con las Conversaciones"]
 },
 "skill_957_desc":{
-"text":["Dios mío, ¿qué debo hacer? Todos ~ siguen refiriéndose a mí como un agujero para las pollas.♥",
+"text":["Ay, ¿qué debería hacer♥? Toooodo~ el mundo dice que soy un agujero para las pollas.♥",
 "\\REM_EFF[skill_957_effect]"
 ]},
 "skill_958_name":{
-"text":["Hablar por el Culo"]
+"text":["Hablar del Culo"]
 },
 "skill_958_desc":{
 "text":["¡¿Dónde estás mirando mientras me hablas?! ¡Ese es mi culo! ¡¡Mi cara está aquí arriba!!",
 "\\REM_EFF[skill_958_effect]"
 ]},
 "skill_959_name":{
-"text":["Palabras Sucias para Culo Sucio"]
+"text":["Palabras Obscenas para Culo Obsceno"]
 },
 "skill_959_desc":{
-"text":["Otro día otro tipo describiendo vulgarmente mi culo... Me pregunto si esta es su manera de decir cómo está mi trasero...",
+"text":["Todos los días tiene que haber un tío describiendo vulgarmente mi culo... Me pregunto si no sabe hablar de otra forma...",
 "\\REM_EFF[skill_959_effect]"
 ]},
 "skill_960_name":{
-"text":["Culo Sucio Complacido con un Lenguaje de Mierda"]
+"text":["Culo Obsceno Complacido con Lenguaje Obsceno"]
 },
 "skill_960_desc":{
-"text":["No me hagas caso, por favor, sigue discutiendo temas sobre mi culo.♥ No te olvides de mencionar mi ano también, vale♥",
+"text":["Como si no estuviera, seguid discutiendo sobre mi culo.♥ No te olvides de mencionar mi ojete también, ¿vale♥?",
 "\\REM_EFF[skill_960_effect]"
 ]},
 "skill_961_name":{
-"text":["Se Da Información, pero No Se Pidió"]
+"text":["Información que Nadie Pidió"]
 },
 "skill_961_desc":{
-"text":["¡Malditos pervertidos! Presumiendo y hablando de su gran esto o aquello... ¡¿Así es como os divertís, desgraciados?!",
+"text":["¡Malditos pervertidos! Presumiendo de como de grande tenéis esto o aquello... ¡¿Así es como se entretiene la escoria?!",
 "\\REM_EFF[skill_961_effect]"
 ]},
 "skill_962_name":{
-"text":["No Puedo Evitar Escuchar Atentamente lo de Presumir de Pollas"]
+"text":["No Puede Evitar Escuchar A Reclusos Presumir de su Polla"]
 },
 "skill_962_desc":{
-"text":["\\}En cuanto abren la boca se ponen a cotorrear sobre sus pollas...... Es de lo único que hablan... Por eso termino escuchándolo todo...\\{",
+"text":["\\}En cuanto abren la boca se ponen a cotorrear sobre sus pollas...... Es de lo único que hablan... Así que acabo escuchándolo todo...\\{",
 "\\REM_EFF[skill_962_effect]"
 ]},
 "skill_963_name":{
-"text":["Llamada Diaria al Radio de la Polla"]
+"text":["Llama Diariamente a Radiopolla"]
 },
 "skill_963_desc":{
-"text":["Oh, las cosas que tengo que decir sobre las pollas♥ HNNG♥ Pollas♥ ¿Hay algo que no puedan hacer?♥",
+"text":["Oh, la de cosas que tengo que decir sobre las pollas♥ HNNG♥ Pollas♥ ¿Hay algo que no puedan hacer?♥",
 "\\REM_EFF[skill_963_effect]"
 ]},
 "skill_964_name":{
-"text":["Primer Contacto con la Vara de Carne"]
+"text":["Primer Contacto con Una Vara de Carne"]
 },
 "skill_964_desc":{
-"text":["¿Q-Qué es esto?... Puedo sentirlo latiendo en mi mano... Todo esto se siente tan extraño y vulgar...",
+"text":["¿Q-Qué es esto?... Puedo sentirlo latiendo en mi mano... Se siente tan extraño y vulgar...",
 "\\REM_EFF[skill_964_effect]"
 ]},
 "skill_965_name":{
-"text":["Finalmente Lamió una Polla"]
+"text":["Por Fin ha Chupado Una Polla"]
 },
 "skill_965_desc":{
 "text":["Uurgh... ¡Qué sucio...! ¡¿Por qué abrí la boca así......?!",
 "\\REM_EFF[skill_965_effect]"
 ]},
 "skill_966_name":{
-"text":["Objeto Inesperado En Medio del Valle"]
+"text":["Objeto Inesperado Entre las Montañas"]
 },
 "skill_966_desc":{
-"text":["¡Sólo una mujer estúpida y barata emparedaría la cosa de un hombre con sus pechos!",
+"text":["¡Sólo una mujer barata y estúpida aplastaría la cosa de un hombre con sus pechos!",
 "\\REM_EFF[skill_966_effect]"
 ]},
 "skill_967_name":{
-"text":["Matadora de Pollas con el Coño"]
+"text":["Pie Destructor de Pollas"]
 },
 "skill_967_desc":{
-"text":["¿Cuánto tiempo vas a mantener fuera esa triste excusa de hombría? ¡Será mejor que la guardes después de que te haga correrte!",
+"text":["¿Cuánto tiempo vas a dejarte fuera esa pena de polla? ¡Será mejor que te la guardes después de que te haga correrte!",
 "\\REM_EFF[skill_967_effect]"
 ]},
 "skill_968_name":{
 "text":["Besa Automáticamente el Culo de los Hombre que se Pone a Cuatro Patas"]
 },
 "skill_968_desc":{
-"text":["Oh♥ Estás dejando que te lama, ¿verdad?♥ Muy bien♥ Una mamada de culo por Karryn en breve.♥",
+"text":["Oh♥ Estás dejando que te lama, ¿verdad?♥ Muy bien♥ Marchando una mamada de culo.♥",
 "\\REM_EFF[skill_968_effect]"
 ]},
 "skill_969_name":{
-"text":["Los Hombres Lobo Montan"]
+"text":["Perra de Monta de los Hombres Lobo"]
 },
 "skill_969_desc":{
-"text":["¡Lo que están haciendo no es sexo! ¡Es... algo más instintivo... y primitivo...!",
+"text":["¡Lo que hacen no es sexo! ¡Es... algo más instintivo... y primitivo...!",
 "\\REM_EFF[skill_969_effect]"
 ]},
 "skill_970_name":{
-"text":["Activadora de Hombres Lobo en Celo"]
+"text":["Activadora de Celo en Hombres Lobo"]
 },
 "skill_970_desc":{
-"text":["Estoy empezando a volverme adicta... a la forma en que me golpean por detrás como una bestia mientras golpean mis puntos débiles...",
+"text":["Estoy empezando a volverme adicta... a la forma en que me embisten por detrás como una bestia mientras golpean mis puntos débiles...",
 "\\REM_EFF[skill_970_effect]"
 ]},
 "skill_971_name":{
-"text":["La Perra Mascota de los Hombres Lobo"]
+"text":["Perra Mascota de los Hombres Lobo"]
 },
 "skill_971_desc":{
-"text":["Hnng~♥ Mi coño se está mojando al sentir una polla de hombre lobo cerca.♥ Soy una perra mala y necesito que me monten.♥♥",
+"text":["Hnng~♥ Mi coño se moja al sentir la polla de un hombre lobo cerca.♥ Soy una perra mala y necesito que me monten.♥♥",
 "\\REM_EFF[skill_971_effect]"
 ]},
 "skill_972_name":{
 "text":["Calentadora de Yetis"]
 },
 "skill_972_desc":{
-"text":["¡¿Q-Qué pasa con su tamaño?! ¡¡Esto demuestra que no se puede juzgar un abrigo de piel por su portada!!",
+"text":["¡¿Y-y ese tamaño?! ¡¡Esto demuestra que no se puede juzgar un libro por su portada!!",
 "\\REM_EFF[skill_972_effect]"
 ]},
 "skill_973_name":{
-"text":["El Deseo por los Yetis"]
+"text":["Deseo por los Yetis"]
 },
 "skill_973_desc":{
-"text":["Siempre pensé que el tamaño no importaba... pero...... las pollas grandes también están muy buenas...",
+"text":["Siempre pensé que el tamaño no importaba... pero...... las pollas grandes también son muy buenas...",
 "\\REM_EFF[skill_973_effect]"
 ]},
 "skill_974_name":{
-"text":["Correa de Entrepierna para Yetis"]
+"text":["Enganchada Siempre a la Entrepierna de los Yetis"]
 },
 "skill_974_desc":{
-"text":["Me apego naturalmente a estas enormes pollas.♥ ¿Por qué usar ropa interior cuando estoy cerca?♥",
+"text":["Me engancho de forma natural a esas enormes pollas.♥ ¿Para qué quieren ropa interior cuando estoy cerca?♥",
 "\\REM_EFF[skill_974_effect]"
 ]},
 "skill_975_name":{
@@ -10154,14 +10154,14 @@
 "\\REM_EFF[skill_975_effect]"
 ]},
 "skill_976_name":{
-"text":["El Placer de la Sumisión Bajo Tierra en Ciernes"]
+"text":["Desarrollando Placer por Sumisión en el Subsuelo"]
 },
 "skill_976_desc":{
-"text":["A veces...... Me pregunto qué pasaría si después me dejaran en la picota...... Hnng......... No, tengo que parar......",
+"text":["A veces...... Me pregunto qué pasaría si me dejaran en la picota...... Hnng......... No, tengo que parar......",
 "\\REM_EFF[skill_976_effect]"
 ]},
 "skill_977_name":{
-"text":["Esclava Masoquista Voluntario de la Picota"]
+"text":["Esclava Masoquista Voluntaria para la Picota"]
 },
 "skill_977_desc":{
 "text":["No puedo hacer nada y estoy rodeada de pollas en un área oscura y abandonada♥ Nnhoo♥ Estoy tan desesperada que acabo correrme otra vez.♥",
@@ -10172,14 +10172,14 @@
 "text":["♥Deseo Latente"]
 },
 "skill_980_desc":{
-"text":["El deseo latente de usar su lengua para lamer y chupar a los hombres.",
+"text":["El deseo latente de usar su lengua para lamer y chupar hombres.",
 "\\REM_EFF[skill_980_effect]"
 ]},
 "skill_981_name":{
 "text":["♥Deseo Latente"]
 },
 "skill_981_desc":{
-"text":["El deseo latente de que le estrujen su amplio pecho.",
+"text":["El deseo latente de que le aprieten sus grandes pechos.",
 "\\REM_EFF[skill_981_effect]"
 ]},
 "skill_982_name":{
@@ -10193,7 +10193,7 @@
 "text":["♥Deseo Latente"]
 },
 "skill_983_desc":{
-"text":["El deseo latente de que le acaricien y azoten su gran culo.",
+"text":["El deseo latente de que le toquen su enorme trasero y se lo azoten.",
 "\\REM_EFF[skill_983_effect]"
 ]},
 "skill_984_name":{
@@ -10221,7 +10221,7 @@
 "text":["♥Deseo Latente"]
 },
 "skill_987_desc":{
-"text":["El deseo latente de convertirse en una guarra lasciva.",
+"text":["El deseo latente de convertirse en una puta guarra.",
 "\\REM_EFF[skill_987_effect]"
 ]},
 
@@ -10284,13 +10284,13 @@
 
 
 "skill_1007_name":{
-"text":["Burla"]
+"text":["Provocar"]
 },
 "skill_1007_desc":{
 "text":[
-"Provoca y ganas beneficios de Confiada.",
-"\\}\\}\\C[9]➤\\C[0] La confianza aumenta la Fuerza, la Destreza, la Agilidad, la Mente y el Encanto.",
-"\\C[8]➤\\C[0] Los enemigos burlados tienen la posibilidad de estar Enfadado."
+"Provoca y ganas el estado Confiada.",
+"\\}\\}\\C[9]➤\\C[0] Confiada aumenta la Fuerza, la Destreza, la Agilidad, la Mente y el Encanto.",
+"\\C[8]➤\\C[0] Los enemigos provocados tienen una posibilidad de Enfadarse."
 ]},
 "skill_1008_name":{
 "text":["Beso"]
@@ -10298,15 +10298,15 @@
 "skill_1008_desc":{
 "text":[
 "Inflige Daño de Placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Beso.",
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Beso.",
 "\\C[13]➤\\C[0] Los enemigos besados tienen menor Ataque, Precisión y Evasión."
 ]},
 
 "skill_1010_msg1":{
-"text":["%1 besos %2!"]
+"text":["¡%1 besa a %2!"]
 },
 "skill_1011_msg1":{
-"text":["%1 se enrolla con %2!"]
+"text":["¡%1 se enrolla con %2!"]
 },
 
 "skill_1015_name":{
@@ -10315,14 +10315,14 @@
 "skill_1015_desc":{
 "text":[
 "Inflige Daño de Placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Paja."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Paja."
 ]},
 
 "skill_1017_msg1":{
-"text":["\\C[27]¡%1 agarra la polla de %2 y empieza a acariciarla!"]
+"text":["\\C[27]¡%1 agarra la polla de %2 y empieza a sacudirla!"]
 },
 "skill_1018_msg1":{
-"text":["¡%1 acaricia la polla de %2 con su mano!"]
+"text":["¡%1 sacude la polla de %2 con su mano!"]
 },
 
 "skill_1020_name":{
@@ -10333,7 +10333,7 @@
 "Pierdes toda la Resistencia."
 ]},
 "skill_1020_msg1":{
-"text":["¡¡%1 desistir!!"]
+"text":["¡¡%1 desiste!!"]
 },
 "skill_1021_name":{
 "text":["Rendirse"]
@@ -10351,18 +10351,18 @@
 "skill_1022_desc":{
 "text":[
 "Restaura un poco de Resistencia.",
-"\\}\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en la Regeneración de Resistencia."
+"\\}\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1022_msg1":{
 "text":["%1 decide descansar un poco..."]
 },
 
 "skill_1024_name":{
-"text":["Toca"]
+"text":["Tocarse"]
 },
 "skill_1024_desc":{
 "text":[
-"Tocar el objetivo para darse placer."
+"Toca el objetivo para darse placer."
 ]},
 "skill_1025_name":{
 "text":["Dedos"]
@@ -10383,7 +10383,7 @@
 },
 "skill_1027_desc":{
 "text":[
-"Deja de masturbarte y vete a la cama."
+"Dejas de masturbarte y vuelves a la cama."
 ]},
 "skill_1028_name":{
 "text":["Recuperar el Equilibrio"]
@@ -10396,11 +10396,11 @@
 "text":["¡%1 recupera el equilibrio!"]
 },
 "skill_1029_name":{
-"text":["Levántate"]
+"text":["Levantarse"]
 },
 "skill_1029_desc":{
 "text":[
-"Levántate del suelo."
+"Te levantas del suelo."
 ]},
 "skill_1029_msg1":{
 "text":["¡%1 se levanta!"]
@@ -10415,7 +10415,7 @@
 "\\C[13]➤\\C[0] Los ataques Contundentes hacen daño en base a la Fuerza."
 ]},
 "skill_1030_msg1":{
-"text":["¡%1 golpea con su patada!"]
+"text":["¡%1 da una patada contundente!"]
 },
 "skill_1031_name":{
 "text":["Patada Cortante"]
@@ -10427,7 +10427,7 @@
 "\\C[13]➤\\C[0] Los ataques Cortantes hacen daño en base a la Destreza y la Fuerza."
 ]},
 "skill_1031_msg1":{
-"text":["¡%1 acuchilla con su patada!"]
+"text":["¡%1 da una patada cortante!"]
 },
 "skill_1032_name":{
 "text":["Patada Perforante"]
@@ -10439,34 +10439,34 @@
 "\\C[13]➤\\C[0] Los ataques Perforantes hacen daño en base a la Agilidad y la Fuerza."
 ]},
 "skill_1032_msg1":{
-"text":["¡%1 perfora con su patada!"]
+"text":["¡%1 da una patada perforante!"]
 },
 "skill_1033_name":{
 "text":["Recoge la Alabarda"]
 },
 "skill_1033_desc":{
 "text":[
-"Recoge y reequipa la alabarda caída."
+"Recoges la alabarda del suelo y la equipas."
 ]},
 "skill_1033_msg1":{
-"text":["¡%1 levanta su alabarda!"]
+"text":["¡%1 recoge su alabarda!"]
 },
 "skill_1034_name":{
-"text":["Acércate a la Alabarda"]
+"text":["Acercarse a la Alabarda"]
 },
 "skill_1034_desc":{
 "text":[
-"Acércate a la alabarda caída."
+"Te acercas a la alabarda del suelo."
 ]},
 "skill_1034_msg1":{
 "text":["¡%1 se acerca a su alabarda!"]
 },
 "skill_1035_name":{
-"text":["Retira el Juguete"]
+"text":["Retirar Juguete"]
 },
 "skill_1035_desc":{
 "text":[
-"Retire un juguete insertado."
+"Retiras un juguete pegado o insertado."
 ]},
 "skill_1036_msg1":{
 "text":["¡%1 desmonta y tira el rotor rosa!"]
@@ -10482,9 +10482,9 @@
 },
 "skill_1039_desc":{
 "text":[
-"Haz alarde y gana beneficios de Confianza.",
+"Alardeas y ganas el estado Confiada.",
 "\\}\\}\\C[9]➤\\C[0] La Confianza aumenta la Fuerza, la Destreza, la Agilidad, la Mente y el Encanto.",
-"\\C[8]➤\\C[0] Los enemigos ostentados tienen la posibilidad de ponerse cachondos."
+"\\C[8]➤\\C[0] Los enemigos alardeados tienen la posibilidad de ponerse cachondos."
 ]},
 "skill_1040_name":{
 "text":["Acariciar Polla"]
@@ -10492,8 +10492,8 @@
 "skill_1040_desc":{
 "text":[
 "Inflige Daño de Placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Caricias.",
-"\\C[9]➤\\C[0] El daño aumenta si el objetivo no está erecta."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Caricias.",
+"\\C[9]➤\\C[0] El daño aumenta si el objetivo no está empalmado."
 ]},
 
 "skill_1042_msg1":{
@@ -10506,15 +10506,15 @@
 "skill_1043_desc":{
 "text":[
 "Inflige Daño de Placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Anilingus.",
-"\\C[9]➤\\C[0] Extra efectivo contra objetivos sádicos. Puede usarse contra objetivos enfadados."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Anilingus.",
+"\\C[9]➤\\C[0] Extra efectivo contra objetivos sádicos. Puede usarse contra objetivos Enfadados."
 ]},
 
 "skill_1045_msg1":{
-"text":["\\C[27]¡%1 baja su cara hacia el culo de %2 y empieza a lamer!"]
+"text":["\\C[27]¡%1 baja su cara al culo de %2 y empieza a lamer!"]
 },
 "skill_1046_msg1":{
-"text":["¡%1 se come el culo de %2!"]
+"text":["¡%1 le come el culo a %2!"]
 },
 
 "skill_1047_name":{
@@ -10523,7 +10523,7 @@
 "skill_1047_desc":{
 "text":[
 "Inflige Daño de Placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Mamada."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Mamada."
 ]},
 
 "skill_1049_msg1":{
@@ -10539,11 +10539,11 @@
 "skill_1051_desc":{
 "text":[
 "Inflige Daño de Placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Paja con las Tetas."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Paja con las Tetas."
 ]},
 
 "skill_1053_msg1":{
-"text":["\\C[27]¡¡%1 empuja a %2 hacia abajo y le empareda la polla con sus tetas!!"]
+"text":["\\C[27]¡¡%1 empuja a %2 al suelo y le envuelve la polla con sus tetas!!"]
 },
 "skill_1054_msg1":{
 "text":["¡%1 folla vigorosamente la polla de %2 con sus tetas!"]
@@ -10555,7 +10555,7 @@
 "skill_1055_desc":{
 "text":[
 "Inflige daño de placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Paja con los Pies.",
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Paja con los Pies.",
 "\\C[9]➤\\C[0] Extra efectivo contra objetivos masoquistas."
 ]},
 
@@ -10563,7 +10563,7 @@
 "text":["\\C[27]¡¡%1 se sienta y empieza a frotar la polla de %2 con sus pies!!"]
 },
 "skill_1058_msg1":{
-"text":["¡%1 pajea la polla de %2 sólo con sus pies!"]
+"text":["¡%1 pajea la polla de %2 solo con sus pies!"]
 },
 
 "skill_1059_msg1":{
@@ -10591,7 +10591,7 @@
 "skill_1065_desc":{
 "text":[
 "Mira fijamente la polla erecta de un objetivo.",
-"\\}\\}\\C[9]➤\\C[0] Puede afectar el Deseo: Polla y al placer del objetivo."
+"\\}\\}\\C[9]➤\\C[0] Puede afectar al Deseo: Polla y al placer del objetivo."
 ]},
 
 "skill_1067_msg1":{
@@ -10599,10 +10599,10 @@
 },
 
 "skill_1068_msg1":{
-"text":["\\C[31]¡¡¡¡%1 se ha corrido %2!!!!"]
+"text":["\\C[31]¡¡¡¡%1 se ha corrido%2!!!!"]
 },
 "skill_1069_msg1":{
-"text":["\\C[31]¡¡¡¡%1 se ha corrido varias veces %2!!!!"]
+"text":["\\C[31]¡¡¡¡%1 se ha corrido varias veces%2!!!!"]
 },
 
 "skill_1070_name":{
@@ -10611,14 +10611,14 @@
 "skill_1070_desc":{
 "text":[
 "Inflige Daño de Placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Sexo Anal."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Sexo Anal."
 ]},
 
 "skill_1072_msg1":{
-"text":["\\C[27]¡%1 empuja a %2 y le ensilla la polla en el culo!"]
+"text":["\\C[27]¡%1 empuja a %2 y se sienta en su polla!"]
 },
 "skill_1073_msg1":{
-"text":["¡%1 aprieta la polla de %2 con su ano!"]
+"text":["¡%1 ordeña la polla de %2 con su ano!"]
 },
 
 "skill_1074_name":{
@@ -10627,7 +10627,7 @@
 "skill_1074_desc":{
 "text":[
 "Inflige Daño de Placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y Sexo Vaginal."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Sexo Vaginal."
 ]},
 
 "skill_1076_msg1":{
@@ -10668,7 +10668,7 @@
 "skill_1082_desc":{
 "text":[
 "Restaura algo de Resistencia y adopta una postura.",
-"\\}\\}\\C[9]➤\\C[0] Usar \\I[321]Revitalizar y luego usar \\I[323]Postura Cautelosa."
+"\\}\\}\\C[9]➤\\C[0] Usa \\I[321]Revitalizar y luego usa \\I[323]Postura Cautelosa."
 ]},
 "skill_1082_msg1":{
 "text":["%1 respira hondo para revitalizarse"]
@@ -10682,7 +10682,7 @@
 "skill_1083_desc":{
 "text":[
 "Restaura mucha Resistencia y adopta una postura.",
-"\\}\\}\\C[9]➤\\C[0] Usar \\I[322]Fuerzas Renovadas y luego usar \\I[323]Postura Cautelosa."
+"\\}\\}\\C[9]➤\\C[0] Usa \\I[322]Fuerzas Renovadas y luego usa \\I[323]Postura Cautelosa."
 ]},
 "skill_1083_msg1":{
 "text":["%1 utiliza su energía interior para renovar sus fuerzas"]
@@ -10695,11 +10695,11 @@
 },
 "skill_1084_desc":{
 "text":[
-"Restaura el atuendo y adopta una postura.",
-"\\}\\}\\C[9]➤\\C[0] Usar \\I[346]Arreglar la ropa y luego usar \\I[323]Postura Cautelosa."
+"Restaura el uniforme y adopta una postura.",
+"\\}\\}\\C[9]➤\\C[0] Usa \\I[346]Arreglar la ropa y luego usa \\I[323]Postura Cautelosa."
 ]},
 "skill_1084_msg1":{
-"text":["%1 vuelve a subirse la ropa y a bajársela correctamente"]
+"text":["%1 vuelve a ponerse la ropa correctamente"]
 },
 "skill_1084_msg2":{
 "text":["y luego observa con cautela a sus enemigos."]
@@ -10719,12 +10719,12 @@
 "text":["y adopta una postura defensiva!"]
 },
 "skill_1086_name":{
-"text":["Fuerzas Renovadas a la Defensiva"]
+"text":["Fuerzas Renovadas Defensivas"]
 },
 "skill_1086_desc":{
 "text":[
 "Restaura mucha Resistencia y adopta una postura.",
-"\\}\\}\\C[9]➤\\C[0] Usar \\I[322]Fuerzas Renovadas y luego usa \\I[324]Postura Defensiva."
+"\\}\\}\\C[9]➤\\C[0] Usa \\I[322]Fuerzas Renovadas y luego usa \\I[324]Postura Defensiva."
 ]},
 "skill_1086_msg1":{
 "text":["¡%1 utiliza su energía interior para renovar sus fuerzas"]
@@ -10733,21 +10733,21 @@
 "text":["y adopta una postura defensiva!"]
 },
 "skill_1087_name":{
-"text":["Arreglar la Ropa a la Defensiva"]
+"text":["Arreglar la Ropa Defensivamente"]
 },
 "skill_1087_desc":{
 "text":[
-"Restaura el atuendo y adopta una postura.",
+"Restaura el uniforme y adopta una postura.",
 "\\}\\}\\C[9]➤\\C[0] Usa \\I[346]Arreglar la ropa y luego usa \\I[324]Postura Defensiva."
 ]},
 "skill_1087_msg1":{
-"text":["%1 vuelve a subirse la ropa y a bajársela correctamente"]
+"text":["%1 se arregla la ropa y se la pone correctamente"]
 },
 "skill_1087_msg2":{
 "text":["y adopta una postura defensiva!"]
 },
 "skill_1088_name":{
-"text":["Revitalizar con Contraataque"]
+"text":["Contra-Revitalizar"]
 },
 "skill_1088_desc":{
 "text":[
@@ -10761,7 +10761,7 @@
 "text":["y adopta una postura de contraataque!"]
 },
 "skill_1089_name":{
-"text":["Fuerzas Renovadas con Contraataque"]
+"text":["Contra-Fuerzas Renovadas"]
 },
 "skill_1089_desc":{
 "text":[
@@ -10775,15 +10775,15 @@
 "text":["y adopta una postura de contraataque!"]
 },
 "skill_1090_name":{
-"text":["Arreglar la Ropa con Contraataque"]
+"text":["Contra-Arreglar la Ropa"]
 },
 "skill_1090_desc":{
 "text":[
-"Restaura el atuendo y adopta una postura.",
+"Restaura el uniforme y adopta una postura.",
 "\\}\\}\\C[9]➤\\C[0] Usa \\I[346]Arreglar la ropa y luego usa \\I[325]Postura de Contraataque."
 ]},
 "skill_1090_msg1":{
-"text":["%1 vuelve a subirse la ropa y a bajársela correctamente"]
+"text":["%1 se arregla la ropa y se la pone correctamente"]
 },
 "skill_1090_msg2":{
 "text":["y adopta una postura de contraataque!"]
@@ -10797,7 +10797,7 @@
 },
 
 "skill_1093_msg1":{
-"text":["%1 patea la cabeza de %2 con los pies!"]
+"text":["%1 patea la cabeza de %2 con sus pies!"]
 },
 "skill_1094_msg1":{
 "text":["%1 patea los brazos de %2 con sus pies!"]
@@ -10811,7 +10811,7 @@
 },
 "skill_1096_desc":{
 "text":[
-"\\}\\}\\C[1]➤\\C[0] No hacer nada durante el resto de la batalla.",
+"\\}\\}\\C[1]➤\\C[0] No haces nada durante el resto de la batalla.",
 "\\C[1]➤\\C[0] La Postura de Placer puede cancelarse manteniendo pulsada la tecla Cancelar."
 ]},
 
@@ -10820,7 +10820,7 @@
 },
 "skill_1097_desc":{
 "text":[
-"\\}\\}\\C[1]➤\\C[0] No hacer nada durante el resto de la batalla, pero todavía puede utilizar Habilidades de Voluntad.",
+"\\}\\}\\C[1]➤\\C[0] No haces nada durante el resto de la batalla, pero todavía puede utilizar Habilidades de Voluntad.",
 "\\C[1]➤\\C[0] La Postura de Placer puede cancelarse manteniendo pulsada la tecla Cancelar."
 ]},
 
@@ -10840,10 +10840,10 @@
 "text":["\\C[10]¡¡%1 deja de moverse!!"]
 },
 "skill_1156_msg1":{
-"text":["¡%1 carga contra %2 e intenta placarla!"]
+"text":["¡%1 carga contra %2 e intenta hacerle un placaje!"]
 },
 "skill_1157_msg1":{
-"text":["\\C[10]¡%1 se prepara para un ataque!"]
+"text":["\\C[10]¡%1 se prepara para atacar!"]
 },
 "skill_1158_msg1":{
 "text":["¡%1 finta un ataque antes de hacer tropezar a %2!"]
@@ -10855,7 +10855,7 @@
 "text":["\\C[10]¡%1 deja de moverse, ¡se prepara para hacer algo!"]
 },
 "skill_1161_msg1":{
-"text":["¡%1 envía un tentáculo para golpear las piernas de %2!"]
+"text":["¡%1 usa un tentáculo para golpear las piernas de %2!"]
 },
 "skill_1162_msg1":{
 "text":["¡%1 ensarta a %2 con sus tentáculos!"]
@@ -10876,13 +10876,13 @@
 "text":["¡%2 parece más saludable después de que %1 le inyecte algo!"]
 },
 "skill_1168_msg1":{
-"text":["¡%1 lanza una jeringa dirigida a %2!"]
+"text":["¡%1 lanza una jeringa a %2!"]
 },
 "skill_1169_msg1":{
 "text":["\\C[10]¡%1 deja de moverse!"]
 },
 "skill_1170_msg1":{
-"text":["¡%1 carga hacia %2 e intenta placarla!"]
+"text":["¡%1 carga hacia %2 e intenta hacerle un placaje!"]
 },
 "skill_1171_msg1":{
 "text":["¡%1 finta un ataque antes de hacer tropezar a %2!"]
@@ -10900,13 +10900,13 @@
 "text":["¡%1 se abalanza sobre %2 e intenta derribarla!"]
 },
 "skill_1176_msg1":{
-"text":["\\C[10]¡%1 está empezando a inhalar profundamente!"]
+"text":["\\C[10]¡%1 está empezando a respirar profundamente!"]
 },
 "skill_1177_msg1":{
-"text":["\\C[10]¡%1 está empezando a inhalar profundamente!"]
+"text":["\\C[10]¡%1 está empezando a respirar profundamente!"]
 },
 "skill_1178_msg1":{
-"text":["\\C[10]¡%1 está empezando a inhalar profundamente!"]
+"text":["\\C[10]¡%1 está empezando a respirar profundamente!"]
 },
 "skill_1179_msg1":{
 "text":["\\C[10]¡¡%1 pide ayuda!!"]
@@ -10915,13 +10915,13 @@
 "text":["\\C[10]¡%1 empieza a golpearse el pecho!"]
 },
 "skill_1181_msg1":{
-"text":["%1 se levanta de un salto y golpea el suelo con los puños,"]
+"text":["¡¡%1 se levanta de un salto y golpea el suelo con los puños,"]
 },
 "skill_1181_msg2":{
-"text":["¡¡enviando ondas de choque hacia %2!!"]
+"text":["enviando ondas de choque hacia %2!!"]
 },
 "skill_1182_msg1":{
-"text":["\\C[10]¡¡%1 agarra a %2 por la cabeza y echa el brazo hacia atrás!!"]
+"text":["\\C[10]¡¡%1 agarra a %2 por la cabeza y le echa el brazo hacia atrás!!"]
 },
 "skill_1183_msg1":{
 "text":["¡¡%1 apunta a %2 y lanza a %3 contra ella!!"]
@@ -10952,7 +10952,7 @@
 "text":["¡%1 acuchilla con su daga!"]
 },
 "skill_1209_msg1":{
-"text":["¡%1 clava con su daga!"]
+"text":["¡%1 apuñala con su daga!"]
 },
 "skill_1210_msg1":{
 "text":["¡%1 acuchilla con su espada corta!"]
@@ -10964,16 +10964,16 @@
 "text":["¡%1 golpea con el puño!"]
 },
 "skill_1213_msg1":{
-"text":["¡%1 da patadas con el pie!"]
+"text":["¡%1 da una patada con su pie!"]
 },
 "skill_1214_msg1":{
 "text":["¡%1 pincha con los dedos!"]
 },
 "skill_1215_msg1":{
-"text":["¡%1 acuchilla con su cuchillo!"]
+"text":["¡%1 corta con su cuchillo!"]
 },
 "skill_1216_msg1":{
-"text":["¡%1 clava con su cuchillo!"]
+"text":["¡%1 apuñala con su cuchillo!"]
 },
 "skill_1217_msg1":{
 "text":["¡%1 corta con su hacha de mano!"]
@@ -10982,16 +10982,16 @@
 "text":["¡%1 golpea con su hacha de mano!"]
 },
 "skill_1219_msg1":{
-"text":["¡%1 golpea con su bate!"]
+"text":["¡%1 golpea con su bate de béisbol!"]
 },
 "skill_1220_msg1":{
 "text":["¡%1 golpea con su sartén de cocina!"]
 },
 "skill_1221_msg1":{
-"text":["¡%1 empuja con su cuchillo de fruta!"]
+"text":["¡%1 apuñala con su cuchillo de cortar fruta!"]
 },
 "skill_1222_msg1":{
-"text":["¡%1 acuchilla con su espada!"]
+"text":["¡%1 corta con su espada!"]
 },
 "skill_1223_msg1":{
 "text":["¡%1 corta con su espada!"]
@@ -11006,31 +11006,31 @@
 "text":["¡%1 acuchilla con sus garras!"]
 },
 "skill_1227_msg1":{
-"text":["¡%1 golpea con la cabeza!"]
+"text":["¡%1 da un cabezazo!"]
 },
 "skill_1228_msg1":{
 "text":["¡%1 acuchilla con sus tentáculos!"]
 },
 "skill_1229_msg1":{
-"text":["¡%1 empuja con sus tentáculos!"]
+"text":["¡%1 apuñala con sus tentáculos!"]
 },
 "skill_1230_msg1":{
 "text":["¡%1 golpea con sus tentáculos!"]
 },
 "skill_1231_msg1":{
-"text":["¡%1 golpea con sus nudillos de bronce!"]
+"text":["¡%1 golpea con sus nudillos de metal!"]
 },
 "skill_1232_msg1":{
 "text":["¡%1 golpea con sus cadenas!"]
 },
 "skill_1233_msg1":{
-"text":["¡%1 acuchilla con sus cadenas!"]
+"text":["¡%1 corta con sus cadenas!"]
 },
 "skill_1234_msg1":{
-"text":["¡%1 lanza un fuerte golpe de derecha!"]
+"text":["¡%1 da un derechazo!"]
 },
 "skill_1235_msg1":{
-"text":["¡%1 blancea su arma salvajemente!"]
+"text":["¡%1 balancea su arma salvajemente!"]
 },
 "skill_1236_msg1":{
 "text":["¡%1 acuchilla hábilmente con su arma!"]
@@ -11045,13 +11045,13 @@
 "text":["¡%1 se lanza hacia adelante y empala con su arma!"]
 },
 "skill_1240_msg1":{
-"text":["¡%1 aparta de una patada la alabarda caída de %2!"]
+"text":["¡%1 aparta de una patada la alabarda de %2!"]
 },
 "skill_1241_msg1":{
 "text":["¡%1 corre hacia la alabarda de %2 y la aparta de una patada!"]
 },
 "skill_1242_msg1":{
-"text":["¡%1 lanza un fuerte golpe de derecha!"]
+"text":["¡%1 lanza un fuerte derechazo!"]
 },
 "skill_1243_msg1":{
 "text":["¡%1 blande su arma salvajemente!"]
@@ -11066,13 +11066,13 @@
 "text":["¡%1 se lanza hacia adelante y empala con su arma!"]
 },
 "skill_1247_msg1":{
-"text":["¡%1 se abalanza furioso sobre %2 con una ráfaga de golpes!"]
+"text":["¡%1 se abalanza furiosamente sobre %2 con una ráfaga de golpes!"]
 },
 "skill_1248_msg1":{
-"text":["¡%1 carga furioso contra %2 para abordarla con su cuerpo!"]
+"text":["¡%1 carga furiosamente contra %2 para placarla con su cuerpo!"]
 },
 "skill_1249_msg1":{
-"text":["%1 se acobarda detrás!"]
+"text":["¡%1 se acobarda detrás!"]
 },
 "skill_1250_msg1":{
 "text":["¡%1 cuenta a sus compañeros reclusos los puntos débiles de %2!"]
@@ -11087,7 +11087,7 @@
 "text":["¡%1 rompe un vaso y apuñala a %2 con un fragmento!"]
 },
 "skill_1254_msg1":{
-"text":["¡%1 lanza un puñetazo a %2!"]
+"text":["¡%1 da un puñetazo a %2!"]
 },
 "skill_1255_msg1":{
 "text":["¡%1 empuja a %2 en el pecho!"]
@@ -11111,7 +11111,7 @@
 "text":["%1 da vueltas alrededor de %2 mientras la observa con cautela."]
 },
 "skill_1262_msg1":{
-"text":["¡%1 mete la cola y huye!"]
+"text":["¡%1 huye con el rabo entre las piernas!"]
 },
 "skill_1263_msg1":{
 "text":["¡La presencia de %1 potencia las habilidades de todos sus aliados!"]
@@ -11126,7 +11126,7 @@
 "text":["¡%1 invoca su Ojo de la Mente interior!"]
 },
 "skill_1267_msg1":{
-"text":["¡%1 desarma a %2!"]
+"text":["¡%1 contraataca y desarma a %2!"]
 },
 "skill_1268_msg1":{
 "text":["¡%1 respira hondo para Revitalizarse!"]
@@ -11138,26 +11138,26 @@
 "text":["¡%1 adopta una Postura Defensiva!"]
 },
 "skill_1271_msg1":{
-"text":["¡¡%1 se mueve rápidamente al lado de %2 y le corta el lado del cuello con la mano!!"]
+"text":["¡¡%1 se mueve rápidamente al lado de %2 y le da un golpe con el dorso de la mano en el cuello!!"]
 },
 "skill_1272_msg1":{
 "text":["¡%1 ataca usando sus dedos!"]
 },
 "skill_1273_msg1":{
-"text":["¡%1 ataca usando el costado de su mano!"]
+"text":["¡%1 ataca usando el dorso de su mano!"]
 },
 "skill_1274_msg1":{
-"text":["¡%1 ataca usando la palma de su mano!"]
+"text":["¡%1 golpea usando la palma de su mano!"]
 },
 
 "skill_1326_name":{
-"text":["No te Masturbes"]
+"text":["No Masturbarse"]
 },
 "skill_1326_desc":{
 "text":[
 "Permite utilizar las habilidades de Ataque y Energía.",
 "\\}\\}\\}\\C[9]➤\\C[0] Sin embargo, esto aumentará la Frustración. Sólo los orgasmos pueden eliminar la Frustración.",
-"\\C[13]➤\\C[0] La Frustración aumenta el Ataque pero disminuye la Defensa, la Agilidad, la Precisión y la Evasión Crítica."
+"\\C[13]➤\\C[0] La Frustración aumenta el Ataque pero disminuye la Defensa, la Agilidad, la Precisión y la Evasión de Crítico."
 ]},
 "skill_1327_name":{
 "text":["Dejar de Masturbarse"]
@@ -11174,7 +11174,7 @@
 "Chuparse los dedos para darse placer."
 ]},
 "skill_1328_msg1":{
-"text":["¡%1 se chupa el dedo!"]
+"text":["¡%1 se chupa el pulgar!"]
 },
 "skill_1329_name":{
 "text":["Chuparse los Dedos (Mano Derecha)"]
@@ -11187,7 +11187,7 @@
 "text":["¡%1 chupa y lame sus dedos!"]
 },
 "skill_1330_name":{
-"text":["Tocar las Tetas (Mano Izquierda)"]
+"text":["Tocarse las Tetas (Mano Izquierda)"]
 },
 "skill_1330_desc":{
 "text":[
@@ -11197,7 +11197,7 @@
 "text":["¡%1 juega con sus tetas!"]
 },
 "skill_1331_name":{
-"text":["Tocar las Tetas (Mano Derecha)"]
+"text":["Tocarse las Tetas (Mano Derecha)"]
 },
 "skill_1331_desc":{
 "text":[
@@ -11207,7 +11207,7 @@
 "text":["¡%1 juega con sus tetas!"]
 },
 "skill_1332_name":{
-"text":["Tocar los Pezones (Mano Izquierda)"]
+"text":["Tocarse los Pezones (Mano Izquierda)"]
 },
 "skill_1332_desc":{
 "text":[
@@ -11217,7 +11217,7 @@
 "text":["¡%1 juega con sus pezones!"]
 },
 "skill_1333_name":{
-"text":["Tocar los Pezones (Mano Derecha)"]
+"text":["Tocarse los Pezones (Mano Derecha)"]
 },
 "skill_1333_desc":{
 "text":[
@@ -11227,7 +11227,7 @@
 "text":["¡%1 juega con sus pezones!"]
 },
 "skill_1334_name":{
-"text":["Tocar Clítoris (Mano Izquierda)"]
+"text":["Tocarse el Clítoris (Mano Izquierda)"]
 },
 "skill_1334_desc":{
 "text":[
@@ -11237,7 +11237,7 @@
 "text":["¡%1 juega con su clítoris!"]
 },
 "skill_1335_name":{
-"text":["Tocar Clítoris (Mano Derecha)"]
+"text":["Tocarse el Clítoris (Mano Derecha)"]
 },
 "skill_1335_desc":{
 "text":[
@@ -14050,7 +14050,7 @@
 "text":["Pluma de obsidiana"]
 },
 "item_13_effect":{
-"text":[" (\\C[11]Evasión crítica +15%\\C[0])"]
+"text":[" (\\C[11]Evasión de Crítico +15%\\C[0])"]
 },
 "item_14_name":{
 "text":["Directrices del héroe Vol.2"]
