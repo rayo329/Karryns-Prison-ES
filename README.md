@@ -1,12 +1,12 @@
 # Karryns Prison en español  
 
-## Proofreading in progress:  
+## Translation in progress:  
 
 **RemMap_EN.json**  14996/14996  100%  
   
-**RemLines.json**   5047/27000  18.7%
+**RemLines.json**   27000/27000  100%
   
-**RemDesc_EN.json** 1522/15662  9.7%  
+**RemDesc_EN.json** 11267/15662  71.94%  
   
-**Total**   21565/57658  37.40%
+**Total**   53263/57658  92.38%
   

@@ -157,7 +157,7 @@
 ]},
 "commonevent76_choice_7":{
 "text":[
-"6. El deseo de infligir dolor a hombres fuertes y duros."
+"6. El deseo de infligir dolor a hombres fuertes."
 ]},
 "commonevent76_choice_8":{
 "text":[
@@ -5107,7 +5107,7 @@
 ]},
 "map18_ev26_p1_Lv2_desc_4":{
 "text":[
-"Efecto del Regalo: \\C[11]\\I[414]Evasión de crítico +15%",
+"Efecto del Regalo: \\C[11]\\I[414]Evasión de Crítico +15%",
 "\\C[31]El Nivel de Puta de Karryn debe ser menor a 40 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_Lv2_desc_5":{
@@ -7831,7 +7831,7 @@
 
 "Ni puta idea, solo soy un guardia normal y corriente. ",
 "Ni siquiera puedo conseguir un \\C[16]\\I[89]Título\\C[0]."
-  ]},
+]},
 
 
 "map20_ev45_tachiename_1":{
@@ -10491,19 +10491,19 @@
 ]},
 "map37_ev17_p2_2a":{
 "text":[
-"Junto con la hermosa piel desnuda de la Directora,",
-"su perfume se esparce por toda la zona,",
+"¡Junto con la hermosa piel desnuda de la Directora,",
+"se esparce su perfume por toda la zona,",
 "encantando a los guardias! ¡Sigue desnudándola, oink!"
 ]},
 "map37_ev17_p2_2b":{
 "text":[
 "¡Lo resiste!",
 "¡¿Qué estás haciendo?!",
-"Eres el pícaro del grupo ¡Primero desarma los guardias! ¡Oink!"
+"Eres el pícaro del grupo ¡Primero desarma a los guardias! ¡Oink!"
 ]},
 
 "map37_ev18_tachiename_1":{
-  "text": ["Guardia (Bardo)"]},
+"text": ["Guardia (Bardo)"]},
 "map37_ev18_p1_1":{
 "text": [
 "La la la~♫",
