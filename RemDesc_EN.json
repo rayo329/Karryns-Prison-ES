@@ -11267,7 +11267,7 @@
 "text":["¡%1 juega con el rotor rosa!"]
 },
 "skill_1338_name":{
-"text":["Tocarse el coño (Mano Izquierda)"]
+"text":["Tocarse el Coño (Mano Izquierda)"]
 },
 "skill_1338_desc":{
 "text":[
@@ -11277,7 +11277,7 @@
 "text":["¡%1 se toca el coño!"]
 },
 "skill_1339_name":{
-"text":["Tocarse el coño (Mano Derecha)"]
+"text":["Tocarse el Coño (Mano Derecha)"]
 },
 "skill_1339_desc":{
 "text":[
@@ -11683,8 +11683,8 @@
 },
 "skill_1580_desc":{
 "text":[
-"\\}Saluda al visitante frente al mostrador de recepción.",
-"Pregunta para a qué han venido aquí hoy."
+"\\}Saludar al visitante frente al mostrador de recepción.",
+"Pregunta a qué ha venido aquí hoy."
 ]},
 "skill_1580_msg1":{
 "text":["%1 pregunta a %2 a qué ha venido hoy."]
