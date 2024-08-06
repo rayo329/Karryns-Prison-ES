@@ -1751,13 +1751,13 @@
 "map_name_31":{
 "text":["El Bar"]},
 "map_name_8":{
-"text":["El Almacén del bar"]},
+"text":["El Almacén del Bar"]},
 "map_name_5":{
 "text":["Las Escaleras al Nivel 2"]},
 "map_name_14":{
 "text":["La Lavandería"]},
 "map_name_11":{
-"text":["Área de lavado de vajilla"]},
+"text":["Área de Lavado de Vajilla"]},
 "map_name_13":{
 "text":["La Recepción"]},
 "map_name_15":{
@@ -3314,7 +3314,7 @@
 ]},
 "map15_ev8_can_not_enter_next_room_name":{
 "text":[
-"el cuarto de lavado de platos"
+"El Área de Lavado de Vajilla"
 ]},
 
 "map15_ev26_tachiename_1":{

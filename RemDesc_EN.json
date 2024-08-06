@@ -3749,12 +3749,12 @@
 },
 
 "skill_70_name":{
-"text":["Arreglar la ropa"]
+"text":["Arreglar la Ropa"]
 },
 "skill_70_desc":{
 "text":[
-"Restaura el atuendo a su forma original.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Resistencia a Perder la Ropa durante 1 turno."
+"Restaura el uniforme a su estado original.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Resistencia a Perder Ropa durante 1 turno."
 ]},
 "skill_70_msg1":{
 "text":["¡%1 se reajusta la ropa y se la deja bien puesta."]
@@ -3809,7 +3809,7 @@
 "skill_75_desc":{
 "text":[
 "Adoptas una postura defensiva.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Defensa, el Control de Daño y la Resistencia a Perder la Ropa durante 1 turno.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Defensa, el Control de Daño y la Resistencia a Perder Ropa durante 1 turno.",
 "\\C[9]➤\\C[0] Protege contra varias desventajas durante 1 turno."
 ]},
 "skill_75_msg1":{
@@ -7182,7 +7182,7 @@
 "skill_509_desc":{
 "text":[
 "¡El bar del Fuerte Ganon no volverá a cerrar!",
-"Que sigan los buenos tiempos con un poco de tequila y ron de alta graduación.",
+"Que vengan los buenos tiempos con un poco de tequila y ron overproof.",
 "\\REM_EFF[skill_509_effect]"
 ]},
 "skill_510_name":{
@@ -7357,11 +7357,11 @@
 "\\REM_EFF[skill_528_effect]"
 ]},
 "skill_529_name":{
-"text":["Reparar el Área de Lavado de Vajillas"]
+"text":["Reparar el Área de lavado de Vajilla"]
 },
 "skill_529_desc":{
 "text":[
-"En el el Área de Lavado de Vajilla se lavan los enseres del comedor y de la cocina.",
+"En el área de lavado de vajilla se lavan los enseres del comedor y de la cocina.",
 "Repararlo nos permitirá volver a lavar todo correctamente.",
 "\\REM_EFF[skill_529_effect]"
 ]},
@@ -10466,7 +10466,7 @@
 },
 "skill_1035_desc":{
 "text":[
-"Retiras un juguete pegado o insertado."
+"Retirar un juguete pegado o insertado."
 ]},
 "skill_1036_msg1":{
 "text":["¡%1 desmonta y tira el rotor rosa!"]
@@ -11834,7 +11834,7 @@
 "skill_1594_desc":{
 "text":[
 "\\}Restaura un poco de resistencia.",
-"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneracion de Resistencia."
+"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1594_msg1":{
 "text":["%1 se da un respiro."]
@@ -11866,10 +11866,10 @@
 "skill_1597_desc":{
 "text":[
 "\\}Restaura el uniforme a su estado original.",
-"\\}\\C[9]➤\\C[0] Aumenta considerablemente la Resistencia a Perder la Ropa durante 1 turno."
+"\\}\\C[9]➤\\C[0] Aumenta considerablemente la Resistencia a Perder Ropa durante 1 turno."
 ]},
 "skill_1597_msg1":{
-"text":["%1 arregla su falda."]
+"text":["%1 se reajusta la ropa y se la deja bien puesta."]
 },
 "skill_1598_name":{
 "text":["Negar Petición"]
@@ -11961,7 +11961,7 @@
 "text":["¡%1 se inclina sobre el inodoro y se mete %2 por el culo!"]
 },
 "skill_1628_msg1":{
-"text":["¡%1 levanta su culo sobre %2 y se la mete por el coño!"]
+"text":["¡%1 pone su culo contra %2 y se la mete por el coño!"]
 },
 "skill_1629_msg1":{
 "text":["¡%1 acaricia a %2 con la mano!"]
@@ -11973,7 +11973,7 @@
 "text":["¡%1 se folla a %2 mientras se agarra al váter!"]
 },
 "skill_1632_msg1":{
-"text":["¡%1 da un culazo contra la pared %2!"]
+"text":["¡%1 da un culazo contra la pared de %2!"]
 },
 
 
@@ -12008,134 +12008,134 @@
 "text":["¡%1 juega con el consolador!"]
 },
 "skill_1637_name":{
-"text":["usar consolador (mano derecha)"]
+"text":["Usar Consolador (Mano Derecha)"]
 },
 "skill_1637_desc":{
 "text":[
-"Juega con el consolador para tu propio placer."
+"Jugar con el consolador para darse placer."
 ]},
 "skill_1637_msg1":{
 "text":["¡%1 juega con el consolador!"]
 },
 "skill_1638_name":{
-"text":["Usar Bolas Anales (Mano Izquierda)"]
+"text":["Usar Bolas Chinas (Mano Izquierda)"]
 },
 "skill_1638_desc":{
 "text":[
-"Juega con las cuentas anales para tu propio placer."
+"Jugar con las bolas chinas para darse placer."
 ]},
 "skill_1638_msg1":{
-"text":["¡%1 juega con las bolas anales!"]
+"text":["¡%1 juega con las bolas chinas!"]
 },
 "skill_1639_name":{
-"text":["Usar Bolas Anales (Mano Derecha)"]
+"text":["Usar Bolas Chinas (Mano Derecha)"]
 },
 "skill_1639_desc":{
 "text":[
-"Juega con las cuentas anales para tu propio placer."
+"Jugar con las bolas chinas para darse placer."
 ]},
 "skill_1639_msg1":{
-"text":["¡%1 juega con las bolas anales!"]
+"text":["¡%1 juega con las bolas chinas!"]
 },
 "skill_1640_name":{
-"text":["Chuparse los dedos (mano izquierda)"]
+"text":["Chuparse los Dedos (Mano Izquierda)"]
 },
 "skill_1640_desc":{
 "text":[
-"Chupar sus propios dedos para el placer propio."
+"Chuparse los dedos para para darse placer."
 ]},
 "skill_1640_msg1":{
-"text":["¡%1 chupa y se lame los dedos!"]
+"text":["¡%1 se chupa y lame los dedos!"]
 },
 "skill_1641_name":{
-"text":["Chuparse los dedos (mano derecha)"]
+"text":["Chuparse los Dedos (Mano Derecha)"]
 },
 "skill_1641_desc":{
 "text":[
-"Chupar sus propios dedos para el placer propio."
+"Chuparse los dedos para para darse placer."
 ]},
 "skill_1641_msg1":{
-"text":["¡%1 chupa y se lame los dedos!"]
+"text":["¡%1 se chupa y lame los dedos!"]
 },
 "skill_1642_name":{
-"text":["Tocar Pezones (mano izquierda)"]
+"text":["Tocar Pezones (Mano Izquierda)"]
 },
 "skill_1642_desc":{
 "text":[
-"Juega con tus propios pezones para tu propio placer."
+"Jugar con los pezones para darse placer."
 ]},
 "skill_1642_msg1":{
 "text":["¡%1 juega con sus pezones!"]
 },
 "skill_1643_name":{
-"text":["Tocar Pezones (mano derecha)"]
+"text":["Tocar Pezones (Mano Derecha)"]
 },
 "skill_1643_desc":{
 "text":[
-"Juega con tus propios pezones para tu propio placer."
+"Jugar con los pezones para darse placer."
 ]},
 "skill_1643_msg1":{
 "text":["¡%1 juega con sus pezones!"]
 },
 "skill_1644_name":{
-"text":["Tocar Clitoris (Mano izquierda)"]
+"text":["Tocar Clítoris (Mano Izquierda)"]
 },
 "skill_1644_desc":{
 "text":[
-"Tocar su propio clítoris para tu propio placer."
+"Tocar el clítoris para darse placer."
 ]},
 "skill_1644_msg1":{
 "text":["¡%1 juega con su clítoris!"]
 },
 "skill_1645_name":{
-"text":["Tocar Clitoris (Mano derecha)"]
+"text":["Tocar Clítoris (Mano Derecha)"]
 },
 "skill_1645_desc":{
 "text":[
-"Tocar su propio clítoris para tu propio placer."
+"Tocar el clítoris para darse placer."
 ]},
 "skill_1645_msg1":{
 "text":["¡%1 juega con su clítoris!"]
 },
 "skill_1646_name":{
-"text":["Dedear Vagina (Mano izquierda)"]
+"text":["Tocarse el Coño (Mano Izquierda)"]
 },
 "skill_1646_desc":{
 "text":[
-"Dedear su propia vagina para el placer propio."
+"Tocarse el coño para darse placer."
 ]},
 "skill_1646_msg1":{
-"text":["¡%1 se mete los dedos en la vagina!"]
+"text":["¡%1 se mete los dedos en el coño!"]
 },
 "skill_1647_name":{
-"text":["Dedear Vagina (Mano derecha)"]
+"text":["Tocarse el Coño (Mano Derecha)"]
 },
 "skill_1647_desc":{
 "text":[
-"Dedear su propia vagina para el placer propio."
+"Tocarse el coño para darse placer."
 ]},
 "skill_1647_msg1":{
-"text":["¡%1 se mete los dedos en la vagina!"]
+"text":["¡%1 se mete los dedos en el coño!"]
 },
 "skill_1648_name":{
-"text":["Dedear Ano (Mano izquierda)"]
+"text":["Tocarse el Ano (Mano Izquierda)"]
 },
 "skill_1648_desc":{
 "text":[
-"Dedo propio ano para el placer propio."
+"Tocarse el ano para darse placer."
 ]},
 "skill_1648_msg1":{
-"text":["¡%1 juega con su culo!"]
+"text":["¡%1 juega con su ojete!"]
 },
 "skill_1649_name":{
-"text":["Dedear Ano (Mano derecha)"]
+"text":["Tocarse el ano (Mano Derecha)"]
 },
 "skill_1649_desc":{
 "text":[
-"Dedo propio ano para el placer propio."
+"Tocarse el ano para darse placer."
 ]},
 "skill_1649_msg1":{
-"text":["¡%1 juega con su culo!"]
+"text":["¡%1 juega con su ojete!"]
 },
 "skill_1650_name":{
 "text":["Descansar"]
@@ -12143,45 +12143,45 @@
 "skill_1650_desc":{
 "text":[
 "Aumenta la regeneración de resistencia y descansa durante 5 turnos.",
-"\\}\\}\\C[9]➤\\C[0] Descansar mientras se está lleno de energía aumenta la cantidad de fatiga reducida al final."
+"\\}\\}\\C[9]➤\\C[0] Descansar con la resistencia llena aumenta la cantidad de fatiga reducida al final."
 ]},
 "skill_1650_msg1":{
-"text":["%1 comienza a descansar."]
+"text":["%1 empieza a descansar."]
 },
 "skill_1651_name":{
-"text":["Descanso"]
+"text":["Darse un Respiro"]
 },
 "skill_1651_desc":{
 "text":[
-"Descansa 1 turno sin gastar energía."
+"Descansar 1 turno sin gastar energía."
 ]},
 "skill_1651_msg1":{
-"text":["%1 toma un respiro."]
+"text":["%1 se toma un respiro."]
 },
 "skill_1652_name":{
 "text":["Salir"]
 },
 "skill_1652_desc":{
 "text":[
-"Sal del establo."
+"Salir del baño."
 ]},
 "skill_1653_name":{
-"text":["Mirada al pene"]
+"text":["Mirar Polla Fijamente"]
 },
 "skill_1653_desc":{
 "text":[
 "Mira fijamente la polla erecta de un objetivo.",
-"\\}\\}\\C[9]➤\\C[0] Puede afectar el Deseo de Pene y el placer del objetivo."
+"\\}\\}\\C[9]➤\\C[0] Puede afectar al Deseo: Polla y al placer del objetivo."
 ]},
 
 "skill_1655_name":{
-"text":["Tocar verga"]
+"text":["Acariciar Polla"]
 },
 "skill_1655_desc":{
 "text":[
 "Inflige daño de placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño se basa en la destreza y el nivel de caricias.",
-"\\C[9]➤\\C[0] El daño aumenta si el objetivo no está erecto."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Caricias.",
+"\\C[9]➤\\C[0] El daño aumenta si el objetivo no está empalmado."
 ]},
 
 "skill_1657_name":{
@@ -12190,8 +12190,8 @@
 "skill_1657_desc":{
 "text":[
 "Inflige daño de placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño se basa en la Destreza y el Nivel de paja.",
-"\\C[13]➤\\C[0] El daño aumenta si el objetivo no está erecto."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Paja.",
+"\\C[13]➤\\C[0] El daño aumenta si el objetivo no está empalmado."
 ]},
 
 "skill_1659_name":{
@@ -12200,236 +12200,236 @@
 "skill_1659_desc":{
 "text":[
 "Inflige daño de placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño se basa en la destreza y el nivel de mamada."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Mamada."
 ]},
 
 "skill_1661_name":{
-"text":["Sexo vaginal"]
+"text":["Sexo Vaginal"]
 },
 "skill_1661_desc":{
 "text":[
 "Inflige daño de placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño se basa en la destreza y el nivel de sexo vaginal."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Sexo Vaginal."
 ]},
 
 "skill_1663_name":{
-"text":["Sexo anal"]
+"text":["Sexo Anal"]
 },
 "skill_1663_desc":{
 "text":[
 "Inflige daño de placer al objetivo.",
-"\\}\\}\\C[13]➤\\C[0] El daño se basa en la destreza y el nivel de sexo anal."
+"\\}\\}\\C[13]➤\\C[0] El daño depende del Nivel de Destreza y de Sexo Anal."
 ]},
 
 "skill_1666_name":{
-"text":["Tomar orden (Mesa)"]
+"text":["Tomar Comanda (Mesa)"]
 },
 "skill_1666_desc":{
 "text":[
-"Toma el orden de la mesa."
+"Tomar la comanda de la mesa."
 ]},
 "skill_1666_msg1":{
-"text":["%1 toma el orden de la mesa."]
+"text":["%1 toma la comanda de la mesa."]
 },
 "skill_1667_name":{
-"text":["Quitar juguete"]
+"text":["Retirar Juguete"]
 },
 "skill_1667_desc":{
 "text":[
-"Retire un juguete adjunto o insertado."
+"Retirar un juguete pegado o insertado."
 ]},
 "skill_1668_name":{
 "text":["Beber"]
 },
 "skill_1668_desc":{
 "text":[
-"Bebe de la taza para recibir propinas.",
-"\\}\\}Los clientes no estarán satisfechos hasta que la taza esté vacía."
+"Beber de la jarra para recibir propinas.",
+"\\}\\}Los clientes no estarán satisfechos hasta que la jarra esté vacía."
 ]},
 "skill_1668_msg1":{
-"text":["¡%1 bebe de la taza frente a ella!"]
+"text":["¡%1 bebe de la jarra frente a ella!"]
 },
 "skill_1669_name":{
-"text":["Tiempo pasado"]
+"text":["Perder el Tiempo"]
 },
 "skill_1669_desc":{
 "text":[
-"Pase el tiempo sin hacer nada mientras espera nuevos clientes.",
+"Dejar pasar el tiempo sin hacer nada mientras esperas nuevos clientes.",
 "\\}\\}\\C[9]➤\\C[0] También restaura mucha resistencia.",
-"\\C[13]➤\\C[0] La cantidad restaurada se basa en Regeneracion de Estamina."
+"\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1669_msg1":{
-"text":["%1 descansa un poco mientras espera que lleguen los clientes."]
+"text":["%1 descansa un poco mientras espera que lleguen clientes."]
 },
 "skill_1670_name":{
-"text":["Echar a patadas"]
+"text":["Echar"]
 },
 "skill_1670_desc":{
 "text":[
-"Patea a un cliente fuera del bar.",
-"\\}\\}\\C[9]➤\\C[0] Se irán con una satisfacción negativa si no estuvieran durmiendo o peleando.",
-"\\C[13]➤\\C[0] Cada cliente requiere una cierta cantidad de resistencia para patear."
+"Echar a un cliente del bar.",
+"\\}\\}\\C[9]➤\\C[0] Se irán con una satisfacción negativa si no estaban durmiendo o peleando.",
+"\\C[13]➤\\C[0] Cada cliente requiere una cierta cantidad de resistencia para echarle."
 ]},
 "skill_1670_msg1":{
 "text":["¡%1 echa a %2 del bar!"]
 },
 "skill_1671_name":{
-"text":["Arreglar la ropa"]
+"text":["Arreglar la Ropa"]
 },
 "skill_1671_desc":{
 "text":[
-"Restaura el atuendo a su forma original.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la resistencia a la eliminación durante 1 turno."
+"Restaura el uniforme a su estado original.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Resistencia a Perder Ropa durante 1 turno."
 ]},
 "skill_1671_msg1":{
-"text":["%1 se sube y baja la ropa correctamente."]
+"text":["%1 se reajusta la ropa y se la deja bien puesta."]
 },
 "skill_1672_name":{
-"text":["Permitir beber"]
+"text":["Aceptar Bebidas"]
 },
 "skill_1672_desc":{
 "text":[
-"\\}Acepta automáticamente todas las ofertas de los clientes para beber alcohol.",
-"\\}\\C[13]➤\\C[0] Costara \\REM_RAC[0] Fuerza de voluntad para rechazar una bebida.",
-"\\C[9]➤\\C[0] Regeneracion de Voluntad también se reducirá en gran medida al rechazar una bebida durante un turno."
+"\\}Aceptar automáticamente todas las ofertas de los clientes para beber alcohol.",
+"\\}\\C[13]➤\\C[0] Rechazar una bebida costará \\REM_RAC[0] de Fuerza de voluntad.",
+"\\C[9]➤\\C[0] Al rechazar una bebida, la Regeneración de Voluntad se reducirá considerablemente durante un turno."
 ]},
 "skill_1673_name":{
-"text":["Rechazar bebidas"]
+"text":["Rechazar Bebidas"]
 },
 "skill_1673_desc":{
 "text":[
-"\\}Rechace automáticamente todas las ofertas de los clientes para beber alcohol.",
-"\\}\\C[13]➤\\C[0] Costara \\REM_RAC[0] Fuerza de voluntad para rechazar una bebida.",
-"\\C[9]➤\\C[0] Regeneracion de Voluntad también se reducirá en gran medida al rechazar una bebida durante un turno."
+"\\}Rechazar automáticamente todas las ofertas de los clientes para beber alcohol.",
+"\\}\\C[13]➤\\C[0] Rechazar una bebida costará \\REM_RAC[0] de Fuerza de voluntad.",
+"\\C[9]➤\\C[0] Al rechazar una bebida, la Regeneración de Voluntad se reducirá considerablemente durante un turno."
 ]},
 "skill_1674_name":{
-"text":["Tomar orden"]
+"text":["Tomar Comanda"]
 },
 "skill_1674_desc":{
 "text":[
-"Toma el pedido."
+"Tomar la comanda."
 ]},
 "skill_1674_msg1":{
-"text":["%1 intenta tomar el pedido de %2."]
+"text":["%1 intenta tomar la comanda de %2."]
 },
 "skill_1675_name":{
 "text":["Servir Cerveza Rubia"]
 },
 "skill_1675_desc":{
 "text":[
-"Sirva una pinta de cerveza rubia de la bandeja."
+"Servir una pinta de cerveza rubia de la bandeja."
 ]},
 "skill_1675_msg1":{
-"text":["%1 intenta darle a %2 una pinta de cerveza rubia."]
+"text":["%1 intenta servirle una pinta de cerveza rubia a %2."]
 },
 "skill_1676_name":{
-"text":["Servir cerveza oscura"]
+"text":["Servir Cerveza Negra"]
 },
 "skill_1676_desc":{
 "text":[
-"Sirva una pinta de cerveza oscura de la bandeja."
+"Servir una pinta de cerveza negra de la bandeja."
 ]},
 "skill_1676_msg1":{
-"text":["%1 intenta darle a %2 una pinta de cerveza oscura."]
+"text":["%1 intenta servirle una pinta de cerveza negra a %2."]
 },
 "skill_1677_name":{
-"text":["Servir vodka"]
+"text":["Servir Vodka"]
 },
 "skill_1677_desc":{
 "text":[
-"Sirve un vaso de vodka de tu bandeja."
+"Servir un vaso de vodka de la bandeja."
 ]},
 "skill_1677_msg1":{
-"text":["%1 intenta darle a %2 un vaso de vodka."]
+"text":["%1 intenta servirle un vaso de vodka a %2."]
 },
 "skill_1678_name":{
-"text":["Servir tequila"]
+"text":["Servir Tequila"]
 },
 "skill_1678_desc":{
 "text":[
-"Sirve una copa de tequila de la bandeja."
+"Servir una copa de tequila de la bandeja."
 ]},
 "skill_1678_msg1":{
-"text":["%1 intenta pasarle a %2 un vaso de tequila."]
+"text":["%1 intenta servirle una copa de tequila a %2."]
 },
 "skill_1679_name":{
-"text":["Servir ron dorado"]
+"text":["Servir Ron Dorado"]
 },
 "skill_1679_desc":{
 "text":[
 "Servir una copa de ron dorado de la bandeja."
 ]},
 "skill_1679_msg1":{
-"text":["%1 intenta darle a %2 un vaso de ron dorado."]
+"text":["%1 intenta servirle una copa de Ron Dorado a %2."]
 },
 "skill_1680_name":{
-"text":["Sirva ron a prueba de exceso"]
+"text":["Servir Ron Overproof"]
 },
 "skill_1680_desc":{
 "text":[
-"Sirva una copa de ron de la bandeja."
+"Servir una copa de ron overproof de la bandeja."
 ]},
 "skill_1680_msg1":{
-"text":["%1 intenta entregarle a %2 un vaso de ron con exceso de graduación."]
+"text":["%1 intenta servirle un vaso de ron overproof a %2."]
 },
 "skill_1681_name":{
-"text":["Servir whisky"]
+"text":["Servir Whisky"]
 },
 "skill_1681_desc":{
 "text":[
 "Servir un vaso de whisky de la bandeja."
 ]},
 "skill_1681_msg1":{
-"text":["%1 intenta darle a %2 un vaso de whisky."]
+"text":["%1 intenta servirle un vaso de whisky a %2."]
 },
 "skill_1682_name":{
-"text":["servir Agua"]
+"text":["Servir Agua"]
 },
 "skill_1682_desc":{
 "text":[
 "Servir un vaso de agua de la bandeja."
 ]},
 "skill_1682_msg1":{
-"text":["%1 intenta darle a %2 un vaso de agua."]
+"text":["%1 intenta servirle un vaso de agua a %2."]
 },
 "skill_1683_name":{
-"text":["Descanso"]
+"text":["Darse un Respiro"]
 },
 "skill_1683_desc":{
 "text":[
 "Restaura un poco de resistencia.",
-"\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en Regeneracion de Estamina."
+"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1683_msg1":{
-"text":["%1 toma un respiro."]
+"text":["%1 se da un respiro."]
 },
 "skill_1684_name":{
 "text":["Limpiar Mesa"]
 },
 "skill_1684_desc":{
 "text":[
-"\\}\\}Recoja las tazas y los vasos usados de la mesa.",
-"Devuélvaselas al cantinero para que puedan reutilizarse nuevamente."
+"\\}\\}Recoger las jarras y los vasos usados de la mesa.",
+"Tráelas de vuelta al barman para que puedan reutilizarse."
 ]},
 "skill_1684_msg1":{
-"text":["%1 comienza a limpiar la mesa."]
+"text":["%1 empieza a limpiar la mesa."]
 },
 "skill_1685_name":{
-"text":["Mover"]
+"text":["Moverse"]
 },
 "skill_1685_desc":{
 "text":[
-"Dirígete a una mesa."
+"Moverse a una mesa."
 ]},
 "skill_1685_msg1":{
 "text":["%1 camina hacia %2."]
 },
 "skill_1686_name":{
-"text":["Mover"]
+"text":["Moverse"]
 },
 "skill_1686_desc":{
 "text":[
-"Dirígete a una mesa diferente."
+"Moverse a una mesa diferente."
 ]},
 "skill_1686_msg1":{
 "text":["%1 camina hacia %2."]
@@ -12439,36 +12439,36 @@
 },
 "skill_1687_desc":{
 "text":[
-"Vuelve a la barra."
+"Volver a la barra."
 ]},
 "skill_1687_msg1":{
-"text":["%1 comienza a caminar de regreso al bar."]
+"text":["%1 empieza a caminar de vuelta a la barra."]
 },
 "skill_1688_name":{
 "text":["Cerveza Rubia"]
 },
 "skill_1688_desc":{
 "text":[
-"\\}\\}Agregue una pinta de cerveza rubia a la bandeja. Cuesta 5 de oro.",
-"La palidez en el aspecto y el sabor es de toda el agua.",
-"Ale no conseguirá que nadie, excepto los bebedores más ligeros, se emborrache rápidamente."
+"\\}\\}Añadir una pinta de cerveza rubia a la bandeja. Cuesta 5 de oro.",
+"La palidez de su aspecto y del sabor es por estar aguada.",
+"Esta cerveza apenas emborracha, excepto a los que no aguantan el alcohol."
 ]},
 "skill_1689_name":{
 "text":["Cerveza Negra"]
 },
 "skill_1689_desc":{
 "text":[
-"\\}\\}Agregue una pinta de cerveza negra a la bandeja. Cuesta 6 de oro.",
-"Esta es en realidad la misma cerveza que nuestra cerveza rubia, excepto que se agrega menos agua.",
-"La cerveza Ale no emborrachará rápidamente a nadie, excepto a los bebedores más ligeros.."
+"\\}\\}Añadir una pinta de cerveza negra a la bandeja. Cuesta 6 de oro.",
+"Esta es la misma cerveza rubia que servimos, pero le echamos menos agua.",
+"Esta cerveza apenas emborracha, excepto a los que no aguantan el alcohol."
 ]},
 "skill_1690_name":{
 "text":["Vodka"]
 },
 "skill_1690_desc":{
 "text":[
-"\\}\\}Añade un vaso de vodka a la bandeja. Cuesta 10 de oro.",
-"Vodka. La puerta de entrada del pobre recluso a la embriaguez.",
+"\\}\\}Añadir un vaso de vodka a la bandeja. Cuesta 10 de oro.",
+"Vodka. La manera más barata que tienen los reclusos para emborracharse.",
 "Este vodka barato y aguado los emborrachará más rápido que la cerveza."
 ]},
 "skill_1691_name":{
@@ -12476,26 +12476,26 @@
 },
 "skill_1691_desc":{
 "text":[
-"\\}\\}Agregue un vaso de tequila a la bandeja. Cuesta 13 de oro.",
-"El agua mineral hace que esta bebida sea diferente a las demás para beber.",
-"La gente tiende a emborracharse al tomarlos muy rápido."
+"\\}\\}Añadir un vaso de tequila a la bandeja. Cuesta 13 de oro.",
+"Esta bebida es diferente a las demás, entra muy bien.",
+"La gente tiende a emborracharse al beberlos muy rápido."
 ]},
 "skill_1692_name":{
-"text":["Ron dorado"]
+"text":["Ron Dorado"]
 },
 "skill_1692_desc":{
 "text":[
-"\\}\\}Agregue un vaso de ron dorado a la bandeja. Cuesta 15 de oro.",
+"\\}\\}Añadir un vaso de ron dorado a la bandeja. Cuesta 15 de oro.",
 "Esta bebida de sabor fuerte tiene un ingrediente secreto mezclado.",
-"Cada sorbo de esta bebida golpea más fuerte que la mayoría en el menú."
+"Cada sorbo de esta bebida es más fuerte que la mayoría del menú."
 ]},
 "skill_1693_name":{
-"text":["Ron a prueba de exceso"]
+"text":["Ron Overproof"]
 },
 "skill_1693_desc":{
 "text":[
-"\\}\\}Agregue un vaso de ron a prueba de agua a la bandeja. Cuesta 18 de oro.",
-"Algunas personas solo quieren ver arder su cuerpo. ",
+"\\}\\}Añadir un vaso de ron overproof a la bandeja. Cuesta 18 de oro.",
+"Algunas personas solo quieren ver su cuerpo arder.",
 "Esta 'bebida' inflamable es alcohol puro y agua."
 ]},
 "skill_1694_name":{
@@ -12503,263 +12503,263 @@
 },
 "skill_1694_desc":{
 "text":[
-"\\}\\}Agregue un vaso de whisky a la bandeja. Cuesta 20 de oro.",
-"La bebida elegida por alguien que quiere sentirse sofisticado.",
-"Tiene un contenido de alcohol muy alto con cada sorbo, que es la forma preferida de beber."
+"\\}\\}Añadir un vaso de whisky a la bandeja. Cuesta 20 de oro.",
+"La elección favorita de quien quiere sentirse sofisticado.",
+"Tiene un contenido de alcohol muy alto en cada sorbo, que es como se suele beber."
 ]},
 "skill_1695_name":{
 "text":["Agua"]
 },
 "skill_1695_desc":{
 "text":[
-"\\}\\}Añade un vaso de agua a la bandeja. Cuesta 1 de oro.",
-"Esta bebida es como todas las demás bebidas del menú.",
-"Menos el contenido de alcohol. No esperes ningún consejo para esto."
+"\\}\\}Añadir un vaso de agua a la bandeja. Cuesta 1 de oro.",
+"Esta bebida es como todas las demás del menú.",
+"Pero sin alcohol. Es agua, no te puedo decir más."
 ]},
 "skill_1696_name":{
-"text":["Actualmente llevando"]
+"text":["Llevando ahora mismo"]
 },
 "skill_1697_name":{
-"text":["Limpiar Bandeja (Sucio)"]
+"text":["Limpiar Bandeja (Sucia)"]
 },
 "skill_1697_desc":{
 "text":[
-"\\}\\}Deshazte solo de los vasos usados de la bandeja."
+"\\}\\}Deshacerte solo de los vasos usados de la bandeja."
 ]},
 "skill_1697_msg1":{
-"text":["%1 le da los vasos usados de su bandeja al cantinero."]
+"text":["%1 le da los vasos usados de la bandeja al barman."]
 },
 "skill_1698_name":{
 "text":["Limpiar Bandeja (Todo)"]
 },
 "skill_1698_desc":{
 "text":[
-"\\}\\}Deshazte de todo lo que hay en la bandeja."
+"\\}\\}Deshacerte de todo lo que hay en la bandeja."
 ]},
 "skill_1698_msg1":{
-"text":["%1 le da todo en su bandeja a la camarera."]
+"text":["%1 le da todo lo de la bandeja al barman."]
 },
 
 
 "skill_1701_msg1":{
-"text":["¡¡%1 envuelve la Mano derecha de %2 alrededor de su pene!!"]
+"text":["¡¡%1 envuelve la Mano derecha de %2 alrededor de su polla!!"]
 },
 "skill_1702_msg1":{
-"text":["%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
+"text":["¡¡%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
 },
 "skill_1703_msg1":{
-"text":["%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1704_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1705_msg1":{
-"text":["%1 pone su pene entre los senos acolchados de %2!!"]
+"text":["¡¡%1 pone su pene entre los pechos acolchados de %2!!"]
 },
 "skill_1706_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1707_msg1":{
-"text":["%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1708_msg1":{
-"text":["%1 envuelve la mano derecha de %2 alrededor de su polla!!"]
+"text":["¡¡%1 envuelve la mano derecha de %2 alrededor de su polla!!"]
 },
 "skill_1709_msg1":{
-"text":["%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
+"text":["¡¡%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
 },
 "skill_1710_msg1":{
-"text":["%1 se quita los pantalones!"]
+"text":["¡%1 se quita los pantalones!"]
 },
 "skill_1711_msg1":{
-"text":["%1 espera su turno!"]
+"text":["¡%1 espera su turno!"]
 },
 "skill_1712_msg1":{
-"text":["%1 saca su pene frente a %2!"]
+"text":["¡%1 se saca la polla delante de %2!"]
 },
 "skill_1713_msg1":{
-"text":["%1 se saca la polla de los pantalones!"]
+"text":["¡%1 se saca la polla de los pantalones!"]
 },
 "skill_1714_msg1":{
-"text":["%1 le mete la verga a %2!"]
+"text":["¡%1 le pone la polla a %2 delante!"]
 },
 
 "skill_1716_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1717_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1718_msg1":{
-"text":["%1 se quita los pantalones!"]
+"text":["¡%1 se quita los pantalones!"]
 },
 "skill_1719_msg1":{
-"text":["%1 espera su turno!"]
+"text":["¡%1 espera su turno!"]
 },
 "skill_1720_msg1":{
-"text":["%1 espera su turno sin pantalones!"]
+"text":["¡%1 espera su turno sin pantalones!"]
 },
 "skill_1721_msg1":{
-"text":["%1 se saca la polla de los pantalones!"]
+"text":["¡%1 se saca la polla de los pantalones!"]
 },
 "skill_1722_msg1":{
-"text":["%1 se acerca con un tentáculo fuera!"]
+"text":["¡%1 se acerca con un tentáculo fuera!"]
 },
 "skill_1723_msg1":{
-"text":["%1 espera su turno!"]
+"text":["¡%1 espera su turno!"]
 },
 "skill_1724_msg1":{
-"text":["%1 espera su turno con un tentáculo fuera!"]
+"text":["¡%1 espera su turno con un tentáculo fuera!"]
 },
 "skill_1725_msg1":{
-"text":["%1 genera un tentáculo!"]
+"text":["¡%1 genera un tentáculo!"]
 },
 "skill_1726_msg1":{
-"text":["%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1727_msg1":{
-"text":["%1 pone su pene entre los senos acolchados de %2!!"]
+"text":["¡¡%1 pone su polla entre los pechos acolchados de %2!!"]
 },
 "skill_1728_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en coño de %2!!"]
 },
 "skill_1729_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1730_msg1":{
-"text":["%1 comienza a lamer la vagina de %2!!"]
+"text":["¡¡%1 comienza a comerle el coño a %2!!"]
 },
 "skill_1731_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1732_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1733_msg1":{
-"text":["%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1734_msg1":{
-"text":["%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
+"text":["¡¡%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
 },
 "skill_1735_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1736_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1737_msg1":{
-"text":["%1 se para en un taburete y mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 se sube a un taburete y le mete la polla en la boca a %2!!"]
 },
 "skill_1738_msg1":{
-"text":["%1 se para en un taburete y pone su pene entre los senos acolchados de %2!!"]
+"text":["¡¡%1 se sube a un taburete y le mete la polla entre las tetas a %2!!"]
 },
 "skill_1739_msg1":{
 "text":["¡%1 se quita los pantalones!"]
 },
 "skill_1740_msg1":{
-"text":["%1 espera su turno!"]
+"text":["¡%1 espera su turno!"]
 },
 "skill_1741_msg1":{
-"text":["%1 espera su turno sin pantalones!"]
+"text":["¡%1 espera su turno sin pantalones!"]
 },
 "skill_1742_msg1":{
-"text":["%1 se saca la polla de los pantalones!"]
+"text":["¡%1 se saca la polla de los pantalones!"]
 },
 "skill_1743_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1744_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1745_msg1":{
-"text":["%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1746_msg1":{
-"text":["%1 se quita los pantalones!"]
+"text":["¡%1 se quita los pantalones!"]
 },
 "skill_1747_msg1":{
-"text":["%1 espera su turno!"]
+"text":["¡%1 espera su turno!"]
 },
 "skill_1748_msg1":{
-"text":["%1 espera su turno sin pantalones!"]
+"text":["¡%1 espera su turno sin pantalones!"]
 },
 "skill_1749_msg1":{
-"text":["%1 se saca la polla de los pantalones!"]
+"text":["¡%1 se saca la polla de los pantalones!"]
 },
 "skill_1750_msg1":{
-"text":["%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1751_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1752_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1753_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1754_msg1":{
-"text":["%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1755_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1756_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1757_msg1":{
-"text":["%1 se para en un sofá y mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 se sube en un sofá y mete la polla en la boca de %2!!"]
 },
 "skill_1758_msg1":{
-"text":["%1 se para en un sofá y pone su pene entre los senos acolchados de %2!!"]
+"text":["¡¡%1 se sube en un sofá y mete la polla en las tetas de %2!!"]
 },
 "skill_1759_msg1":{
-"text":["%1 se para en un sofá y envuelve la mano derecha de %2 alrededor de su pene!!"]
+"text":["¡¡%1 se sube en un sofá y envuelve la mano derecha de %2 alrededor de su polla!!"]
 },
 "skill_1760_msg1":{
-"text":["%1 se para en un sofá y toma la mano izquierda de %2 y se la pone en la polla!!"]
+"text":["¡¡%1 se sube en un sofá, toma la mano izquierda de %2 y se la pone en la polla!!"]
 },
 "skill_1761_msg1":{
-"text":["%1 inserta su polla en la vagina mojado de %2!!"]
+"text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1762_msg1":{
-"text":["%1 invade el ano de %2 con su polla!!"]
+"text":["¡¡%1 invade el ano de %2 con su polla!!"]
 },
 "skill_1763_msg1":{
-"text":["%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1764_msg1":{
-"text":["%1 pone su pene entre los senos acolchados de %2!!"]
+"text":["¡¡%1 pone su polla entre las tetas de %2!!"]
 },
 "skill_1765_msg1":{
-"text":["%1 envuelve la mano derecha de %2 alrededor de su polla!!"]
+"text":["¡¡%1 envuelve la mano derecha de %2 alrededor de su polla!!"]
 },
 "skill_1766_msg1":{
-"text":["%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
+"text":["¡¡%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
 },
 "skill_1767_msg1":{
-"text":["%1 se quita los pantalones!"]
+"text":["¡¡%1 se quita los pantalones!"]
 },
 "skill_1768_msg1":{
-"text":["%1 espera su turno!"]
+"text":["¡¡%1 espera su turno!"]
 },
 "skill_1769_msg1":{
-"text":["%1 espera su turno sin pantalones!"]
+"text":["¡%1 espera su turno sin pantalones!"]
 },
 "skill_1770_msg1":{
-"text":["%1 se saca la polla de los pantalones!"]
+"text":["¡%1 se saca la polla de los pantalones!"]
 },
 "skill_1771_msg1":{
-"text":["%1 se acerca con un tentáculo fuera!"]
+"text":["¡%1 se acerca con un tentáculo fuera!"]
 },
 "skill_1772_msg1":{
-"text":["%1 espera su turno!"]
+"text":["¡%1 espera su turno!"]
 },
 "skill_1773_msg1":{
-"text":["%1 espera su turno con un tentáculo fuera!"]
+"text":["¡%1 espera su turno con un tentáculo fuera!"]
 },
 "skill_1774_msg1":{
-"text":["%1 genera un tentáculo!"]
+"text":["¡%1 genera un tentáculo!"]
 },
 
 
@@ -12767,64 +12767,64 @@
 
 
 "skill_1781_msg1":{
-"text":["%1 comienza a masturbar la polla de %2 con su Mano derecha!!"]
+"text":["¡¡%1 comienza a pajear la polla de %2 con su mano derecha!!"]
 },
 "skill_1782_msg1":{
-"text":["%1 comienza a masturbar la polla de %2 con su Mano izquierda!!"]
+"text":["¡¡%1 comienza a pajear la polla de %2 con su mano izquierda!!"]
 },
 "skill_1783_msg1":{
-"text":["%1 comienza a chupar la polla de %2!!"]
+"text":["¡¡%1 comienza a chupar la polla de %2!!"]
 },
 "skill_1784_msg1":{
-"text":["%1 le dice a %2 que se la folle por el culo y él le mete la polla en el trasero!!"]
+"text":["¡¡%1 le dice a %2 que le folle el culo y este se la mete por el culo!!"]
 },
 "skill_1785_msg1":{
-"text":["%1 le dice a %2 que ponga su polla entre sus tetas y comienza a follarlas con las tetas!!"]
+"text":["¡¡%1 le dice a %2 que meta su polla entre sus tetas y comienza a hacerle una paja con ellas!!"]
 },
 "skill_1786_msg1":{
-"text":["%1 se atreve a %2 a follársela y él le mete la polla en la vagina!!"]
+"text":["¡¡%1 tienta a %2, diciéndole que no se atreve a follársela, y este le mete la polla por el coño!!"]
 },
 "skill_1787_msg1":{
-"text":["%1 comienza a lamer la polla de %2 mientras le follan las tetas!!"]
+"text":["¡¡%1 comienza a lamer la polla de %2 mientras le hace una paja con las tetas!!"]
 },
 
 
 "skill_1801_msg1":{
-"text":["%1 folla a %2 por el culo!"]
+"text":["¡%1 se folla a %2 por el culo!"]
 },
 "skill_1802_msg1":{
-"text":["%1 se folla la boca de %2!"]
+"text":["¡%1 se folla la boca de %2!"]
 },
 "skill_1803_msg1":{
-"text":["%1 se folla la vagina de %2!"]
+"text":["¡%1 se folla el coño de %2!"]
 },
 "skill_1804_msg1":{
-"text":["%1 tiene a %2 masturbando su pene con su mano!"]
+"text":["¡%1 hace que %2 le haga una paja!"]
 },
 "skill_1805_msg1":{
-"text":["%1 tiene a %2 masturbando su pene con su mano!"]
+"text":["¡%1 hace que %2 le haga una paja!"]
 },
 "skill_1806_msg1":{
-"text":["%1 se folla las enormes tetas de %2!"]
+"text":["¡%1 se folla las enormes tetas de %2!"]
 },
 "skill_1807_msg1":{
-"text":["%1 realiza cunnilingus en %2!"]
+"text":["¡%1 le hace un cunnilingus a %2!"]
 },
 "skill_1808_msg1":{
-"text":["%1 hace que %2 le lama el culo!"]
+"text":["¡%1 hace que %2 le coma el culo!"]
 },
 "skill_1809_msg1":{
-"text":["%1 le pide a %2 que le frote la verga con el pie!"]
+"text":["¡%1 le pide a %2 que le frote la polla con el pie!"]
 },
 
 "skill_1811_msg1":{
-"text":["%1 extiende un tentáculo viscoso en la boca abierta de %2!"]
+"text":["¡%1 extiende un tentáculo viscoso hacia la boca de %2!"]
 },
 "skill_1812_msg1":{
-"text":["%1 empuja un tentáculo diferente en la vagina mojado de %2!"]
+"text":["¡%1 mete un tentáculo diferente en el coño de %2!"]
 },
 "skill_1813_msg1":{
-"text":["%1 trepa por las piernas de %2 y comienza a follarla por detrás!!"]
+"text":["¡¡%1 trepa por las piernas de %2 y comienza a follársela por detrás!!"]
 },
 
 "skill_1837_name":{
@@ -12832,85 +12832,85 @@
 },
 "skill_1837_desc":{
 "text":[
-"\\}No parece que vayan a aparecer más asistentes al gimnasio hoy.",
-"Termine el turno temprano aquí."
+"\\}No parece que vaya a venir más gente al gimnasio hoy.",
+"Acabar el turno ahora."
 ]},
 "skill_1838_name":{
-"text":["Libera el espíritu lúdico"]
+"text":["Liberar el Espíritu Juguetón"]
 },
 "skill_1838_desc":{
 "text":[
-"\\}Reduce el daño por placer infligido en un tercio.",
-"\\}\\C[9]➤\\C[0] La fuerza de voluntad máxima se reduce en 10 mientras este efecto está activo."
+"\\}Reduce en un tercio el daño de placer que infliges.",
+"\\}\\C[9]➤\\C[0] La fuerza de voluntad máxima se reduce en 10 mientras este efecto esté activo."
 ]},
 "skill_1839_name":{
-"text":["Suprimir el espíritu juguetón"]
+"text":["Suprimir el Espíritu Juguetón"]
 },
 "skill_1839_desc":{
 "text":[
-"\\}El daño de placer infligido ya no se reducirá en un tercio.",
-"\\}\\C[9]➤\\C[0] Voluntad Maxima también aumentará en 10."
+"\\}El daño de placer que infliges ya no se reducirá en un tercio.",
+"\\}\\C[9]➤\\C[0] Voluntad Maxima aumentará en 10."
 ]},
 
 "skill_1840_name":{
-"text":["Liberar burla eterna"]
+"text":["Liberar Provocación Eterna"]
 },
 "skill_1840_desc":{
 "text":[
-"\\}Reduce el daño por placer infligido a la mitad.",
+"\\}Reduce el daño por placer que infliges a la mitad.",
 "\\}\\C[9]➤\\C[0] La fuerza de voluntad máxima se reduce en 15 mientras este efecto está activo."
 ]},
 "skill_1841_name":{
-"text":["Suprimir burlas eternas"]
+"text":["Suprimir Provocación Eterna"]
 },
 "skill_1841_desc":{
 "text":[
-"\\}El daño de placer infligido ya no se reducirá a la mitad.",
+"\\}El daño de placer que infliges ya no se reducirá a la mitad.",
 "\\}\\C[9]➤\\C[0] Voluntad Maxima también aumentará en 15."
 ]},
 
 "skill_1842_name":{
-"text":["pantalones cortos"]
+"text":["Bajar Pantalón"]
 },
 "skill_1842_desc":{
 "text":[
-"Libera a los oprimidos."
+"Libertad para los oprimidos."
 ]},
 "skill_1842_msg1":{
-"text":["%1 tira de los pantalones cortos de %2!"]
+"text":["¡%1 tira de los pantalones de %2!"]
 },
 "skill_1843_name":{
 "text":["Demostrar"]
 },
 "skill_1843_desc":{
 "text":[
-"Dar una demostración en vivo."
+"Hacer una demostración en vivo."
 ]},
 "skill_1844_name":{
-"text":["Detener el sexo"]
+"text":["Detener el Sexo"]
 },
 "skill_1844_desc":{
 "text":[
 "Detener la actividad sexual."
 ]},
 "skill_1850_name":{
-"text":["Descanzar"]
+"text":["Descansar"]
 },
 "skill_1850_desc":{
 "text":[
-"Aléjese de los demás por un minuto y",
-"déjelos hacer sus entrenamientos."
+"Alejarse de los demás un minuto mientras",
+"hacen sus entrenamientos."
 ]},
 "skill_1850_msg1":{
-"text":["%1 toma un respiro."]
+"text":["%1 se toma un respiro."]
 },
 "skill_1851_name":{
-"text":["Consejo"]
+"text":["Aconsejar"]
 },
 "skill_1851_desc":{
 "text":[
-"Da algunos consejos sobre cómo mejorar Forma.",
-"\\}\\}\\C[9]➤\\C[0] Consejo es más efectivo después de usar Observe primero."
+"Dar algunos consejos sobre cómo mejorar la Forma.",
+"\\}\\}\\C[9]➤\\C[0] Aconsejar es más efectivo después de usar Observar."
 ]},
 "skill_1851_msg1":{
 "text":["%1 da algunos consejos."]
@@ -12920,158 +12920,158 @@
 },
 "skill_1852_desc":{
 "text":[
-"Mira un entrenamiento y observa su forma.",
-"\\}\\}\\C[9]➤\\C[0] Tener una buena forma disminuirá su consumo de energía.", 
-"\\C[13]➤\\C[0] Su entrenamiento fallará si primero se quedan sin energía."
+"Mirar un entrenamiento y observar su forma.",
+"\\}\\}\\C[9]➤\\C[0] Tener una buena forma disminuirá su consumo de resistencia.", 
+"\\C[13]➤\\C[0] Los entrenamientos fallarán si se quedan sin energía."
 ]},
 "skill_1852_msg1":{
 "text":["%1 observa en silencio."]
 },
 "skill_1853_name":{
-"text":["Mover"]
+"text":["Moverse"]
 },
 "skill_1853_desc":{
 "text":[
-"Muévete frente a un asistente al gimnasio."
+"Moverse frente a un asistente del gimnasio."
 ]},
 "skill_1853_msg1":{
 "text":["%1 va a donde está %2."]
 },
 
 "skill_1855_name":{
-"text":["Baile (Boca)"]
+"text":["Bailar (Boca)"]
 },
 "skill_1855_desc":{
 "text":[
-"\\}\\}Baila mientras enfatizas los rasgos faciales y aumenta Dance Combo.",
-"\\}\\C[13]➤\\C[0] El daño por placer infligido a los clientes se basa en el encanto al comienzo de cada combo de baile.",
-"\\C[9]➤\\C[0] Higher Dance Combo y Deseo Oral aumentan el daño de placer de este baile."
+"\\}\\}Bailar mientras enfatizas los rasgos faciales y aumenta el Combo de Baile.",
+"\\}\\C[13]➤\\C[0] El daño de placer infligido a los clientes depende del Encanto al comienzo de cada Combo de Baile.",
+"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Boca, más daño de placer hará este baile."
 ]},
 "skill_1855_msg1":{
-"text":["%1 baila mientras muestra su hermoso rostro!"]
+"text":["¡%1 baila mientras muestra su hermoso rostro!"]
 },
 "skill_1856_name":{
-"text":["Baile (Tetas)"]
+"text":["Bailar (Tetas)"]
 },
 "skill_1856_desc":{
 "text":[
-"\\}\\}Baila mientras enfatizas los senos y aumentas el Combo de baile.",
-"\\}\\C[13]➤\\C[0] El daño por placer infligido a los clientes se basa en el encanto al comienzo de cada combo de baile.",
-"\\C[9]➤\\C[0] Combo de Baile Superior y Deseo de Tetas aumenta el daño de placer de este baile."
+"\\}\\}Bailar mientras enfatizas los pechos y aumenta el Combo de Baile.",
+"\\}\\C[13]➤\\C[0] El daño de placer infligido a los clientes depende del Encanto al comienzo de cada Combo de Baile.",
+"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Tetas, más daño de placer hará este baile."
 ]},
 "skill_1856_msg1":{
-"text":["¡%1 baila mientras muestra sus pechos tetonas!"]
+"text":["¡%1 baila mientras muestra sus pechos!"]
 },
 "skill_1857_name":{
-"text":["Baile (Vagina)"]
+"text":["Baile (Coño)"]
 },
 "skill_1857_desc":{
 "text":[
-"\\}\\}Baile mientras enfatiza la región genital y aumenta Baile Combo.",
-"\\}\\C[13]➤\\C[0] El daño por placer infligido a los clientes se basa en el Encanto al comienzo de cada Baile Combo.",
-"\\C[9]➤\\C[0] Higher Baile Combo y Deseo de Vagina aumentan el daño de placer de este Baile."
+"\\}\\}Bailar mientras enfatizas los genitales y aumenta el Combo de Baile.",
+"\\}\\C[13]➤\\C[0] El daño de placer infligido a los clientes depende del Encanto al comienzo de cada Combo de Baile.",
+"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Coño, más daño de placer hará este baile."
 ]},
 "skill_1857_msg1":{
-"text":["%1 Bailes mientras abre las piernas!"]
+"text":["¡%1 baila mientras se abre de piernas!"]
 },
 "skill_1858_name":{
 "text":["Baile (Culo)"]
 },
 "skill_1858_desc":{
 "text":[
-"\\}\\}Baile mientras enfatiza los activos traseros y aumenta Baile Combo.",
-"\\}\\C[13]➤\\C[0] El daño por placer infligido a los clientes se basa en el Encanto al comienzo de cada Baile Combo.",
-"\\C[9]➤\\C[0] Higher Baile Combo y Deseo de Culo aumenta el daño de placer de este Baile."
+"\\}\\}Bailar mientras enfatiza los cuartos traseros y aumenta el Combo de Baile.",
+"\\}\\C[13]➤\\C[0] El daño de placer infligido a los clientes depende del Encanto al comienzo de cada Combo de Baile.",
+"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Culo, más daño de placer hará este baile."
 ]},
 "skill_1858_msg1":{
-"text":["%1 Bailes mientras muestra su gran culo gordo!"]
+"text":["¡%1 baila mientras muestra su culo gordo!"]
 },
 "skill_1859_name":{
 "text":["Desnudarse"]
 },
 "skill_1859_desc":{
 "text":[
-"\\}\\}Quítate una prenda de vestir.",
-"\\}\\C[9]➤\\C[0] Aumenta el daño por placer que se da al bailar a todos los clientes hasta el Intermedio.",
-"\\C[13]➤\\C[0] La bonificación de daño por placer se basa en el Baile Combo actual."
+"\\}\\}Quitarse una prenda de vestir.",
+"\\}\\C[9]➤\\C[0] Aumenta el daño de placer por bailar a todos los clientes hasta el Intermedio.",
+"\\C[13]➤\\C[0] La bonificación de daño por placer depende del Combo de Baile actual."
 ]},
 "skill_1859_msg1":{
 "text":["¡%1 se desnuda mientras baila!"]
 },
 "skill_1860_name":{
-"text":["Respirar"]
+"text":["Darse un Respiro"]
 },
 "skill_1860_desc":{
 "text":[
-"\\}\\}Restaura un poco de resistencia.",
-"\\}\\C[9]➤\\C[0] Restablece Baile Combo.",
-"\\C[13]➤\\C[0] La cantidad restaurada se basa en Regeneracion de Estamina."
+"\\}\\}Restaura un poco de Resistencia.",
+"\\}\\C[9]➤\\C[0] Reinicia el Combo de Baile.",
+"\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1860_msg1":{
 "text":["%1 recupera el aliento."]
 },
 "skill_1861_name":{
-"text":["Respirar"]
+"text":["Darse un Respiro"]
 },
 "skill_1861_desc":{
 "text":[
-"\\}\\}Restaura un poco de resistencia.",
-"\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en Regeneracion de Estamina."
+"\\}\\}Restaura un poco de Resistencia.",
+"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1861_msg1":{
-"text":["%1 takes a breather."]
+"text":["%1 se da un respiro."]
 },
 "skill_1862_name":{
-"text":["Entrar Intermedio"]
+"text":["Empezar el Intermedio"]
 },
 "skill_1862_desc":{
 "text":[
-"\\}\\}Pausa el espectáculo y dirígete al intermedio.",
+"\\}\\}Pausar el espectáculo y empezar el intermedio.",
 "\\}\\C[13]➤\\C[0] Solo se puede hacer cuando la resistencia está por debajo del 60%."
 ]},
 "skill_1862_msg1":{
 "text":["%1 retrocede y cierra las cortinas."]
 },
 "skill_1863_name":{
-"text":["Comenzar baile privado"]
+"text":["Comenzar Baile Privado"]
 },
 "skill_1863_desc":{
 "text":[
-"\\}\\}Termine el espectáculo y llame a los patrocinadores dispuestos y que paguen por un Baile más privado.",
-"\\}\\C[13]➤\\C[0] Solo se puede hacer después de que hayan pasado 6 minutos.",
+"\\}\\}Terminar el espectáculo y llamar a clientes dispuestos a pagar por un Baile más privado.",
+"\\}\\C[13]➤\\C[0] Solo se puede hacer cuando hayan pasado 6 minutos.",
 "\\C[9]➤\\C[0] Solo se unirán los clientes sonrojados."
 ]},
 "skill_1863_msg1":{
-"text":["%1 llama a los mecenas para que se unan a ella en un baile privado."]
+"text":["%1 llama a los clientes para que se unan a ella en un baile privado."]
 },
 "skill_1864_name":{
-"text":["Descanso"]
+"text":["Darse un Respiro"]
 },
 "skill_1864_desc":{
 "text":[
-"Restaura un poco de Estamina.",
-"\\}\\C[13]➤\\C[0] La cantidad restaurada se basa en Regeneracion de Estamina."
+"Restaura un poco de Resistencia.",
+"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1864_msg1":{
 "text":["%1 respira hondo."]
 },
 "skill_1865_name":{
-"text":["Arreglar disfraz"]
+"text":["Arreglar Disfraz"]
 },
 "skill_1865_desc":{
 "text":[
-"Restaura el disfraz a su forma original."
+"Restaura el disfraz a su estado original."
 ]},
 "skill_1865_msg1":{
-"text":["%1 compensaciones."]
+"text":["%1 se vuelve a vestir."]
 },
 "skill_1866_name":{
-"text":["Entrar en el escenario"]
+"text":["Entrar en el Escenario"]
 },
 "skill_1866_desc":{
 "text":[
-"Entra en el escenario para comenzar el espectáculo.",
-"\\C[13]➤\\C[0] Solo se puede hacer cuando la resistencia está por encima del 75%."
+"Entrar en el escenario para comenzar el espectáculo.",
+"\\C[13]➤\\C[0] Solo se puede hacer cuando la Resistencia está por encima del 75%."
 ]},
 "skill_1866_msg1":{
 "text":["¡%1 abre las cortinas y entra al escenario!"]
@@ -13081,29 +13081,29 @@
 
 
 "skill_1868_name":{
-"text":["Seguro de Alaska al horno"]
+"text":["Mutua Zanadeña"]
 },
 "skill_1868_desc":{
 "text":[
-"\\}\\}Baked Alaska Insurance (BAI) es una compañía de seguros dispuesta a trabajar con clientes de alto riesgo como nosotros.",
-"\\}\\}El lema de su empresa es \"Quemado por fuera, hermoso por dentro\"",
-"\\}\\}BAI se especializa en brindar recuperación y reparaciones rápidas sin hacer preguntas."
+"\\}\\}Mutua Zanadeña (MZ) es una compañía de seguros dispuesta a trabajar con clientes de alto riesgo como nosotros.",
+"\\}\\}El lema de la empresa es \"¡En el caos de un motín, tu cobertura no tiene fin!\"",
+"\\}\\}MZ se especializa en hacer reparaciones rápidas y sin hacer preguntas."
 ]},
 "skill_1869_name":{
-"text":["Póliza de Seguro BAI"]
+"text":["Póliza de Seguro MZ"]
 },
 "skill_1869_desc":{
 "text":[
-"\\}\\}BAI proporciona seguro a áreas individuales de la prisión con cada contrato. El costo del contrato se basa en qué tan reciente",
-"\\}\\}ocurrió el último motín en la prisión. El costo de cancelación no se ve afectado por el estado de la prisión.Mientras la prisión no",
-"\\}\\}esté en bancarrota, BAI reparará todas las áreas cubiertas durante la noche después de que terminen los disturbios en el Nivel."
+"\\}\\}MZ asegura áreas individuales de la prisión con cada contrato. El coste del contrato depende de como de reciente",
+"\\}\\}ha sido el último motín en la prisión. El coste de cancelación no se ve afectado por el estado de la prisión. Mientras no",
+"\\}\\}esté en bancarrota, MZ reparará todas las áreas aseguradas durante la noche después de que termine el motín del Nivel."
 ]},
 "skill_1870_name":{
-"text":["Contrato de Seguro: Lavandería"]
+"text":["Asegurar Lavandería"]
 },
 "skill_1870_desc":{
 "text":[
-"Firmar un contrato de seguro con BAI para cubrir el Lavadero del Nivel 1.",
+"Firmar un contrato de seguro con MZ para cubrir la Lavandería del Nivel 1.",
 "",
 "\\REM_EFF[skill_1870_effect]"
 ]},
@@ -13112,14 +13112,14 @@
 },
 "skill_1871_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI del Lavadero del Nivel 1."
+"Cancelar el contrato de seguro con MZ de la Lavandería del Nivel 1."
 ]},
 "skill_1872_name":{
-"text":["Contrato de Seguro: Taller"]
+"text":["Asegurar Taller"]
 },
 "skill_1872_desc":{
 "text":[
-"Firmar un contrato de seguro con BAI para cubrir la Sala Taller del Nivel 1.",
+"Firmar un contrato de seguro con MZ para cubrir el Taller del Nivel 1.",
 "",
 "\\REM_EFF[skill_1872_effect]"
 ]},
@@ -13128,30 +13128,30 @@
 },
 "skill_1873_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI de la Sala Taller del Nivel 1."
+"Cancelar el contrato de seguro con MZ del Taller del Nivel 1."
 ]},
 "skill_1874_name":{
-"text":["Contrato de Seguro: Lavavajillas"]
+"text":["Asegurar Área de Lavado de Vajilla"]
 },
 "skill_1874_desc":{
 "text":[
-"Firmar un contrato de seguro con BAI para cubrir el Lavavajillas del Nivel 1.",
+"Firmar un contrato de seguro con MZ para cubrir el área de lavado de vajilla del Nivel 1.",
 "",
 "\\REM_EFF[skill_1874_effect]"
 ]},
 "skill_1875_name":{
-"text":["Cancelar Seguro: Lavavajillas"]
+"text":["Cancelar Seguro: Área de Lavado de Vajilla"]
 },
 "skill_1875_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI del Lavavajillas del Nivel 1."
+"Cancelar el contrato de seguro con MZ del área de lavado de vajilla del Nivel 1."
 ]},
 "skill_1876_name":{
-"text":["Contrato de Seguro: Recepción"]
+"text":["Asegurar Recepción"]
 },
 "skill_1876_desc":{
 "text":[
-"Firmar un contrato de seguro con BAI para cubrir la Sala de Recepción del Nivel 1.",
+"Firmar un contrato de seguro con MZ para cubrir la Recepción del Nivel 1.",
 "",
 "\\REM_EFF[skill_1876_effect]"
 ]},
@@ -13160,14 +13160,14 @@
 },
 "skill_1877_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI para la Sala de Recepción del Nivel 1."
+"Cancelar el contrato de seguro con MZ para la Recepción del Nivel 1."
 ]},
 "skill_1878_name":{
-"text":["Contrato de Seguro: Sala de Reuniones"]
+"text":["Asegurar Sala de Reuniones"]
 },
 "skill_1878_desc":{
 "text":[
-"Firmar un contrato de seguro con BAI para cubrir la Sala de Reuniones del Nivel 2.",
+"Firmar un contrato de seguro con MZ para cubrir la Sala de Reuniones del Nivel 2.",
 "",
 "\\REM_EFF[skill_1878_effect]"
 ]},
@@ -13176,46 +13176,46 @@
 },
 "skill_1879_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI para la Sala de Reuniones del Nivel 2."
+"Cancelar el contrato de seguro con MZ para la Sala de Reuniones del Nivel 2."
 ]},
 "skill_1880_name":{
-"text":["Contrato de Seguro: Investigación"]
+"text":["Asegurar Laboratorio"]
 },
 "skill_1880_desc":{
 "text":[
-"Firme un contrato de seguro con BAI para cubrir la sala de investigación en el nivel 2.",
+"Firme un contrato de seguro con MZ para cubrir el laboratorio del nivel 2.",
 "",
 "\\REM_EFF[skill_1880_effect]"
 ]},
 "skill_1881_name":{
-"text":["Cancelar Seguro: Investigación"]
+"text":["Cancelar Seguro: Laboratorio"]
 },
 "skill_1881_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI para la Sala de Investigación del Nivel 2."
+"Cancelar el contrato de seguro con MZ para el laboratorio del Nivel 2."
 ]},
 "skill_1882_name":{
-"text":["Contrato de Seguro: Sala de Personal"]
+"text":["Asegurar Sala del Personal"]
 },
 "skill_1882_desc":{
 "text":[
-"Firmar un contrato de seguro con BAI para cubrir el Staff Lounge en el Nivel 2.",
+"Firmar un contrato de seguro con MZ para cubrir la sala del personal del Nivel 2.",
 "",
 "\\REM_EFF[skill_1882_effect]"
 ]},
 "skill_1883_name":{
-"text":["Seguro de Cancelación: Sala de Personal"]
+"text":["Cancelar Seguro: Sala del Personal"]
 },
 "skill_1883_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI para el Staff Lounge en el Nivel 2."
+"Cancelar el contrato de seguro con MZ para la sala del personal del Nivel 2."
 ]},
 "skill_1884_name":{
-"text":["Contrato de Seguro: Aula"]
+"text":["Asegurar Aula"]
 },
 "skill_1884_desc":{
 "text":[
-"Firmar un contrato de seguro con BAI para cubrir el Aula del Nivel 2.",
+"Firmar un contrato de seguro con MZ para cubrir el Aula del Nivel 2.",
 "",
 "\\REM_EFF[skill_1884_effect]"
 ]},
@@ -13224,14 +13224,14 @@
 },
 "skill_1885_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI para el Aula del Nivel 2."
+"Cancelar el contrato de seguro con MZ para el Aula del Nivel 2."
 ]},
 "skill_1886_name":{
-"text":["Contrato de Seguro: Sala de Lectura"]
+"text":["Asegurar Sala de Lectura"]
 },
 "skill_1886_desc":{
 "text":[
-"Firmar un contrato de seguro con BAI para cubrir la Sala de Lectura del Nivel 2.",
+"Firmar un contrato de seguro con MZ para cubrir la Sala de Lectura del Nivel 2.",
 "",
 "\\REM_EFF[skill_1886_effect]"
 ]},
@@ -13240,136 +13240,136 @@
 },
 "skill_1887_desc":{
 "text":[
-"Cancelar el contrato de seguro con BAI para la Sala de Lectura del Nivel 2."
+"Cancelar el contrato de seguro con MZ para la Sala de Lectura del Nivel 2."
 ]},
 
 
 "skill_1901_name":{
-"text":["Investigación: Mercado negro de accesorios"]
+"text":["Investigación: Mercado Negro de Accesorios"]
 },
 "skill_1901_desc":{
-"text":["Encuentra reclusos que tengan conexiones en el mercado negro",
+"text":["Encuentra reclusos que tengan conexiones con el mercado negro",
 "para comprar accesorios por menos dinero.",
 "\\REM_EFF[skill_1901_effect]"
 ]},
 "skill_1902_name":{
-"text":["Investigación: Auditoría Penitenciaria"]
+"text":["Investigación: Auditoría de la Prisión"]
 },
 "skill_1902_desc":{
-"text":["Realice una investigación minuciosa de todos los activos de ",
+"text":["Realice una investigación minuciosa de todos los activos de",
 "la prisión para averiguar qué debe actualizarse o reemplazarse.",
 "\\REM_EFF[skill_1902_effect]"
 ]},
 "skill_1903_name":{
-"text":["Investigación: Mejorar las cerraduras de la prisión"]
+"text":["Investigación: Mejorar las Cerraduras de la Prisión"]
 },
 "skill_1903_desc":{
-"text":["Las cerraduras actuales alrededor de la prisión son viejas o están rotas.",
-"Reemplazarlos con cerraduras nuevas hará más fácil mantener a los reclusos bajo control.",
+"text":["Las cerraduras de la prisión son viejas o están rotas.",
+"Reemplazarlas por cerraduras nuevas hará más fácil mantener a los reclusos bajo control.",
 "\\}\\REM_EFF[skill_1903_effect]"
 ]},
 "skill_1904_name":{
-"text":["Investigación: Actualizar camas de guardia"]
+"text":["Investigación: Actualizar Camas de los Guardias"]
 },
 "skill_1904_desc":{
-"text":["Reemplazar las viejas camas de los puestos de conserjería por otras nuevas ayudará ",
-"a que los conserjes descansen mejor y, por lo tanto, hagan mejor su trabajo.",
+"text":["Reemplazar las viejas camas de los puestos de guardia ayudará",
+"a los guardias a descansar mejor y, por tanto, harán mejor su trabajo.",
 "\\REM_EFF[skill_1904_effect]"
 ]},
 "skill_1905_name":{
 "text":["Investigación: Modificar la Ley del Trabajo Penitenciario"]
 },
 "skill_1905_desc":{
-"text":["Utilice a nuestros abogados para hacer que las reglas sean más indulgentes sobre ",
-"cuánto podemos usar a nuestros reclusos como mano de obra gratuita en la prisión.",
+"text":["Usemos a nuestros abogados para para que las leyes sean más indulgentes acerca",
+"de cuánto podemos usar a nuestros reclusos como mano de obra gratuita en la prisión.",
 "\\REM_EFF[skill_1905_effect]"
 ]},
 "skill_1906_name":{
-"text":["Investigación: llegar a puntos comunes con los reclusos"]
+"text":["Investigación: Alcanzar Puntos en Común con los Reclusos"]
 },
 "skill_1906_desc":{
-"text":["Los guardias y los reclusos aquí deberían poder llegar a un entendimiento mutuo entre ellos.",
-"Después de todo, la mayoría de ellos son camaradas. Incluso hermanos de agujero.",
+"text":["Los guardias y los reclusos deberían poder llegar a un entendimiento mutuo.",
+"Después de todo, son camaradas. Comparten un mismo agujero para follar.",
 "\\REM_EFF[skill_1906_effect]"
 ]},
 "skill_1907_name":{
-"text":["Investigación: Vender pases de toque de queda"]
+"text":["Investigación: Vender Pases de Toque de Queda"]
 },
 "skill_1907_desc":{
-"text":["Podemos ganar dinero extra vendiendo pases de toque de queda que le permiten a un recluso ",
+"text":["Podemos ganar dinero extra vendiendo pases de toque de queda que permitan a un recluso",
 "permanecer fuera de su celda incluso después del toque de queda sin meterse en problemas.",
 "\\}\\REM_EFF[skill_1907_effect]"
 ]},
 "skill_1908_name":{
-"text":["Investigación: El personal puede dormir en el sitio"]
+"text":["Investigación: El Personal Puede Dormir Aquí"]
 },
 "skill_1908_desc":{
-"text":["Pida a los abogados que averigüen si hay alguna forma en que podamos permitir ",
-"que los miembros del personal duerman dentro de la prisión si así lo desean.",
+"text":["Pide a los abogados que averigüen si hay alguna forma de que",
+"los miembros del personal puedan dormir dentro de la prisión si quieren.",
 "\\}\\REM_EFF[skill_1908_effect]"
 ]},
 "skill_1909_name":{
-"text":["Investigación: Código oscuro de impuestos"]
+"text":["Investigación: Casilla Secreta de la Renta"]
 },
 "skill_1909_desc":{
-"text":["Haga que nuestros contadores estudien minuciosamente el código fiscal para ver si",
-"hay una manera de ahorrarnos algo de dinero a través de un agujero en la vía fiscal.",
+"text":["Pon a nuestros contables a estudiar minuciosamente las leyes fiscales para ver si",
+"hay alguna manera de ahorrarnos algo de dinero a través de un vacío legal.",
 "\\REM_EFF[skill_1909_effect]"
 ]},
 "skill_1910_name":{
-"text":["Investigación: legalidades fiscales dudosas"]
+"text":["Investigación: Leyes Fiscales Dudosas"]
 },
 "skill_1910_desc":{
-"text":["Haga que nuestros abogados trabajen con nuestros contadores para encontrar ",
+"text":["Nuestros abogados trabajarán con nuestros contables para encontrar",
 "algún tipo de legalidad que podamos aprovechar para ahorrar más dinero.",
 "\\REM_EFF[skill_1910_effect]"
 ]},
 "skill_1911_name":{
-"text":["Investigación: Formación de Especialización"]
+"text":["Investigación: Entrenamiento de Especialización"]
 },
 "skill_1911_desc":{
-"text":["Haga que nuestros investigadores busquen formas de desbloquear su potencial oculto.",
+"text":["Nuestros investigadores buscarán formas de desbloquear tu potencial oculto.",
 "",
 "\\REM_EFF[skill_1911_effect]"
 ]},
 "skill_1912_name":{
-"text":["Investigación: Formación Avanzada"]
+"text":["Investigación: Entrenamiento Avanzado"]
 },
 "skill_1912_desc":{
-"text":["Descubre Técnicas de entrenamiento avanzado para ",
-"perfeccionar aún más tu cuerpo y tu mente.",
+"text":["Descubre Técnicas de entrenamiento avanzadas para",
+"perfeccionar aún más tu cuerpo y mente.",
 "\\REM_EFF[skill_1912_effect]"
 ]},
 
 "skill_1913_name":{
-"text":["Investigación: Formación de expertos"]
+"text":["Investigación: Entrenamiento Experto"]
 },
 "skill_1913_desc":{
-"text":["Encuentre expertos que le enseñen cómo perfeccionar su",
-"cuerpo y su mente de manera segura.",
+"text":["Encuentra expertos que te enseñen cómo perfeccionar tu",
+"cuerpo y mente de manera segura.",
 "\\REM_EFF[skill_1913_effect]"
 ]},
 "skill_1914_name":{
-"text":["Investigación: Contrato de Drogas"]
+"text":["Investigación: Contratos Farmacéuticos"]
 },
 "skill_1914_desc":{
-"text":["Negociar con nuestro nuevo proveedor de medicamentos para comprar",
-"algunos de sus medicamentos no médicos.",
+"text":["Negociaremos con nuestro nuevo proveedor de fármacos para comprar",
+"algunos de sus fármacos no médicos.",
 "\\}\\}\\REM_EFF[skill_1914_effect]"
 ]},
 "skill_1915_name":{
-"text":["Investigación: Contrato de afrodisíacos"]
+"text":["Investigación: Contratos de Afrodisíacos"]
 },
 "skill_1915_desc":{
-"text":["Hable con nuestro nuevo proveedor de drogas para ver si pueden ",
+"text":["Hablemos con nuestro nuevo proveedor de fármacos para ver si pueden",
 "proporcionar afrodisíacos a nuestra prisión.",
 "\\}\\}\\REM_EFF[skill_1915_effect]"
 ]},
 "skill_1916_name":{
-"text":["Investigación: Contrato de Productos de Lavandería"]
+"text":["Investigación: Contrato de Productos de la Lavandería"]
 },
 "skill_1916_desc":{
-"text":["Encuentre un proveedor a granel que nos consiga productos ",
+"text":["Busquemos un proveedor que nos consiga productos",
 "de lavandería baratos para la prisión.",
 "\\}\\REM_EFF[skill_1916_effect]"
 ]},
@@ -13377,7 +13377,7 @@
 "text":["Investigación: Contrato de Armas y Herramientas"]
 },
 "skill_1917_desc":{
-"text":["Hable con nuestro proveedor de armas sobre la compra de sus",
+"text":["Hable con nuestro proveedor de armas acerca de comprar sus",
 "armas y herramientas para venderlas en nuestra propia tienda.",
 "\\}\\REM_EFF[skill_1917_effect]"
 ]},
@@ -13390,48 +13390,48 @@
 "\\REM_EFF[skill_1918_effect]"
 ]},
 "skill_1919_name":{
-"text":["Investigación: Estudio de matones"]
+"text":["Investigación: Estudio de los Matones"]
 },
 "skill_1919_desc":{
 "text":["Observa las Técnicas de los matones, o la falta de ellas,",
-"para ver cómo pueden sobresalir en las peleas.",
+"para conocer sus puntos fuertes en las peleas.",
 "\\REM_EFF[skill_1919_effect]"
 ]},
 "skill_1920_name":{
-"text":["Investigación: estudio de goblins"]
+"text":["Investigación: Estudio de los Goblins"]
 },
 "skill_1920_desc":{
-"text":["Estudia a los Goblins y la forma en que pueden encontrar puntos calientes.",
+"text":["Estudia a los Goblins y su forma de encontrar puntos débiles.",
 "",
 "\\REM_EFF[skill_1920_effect]"
 ]},
 "skill_1921_name":{
-"text":["Investigación: Estudio Nerd"]
+"text":["Investigación: Estudio de los Frikis"]
 },
 "skill_1921_desc":{
-"text":["Estudie la capacidad de los nerds para defenderse de los matones.",
+"text":["Estudie la capacidad de los frikis para defenderse de los matones.",
 "",
 "\\REM_EFF[skill_1921_effect]"
 ]},
 "skill_1922_name":{
-"text":["Investigación: Estudio pícaros"]
+"text":["Investigación: Estudio de los Pícaros"]
 },
 "skill_1922_desc":{
-"text":[" Estudia la habilidad de los pícaros para permanecer fuera de la",
-"vista y esconderse en las sombras.",
+"text":[" Estudia la habilidad de los pícaros para permanecer ocultos",
+"y esconderse en las sombras.",
 "\\REM_EFF[skill_1922_effect]"
 ]},
 
 "skill_1923_name":{
-"text":["Investigación: estudio del hombre lagarto"]
+"text":["Investigación: Estudio de los Hombres Lagarto"]
 },
 "skill_1923_desc":{
-"text":["Observa cómo los Hombres Lagarto son capaces de proteger su punto débil de color diana.",
+"text":["Observa cómo los Hombres Lagarto son capaces de proteger su punto débil.",
 "",
 "\\REM_EFF[skill_1923_effect]"
 ]},
 "skill_1924_name":{
-"text":["Investigación: estudio de los orcos"]
+"text":["Investigación: Estudio de los Orcos"]
 },
 "skill_1924_desc":{
 "text":["Estudia a los orcos y la forma en que ayudan a sus aliados a protegerse.",
@@ -13439,7 +13439,7 @@
 "\\REM_EFF[skill_1924_effect]"
 ]},
 "skill_1925_name":{
-"text":["Investigación: Estudio vagabundo"]
+"text":["Investigación: Estudio de los Vagabundos"]
 },
 "skill_1925_desc":{
 "text":["Investiga a los vagabundos y su férrea fortaleza mental contra el mundo.",
@@ -13447,23 +13447,23 @@
 "\\REM_EFF[skill_1925_effect]"
 ]},
 "skill_1926_name":{
-"text":["Investigación: Estudio del slime"]
+"text":["Investigación: Estudio de los Slime"]
 },
 "skill_1926_desc":{
-"text":["Study Slimes' regenerative properties against wounds and injuries.",
+"text":["Estudia las propiedades regenerativas de los slimes contra lesiones y heridas.",
 "",
 "\\REM_EFF[skill_1926_effect]"
 ]},
 "skill_1927_name":{
-"text":["Investigación: Estudio del hombre lobo"]
+"text":["Investigación: Estudio de los Hombres Lobo"]
 },
 "skill_1927_desc":{
-"text":["Observa la forma en que los hombres lobo usan sus extremidades para luchar en la batalla.",
+"text":["Observa la forma en que los hombres lobo usan sus extremidades para pelear.",
 "",
 "\\REM_EFF[skill_1927_effect]"
 ]},
 "skill_1928_name":{
-"text":["Investigación: Estudio Yeti"]
+"text":["Investigación: Estudio de los Yeti"]
 },
 "skill_1928_desc":{
 "text":["Estudia cómo los Yetis pueden protegerse a sí mismos a pesar de su tamaño.",
@@ -13473,25 +13473,25 @@
 
 
 "skill_2000_name":{
-"text":["explicación de la especialización"]
+"text":["Explicación de las Especializaciones"]
 },
 "skill_2000_desc":{
-"text":["Puede elegir hasta dos especializaciones.",
-"Cada Entrenamiento del lado izquierdo y derecho dentro de una Especialización es mutuamente excluyente."
+"text":["Puedes elegir hasta dos especializaciones.",
+"Cada Entrenamiento del lado izquierdo y derecho de una Especialización es mutuamente excluyente."
 ]},
 "skill_2001_name":{
-"text":["especialización de fuerza"]
+"text":["Especialización en Fuerza"]
 },
 "skill_2001_desc":{
-"text":["¡Fuerza es todo lo que necesitas! ",
-"¡El poder puro superará todos los obstáculos!",
+"text":["¡La fuerza es todo lo que necesitas! ",
+"¡Con puro poder superarás todos los obstáculos!",
 "\\REM_EFF[skill_2001_effect]"
 ]},
 "skill_2002_name":{
 "text":["Especialización en Destreza"]
 },
 "skill_2002_desc":{
-"text":["La destreza es el verdadero camino.",
+"text":["La destreza es el auténtico camino.",
 "Las manos hábiles te permitirán agarrar cualquier cosa.",
 "\\REM_EFF[skill_2002_effect]"
 ]},
@@ -13500,20 +13500,20 @@
 "text":["Especialización en Agilidad"]
 },
 "skill_2003_desc":{
-"text":["La agilidad dejará a todos en el polvo.",
-"Victoria rápida y garantizada.",
+"text":["Con la agilidad, dejarás a todo el mundo atrás.",
+"Una victoria rápida y garantizada.",
 "\\REM_EFF[skill_2003_effect]"
 ]},
 "skill_2004_name":{
-"text":["Especialización en resistencia"]
+"text":["Especialización en Aguante"]
 },
 "skill_2004_desc":{
-"text":["La resistencia es una carrera lenta pero constante hasta el final.",
-"Nadie más puede sobrevivir a ti.",
+"text":["El aguante es una carrera lenta pero constante hasta la meta.",
+"Nadie puede sobrevivir más que tú.",
 "\\REM_EFF[skill_2004_effect]"
 ]},
 "skill_2005_name":{
-"text":["Especialización mental"]
+"text":["Especialización en Mente"]
 },
 "skill_2005_desc":{
 "text":["La mente es tan importante como tu cuerpo.",
@@ -13565,7 +13565,7 @@
 },
 "skill_2011_desc":{
 "text":["\\REM_EFF[skill_2011_effect]",
-"\\C[11]Stunned prevents all actions for one turn.",
+"\\C[11]Aturdido previene todas las acciones durante un turno",
 ""
 ]},
 "skill_2012_name":{
@@ -13576,124 +13576,124 @@
 ]},
 
 "skill_2013_name":{
-"text":["Head Entrenamiento de Impacto: Poder"]
+"text":["Entrenamiento de Impacto a la Cabeza: Poder"]
 },
 "skill_2013_desc":{
 "text":["\\REM_EFF[skill_2013_effect]"
 ]},
 "skill_2014_name":{
-"text":["Head Entrenamiento de Impacto: Tecnica"]
+"text":["Entrenamiento de Impacto a la Cabeza: Técnica"]
 },
 "skill_2014_desc":{
 "text":["\\REM_EFF[skill_2014_effect]"
 ]},
 "skill_2015_name":{
-"text":["Entrenamiento de golpe: Poder"]
+"text":["Entrenamiento de Atizar: Fuerza"]
 },
 "skill_2015_desc":{
 "text":["\\REM_EFF[skill_2015_effect]"
 ]},
 "skill_2016_name":{
-"text":["Entrenamiento de golpe: Tecnica"]
+"text":["Entrenamiento de Atizar: Técnica"]
 },
 "skill_2016_desc":{
 "text":["\\REM_EFF[skill_2016_effect]"
 ]},
 "skill_2017_name":{
-"text":["Basic Entrenamiento de Cortar: Poder"]
+"text":["Entrenamiento Básico de Corte: Fuerza"]
 },
 "skill_2017_desc":{
 "text":["\\REM_EFF[skill_2017_effect]",
-"\\C[11]Vulnerable decreases Defense for a few turns."
+"\\C[11]Vulnerable reduce la Defensa unos cuantos turnos."
 ]},
 "skill_2018_name":{
-"text":["Basic Entrenamiento de Cortar: Tecnica"]
+"text":["Entrenamiento Básico de Corte: Técnica"]
 },
 "skill_2018_desc":{
 "text":["\\REM_EFF[skill_2018_effect]"
 ]},
 "skill_2019_name":{
-"text":["Arm Entrenamiento de Cortar: Poder"]
+"text":["Entrenamiento de Cortabrazos: Fuerza"]
 },
 "skill_2019_desc":{
 "text":["\\REM_EFF[skill_2019_effect]"
 ]},
 "skill_2020_name":{
-"text":["Arm Entrenamiento de Cortar: Tecnica"]
+"text":["Entrenamiento de Cortabrazos: Técnica"]
 },
 "skill_2020_desc":{
 "text":["\\REM_EFF[skill_2020_effect]"
 ]},
 "skill_2021_name":{
-"text":["Entrenamiento de Partir: Poder"]
+"text":["Entrenamiento de Filo: Poder"]
 },
 "skill_2021_desc":{
 "text":["\\REM_EFF[skill_2021_effect]",
 "\\C[11]El desequilibrio disminuye el ataque, la defensa y la evasión."
 ]},
 "skill_2022_name":{
-"text":["Entrenamiento de Partir: Tecnica"]
+"text":["Entrenamiento de Filo: Técnica"]
 },
 "skill_2022_desc":{
 "text":["\\REM_EFF[skill_2022_effect]"
 ]},
 
 "skill_2023_name":{
-"text":["Basic Entrenamiento de empuje: Poder"]
+"text":["Entrenamiento Básico de Empalar: Fuerza"]
 },
 "skill_2023_desc":{
 "text":["\\REM_EFF[skill_2023_effect]"
 ]},
 "skill_2024_name":{
-"text":["Basic Entrenamiento de empuje: Tecnica"]
+"text":["Entrenamiento Básico de Empalar: Técnica"]
 },
 "skill_2024_desc":{
 "text":["\\REM_EFF[skill_2024_effect]"
 ]},
 "skill_2025_name":{
-"text":["Leg Entrenamiento de empuje: Poder"]
+"text":["Entrenamiento Básico de Empalapiernas: Fuerza"]
 },
 "skill_2025_desc":{
 "text":["\\REM_EFF[skill_2025_effect]"
 ]},
 "skill_2026_name":{
-"text":["Leg Entrenamiento de empuje: Tecnica"]
+"text":["Entrenamiento Básico de Empalapiernas: Técnica"]
 },
 "skill_2026_desc":{
 "text":["\\REM_EFF[skill_2026_effect]"
 ]},
 "skill_2027_name":{
-"text":["Entrenamiento de Estocada: Poder"]
+"text":["Entrenamiento de Estocada: Fuerza"]
 },
 "skill_2027_desc":{
 "text":["\\REM_EFF[skill_2027_effect]"
 ]},
 "skill_2028_name":{
-"text":["Entrenamiento de Estocada: Tecnica"]
+"text":["Entrenamiento de Estocada: Técnica"]
 },
 "skill_2028_desc":{
 "text":["\\REM_EFF[skill_2028_effect]"
 ]},
 "skill_2029_name":{
-"text":["Entrenamiento de resistencia: Manoseo"]
+"text":["Entrenamiento de Entereza: Manoseo"]
 },
 "skill_2029_desc":{
 "text":["\\REM_EFF[skill_2029_effect]"
 ]},
 "skill_2030_name":{
-"text":["Entrenamiento de resistencia: Sexo"]
+"text":["Entrenamiento de Entereza: Sexo"]
 },
 "skill_2030_desc":{
 "text":["\\REM_EFF[skill_2030_effect]"
 ]},
 "skill_2031_name":{
-"text":["Entrenamiento de Estamina: Capacidad"]
+"text":["Entrenamiento de Resistencia: Capacidad"]
 },
 "skill_2031_desc":{
 "text":["\\REM_EFF[skill_2031_effect]"
 ]},
 "skill_2032_name":{
-"text":["Entrenamiento de Estamina: Base"]
+"text":["Entrenamiento de Resistencia: Cimientos"]
 },
 "skill_2032_desc":{
 "text":["\\REM_EFF[skill_2032_effect]"
@@ -13706,7 +13706,7 @@
 "text":["\\REM_EFF[skill_2033_effect]"
 ]},
 "skill_2034_name":{
-"text":["Entrenamiento de Energia: Cliclado"]
+"text":["Entrenamiento de Energia: Ciclismo"]
 },
 "skill_2034_desc":{
 "text":["\\REM_EFF[skill_2034_effect]"
@@ -14658,14 +14658,14 @@
 "text":["reina de los luchadores"]
 },
 "armor_96_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en el modo Guardian con \\I[89]Luchador de prision equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de un guardián que ganó el juego en el modo Guardian con \\I[89]Luchador de prisión equipado durante todo el juego desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_96_effect]"
 ]},
 "armor_97_name":{
 "text":["Luchadora definitiva"]
 },
 "armor_97_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Prisionero con \\I[89]Luchador de prision equipado durante todo el juego desde el Nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Prisionero con \\I[89]Luchador de prisión equipado durante todo el juego desde el Nivel 1.\\{\\}",
 "\\REM_EFF[armor_97_effect]"
 ]},
 "armor_98_name":{
