@@ -11834,7 +11834,7 @@
 "skill_1594_desc":{
 "text":[
 "\\}Restaura un poco de resistencia.",
-"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneracion de Resistencia."
+"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1594_msg1":{
 "text":["%1 se da un respiro."]
@@ -12088,7 +12088,7 @@
 "text":["¡%1 juega con su clítoris!"]
 },
 "skill_1645_name":{
-"text":["Tocar Clitoris (Mano derecha)"]
+"text":["Tocar Clítoris (Mano Derecha)"]
 },
 "skill_1645_desc":{
 "text":[
@@ -12143,7 +12143,7 @@
 "skill_1650_desc":{
 "text":[
 "Aumenta la regeneración de resistencia y descansa durante 5 turnos.",
-"\\}\\}\\C[9]➤\\C[0] Descansar con las resistencia llena aumenta la cantidad de fatiga reducida al final."
+"\\}\\}\\C[9]➤\\C[0] Descansar con la resistencia llena aumenta la cantidad de fatiga reducida al final."
 ]},
 "skill_1650_msg1":{
 "text":["%1 empieza a descansar."]
@@ -12213,7 +12213,7 @@
 ]},
 
 "skill_1663_name":{
-"text":["Sexo anal"]
+"text":["Sexo Anal"]
 },
 "skill_1663_desc":{
 "text":[
@@ -12226,7 +12226,7 @@
 },
 "skill_1666_desc":{
 "text":[
-"Toma la comanda de la mesa."
+"Tomar la comanda de la mesa."
 ]},
 "skill_1666_msg1":{
 "text":["%1 toma la comanda de la mesa."]
@@ -12256,7 +12256,7 @@
 "text":[
 "Dejar pasar el tiempo sin hacer nada mientras esperas nuevos clientes.",
 "\\}\\}\\C[9]➤\\C[0] También restaura mucha resistencia.",
-"\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneracion de Resistencia."
+"\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1669_msg1":{
 "text":["%1 descansa un poco mientras espera que lleguen clientes."]
@@ -12291,7 +12291,7 @@
 "text":[
 "\\}Aceptar automáticamente todas las ofertas de los clientes para beber alcohol.",
 "\\}\\C[13]➤\\C[0] Rechazar una bebida costará \\REM_RAC[0] de Fuerza de voluntad.",
-"\\C[9]➤\\C[0] Al rechazar una bebida, la Regeneracion de Voluntad se reducirá considerablemente durante un turno."
+"\\C[9]➤\\C[0] Al rechazar una bebida, la Regeneración de Voluntad se reducirá considerablemente durante un turno."
 ]},
 "skill_1673_name":{
 "text":["Rechazar Bebidas"]
@@ -12300,14 +12300,14 @@
 "text":[
 "\\}Rechazar automáticamente todas las ofertas de los clientes para beber alcohol.",
 "\\}\\C[13]➤\\C[0] Rechazar una bebida costará \\REM_RAC[0] de Fuerza de voluntad.",
-"\\C[9]➤\\C[0] Al rechazar una bebida, la Regeneracion de Voluntad se reducirá considerablemente durante un turno."
+"\\C[9]➤\\C[0] Al rechazar una bebida, la Regeneración de Voluntad se reducirá considerablemente durante un turno."
 ]},
 "skill_1674_name":{
 "text":["Tomar Comanda"]
 },
 "skill_1674_desc":{
 "text":[
-"Toma la comanda."
+"Tomar la comanda."
 ]},
 "skill_1674_msg1":{
 "text":["%1 intenta tomar la comanda de %2."]
@@ -12398,7 +12398,7 @@
 "skill_1683_desc":{
 "text":[
 "Restaura un poco de resistencia.",
-"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneracion de Resistencia."
+"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1683_msg1":{
 "text":["%1 se da un respiro."]
@@ -12520,7 +12520,7 @@
 "text":["Llevando ahora mismo"]
 },
 "skill_1697_name":{
-"text":["Limpiar Bandeja (Sucio)"]
+"text":["Limpiar Bandeja (Sucia)"]
 },
 "skill_1697_desc":{
 "text":[
@@ -12548,7 +12548,7 @@
 "text":["¡¡%1 toma la mano izquierda de %2 y se la pone en la polla!!"]
 },
 "skill_1703_msg1":{
-"text":["¡¡%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1704_msg1":{
 "text":["¡¡%1 invade el ano de %2 con su polla!!"]
@@ -12560,7 +12560,7 @@
 "text":["¡¡%1 inserta su polla en el coño de %2!!"]
 },
 "skill_1707_msg1":{
-"text":["¡¡%1 mete su polla en la boca abierta de %2!!"]
+"text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1708_msg1":{
 "text":["¡¡%1 envuelve la mano derecha de %2 alrededor de su polla!!"]
@@ -12618,7 +12618,7 @@
 "text":["¡¡%1 mete su polla en la boca de %2!!"]
 },
 "skill_1727_msg1":{
-"text":["¡¡%1 pone su pollaa entre los pechos acolchados de %2!!"]
+"text":["¡¡%1 pone su polla entre los pechos acolchados de %2!!"]
 },
 "skill_1728_msg1":{
 "text":["¡¡%1 inserta su polla en coño de %2!!"]
@@ -12776,13 +12776,13 @@
 "text":["¡¡%1 comienza a chupar la polla de %2!!"]
 },
 "skill_1784_msg1":{
-"text":["¡¡%1 le dice a %2 que se le folle el culo y este se la mete por el culo!!"]
+"text":["¡¡%1 le dice a %2 que le folle el culo y este se la mete por el culo!!"]
 },
 "skill_1785_msg1":{
 "text":["¡¡%1 le dice a %2 que meta su polla entre sus tetas y comienza a hacerle una paja con ellas!!"]
 },
 "skill_1786_msg1":{
-"text":["¡¡%1 le dice a %2 que no se atreve a follársela y este le mete la polla por el coño!!"]
+"text":["¡¡%1 tienta a %2, diciéndole que no se atreve a follársela, y este le mete la polla por el coño!!"]
 },
 "skill_1787_msg1":{
 "text":["¡¡%1 comienza a lamer la polla de %2 mientras le hace una paja con las tetas!!"]
@@ -12818,7 +12818,7 @@
 },
 
 "skill_1811_msg1":{
-"text":["¡%1 extiende un tentáculo viscoso hacia la boca abierta de %2!"]
+"text":["¡%1 extiende un tentáculo viscoso hacia la boca de %2!"]
 },
 "skill_1812_msg1":{
 "text":["¡%1 mete un tentáculo diferente en el coño de %2!"]
@@ -12945,7 +12945,7 @@
 "text":[
 "\\}\\}Bailar mientras enfatizas los rasgos faciales y aumenta el Combo de Baile.",
 "\\}\\C[13]➤\\C[0] El daño de placer infligido a los clientes depende del Encanto al comienzo de cada Combo de Baile.",
-"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Boca más daño de placer hará este baile."
+"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Boca, más daño de placer hará este baile."
 ]},
 "skill_1855_msg1":{
 "text":["¡%1 baila mientras muestra su hermoso rostro!"]
@@ -12957,7 +12957,7 @@
 "text":[
 "\\}\\}Bailar mientras enfatizas los pechos y aumenta el Combo de Baile.",
 "\\}\\C[13]➤\\C[0] El daño de placer infligido a los clientes depende del Encanto al comienzo de cada Combo de Baile.",
-"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Tetas más daño de placer hará este baile."
+"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Tetas, más daño de placer hará este baile."
 ]},
 "skill_1856_msg1":{
 "text":["¡%1 baila mientras muestra sus pechos!"]
@@ -12969,10 +12969,10 @@
 "text":[
 "\\}\\}Bailar mientras enfatizas los genitales y aumenta el Combo de Baile.",
 "\\}\\C[13]➤\\C[0] El daño de placer infligido a los clientes depende del Encanto al comienzo de cada Combo de Baile.",
-"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Coño más daño de placer hará este baile."
+"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Coño, más daño de placer hará este baile."
 ]},
 "skill_1857_msg1":{
-"text":["¡%1 baila mientras abre se abre de piernas!"]
+"text":["¡%1 baila mientras se abre de piernas!"]
 },
 "skill_1858_name":{
 "text":["Baile (Culo)"]
@@ -12981,7 +12981,7 @@
 "text":[
 "\\}\\}Bailar mientras enfatiza los cuartos traseros y aumenta el Combo de Baile.",
 "\\}\\C[13]➤\\C[0] El daño de placer infligido a los clientes depende del Encanto al comienzo de cada Combo de Baile.",
-"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Culo más daño de placer hará este baile."
+"\\C[9]➤\\C[0] Cuanto mayor Combo de Baile y Deseo: Culo, más daño de placer hará este baile."
 ]},
 "skill_1858_msg1":{
 "text":["¡%1 baila mientras muestra su culo gordo!"]
@@ -13005,7 +13005,7 @@
 "text":[
 "\\}\\}Restaura un poco de Resistencia.",
 "\\}\\C[9]➤\\C[0] Reinicia el Combo de Baile.",
-"\\C[13]➤\\C[0] La cantidad restaurada deepende de la Regeneracion de Resistencia."
+"\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1860_msg1":{
 "text":["%1 recupera el aliento."]
@@ -13016,7 +13016,7 @@
 "skill_1861_desc":{
 "text":[
 "\\}\\}Restaura un poco de Resistencia.",
-"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneracion de Resistencia."
+"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1861_msg1":{
 "text":["%1 se da un respiro."]
@@ -13045,12 +13045,12 @@
 "text":["%1 llama a los clientes para que se unan a ella en un baile privado."]
 },
 "skill_1864_name":{
-"text":["Respiro"]
+"text":["Darse un Respiro"]
 },
 "skill_1864_desc":{
 "text":[
 "Restaura un poco de Resistencia.",
-"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneracion de Resistencia."
+"\\}\\C[13]➤\\C[0] La cantidad restaurada depende de la Regeneración de Resistencia."
 ]},
 "skill_1864_msg1":{
 "text":["%1 respira hondo."]
@@ -13070,7 +13070,7 @@
 },
 "skill_1866_desc":{
 "text":[
-"Entra en el escenario para comenzar el espectáculo.",
+"Entrar en el escenario para comenzar el espectáculo.",
 "\\C[13]➤\\C[0] Solo se puede hacer cuando la Resistencia está por encima del 75%."
 ]},
 "skill_1866_msg1":{
@@ -13280,7 +13280,7 @@
 "text":["Investigación: Modificar la Ley del Trabajo Penitenciario"]
 },
 "skill_1905_desc":{
-"text":["Usaemos a nuestros abogados para para que las leyes sean más indulgentes acerca",
+"text":["Usemos a nuestros abogados para para que las leyes sean más indulgentes acerca",
 "de cuánto podemos usar a nuestros reclusos como mano de obra gratuita en la prisión.",
 "\\REM_EFF[skill_1905_effect]"
 ]},
@@ -13418,7 +13418,7 @@
 },
 "skill_1922_desc":{
 "text":[" Estudia la habilidad de los pícaros para permanecer ocultos",
-"esconderse en las sombras.",
+"y esconderse en las sombras.",
 "\\REM_EFF[skill_1922_effect]"
 ]},
 
@@ -13473,10 +13473,10 @@
 
 
 "skill_2000_name":{
-"text":["Explicación de la Especialización"]
+"text":["Explicación de las Especializaciones"]
 },
 "skill_2000_desc":{
-"text":["Puede elegir hasta dos especializaciones.",
+"text":["Puedes elegir hasta dos especializaciones.",
 "Cada Entrenamiento del lado izquierdo y derecho de una Especialización es mutuamente excluyente."
 ]},
 "skill_2001_name":{
@@ -13500,7 +13500,7 @@
 "text":["Especialización en Agilidad"]
 },
 "skill_2003_desc":{
-"text":["La agilidad dejará atrás a todo el mundo.",
+"text":["Con la agilidad, dejarás a todo el mundo atrás.",
 "Una victoria rápida y garantizada.",
 "\\REM_EFF[skill_2003_effect]"
 ]},
@@ -13675,13 +13675,13 @@
 "text":["\\REM_EFF[skill_2028_effect]"
 ]},
 "skill_2029_name":{
-"text":["Entrenamiento de Resistencia al Manoseo"]
+"text":["Entrenamiento de Entereza: Manoseo"]
 },
 "skill_2029_desc":{
 "text":["\\REM_EFF[skill_2029_effect]"
 ]},
 "skill_2030_name":{
-"text":["Entrenamiento de Resistencia al Sexo"]
+"text":["Entrenamiento de Entereza: Sexo"]
 },
 "skill_2030_desc":{
 "text":["\\REM_EFF[skill_2030_effect]"
@@ -14658,14 +14658,14 @@
 "text":["reina de los luchadores"]
 },
 "armor_96_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en el modo Guardian con \\I[89]Luchador de prision equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de un guardián que ganó el juego en el modo Guardian con \\I[89]Luchador de prisión equipado durante todo el juego desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_96_effect]"
 ]},
 "armor_97_name":{
 "text":["Luchadora definitiva"]
 },
 "armor_97_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Prisionero con \\I[89]Luchador de prision equipado durante todo el juego desde el Nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Prisionero con \\I[89]Luchador de prisión equipado durante todo el juego desde el Nivel 1.\\{\\}",
 "\\REM_EFF[armor_97_effect]"
 ]},
 "armor_98_name":{
