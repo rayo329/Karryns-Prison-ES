@@ -5051,11 +5051,11 @@
 "map18_ev26_p1_Lv1_choice_4":{
 "text":["4. \\I[184]Estuche de Ámbar para Gafas"]},
 "map18_ev26_p1_Lv1_choice_5":{
-"text":["5. \\I[184]Directrices del héroe Vol.1"]},
+"text":["5. \\I[184]Directrices del Héroe Vol.1"]},
 
 "map18_ev26_p1_Lv1_desc_1":{
 "text":[
-"Efecto del Regalo: \\C[11]\\I[448]Atake +5%"
+"Efecto del Regalo: \\C[11]\\I[448]Ataque +5%"
 ]},
 
 "map18_ev26_p1_Lv1_desc_2":{
@@ -5071,7 +5071,7 @@
 
 "map18_ev26_p1_Lv1_desc_4":{
 "text":[
-"Efecto del Regalo: \\C[11]\\I[428]Porcentaje de crítico +10%",
+"Efecto del Regalo: \\C[11]\\I[428]Probabilidad de Crítico +10%",
 "\\C[31]El Nivel de Puta de Karryn debe ser menor a 30 para seleccionar este regalo."
 ]},
 
@@ -5086,11 +5086,11 @@
 "map18_ev26_p1_Lv2_choice_2":{
 "text":["2. \\I[184]Pañuelo de Seda"]},
 "map18_ev26_p1_Lv2_choice_3":{
-"text":["3. \\I[184]Pintalabios de lujo"]},
+"text":["3. \\I[184]Pintalabios de Lujo"]},
 "map18_ev26_p1_Lv2_choice_4":{
-"text":["4. \\I[184]Pluma de obsidiana"]},
+"text":["4. \\I[184]Pluma de Obsidiana"]},
 "map18_ev26_p1_Lv2_choice_5":{
-"text":["5. \\I[184]Directrices del héroe Vol.2"]},
+"text":["5. \\I[184]Directrices del Héroe Vol.2"]},
 
 "map18_ev26_p1_Lv2_desc_1":{
 "text":[
@@ -5112,20 +5112,20 @@
 ]},
 "map18_ev26_p1_Lv2_desc_5":{
 "text":[
-"Efecto del Regalo: \\C[11]\\I[438]Resistencia a hablar +15%",
+"Efecto del Regalo: \\C[11]\\I[438]Resistencia a los Comentarios +15%",
 "\\C[31]El Nivel de Puta de Karryn debe ser menor a 30 para seleccionar este regalo."
 ]},
 
 "map18_ev26_p1_Lv3_choice_1":{
-"text":["1. \\I[184]Cesta de frutas"]},
+"text":["1. \\I[184]Cesta de Frutas"]},
 "map18_ev26_p1_Lv3_choice_2":{
-"text":["2. \\I[184]Reloj de bolsillo personalizado"]},
+"text":["2. \\I[184]Reloj de Bolsillo Personalizado"]},
 "map18_ev26_p1_Lv3_choice_3":{
-"text":["3. \\I[184]Perfumes de las mejores marcas"]},
+"text":["3. \\I[184]Perfumes de las Mejores Marcas"]},
 "map18_ev26_p1_Lv3_choice_4":{
-"text":["4. \\I[184]Cartera de piel de dragón"]},
+"text":["4. \\I[184]Cartera de Piel de Dragón"]},
 "map18_ev26_p1_Lv3_choice_5":{
-"text":["5. \\I[184]Directrices del héroe vol.3"]},
+"text":["5. \\I[184]Directrices del Héroe vol.3"]},
 
 "map18_ev26_p1_Lv3_desc_1":{
 "text":[
@@ -5156,11 +5156,11 @@
 "map18_ev26_p1_Lv4_choice_2":{
 "text":["2. \\I[184]Caja musical de Blancanieves"]},
 "map18_ev26_p1_Lv4_choice_3":{
-"text":["3. \\I[184]Tiara de los santos"]},
+"text":["3. \\I[184]Tiara de los Santos"]},
 "map18_ev26_p1_Lv4_choice_4":{
-"text":["4. \\I[184]Botella de cristal"]},
+"text":["4. \\I[184]Botella de Cristal"]},
 "map18_ev26_p1_Lv4_choice_5":{
-"text":["5. \\I[184]Directrices del héroe vol.4"]},
+"text":["5. \\I[184]Directrices del Héroe vol.4"]},
 
 "map18_ev26_p1_Lv4_desc_1":{
 "text":[
@@ -7167,7 +7167,7 @@
 "",
 
 "No es solo que todos los ataques físicos se ven afectados por la \\C[2]\\I[309]Fuerza\\C[0], ",
-"¡\\C[2]\\I[309]La Fuerza\\C[0] también afecta al porcentaje de crítico",
+"¡\\C[2]\\I[309]La Fuerza\\C[0] también afecta a la probabilidad de crítico",
 "de todos los ataques!",
 
 "¡¡Además, la \\C[2]\\I[309]Fuerza\\C[0] es la única forma de defenderse de los",

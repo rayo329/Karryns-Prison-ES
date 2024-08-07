@@ -586,22 +586,22 @@
 },
 
 "peffect_pussywet_aroused":{
-"text":["\\C[1]La Vagina se moja más cada turno mientras se está excitada."]
+"text":["\\C[1]El Coño se moja más cada turno mientras se está excitada."]
 },
 "peffect_pussywet_nopan":{
-"text":["\\C[1]La Vagina se moja más cada turno mientras no se lleve bragas."]
+"text":["\\C[1]El Coño se moja más cada turno mientras no se lleve bragas."]
 },
 "peffect_pussywet_orgasm_day":{
-"text":["\\C[27]La Vagina se moja más cada turno por cada orgasmo ese mismo día."]
+"text":["\\C[27]El Coño se moja más cada turno por cada orgasmo ese mismo día."]
 },
 "peffect_pussywet_talkpussy_battle":{
-"text":["\\C[27]La Vagina se moja más por cada persona que hable de forma humillante sobre el coño de Karryn en la misma batalla."]
+"text":["\\C[27]El Coño se moja más por cada persona que hable de forma humillante sobre el coño de Karryn en la misma batalla."]
 },
 "peffect_pussywet_map_scandalous":{
-"text":["\\C[27]La Vagina se va mojando lentamente mientras se camina por la prisión excitada en un estado escandaloso."]
+"text":["\\C[27]El Coño se va mojando lentamente mientras se camina por la prisión excitada en un estado escandaloso."]
 },
 "peffect_pussywet_kick":{
-"text":["\\C[27]La Vagina se moja antes de atacar con una patada."]
+"text":["\\C[27]El Coño se moja antes de atacar con una patada."]
 },
 
 
@@ -7339,7 +7339,7 @@
 "\\REM_EFF[skill_526_effect]"
 ]},
 "skill_527_name":{
-"text":["Turnos de Taller más Largos"]
+"text":["Jornadas de Taller más Largas"]
 },
 "skill_527_desc":{
 "text":[
@@ -11671,12 +11671,12 @@
 "text":["Aceptar Petición"]
 },
 "skill_1579_name":{
-"text":["Finalizar Turno"]
+"text":["Finalizar Jornada"]
 },
 "skill_1579_desc":{
 "text":[
 "\\}No parece que vayan a aparecer más visitantes hoy.",
-"Acabar el turno antes de tiempo."
+"Acabar la jornada antes de tiempo."
 ]},
 "skill_1580_name":{
 "text":["Saludar al Visitante"]
@@ -12828,12 +12828,12 @@
 },
 
 "skill_1837_name":{
-"text":["Finalizar turno"]
+"text":["Finalizar Jornada"]
 },
 "skill_1837_desc":{
 "text":[
 "\\}No parece que vaya a venir más gente al gimnasio hoy.",
-"Acabar el turno ahora."
+"Acabar la jornada ahora."
 ]},
 "skill_1838_name":{
 "text":["Liberar el Espíritu Juguetón"]
@@ -13712,37 +13712,37 @@
 "text":["\\REM_EFF[skill_2034_effect]"
 ]},
 "skill_2035_name":{
-"text":["Entrenamiento mental defensivo: Enfoque"]
+"text":["Entrenamiento Mental Defensivo: Concentración"]
 },
 "skill_2035_desc":{
 "text":["\\REM_EFF[skill_2035_effect]"
 ]},
 "skill_2036_name":{
-"text":["Entrenamiento mental defensivo: Curacion"]
+"text":["Entrenamiento Mental Defensivo: Curación"]
 },
 "skill_2036_desc":{
 "text":["\\REM_EFF[skill_2036_effect]"
 ]},
 "skill_2037_name":{
-"text":["Entrenamiento mental ofensivo: Ki"]
+"text":["Entrenamiento Mental Ofensivo: Ki"]
 },
 "skill_2037_desc":{
 "text":["\\REM_EFF[skill_2037_effect]"
 ]},
 "skill_2038_name":{
-"text":["Entrenamiento mental ofensivo: Ojo"]
+"text":["Entrenamiento Mental Ofensivo: Ojo"]
 },
 "skill_2038_desc":{
 "text":["\\REM_EFF[skill_2038_effect]"
 ]},
 "skill_2039_name":{
-"text":["Entrenamiento de la mente sensual: recuperación"]
+"text":["Entrenamiento Mental Sensual: Recuperación"]
 },
 "skill_2039_desc":{
 "text":["\\REM_EFF[skill_2039_effect]"
 ]},
 "skill_2040_name":{
-"text":["Entrenamiento de la mente sensual: ojo"]
+"text":["Entrenamiento Mental Sensual: Ojo"]
 },
 "skill_2040_desc":{
 "text":["\\REM_EFF[skill_2040_effect]"
@@ -13751,63 +13751,63 @@
 
 
 "skill_2101_name":{
-"text":["Diferentes tipos de escalofríos nocturnos"]
+"text":["Otro Tipo de Escalofrío"]
 },
 "skill_2101_desc":{
 "text":[
-"\\}De hecho fui y lo hice... No puedo creer que realmente me acerqué a un grupo de hombres mientras me exponía... Ooohh...\\{",
+"\\}Lo hice... No me puedo creer que me haya acercado a un grupo de hombres exhibiéndome... Ooohh...\\{",
 "\\REM_EFF[skill_2101_effect]"
 ]},
 "skill_2102_name":{
-"text":["Adicta al exhibicionismo"]
+"text":["Adicta al Exhibicionismo"]
 },
 "skill_2102_desc":{
 "text":[
-"\\}Fufu♥ Me estoy mojando mucho.♥ Tan pronto como estoy cerca, la polla de todos comienza a endurecerse mientras me miran.♥\\{",
+"\\}Fufu♥ Me estoy poniendo cachondíima.♥ En cuanto me acerco, la polla de todo el mundo se pone dura mientras me miran.♥\\{",
 "\\REM_EFF[skill_2102_effect]"
 ]},
 "skill_2103_name":{
-"text":["Corazón exhibicionista imparable"]
+"text":["Corazón Exhibicionista Imparable"]
 },
 "skill_2103_desc":{
 "text":[
-"\\}Mírenme todoseee♥ Miren mis enormes tetas.♥ Mi trasero gordo♥ Mi vagina mojado♥ No cuesta nada mirarme~♥ Hng♥\\{",
+"\\}Miradme todooos♥ Mirad estas pedazo de tetas.♥ Mirad este culazo♥ Mi coño mojado♥ No cuesta nada mirarme~♥ Hng♥\\{",
 "\\REM_EFF[skill_2103_effect]"
 ]},
 "skill_2104_name":{
-"text":["Invitación a la sala VIP"]
+"text":["Invitación a la Sala VIP"]
 },
 "skill_2104_desc":{
 "text":[
-"Bueno... el ambiente definitivamente está creado aquí... con toda esta iluminación sospechosa y aceite perfumado en la habitación...",
+"Vaya... Si que hay ambiente aquí... con toda esta iluminación sospechosa y aceite perfumado en la habitación...",
 "\\REM_EFF[skill_2104_effect]"
 ]},
 "skill_2105_name":{
-"text":["Club After Party es el verdadero escenario"]
+"text":["La Fiesta de Después es el Verdadero Escenario"]
 },
 "skill_2105_desc":{
 "text":[
-"Los pobres no son bienvenidos. Este es un escenario de baile privado y secreto sólo para clientes ricos♪",
+"Los pobres no son bienvenidos. Esto es un escenario de baile privado y secreto, sólo para clientes ricos♪",
 "\\REM_EFF[skill_2105_effect]"
 ]},
 "skill_2106_name":{
-"text":["Residente de la sala de sexo del club subterráneo"]
+"text":["Residente del Picadero del Club Subterráneo"]
 },
 "skill_2106_desc":{
 "text":[
-"Hola~ a todos♥ Gracias por esperar♥ Estoy tan feliz de que estén todos aquí para ayudarme hoy♥ Por favor cuídenme♥♥",
+"Holiiii~♥ Gracias por esperar♥ Estoy tan feliz de que estéis todos aquí por mi♥ Tratadme bien♥♥",
 "\\REM_EFF[skill_2106_effect]"
 ]},
 "skill_2107_name":{
-"text":["Escenario de baile lleno de condones"]
+"text":["Escenario Lleno de Condones"]
 },
 "skill_2107_desc":{
 "text":[
-"\\}Todos se divierten pero todo su semen termina en el suelo... Me pregunto si hay algo que pueda hacer para mejorar esta situación...\\{",
+"\\}Todo el mundo se lo pasa bien, pero todo su semen acaba en el suelo... ¿Podré hacer algo para mejorar esta situación...?\\{",
 "\\REM_EFF[skill_2107_effect]"
 ]},
 "skill_2108_name":{
-"text":["Los condones son sustitutos de las propinas"]
+"text":["Los Condones son Sustitutos de las Propinas"]
 },
 "skill_2108_desc":{
 "text":[
@@ -13815,93 +13815,93 @@
 "\\REM_EFF[skill_2108_effect]"
 ]},
 "skill_2109_name":{
-"text":["El último estilo de moda se viste con condones"]
+"text":["La Última Moda es Vestirse con Condones"]
 },
 "skill_2109_desc":{
 "text":[
-"Oh, mira, más semen fresco dentro de un condón... Acabo de tener una gran idea para una nueva apariencia linda♪",
+"Anda, mira, más semen fresco dentro de un condón... Acabo de tener una idea para un conjunto monísimo♪",
 "\\REM_EFF[skill_2109_effect]"
 ]},
 
 
 "skill_2110_name":{
-"text":["Seducido por hombres sudorosos"]
+"text":["Seducida por Hombres Sudorosos"]
 },
 "skill_2110_desc":{
 "text":[
-"Simplemente ya no podía ignorarlos... cuando están sufriendo una erección tan cerca de mí...",
+"No podía ignorarlos más... cuando tienen una erección tan cerca mía...",
 "\\REM_EFF[skill_2110_effect]"
 ]},
 "skill_2111_name":{
-"text":["Los gimnasios son sólo un burdel de cosplay"]
+"text":["Los Gimnasios son un Burdel de Cosplay"]
 },
 "skill_2111_desc":{
 "text":[
-"\\}¿No se suponía que debía ayudarlos con sus entrenamientos, no con su liberación sexual...? Bueno, lo que sea, todos se están divirtiendo ♪\\{",
+"\\}¿No se suponía que debía ayudarlos con los entrenamientos? ¿No con los apareamientos...? Bueno, da igual, nos lo estamos pasando bien♪\\{",
 "\\REM_EFF[skill_2111_effect]"
 ]},
 "skill_2112_name":{
-"text":["Bienvenido ♥ al gimnasio sexual de Karryn"]
+"text":["Bienvenidos♥ al Gimnasio Sexual de Karryn"]
 },
 "skill_2112_desc":{
 "text":[
-"Cum one cum all♥ No encontrarás un mejor servicio que aquí con nuestra chica número uno, Karryn♥♥",
+"No encontraréis un mejor servicio que aquí, con nuestra chica número uno, Karryn♥♥",
 "\\REM_EFF[skill_2112_effect]"
 ]},
 "skill_2113_name":{
-"text":["Entrenador interesado en cuerpos desnudos"]
+"text":["Entrenadora Interesada en Cuerpos Desnudos"]
 },
 "skill_2113_desc":{
 "text":[
-"Estoy empezando a entender... por qué los chicos siguen tratando de desnudarme..........",
+"Estoy empezando a entender... por qué los tíos no paran de intentar desnudarme..........",
 "\\REM_EFF[skill_2113_effect]"
 ]},
 "skill_2114_name":{
-"text":["Traje de cumpleaños es el código de vestimenta para este gimnasio"]
+"text":["Gimnasio Nudista"]
 },
 "skill_2114_desc":{
 "text":[
-"\\}Me encanta el momento en que aparece una polla maloliente mientras están sudando ♥♥ Este hedor es la razón por la que vengo al gimnasio.♥♥\\{",
+"\\}Me encanta cuando se les sale la polla mientras entrenan ♥♥ Es por esta peste que vengo al gimnasio.♥♥\\{",
 "\\REM_EFF[skill_2114_effect]"
 ]},
 "skill_2115_name":{
-"text":["Entrenador sádico de bolas azules"]
+"text":["Entrenadora Sádica Calientapollas"]
 },
 "skill_2115_desc":{
 "text":[
-"Fu fu♪ Verlos escabullirse patéticamente sosteniendo sus ingles es deliciosamente lindo~♪",
+"Fu fu♪ Me encanta ver como se escabullen escondiendo su erección. Qué monos~♪",
 "\\REM_EFF[skill_2115_effect]"
 ]},
 "skill_2116_name":{
-"text":["¿Quién entrena a la entrenadora?"]
+"text":["¿Quién Entrena a la Entrenadora?"]
 },
 "skill_2116_desc":{
 "text":[
-"¡Urgh, estoy tan caliente! ¡Nunca pensé que me pondría tan cachondo solo entrenando a un grupo de hombres!",
+"¡Urgh, estoy muy cachonda! ¡Nunca pensé que me pondría tan cachonda por entrenar a un grupo de hombres!",
 "\\REM_EFF[skill_2116_effect]"
 ]},
 "skill_2117_name":{
-"text":["Objeto extraño no identificado repentino"]
+"text":["Objeto Peludo No Identificado"]
 },
 "skill_2117_desc":{
 "text":[
-"Eek?! ¡¿Es este... pelo...?! Esto no se parece al mío... de ninguna manera... podría ser...",
+"¡¿Mmmh?! ¡¿Esto es... pelo...?! No se parece al mío... No creo... ¿Podría ser...?",
 "\\REM_EFF[skill_2117_effect]"
 ]},
 "skill_2118_name":{
-"text":["bono público después de las eyaculaciones"]
+"text":["Premio Púbico Tras Correrse"]
 },
 "skill_2118_desc":{
 "text":[
-"\\}Tener el vello púbico de los chicos colgando de mí hace que parezca que estoy transmitiendo que acabo de tener sexo ♥ Bueno, realmente lo hice.",
+"\\}Con este vello púbico colgando parece que quiero contar al mundo que acabo de follar♥ Bueno, en verdad es lo que hacía.",
 "\\{\\REM_EFF[skill_2118_effect]"
 ]},
 "skill_2119_name":{
-"text":["Adorador de la polla con el post sexo Resplandor de vello púbico"]
+"text":["Adoradora de Pollas con el Detalle de Vellos Púbicos Postcoitales"]
 },
 "skill_2119_desc":{
 "text":[
-"\\}Mira todos estos pubes sexys levantados en el jardín de los hombres ♥ En mi cuerpo ♥ Nnhoh ♥ Es como si mi existencia finalmente fuera reconocida como un custodio de la polla ♥♥ Estoy tan bendecida ~ ♥",
+"\\}Mirad todo este pelo púbico plantado por hombres en mi cuerpo♥ Nnhoh♥ Es como si estuviera siendo reconocida como custodia de las pollas♥♥ Qué bendición~♥",
 "\\{\\REM_EFF[skill_2119_effect]"
 ]},
 
@@ -13912,7 +13912,7 @@
 "text":["Tonkin"]
 },
 "actor_7_name":{
-"text":["Preso"]
+"text":["Recluso"]
 },
 "actor_8_name":{
 "text":["Guardia"]
@@ -13950,13 +13950,13 @@
 "text":["Pezones"]
 },
 "enemy_44_name":{
-"text":["Clitoris"]
+"text":["Clítoris"]
 },
 "enemy_45_name":{
-"text":["Vagina"]
+"text":["Coño"]
 },
 "enemy_46_name":{
-"text":["Trasero"]
+"text":["Culo"]
 },
 "enemy_47_name":{
 "text":["Ano"]
@@ -13975,13 +13975,13 @@
 },
 
 "enemy_156_name":{
-"text":["sujeto de prueba K-i0"]
+"text":["Sujeto de Pruebas K-R1S"]
 },
 "enemy_157_name":{
-"text":["sujeto de prueba N-15U5"]
+"text":["Sujeto de Pruebas M-03K"]
 },
 "enemy_158_name":{
-"text":["sujeto de prueba D-NLY"]
+"text":["Sujeto de Pruebas D-A4U"]
 },
 "enemy_159_name":{
 "text":["Cargill"]
@@ -13995,122 +13995,122 @@
 },
 
 "gift_desc":{
-"text":["Efecto regalo: "]
+"text":["Efecto del Regalo: "]
 },
 
 "item_5_name":{
-"text":["Estatua de madera tallada"]
+"text":["Estatua de Madera Tallada"]
 },
 "item_5_effect":{
 "text":[" (\\C[11]Ataque +5%\\C[0])"]
 },
 "item_6_name":{
-"text":["chocolate caro"]
+"text":["Chocolate Caro"]
 },
 "item_6_effect":{
-"text":[" (\\C[11]Stamina +10%\\C[0])"]
+"text":[" (\\C[11]Resistencia +10%\\C[0])"]
 },
 "item_7_name":{
-"text":["Flores de guisante de olor "]
+"text":["Ramo de Arvejillas "]
 },
 "item_7_effect":{
 "text":[" (\\C[11]Encanto +2\\C[0])"]
 },
 "item_8_name":{
-"text":["Estuche para anteojos ámbar"]
+"text":["Estuche de Ámbar para Gafas"]
 },
 "item_8_effect":{
-"text":[" (\\C[11]Tasa crítica +10%\\C[0])"]
+"text":[" (\\C[11]Probabilidad de Crítico +10%\\C[0])"]
 },
 "item_9_name":{
-"text":["Directrices del héroe Vol.1"]
+"text":["Directrices del Héroe Vol.1"]
 },
 "item_9_effect":{
-"text":[" (\\C[11]Resistencia al desnudo +15%\\C[0])"]
+"text":[" (\\C[11]Resistencia a Perder Ropa +15%\\C[0])"]
 },
 "item_10_name":{
-"text":["Oso de peluche"]
+"text":["Osito de Peluche"]
 },
 "item_10_effect":{
 "text":[" (\\C[11]Defensa +5%\\C[0])"]
 },
 "item_11_name":{
-"text":["Pañuelo de seda"]
+"text":["Pañuelo de Seda"]
 },
 "item_11_effect":{
-"text":[" (\\C[11]Energy +10%\\C[0])"]
+"text":[" (\\C[11]Energía +10%\\C[0])"]
 },
 "item_12_name":{
-"text":["Colorete de marca de lujo"]
+"text":["Pintalabios de Lujo"]
 },
 "item_12_effect":{
 "text":[" (\\C[11]Encanto +2\\C[0])"]
 },
 "item_13_name":{
-"text":["Pluma de obsidiana"]
+"text":["Pluma de Obsidiana"]
 },
 "item_13_effect":{
 "text":[" (\\C[11]Evasión de Crítico +15%\\C[0])"]
 },
 "item_14_name":{
-"text":["Directrices del héroe Vol.2"]
+"text":["Directrices del Héroe Vol.2"]
 },
 "item_14_effect":{
-"text":[" (\\C[11]Resistencia a las palabras +15%\\C[0])"]
+"text":[" (\\C[11]Resistencia a los comentarios +15%\\C[0])"]
 },
 "item_15_name":{
-"text":["Canasta de Frutas"]
+"text":["Cesta de Frutas"]
 },
 "item_15_effect":{
-"text":[" (\\C[11]Precision +10%\\C[0])"]
+"text":[" (\\C[11]Precisión +10%\\C[0])"]
 },
 "item_16_name":{
-"text":["Reloj de bolsillo personalizado"]
+"text":["Reloj de Bolsillo Personalizado"]
 },
 "item_16_effect":{
 "text":[" (\\C[11]Daño crítico +10%\\C[0])"]
 },
 "item_17_name":{
-"text":["Perfumes de primeras marcas"]
+"text":["Perfumes de las Mejores Marcas"]
 },
 "item_17_effect":{
 "text":[" (\\C[11]Encanto +2\\C[0])"]
 },
 "item_18_name":{
-"text":["Monedero de pellejo de dragón"]
+"text":["Cartera de Piel de Dragón"]
 },
 "item_18_effect":{
-"text":[" (\\C[11]Protección contra sobrecargas +7%\\C[0])"]
+"text":[" (\\C[11]Control de daño +7%\\C[0])"]
 },
 "item_19_name":{
-"text":["Directrices del héroe Vol.3"]
+"text":["Directrices del Héroe Vol.3"]
 },
 "item_19_effect":{
 "text":[" (\\C[11]Resistencia a las miradas +20%\\C[0])"]
 },
 "item_20_name":{
-"text":["Estatua de la diosa"]
+"text":["Estatua de la Diosa"]
 },
 "item_20_effect":{
-"text":[" (\\C[11]Tasa de Exp. +25%\\C[0])"]
+"text":[" (\\C[11]+25% de experiencia\\C[0])"]
 },
 "item_21_name":{
-"text":["Caja Musical Blancanieves"]
+"text":["Caja Musical de Blancanieves"]
 },
 "item_21_effect":{
 "text":[" (\\C[11]Ganancia de fatiga -15%\\C[0])"]
 },
 "item_22_name":{
-"text":["Tiara de santos"]
+"text":["Tiara de los Santos"]
 },
 "item_22_effect":{
 "text":[" (\\C[11]encanto +2\\C[0])"]
 },
 "item_23_name":{
-"text":["botella de cristal"]
+"text":["Botella de Cristal"]
 },
 "item_23_effect":{
-"text":[" (\\C[11]Regeneración de Estamina +3%\\C[0])"]
+"text":[" (\\C[11]Regeneración de Resistencia +3%\\C[0])"]
 },
 "item_24_name":{
 "text":["Directrices del héroe Vol.4"]
@@ -14121,12 +14121,12 @@
 
 
 "wpn_1_name":{
-"text":["Alabarda de secretaria"]
+"text":["Alabarda de Secretaria"]
 },
 "wpn_1_desc":{
 "text":[
 "La preciada alabarda de Karryn que usa para proteger al Emperador.",
-"Se puede usar para golpear, cortar y empujar, así como para parar ataques."
+"Se puede usar para golpear, cortar y perforar, así como contraatacar."
 ]},
 
 "wpn_10_name":{
@@ -14165,34 +14165,34 @@
 
 
 "armor_title_passive":{
-"text":["\\C[0]Pasivo: "]
+"text":["\\C[0]Pasiva: "]
 },
 "armor_title_equipeffects":{
-"text":["\\C[0]Equipar efectos: "]
+"text":["\\C[0]Efectos tras Equipar: "]
 },
 
 "armor_2_name":{
-"text":["Secretaria del emperador"]
+"text":["Secretaria del Emperador"]
 },
 "armor_2_desc":{
 "text": [
-"Prueba de la pureza jurada de una dama al Emperador.",
+"Prueba de la pureza de una dama jurada al Emperador.",
 "\\REM_EFF[armor_2_effect]"
 ]},
 "armor_3_name":{
-"text":["Newbie"]
+"text":["Novata"]
 },
 "armor_3_desc":{
-"text": ["Prueba del nacimiento de un nuevo Jefe Guardián.",
+"text": ["Prueba del Nacimiento de una nueva Directora.",
 "\\REM_EFF[armor_3_effect]"
 ]},
 
 "armor_6_name":{
-"text":["Gerente calificada"]
+"text":["Gerente Cualificada"]
 },
 "armor_6_desc":{
 "text": [
-"Prueba de la gestión eficiente de muchos horarios.",
+"Prueba de saber gestionar muchos horarios eficientemente.",
 "\\REM_EFF[armor_6_effect_passive]"
 ]},
 "armor_6_desc_equip":{
@@ -14200,11 +14200,11 @@
 "\\REM_EFF[armor_6_effect_equip]"
 ]},
 "armor_7_name":{
-"text":["experimentador ambicioso"]
+"text":["Experimentadora Ambiciosa"]
 },
 "armor_7_desc":{
 "text": [
-"Prueba de buscar siempre nuevas formas y métodos de hacer las cosas.",
+"Prueba de saber buscar siempre nuevas formas y métodos de hacer las cosas.",
 "\\REM_EFF[armor_7_effect_passive]"
 ]},
 "armor_7_desc_equip":{
@@ -14212,11 +14212,11 @@
 "\\REM_EFF[armor_7_effect_equip]"
 ]},
 "armor_8_name":{
-"text":["Debatidor de línea dura"]
+"text":["Debatidora Difícil"]
 },
 "armor_8_desc":{
 "text": [
-"\\}Prueba de adoptar una postura de 'A mi manera o te largas' después de presentar un argumento justo.",
+"\\}Prueba de haber adoptado una postura de 'Por las buenas o por las malas' después de haber recibido un argumento razonable.",
 "\\REM_EFF[armor_8_effect_passive]"
 ]},
 "armor_8_desc_equip":{
@@ -14224,11 +14224,11 @@
 "\\REM_EFF[armor_8_effect_equip]"
 ]},
 "armor_9_name":{
-"text":["Supervisora ​​de ahorro de costos"]
+"text":["Supervisora Ahorradora"]
 },
 "armor_9_desc":{
 "text": [
-"Prueba de estar siempre atento a las formas de ahorrar dinero.",
+"Prueba de estar siempre buscando formas de ahorrar dinero.",
 "\\REM_EFF[armor_9_effect_passive]"
 ]},
 "armor_9_desc_equip":{
@@ -14236,11 +14236,11 @@
 "\\REM_EFF[armor_9_effect_equip]"
 ]},
 "armor_10_name":{
-"text":["Tutor trabajadora"]
+"text":["Tutora Trabajadora"]
 },
 "armor_10_desc":{
 "text": [
-"Prueba de pasar horas extra después del trabajo ayudando a otros.",
+"Prueba de haber pasado horas extra después del trabajo ayudando a otros.",
 "\\REM_EFF[armor_10_effect_passive]"
 ]},
 "armor_10_desc_equip":{
@@ -14248,7 +14248,7 @@
 "\\REM_EFF[armor_10_effect_equip]"
 ]},
 "armor_11_name":{
-"text":["Consultora de gestión"]
+"text":["Gestora Consultora"]
 },
 "armor_11_desc":{
 "text": [
@@ -14265,7 +14265,7 @@
 "text":["[Pulsera] Cuerda"]
 },
 "armor_18_name":{
-"text":["[Pulsera] Cadena"]
+"text":["[Pulsera] Hilo"]
 },
 "armor_19_name":{
 "text":["[Pulsera] Cuentas"]
@@ -14292,7 +14292,7 @@
 "text":["[Anillo] Doble"]
 },
 "armor_27_name":{
-"text":["[Anillo] Garra de dedo"]
+"text":["[Anillo] Garra"]
 },
 "armor_28_name":{
 "text":["[Anillo] Escorpión"]
@@ -14301,13 +14301,13 @@
 "text":["[Anillo] Perla"]
 },
 "armor_30_name":{
-"text":["[Anillo] Mano de cadena"]
+"text":["[Anillo] Cadena"]
 },
 "armor_31_name":{
-"text":["[Anillo] Vidrio dorado"]
+"text":["[Anillo] Vidrio Dorado"]
 },
 "armor_32_name":{
-"text":["[Anillo] Piedra preciosa"]
+"text":["[Anillo] Piedras Preciosas"]
 },
 "armor_33_name":{
 "text":["[Pendientes] Lágrima"]
@@ -14340,7 +14340,7 @@
 "text":["[Collar] Bola"]
 },
 "armor_43_name":{
-"text":["[Collar] placa de identificación"]
+"text":["[Collar] Placa de Identificación"]
 },
 "armor_44_name":{
 "text":["[Collar] Jade"]
@@ -14360,24 +14360,24 @@
 
 
 "armor_53_name":{
-"text":["Hermoso guardián"]
+"text":["Directora Hermosa"]
 },
 "armor_53_desc":{
-"text":["Prueba de una hermosa directora que trabajó en una prisión (24+ Encanto)",
+"text":["Prueba de una hermosa directora que ha trabajado en una prisión (24+ Encanto)",
 "\\REM_EFF[armor_53_effect]"
 ]},
 "armor_54_name":{
-"text":["Impresionante guardián"]
+"text":["Directora Bellísima"]
 },
 "armor_54_desc":{
-"text":["Prueba de una directora increíblemente hermosa que vivía en una prisión (32+ Encanto)",
+"text":["Prueba de una directora increíblemente hermosa que ha vivido en una prisión (32+ Encanto)",
 "\\REM_EFF[armor_54_effect]"
 ]},
 "armor_55_name":{
-"text":["Guardián Encantadora"]
+"text":["Directora Encantadora"]
 },
 "armor_55_desc":{
-"text":["Prueba de una mujer que llamaba la atención allá donde iba (42+ Encanto)",
+"text":["Prueba de una mujer que ha llamado la atención allá donde ha ido (42+ Encanto)",
 "\\REM_EFF[armor_55_effect]"
 ]},
 "armor_56_name":{
@@ -14388,1281 +14388,1281 @@
 "\\REM_EFF[armor_56_effect]"
 ]},
 "armor_57_name":{
-"text":["Gastador derrochador"]
+"text":["Derrochadora Ruinosa"]
 },
 "armor_57_desc":{
-"text":["Prueba de un mal director que llevó la prisión a la quiebra.",
+"text":["Prueba de una mala directora que llevó la prisión a la quiebra.",
 "\\REM_EFF[armor_57_effect]"
 ]},
 "armor_58_name":{
-"text":["Mujer gastadora"]
+"text":["Mujer Despilfarradora"]
 },
 "armor_58_desc":{
-"text":["Prueba de un administrador fallido que dejó la prisión en quiebra más de 5 veces.",
+"text":["Prueba de una mala gestora que dejó la prisión en quiebra más de 5 veces.",
 "\\REM_EFF[armor_58_effect]"
 ]},
 "armor_59_name":{
-"text":["Reina de la quiebra"]
+"text":["Reina de la Quiebra"]
 },
 "armor_59_desc":{
-"text":["\\}La prueba de un defraudador fiscal que reinó en una prisión en quiebra durante más de dos semanas.",
+"text":["\\}La prueba de una defraudadora fiscal que reinó en una prisión en quiebra durante más de dos semanas.",
 "\\REM_EFF[armor_59_effect]"
 ]},
 "armor_60_name":{
-"text":["Honorable Administrador"]
+"text":["Administradora Honorable"]
 },
 "armor_60_desc":{
-"text":["Prueba de una Guardian que mantuvo el orden perfecto durante más de un día.",
+"text":["Prueba de una directora que mantuvo el orden perfecto durante más de un día.",
 "\\REM_EFF[armor_60_effect]"
 ]},
 "armor_61_name":{
-"text":["Excelente líder"]
+"text":["Líder Excelente"]
 },
 "armor_61_desc":{
-"text":["Prueba de un líder ideal que mantuvo el orden perfecto durante más de una semana.",
+"text":["Prueba de una líder ideal que mantuvo el orden perfecto durante más de una semana.",
 "\\REM_EFF[armor_61_effect]"
 ]},
 "armor_62_name":{
 "text":["Emperatriz de Fuerte Ganon"]
 },
 "armor_62_desc":{
-"text":["\\}La prueba de una reina que mantuvo un control férreo sobre el orden de prisión durante más de un mes.",
+"text":["\\}La prueba de una reina que mantuvo con puño de hierro el orden de la prisión durante más de un mes.",
 "\\REM_EFF[armor_62_effect]"
 ]},
 "armor_63_name":{
 "text":["Gran Orden"]
 },
 "armor_63_desc":{
-"text":["Prueba de un gran maestro que defendió la orden durante más de 69 días.",
+"text":["Prueba de una gran maestra que defendió el orden durante más de 69 días.",
 "\\REM_EFF[armor_63_effect]"
 ]},
 "armor_64_name":{
-"text":["Una decepción"]
+"text":["Una Decepción"]
 },
 "armor_64_desc":{
-"text":["\\}Prueba de un fracaso que dejó que la anarquía se apoderara de la prisión (Mal final).",
+"text":["\\}Prueba de un fracaso que dejó que la anarquía se apoderara de la prisión (Final Malo).",
 "\\REM_EFF[armor_64_effect]"
 ]},
 
 "armor_66_name":{
-"text":["Bella durmiente"]
+"text":["Bella Durmiente"]
 },
 "armor_66_desc":{
-"text":["Prueba de un pervertido que le dio su primer beso a un pene.",
+"text":["Prueba de una pervertida que le ha dado su primer beso a un pene.",
 "\\REM_EFF[armor_66_effect]"
 ]},
 "armor_67_name":{
-"text":["virgen anormal"]
+"text":["Virgen Anormal"]
 },
 "armor_67_desc":{
-"text":["Prueba de una virgen pervertida que perdió su virginidad anal primero.",
+"text":["Prueba de una virgen pervertida que ha perdido su virginidad anal primero.",
 "\\REM_EFF[armor_67_effect]"
 ]},
 "armor_68_name":{
-"text":["Belleza digna"]
+"text":["Belleza Majestuosa"]
 },
 "armor_68_desc":{
-"text":["Prueba de una señora que arregló su apariencia más de 25 veces.",
+"text":["Prueba de una señorita que ha arreglado su apariencia más de 25 veces.",
 "\\REM_EFF[armor_68_effect]"
 ]},
 "armor_69_name":{
-"text":["Belleza descuidada"]
+"text":["Belleza Descuidada"]
 },
 "armor_69_desc":{
-"text":["Prueba de una mujer que tuvo que arreglarse la ropa más de 150 veces.",
+"text":["Prueba de una mujer que ha tenido que arreglarse la ropa más de 150 veces.",
 "\\REM_EFF[armor_69_effect]"
 ]},
 "armor_70_name":{
-"text":["virgen devorando culo-vagina"]
+"text":["Culo Devorador de Vírgenes"]
 },
 "armor_70_desc":{
-"text":["Prueba de una pervertida que se comió más de 20 pollas vírgenes con el ano.",
+"text":["Prueba de una pervertida que se ha metido más de 20 pollas vírgenes por el culo.",
 "\\REM_EFF[armor_70_effect]"
 ]},
 "armor_71_name":{
-"text":["Hada del ciruelo del azúcar"]
+"text":["Hada de Azúcar"]
 },
 "armor_71_desc":{
-"text":["Prueba de una amante de los juguetes que le entregó su virginidad a uno.",
+"text":["Prueba de una amante de los juguetes que le ha entregado su virginidad a uno.",
 "\\REM_EFF[armor_71_effect]"
 ]},
 "armor_72_name":{
-"text":["La belleza y el culo"]
+"text":["La Bella y El Culo"]
 },
 "armor_72_desc":{
-"text":["Prueba de una nena que le dio su primer beso en el ano a un hombre.",
+"text":["Prueba de una nena que le ha dado su primer beso al ano de un hombre.",
 "\\REM_EFF[armor_72_effect]"
 ]},
 "armor_73_name":{
-"text":["Camarera trabajadora"]
+"text":["Camarera Trabajadora"]
 },
 "armor_73_desc":{
-"text":["Prueba de una camarera que completó más de 10 turnos estando sobria.",
+"text":["Prueba de una camarera que ha completado más de 10 jornadas estando sobria.",
 "\\REM_EFF[armor_73_effect]"
 ]},
 "armor_74_name":{
-"text":["Ejecutor del bar"]
+"text":["Ejecutora del Bar"]
 },
 "armor_74_desc":{
-"text":["Prueba de un portero que echó del bar a más de 40 malos clientes.",
+"text":["Prueba de una portera que ha echado del bar a más de 40 malos clientes.",
 "\\REM_EFF[armor_74_effect]"
 ]},
 "armor_75_name":{
-"text":["Camarera experimentada"]
+"text":["Camarera Experimentada"]
 },
 "armor_75_desc":{
-"text":["Prueba de una camarera que terminó más de 20 turnos.",
+"text":["Prueba de una camarera que ha completado más de 20 jornadas.",
 "\\REM_EFF[armor_75_effect]"
 ]},
 "armor_76_name":{
-"text":["bebedor gorrón"]
+"text":["Bebedora Gorrona"]
 },
 "armor_76_desc":{
-"text":["Prueba de un alcohólico que se emborrachó mientras trabajaba más de 10 veces.",
+"text":["Prueba de una alcohólica que se ha emborrachado mientras trabajaba más de 10 veces.",
 "\\REM_EFF[armor_76_effect]"
 ]},
 "armor_77_name":{
-"text":["Masoquista suave"]
+"text":["Masoquista Suave"]
 },
 "armor_77_desc":{
-"text":["Prueba de un masoquista en ciernes con 6 o más niveles de masoquismo sobre sadismo.",
+"text":["Prueba de una masoquista en ciernes con 6 o más niveles de masoquismo por encima de sadismo.",
 "\\REM_EFF[armor_77_effect]"
 ]},
 "armor_78_name":{
-"text":["Masoquista pervertido"]
+"text":["Masoquista Pervertida"]
 },
 "armor_78_desc":{
-"text":["Prueba de un masoquista con 12 o más niveles de masoquismo sobre sadismo.",
+"text":["Prueba de una masoquista con 12 o más niveles de masoquismo por encima de sadismo.",
 "\\REM_EFF[armor_78_effect]"
 ]},
 "armor_79_name":{
-"text":["Sádica suave"]
+"text":["Sádica Suave"]
 },
 "armor_79_desc":{
-"text":["Prueba de un sádico novato con 5 o más niveles de sadismo sobre masoquismo.",
+"text":["Prueba de una sádica novata con 5 o más niveles de sadismo por encima de masoquismo.",
 "\\REM_EFF[armor_79_effect]"
 ]},
 "armor_80_name":{
 "text":["Sádico pervertido"]
 },
 "armor_80_desc":{
-"text":["Prueba de un sádico novato con 10 o más niveles de sadismo sobre masoquismo.",
+"text":["Prueba de una sádica novata con 10 o más niveles de sadismo por encima de masoquismo.",
 "\\REM_EFF[armor_80_effect]"
 ]},
 "armor_81_name":{
 "text":["Contraatacante"]
 },
 "armor_81_desc":{
-"text":["Prueba de un luchador que contraatacó más de 50 veces.",
+"text":["Prueba de una luchadora que ha contraatacado más de 50 veces.",
 "\\REM_EFF[armor_81_effect]"
 ]},
 "armor_82_name":{
-"text":["Luchador de reversión"]
+"text":["Luchadora Revulsiva"]
 },
 "armor_82_desc":{
-"text":["\\}\\}Prueba de un luchador experimentado que contraatacó 25 veces más que atacando normalmente (Nivel 16+, 100+ ataques).\\{\\{",
+"text":["\\}\\}Prueba de una luchadora experimentada que ha contraatacado 25 veces más que ataques normales ha hecho (Nivel 16+, 100+ ataques).\\{\\{",
 "\\REM_EFF[armor_82_effect]"
 ]},
 "armor_83_name":{
-"text":["Maestro cebo"]
+"text":["Maestra del Anzuelo"]
 },
 "armor_83_desc":{
-"text":["\\}Prueba de un luchador veterano que contraatacó más de 3 veces más que atacando normalmente (Nivel 36+, 200+ ataques).\\{",
+"text":["\\}Prueba de una luchadora veterana que ha contraatacado 3 veces más que ataques normales ha hecho (Nivel 36+, 200+ ataques).\\{",
 "\\REM_EFF[armor_83_effect]"
 ]},
 "armor_84_name":{
 "text":["Mujer Contundente"]
 },
 "armor_84_desc":{
-"text":["\\}Prueba de un guerrero que usó habilidades de tipo Contundente más veces que otros tipos de ataques (100+ ataques).\\{",
+"text":["\\}Prueba de una guerrera que ha usado ataques Contundentes más veces que otros tipos de ataques (100+ ataques).\\{",
 "\\REM_EFF[armor_84_effect]"
 ]},
 "armor_85_name":{
 "text":["Mujer Pesada"]
 },
 "armor_85_desc":{
-"text":["\\}\\}Prueba de un guerrero experimentado que usó habilidades de tipo Contundente más veces que otros tipos de ataques (Nivel 16+, 200+ ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Contundentes más veces que otros tipos de ataques (Nivel 16+, 200+ ataques).\\{\\{",
 "\\REM_EFF[armor_85_effect]"
 ]},
 "armor_86_name":{
 "text":["Mujer Gruesa"]
 },
 "armor_86_desc":{
-"text":["\\}\\}Prueba de un guerrero veterano que usó habilidades de tipo Contundente más veces que otros tipos de ataques (Nivel 36+, 300+ ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera veterana que ha usado ataques Contundentes más veces que otros tipos de ataques (Nivel 36+, +300 ataques).\\{\\{",
 "\\REM_EFF[armor_86_effect]"
 ]},
 "armor_87_name":{
-"text":["Propulsor rápido"]
+"text":["Empaladora Veloz"]
 },
 "armor_87_desc":{
-"text":["\\}\\}Prueba de un guerrero que usó habilidades de tipo Perforadores más veces que otros tipos de ataques (100+ ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera que ha usado ataques Perforantes más veces que otros tipos de ataques (100+ ataques).\\{\\{",
 "\\REM_EFF[armor_87_effect]"
 ]},
 "armor_88_name":{
-"text":["Propulsor implacable"]
+"text":["Empaladora Implacable"]
 },
 "armor_88_desc":{
-"text":["\\}\\}Prueba de un guerrero experimentado que usó habilidades de tipo Perforadores más veces que otros tipos de ataques (Nive 16+, 200+ ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Perforantes más veces que otros tipos de ataques (Nivel 16+, 200+ ataques).\\{\\{",
 "\\REM_EFF[armor_88_effect]"
 ]},
 "armor_89_name":{
-"text":["Propulsor sónico"]
+"text":["Empaladora Sónica"]
 },
 "armor_89_desc":{
-"text":["\\}\\}Prueba de un guerrero veterano que usó habilidades de tipo Perforadores más veces que otros tipos de ataques (Nive 36+, 300+ ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera veterana que ha usado ataques Perforantes más veces que otros tipos de ataques (Nivel 36+, +300 ataques).\\{\\{",
 "\\REM_EFF[armor_89_effect]"
 ]},
 "armor_90_name":{
-"text":["Mujer Cortadora"]
+"text":["Mujer Cortante"]
 },
 "armor_90_desc":{
-"text":["\\}Prueba de un guerrero que usó habilidades de tipo Corte más veces que otros tipos de ataques (100+ ataques).\\{",
+"text":["\\}Prueba de una guerrera que ha usado ataques Cortantes más veces que otros tipos de ataques (100+ ataques).\\{",
 "\\REM_EFF[armor_90_effect]"
 ]},
 "armor_91_name":{
-"text":["Neo Slasher"]
+"text":["Neo Cortante"]
 },
 "armor_91_desc":{
-"text":["\\}\\}Prueba de un guerrero experimentado que usó habilidades de tipo Corte más veces que otros tipos de ataques (Nive 16+, 200+ ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Cortantes más veces que otros tipos de ataques (Nivel 16+, 200+ ataques).\\{\\{",
 "\\REM_EFF[armor_91_effect]"
 ]},
 "armor_92_name":{
-"text":["Cortadora de barreras"]
+"text":["Cortadora de Barreras"]
 },
 "armor_92_desc":{
-"text":["\\}\\}Prueba de un guerrero experto que usó habilidades de tipo Corte más veces que otros tipos de ataques (Nive 36+, 300+ ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera experta que ha usado ataques Cortantes más veces que otros tipos de ataques (Nivel 36+, +300 ataques).\\{\\{",
 "\\REM_EFF[armor_92_effect]"
 ]},
 "armor_93_name":{
-"text":["Luchador de prisión"]
+"text":["Luchadora Carcelaria"]
 },
 "armor_93_desc":{
-"text": ["Prueba de una luchadora que pateó más de 10 veces con las piernas.",
+"text": ["Prueba de una luchadora que ha pateado más de 10 veces con las piernas.",
 "\\REM_EFF[armor_93_effect]"
 ]},
 "armor_94_name":{
-"text":["¡Patada giratoria de pájaro!"]
+"text":["¡Spinning Bird Kick!"]
 },
 "armor_94_desc":{
-"text": ["Prueba de una luchadora de prisión que pateó 42 veces con las piernas. (Nivel 16+)",
+"text": ["Prueba de una luchadora carcelaria que ha pateado 42 veces con las piernas. (Nivel 16+)",
 "\\REM_EFF[armor_94_effect]"
 ]},
 "armor_95_name":{
-"text":["Belleza de primavera"]
+"text":["Belleza Primaveral"]
 },
 "armor_95_desc":{
-"text": ["Prueba de una luchadora bien formada que pateó más de 150 veces con las piernas. (Nivel 36+)",
+"text": ["Prueba de una luchadora bien formada que ha pateado más de 150 veces con las piernas. (Nivel 36+)",
 "\\REM_EFF[armor_95_effect]"
 ]},
 "armor_96_name":{
-"text":["reina de los luchadores"]
+"text":["Queen of Fighters"]
 },
 "armor_96_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en el modo Guardian con \\I[89]Luchador de prisión equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[89]Luchadora Carcelaria equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_96_effect]"
 ]},
 "armor_97_name":{
 "text":["Luchadora definitiva"]
 },
 "armor_97_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Prisionero con \\I[89]Luchador de prisión equipado durante todo el juego desde el Nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Prisionera con \\I[89]Luchadora Carcelaria equipado desde el Nivel 1.\\{\\}",
 "\\REM_EFF[armor_97_effect]"
 ]},
 "armor_98_name":{
-"text":["Discípulo de la fuerza"]
+"text":["Discípula de la Fuerza"]
 },
 "armor_98_desc":{
-"text":["\\}Prueba de un guardián que tiene más niveles de fuerza que otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de fuerza que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_98_effect]"
 ]},
 "armor_99_name":{
-"text":["Doctrina de la fuerza"]
+"text":["Doctrina de la Fuerza"]
 },
 "armor_99_desc":{
-"text":["\\}Prueba de un guardián que tiene muchos más niveles de fuerza que otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de fuerza que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_99_effect]"
 ]},
 "armor_100_name":{
-"text":["El poder abrumador es el rey"]
+"text":["Un Poder Abrumador lo es Todo"]
 },
 "armor_100_desc":{
-"text":["\\}Prueba de un guardián que ganó el juego con muchos más niveles de fuerza que otras estadísticas. (Niveles de estadísticas 15+)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de fuerza que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_100_effect]"
 ]},
 "armor_101_name":{
-"text":["Discípula de la destreza"]
+"text":["Discípula de la Destreza"]
 },
 "armor_101_desc":{
-"text":["\\}Prueba de un guardián que tiene más niveles de destreza que otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de destreza que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_101_effect]"
 ]},
 "armor_102_name":{
-"text":["Doctrina de la destreza"]
+"text":["Doctrina de la Destreza"]
 },
 "armor_102_desc":{
-"text":["\\}Prueba de un guardián que tiene muchos más niveles de destreza que otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de destreza que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_102_effect]"
 ]},
 "armor_103_name":{
-"text":["La técnica es suprema"]
+"text":["Supremacía de la Técnica"]
 },
 "armor_103_desc":{
-"text":["\\}Prueba de un guardián que ganó el juego con muchos más niveles de destreza que otras estadísticas. (Niveles de estadísticas 15+)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de destreza que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_103_effect]"
 ]},
 "armor_104_name":{
-"text":["Discípulo de la agilidad"]
+"text":["Discípula de la Agilidad"]
 },
 "armor_104_desc":{
-"text":["\\}Prueba de un guardián que tiene más niveles de agilidad que otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de agilidad que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_104_effect]"
 ]},
 "armor_105_name":{
-"text":["Doctrina de la agilidad"]
+"text":["Doctrina de la Agilidad"]
 },
 "armor_105_desc":{
-"text":["\\}Prueba de un guardián que tiene muchos más niveles de agilidad que otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de agilidad que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_105_effect]"
 ]},
 "armor_106_name":{
-"text":["Primer golpe = victoria"]
+"text":["Primer Golpe = Victoria"]
 },
 "armor_106_desc":{
-"text":["\\}Prueba de un guardián que ganó el juego con muchos más niveles de agilidad que otras estadísticas. (Niveles de estadísticas 15+)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de agilidad que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_106_effect]"
 ]},
 "armor_107_name":{
-"text":["Discípulo de la resistencia"]
+"text":["Discípula del Vigor"]
 },
 "armor_107_desc":{
-"text":["\\}Prueba de un guardián que tiene más niveles de resistencia que otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de Vigor que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_107_effect]"
 ]},
 "armor_108_name":{
-"text":["Doctrina de la resistencia"]
+"text":["Doctrina del Vigor"]
 },
 "armor_108_desc":{
-"text":["\\}Prueba de un guardián que tiene muchos más niveles de resistencia que otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de Vigor que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_108_effect]"
 ]},
 "armor_109_name":{
-"text":["El mejor ataque es una defensa fuerte"]
+"text":["El Mejor Ataque es una Buena Defensa"]
 },
 "armor_109_desc":{
-"text":["\\}Prueba de un guardián que ganó el juego con muchos más niveles de resistencia que otras estadísticas. (Niveles de estadísticas 15+)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de Vigor que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_109_effect]"
 ]},
 "armor_110_name":{
-"text":["Discípulo de la mente"]
+"text":["Discípula de la Mente"]
 },
 "armor_110_desc":{
-"text":["\\}Prueba de un guardián que tiene más niveles mentales que otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de mente que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_110_effect]"
 ]},
 "armor_111_name":{
-"text":["Doctrina de la mente"]
+"text":["Doctrina de la Mente"]
 },
 "armor_111_desc":{
-"text":["\\}Prueba de un guardián que tiene muchos más niveles mentales que otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de mente que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_111_effect]"
 ]},
 "armor_112_name":{
-"text":["Deformar la realidad con voluntad de hierro"]
+"text":["Deformar la Realidad con Voluntad de Hierro"]
 },
 "armor_112_desc":{
-"text":["\\}Prueba de un guardián que ganó el juego con muchos más niveles mentales que otras estadísticas. (Niveles de estadísticas 15+)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de mente que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_112_effect]"
 ]},
 "armor_113_name":{
-"text":["Guardián lascivo"]
+"text":["Directora Lasciva"]
 },
 "armor_113_desc":{
 "text":[
-"Prueba de un adicto al sexo que utilizó más de 10 habilidades sexuales más que habilidades de ataque. (50+ Habilidades)",
+"Prueba de una adicta al sexo que ha utilizado 10 veces más habilidades sexuales que habilidades de ataque. (50+ Habilidades)",
 "\\REM_EFF[armor_113_effect]"
 ]},
 "armor_114_name":{
-"text":["Contenedor de basura enloquecido por la polla"]
+"text":["Guarra Enloquecida por las Pollas"]
 },
 "armor_114_desc":{
 "text":[
-"Prueba de una puta que usó más de 3 veces más habilidades sexuales que habilidades de ataque. (Más de 150 habilidades)",
+"Prueba de una puta que ha usado 3 veces más habilidades sexuales que habilidades de ataque. (150+ habilidades)",
 "\\REM_EFF[armor_114_effect]"
 ]},
 "armor_115_name":{
-"text":["Dama imperial"]
+"text":["Dama Imperial"]
 },
 "armor_115_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en el modo Guardiann con \\I[89]secretaria del emperador equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[89]Secretaria del Emperador equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_115_effect]"
 ]},
 "armor_116_name":{
-"text":["Orgullo del imperio"]
+"text":["Orgullo del Imperio"]
 },
 "armor_116_desc":{
-"text":["\\}\\}Prueba de un alcaide que ganó el juego en Modo Prisionera con \\I[89]secretaria del emperador equipado todo el juego desde el Nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Prisionera con \\I[89]Secretaria del Emperador equipado desde el Nivel 1.\\{\\}",
 "\\REM_EFF[armor_116_effect]"
 ]},
 "armor_117_name":{
-"text":["Matrona de prisión"]
+"text":["Matrona de la Prisión"]
 },
 "armor_117_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en el modo Guardian con \\I[88]Excelente líder equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[88]Líder Excelente equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_117_effect]"
 ]},
 "armor_118_name":{
-"text":["Gobernante suprema de la prisión"]
+"text":["Gobernante Suprema de la Prisión"]
 },
 "armor_118_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Prisionera con \\I[88]Excelente Líder equipado todo el juego desde el Nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Prisionera con \\I[88]Líder Excelente equipado desde el Nivel 1.\\{\\}",
 "\\REM_EFF[armor_118_effect]"
 ]},
 "armor_119_name":{
 "text":["Supresora"]
 },
 "armor_119_desc":{
-"text":["Prueba de un guardián que sofocó más de 3 disturbios.",
+"text":["Prueba de una directora que ha acabado con más de 3 disturbios.",
 "\\REM_EFF[armor_119_effect]"
 ]},
 "armor_120_name":{
-"text":["Castigador"]
+"text":["Castigadora"]
 },
 "armor_120_desc":{
-"text":["Prueba de un guardián violenta que sofocó más de 15 disturbios.",
+"text":["Prueba de una directora violenta que ha acabado con más de 15 disturbios.",
 "\\REM_EFF[armor_120_effect]"
 ]},
 "armor_121_name":{
-"text":["Fabricante de cadenas"]
+"text":["Encadenadora"]
 },
 "armor_121_desc":{
-"text":["Prueba de un guardina despiadada que sofocó más de 69 disturbios.",
+"text":["Prueba de una directora despiadada que ha acabado con más de 69 disturbios.",
 "\\REM_EFF[armor_121_effect]"
 ]},
 "armor_122_name":{
-"text":["Ídol imperial"]
+"text":["Idol Imperial"]
 },
 "armor_122_desc":{
-"text":["Prueba de una ídol que dio más de 42 apretones de manos a sus fans.",
+"text":["Prueba de una idol que ha dado más de 42 apretones de manos a sus fans.",
 "\\REM_EFF[armor_122_effect]"
 ]},
 "armor_123_name":{
-"text":["La ídol de todos"]
+"text":["Idol Universal"]
 },
 "armor_123_desc":{
-"text":["Prueba de una ídol que guardó su primer beso para un visitante.",
+"text":["Prueba de una idol que ha guardado su primer beso para un visitante.",
 "\\REM_EFF[armor_123_effect]"
 ]},
 "armor_124_name":{
-"text":["Recepcionista diligente"]
+"text":["Recepcionista Diligente"]
 },
 "armor_124_desc":{
-"text":["Comprobante de recepcionista que haya completado más de 20 turnos.",
+"text":["Prueba de una recepcionista que ha completado más de 20 jornadas.",
 "\\REM_EFF[armor_124_effect]"
 ]},
 "armor_125_name":{
-"text":["Recepción de Gokkun"]
+"text":["Recepcionista Tragasemen"]
 },
 "armor_125_desc":{
-"text":["Prueba de una guarra que bebió más de 420 ml de semen de los visitantes.",
+"text":["Prueba de una guarra que ha bebido más de 420 ml de semen de visitantes.",
 "\\REM_EFF[armor_125_effect]"
 ]},
 "armor_126_name":{
-"text":["Cesta de basura Goblin"]
+"text":["Cubo de basura Goblin"]
 },
 "armor_126_desc":{
-"text":["Prueba de una puta que tomó 420 ml de semen de goblins mientras trabajaba en la recepción.",
+"text":["Prueba de una puta que ha bebido más de 420 ml de semen de goblins mientras trabajaba en la recepción.",
 "\\REM_EFF[armor_126_effect]"
 ]},
 "armor_127_name":{
-"text":["Empujador de papel"]
+"text":["Burócrata"]
 },
 "armor_127_desc":{
-"text":["Prueba de una trabajadora que procesó más de 150 papeles.",
+"text":["Prueba de una trabajadora que ha procesado más de 150 papeles.",
 "\\REM_EFF[armor_127_effect]"
 ]},
 "armor_128_name":{
-"text":["Ídol escandalosa"]
+"text":["Idol Escandalosa"]
 },
 "armor_128_desc":{
-"text":["Prueba de una puta que tuvo relaciones sexuales más de 15 veces mientras se daba la mano.",
+"text":["Prueba de una puta que ha tenido relaciones sexuales más de 15 veces mientras daba la mano.",
 "\\REM_EFF[armor_128_effect]"
 ]},
 "armor_129_name":{
-"text":["Radiolibre del Fuerte Ganon"]
+"text":["Fuerte Ganon FM"]
 },
 "armor_129_desc":{
-"text":["Prueba de un superior que tuvo un orgasmo mientras hablaba por radio en el Centro de Visitantes.",
+"text":["Prueba de una superiora que ha tenido un orgasmo mientras hablaba por radio en el Centro de Visitantes.",
 "\\REM_EFF[armor_129_effect]"
 ]},
 "armor_130_name":{
-"text":["Camarera tetona"]
+"text":["Camarera Tetona"]
 },
 "armor_130_desc":{
-"text":["Prueba de una camarera atractiva que dejó que los clientes la tocaran más de 25 veces.",
+"text":["Prueba de una camarera atractiva que ha dejado que los clientes la tocaran más de 25 veces.",
 "\\REM_EFF[armor_130_effect]"
 ]},
 "armor_131_name":{
-"text":["moza torpe"]
+"text":["Moza Torpe"]
 },
 "armor_131_desc":{
-"text":["Prueba de una mala camarera a la que se le cayó la bandeja más de 3 veces por tener un orgasmo.",
+"text":["Prueba de una mala camarera a la que se le ha caido la bandeja más de 3 veces por tener un orgasmo.",
 "\\REM_EFF[armor_131_effect]"
 ]},
 "armor_132_name":{
-"text":["Devorador de semen"]
+"text":["Devoradora de semen"]
 },
 "armor_132_desc":{
-"text":["Prueba de una zorra que bebió más de 300 ml de semen de una taza.",
+"text":["Prueba de una zorra que ha bebido más de 300 ml de semen de una jarra.",
 "\\REM_EFF[armor_132_effect]"
 ]},
 "armor_133_name":{
 "text":["Camarera Dorada"]
 },
 "armor_133_desc":{
-"text":["Prueba de una camarera premiada con más de 30 Reputación de Bar.",
+"text":["Prueba de una camarera con más de 30 de Reputación del Bar.",
 "\\REM_EFF[armor_133_effect]"
 ]},
 "armor_134_name":{
-"text":["Recepcionista de clase mundial"]
+"text":["Recepcionista de Clase Mundial"]
 },
 "armor_134_desc":{
-"text":["\\}Prueba de una recepcionista galardonada con más de 30 reputación, fama y notoriedad en centros de visitantes.\\{",
+"text":["\\}Prueba de una recepcionista con más de 30 de reputación del centros de visitantes, fama y notoriedad.\\{",
 "\\REM_EFF[armor_134_effect]"
 ]},
 "armor_135_name":{
 "text":["Redimida"]
 },
 "armor_135_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en el modo Guardian con \\I[89]A Disappointment equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[89]Una Decepción equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_135_effect]"
 ]},
 "armor_136_name":{
-"text":["Autora de una historia de éxito"]
+"text":["Autora de Una Historia de Éxito"]
 },
 "armor_136_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Prisionera con \\I[89]A Disappointment equipado durante todo el juego desde el Nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Prisionera con \\I[89]Una Decepción equipado desde el Nivel 1.\\{\\}",
 "\\REM_EFF[armor_136_effect]"
 ]},
 "armor_137_name":{
-"text":["Tocadora de gatitos"]
+"text":["Tocacoños"]
 },
 "armor_137_desc":{
-"text":["Prueba de una monada que acarició a un lindo gatito.",
+"text":["Prueba de una monada que ha acariciado a un lindo gatito.",
 "\\REM_EFF[armor_137_effect]"
 ]},
 "armor_138_name":{
-"text":["Mucama de guardias 24/7"]
+"text":["Sirvienta de los Guardias 24/7"]
 },
 "armor_138_desc":{
-"text":["Prueba de una superior que sirvió a sus subordinados todo el día y toda la noche.",
+"text":["Prueba de una superiora que ha servido a sus subordinados día y noche.",
 "\\REM_EFF[armor_138_effect]"
 ]},
 "armor_139_name":{
-"text":["Agujeros gloriosos"]
+"text":["Glorious Holes"]
 },
 "armor_139_desc":{
-"text":["Prueba de un sanitario premiado con más de 30 Reputaciones de Baño.",
+"text":["Prueba de un retrete con más de 30 de Reputación del Baño.",
 "\\REM_EFF[armor_139_effect]"
 ]},
 "armor_140_name":{
-"text":["Baño de 3 estrellas"]
+"text":["Baño de 3 Estrellas"]
 },
 "armor_140_desc":{
-"text":["Prueba de un sanitario que tenía una cola con más de 7 personas esperando para usarla.",
+"text":["Prueba de un retrete que ha tenido una cola de más de 7 personas esperando para usarla.",
 "\\REM_EFF[armor_140_effect]"
 ]},
 "armor_141_name":{
-"text":["Baño humano trabajador"]
+"text":["Diligente Baño Humano"]
 },
 "armor_141_desc":{
-"text":["Prueba de un conjunto de huecos que sirvieron a más de veinte hombres en un mismo día como retrete y urinario.",
+"text":["Prueba de un par de agujeros que ha servido a más de 20 hombres en un mismo día como retrete.",
 "\\REM_EFF[armor_141_effect]"
 ]},
 "armor_142_name":{
-"text":["El baño de al lado"]
+"text":["El Baño de al Lado"]
 },
 "armor_142_desc":{
-"text":["Prueba de un vecino ruidoso que tuvo un orgasmo mientras alguien estaba comiendo en el baño de al lado.",
+"text":["Prueba de una vecina ruidosa que ha tenido un orgasmo mientras alguien estaba comiendo en el baño de al lado.",
 "\\REM_EFF[armor_142_effect]"
 ]},
 "armor_143_name":{
-"text":["Destino final"]
+"text":["Destino Final"]
 },
 "armor_143_desc":{
-"text":["Prueba de una mujer amable que le hizo más de 10 mamadas a alguien que acababa de orinar.",
+"text":["Prueba de una mujer amable que ha hecho más de 10 mamadas a alguien que acababa de mear.",
 "\\REM_EFF[armor_143_effect]"
 ]},
 "armor_144_name":{
-"text":["El baño es donde está el corazón"]
+"text":["El Corazón está en el Baño"]
 },
 "armor_144_desc":{
-"text":["Prueba de un alcaide que pasó más de 99 turnos descansando en el inodoro.",
+"text":["Prueba de una directora que ha pasado más de 99 turnos descansando en el inodoro.",
 "\\REM_EFF[armor_144_effect]"
 ]},
 "armor_145_name":{
-"text":["Como un pájaro"]
+"text":["Como un Pájaro"]
 },
 "armor_145_desc":{
-"text":["Prueba de una luchadora que evadió más veces de las que recibió (10+ evasiones).",
+"text":["Prueba de una luchadora que ha esquivado más veces de las que ha recibido ataques (+10 evasiones).",
 "\\REM_EFF[armor_145_effect]"
 ]},
 "armor_146_name":{
-"text":["Como una bailarina"]
+"text":["Como una Bailarina"]
 },
 "armor_146_desc":{
-"text":["Prueba de una bailarina ágil que evadió más veces de las que recibió (Nivel 16+, 42+ Evasiones).",
+"text":["Prueba de una bailarina ágil que ha esquivado más veces de las que ha recibido ataques (Nivel 16+, +42 Evasiones).",
 "\\REM_EFF[armor_146_effect]"
 ]},
 "armor_147_name":{
-"text":["Liviano como una pluma"]
+"text":["Ligero como una Pluma"]
 },
 "armor_147_desc":{
-"text":["\\}Prueba de una bailarina resbaladiza que evadió más veces de las que recibió (Nivel 36+, 150+ Evasiones).",
+"text":["\\}Prueba de una bailarina escurridiza que ha esquivado más veces de las que ha recibido ataques (Nivel 36+, +150 Evasiones).",
 "\\REM_EFF[armor_147_effect]"
 ]},
 "armor_148_name":{
-"text":["Aspirante a héroe"]
+"text":["Aspirante a Heroína"]
 },
 "armor_148_desc":{
-"text":["Prueba de un fan que recopiló los cuatro volúmenes de Directrices del Heroe.",
+"text":["Prueba de un fan que ha recopilado los cuatro volúmenes de Directrices del Héroe.",
 "\\REM_EFF[armor_148_effect]"
 ]},
 "armor_149_name":{
-"text":["Héroe exitoso"]
+"text":["Heroína Exitosa"]
 },
 "armor_149_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Guardián con \\I[88]Directrices de Heroe equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[88]Directrices del Héroe equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_149_effect]"
 ]},
 "armor_150_name":{
-"text":["Galactic Hero"]
+"text":["Heroína Galactica"]
 },
 "armor_150_desc":{
-"text":["\\}\\Prueba de un guardián que ganó el juego en Modo Prisionera con \\I[88]Directrices de Heroe equipado durante todo el juego desde el Nivel 1.\\{\\}",
+"text":["\\}\\Prueba de una directora que ha completado el juego en Modo Prisionera con \\I[88]Directrices del Héroe equipado  desde el Nivel 1.\\{\\}",
 "\\REM_EFF[armor_150_effect]"
 ]},
 "armor_151_name":{
-"text":["Prison Brawl Winner"]
+"text":["Ganadora de Peleas de Prisión"]
 },
 "armor_151_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Guardián con \\I[88]Destino final equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[88]Destino Final equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_151_effect]"
 ]},
 "armor_152_name":{
-"text":["World Star Champion"]
+"text":["Campeona Mundial"]
 },
 "armor_152_desc":{
-"text":["\\}\\}Prueba de un guardián que ganó el juego en Modo Prisionera con \\I[88]Destino final equipado durante todo el juego desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Prisionera con \\I[88]Destino Final equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_152_effect]"
 ]},
 "armor_153_name":{
-"text":["Conocedor de la comida gourmet"]
+"text":["Connoisseur de la Comida Gourmet"]
 },
 "armor_153_desc":{
-"text":["Prueba de un comensal que probó todo el menú artesanal.",
+"text":["Prueba de un comensal que ha probado todo el menú artesanal.",
 "\\REM_EFF[armor_153_effect]"
 ]},
 "armor_154_name":{
 "text":["Asesina de Orcos"]
 },
 "armor_154_desc":{
-"text":["Prueba de un jefa de guardia que sometió a Tonkin.",
+"text":["Prueba de una directora que ha sometido a Tonkin.",
 "\\REM_EFF[armor_154_effect]"
 ]},
 "armor_155_name":{
-"text":["Asesino de monstruos"]
+"text":["Asesina de Monstruos"]
 },
 "armor_155_desc":{
-"text":["Prueba de un jefa de guardia que sometió al Dr. Cargill.",
+"text":["Prueba de una directora que ha sometido al Dr. Cargill.",
 "\\REM_EFF[armor_155_effect]"
 ]},
 "armor_156_name":{
-"text":["Asesino de alfas"]
+"text":["Asesina de Alfas"]
 },
 "armor_156_desc":{
-"text":["Prueba de un jefa de guardia que sometió a Aron.",
+"text":["Prueba de una directora que ha sometido a Aron.",
 "\\REM_EFF[armor_156_effect]"
 ]},
 "armor_157_name":{
-"text":["Asesino de gigantes"]
+"text":["Asesina de Gigantes"]
 },
 "armor_157_desc":{
-"text":["Prueba de un jefa de guardia que sometió a Noinim.",
+"text":["Prueba de una directora que ha sometido a Noinim.",
 "\\REM_EFF[armor_157_effect]"
 ]},
 "armor_158_name":{
-"text":["Asesino de Capitan"]
+"text":["Asesina del Capitan"]
 },
 "armor_158_desc":{
-"text":["Prueba de un jefa de guardia que sometió al Capitán.",
+"text":["Prueba de una directora que ha sometido al Capitán.",
 "\\REM_EFF[armor_158_effect]"
 ]},
 "armor_159_name":{
-"text":["Beso de Guardiana"]
+"text":["Directora Besucona"]
 },
 "armor_159_desc":{
-"text":["Prueba de una mujer que usó la habilidad Beso.",
+"text":["Prueba de una mujer que ha usado la habilidad Beso.",
 "\\REM_EFF[armor_159_effect]"
 ]},
 "armor_160_name":{
-"text":["Demonio del beso"]
+"text":["Demonia Besucona"]
 },
 "armor_160_desc":{
-"text":["Prueba de un demonio besador que hizo eyacular a 5 hombres con Habilidad Beso.",
+"text":["Prueba de una demonia besucona que ha hecho eyacular a 5 hombres con la habilidad Beso.",
 "\\REM_EFF[armor_160_effect]"
 ]},
 "armor_161_name":{
-"text":["Ojos errantes"]
+"text":["Ojos Observadores"]
 },
 "armor_161_desc":{
-"text":["Prueba de una mujer que usó la habilidad Mirar Pollas.",
+"text":["Prueba de una mujer que ha usado la habilidad Mirar Polla Fijamente.",
 "\\REM_EFF[armor_161_effect]"
 ]},
 "armor_162_name":{
-"text":["Vigilante de pollas profesional"]
+"text":["Vigilante de Pollas Profesional"]
 },
 "armor_162_desc":{
-"text":["Prueba de curiosidad por haber usado Mirar pollas a 30 pollas diferentes.",
+"text":["Prueba de una guarra que ha usado Mirar Polla Fijamente con 30 pollas diferentes.",
 "\\REM_EFF[armor_162_effect]"
 ]},
 "armor_163_name":{
-"text":["Acoso Sexual de Directora"]
+"text":["Directora Acosadora Sexual"]
 },
 "armor_163_desc":{
-"text":["Prueba de una mujer que usó la habilidad Tocar Polla.",
+"text":["Prueba de una mujer que ha usado la habilidad Acariciar Polla.",
 "\\REM_EFF[armor_163_effect]"
 ]},
 "armor_164_name":{
-"text":["Buscador de cuerpos inapropiados"]
+"text":["Cacheadora Lasciva"]
 },
 "armor_164_desc":{
-"text":["Prueba de un abusador que usó la habilidad Tocar Pollas para poner erectos más de 30 pollas.",
+"text":["Prueba de una abusadora que ha usado la habilidad Acariciar Polla para empalmar más de 30 pollas.",
 "\\REM_EFF[armor_164_effect]"
 ]},
 "armor_165_name":{
-"text":["Manuela"]
+"text":["Pajera"]
 },
 "armor_165_desc":{
-"text":["Prueba de una mujer que utilizó la habilidad Paja.",
+"text":["Prueba de una mujer que ha utilizado la habilidad Paja.",
 "\\REM_EFF[armor_165_effect]"
 ]},
 "armor_166_name":{
-"text":["Dama de la vieja moda"]
+"text":["Mamporrera"]
 },
 "armor_166_desc":{
-"text":["\\}\\}Prueba de una puta ocupada que usó la habilidad Paja para hacer eyacular 10 hombres mientras le hacía una paja a otra persona.\\{",
+"text":["\\}\\}Prueba de una puta ocupada que ha usado la habilidad Paja para hacer eyacular a más de 10 hombres mientras le hacía una paja a otro.\\{",
 "\\REM_EFF[armor_166_effect]"
 ]},
 "armor_167_name":{
-"text":["Guardián chupapollas"]
+"text":["Directora Chupapollas"]
 },
 "armor_167_desc":{
-"text":["Prueba de una mujer que usó la habilidad Mamada.",
+"text":["Prueba de una mujer que ha usado la habilidad Mamada.",
 "\\REM_EFF[armor_167_effect]"
 ]},
 "armor_168_name":{
 "text":["Reina de las Mamadas"]
 },
 "armor_168_desc":{
-"text":["Prueba de una zorra que usó la habilidad de mamada en más de 20 pollas diferentes en un día.",
+"text":["Prueba de una zorra que ha usado la habilidad Mamada en más de 20 pollas diferentes en un día.",
 "\\REM_EFF[armor_168_effect]"
 ]},
 "armor_169_name":{
-"text":["Besadora Anal"]
+"text":["Lameculos"]
 },
 "armor_169_desc":{
-"text":["Prueba de una mujer que utilizó la habilidad Rimjob.",
+"text":["Prueba de una mujer que ha utilizado la habilidad Anilingus.",
 "\\REM_EFF[armor_169_effect]"
 ]},
 "armor_170_name":{
-"text":["Ensalada Artesanal"]
+"text":["Connoiseur Anal"]
 },
 "armor_170_desc":{
-"text":["Prueba de un cerdo que usó la habilidad Rimjob en más de 5 anos diferentes en un día.",
+"text":["Prueba de una cerda que ha usado la habilidad Anilingus en más de 5 anos diferentes en un día.",
 "\\REM_EFF[armor_170_effect]"
 ]},
 "armor_171_name":{
-"text":["El deleite de los amantes de los pies"]
+"text":["La Delicia de los Amantes de los Pies"]
 },
 "armor_171_desc":{
-"text":["Prueba de una mujer que utilizó la habilidad Footjob.",
+"text":["Prueba de una mujer que ha utilizado la habilidad Paja con los Pies.",
 "\\REM_EFF[armor_171_effect]"
 ]},
 "armor_172_name":{
-"text":["Subyuga a través de pies brutos"]
+"text":["Subyugando a Base de Pies"]
 },
 "armor_172_desc":{
-"text":["Prueba de un asesina de pollas que usó Footjob en más de 15 pollas matones y orcos.",
+"text":["Prueba de una asesina de pollas que ha usado Paja con los Pies en más de 15 pollas de matones y orcos.",
 "\\REM_EFF[armor_172_effect]"
 ]},
 "armor_173_name":{
-"text":["4ta Boca"]
+"text":["Tetas Diseñadas Para Follar"]
 },
 "armor_173_desc":{
-"text":["Prueba de una mujer que utilizó la habilidad Titjob.",
+"text":["Prueba de una mujer que ha utilizado la habilidad Paja con las Tetas.",
 "\\REM_EFF[armor_173_effect]"
 ]},
 "armor_174_name":{
-"text":["Sirviente de las Tetas"]
+"text":["Sabia de las Pajas con las Tetas"]
 },
 "armor_174_desc":{
-"text":["Prueba de una zorra que usó la habilidad Titjob en más de 50 pollas diferentes.",
+"text":["Prueba de una zorra que ha usado la habilidad Paja con las Tetas en más de 50 pollas diferentes.",
 "\\REM_EFF[armor_174_effect]"
 ]},
 "armor_175_name":{
-"text":["Vagina de la Guardiana"]
+"text":["Directora Coño"]
 },
 "armor_175_desc":{
-"text":["Prueba de una mujer que utilizó la habilidad Sexo Vaginal.",
+"text":["Prueba de una mujer que ha utilizado la habilidad Sexo Vaginal.",
 "\\REM_EFF[armor_175_effect]"
 ]},
 "armor_176_name":{
-"text":["Dulce Vagina"]
+"text":["Coño Dulce como la Miel"]
 },
 "armor_176_desc":{
-"text":["\\}Prueba de una zorra que usó la habilidad Sexo vaginal con más de 9 tipos de enemigos diferentes en un día.",
+"text":["\\}Prueba de una zorra que ha usado la habilidad Sexo vaginal con más de 9 tipos de enemigos diferentes en un día.",
 "\\REM_EFF[armor_176_effect]"
 ]},
 "armor_177_name":{
-"text":["Guardian Anal"]
+"text":["Directora Anal"]
 },
 "armor_177_desc":{
-"text":["Prueba de una mujer que utilizó la habilidad del Sexo Anal.",
+"text":["Prueba de una mujer que ha utilizado la habilidad Sexo Anal.",
 "\\REM_EFF[armor_177_effect]"
 ]},
 "armor_178_name":{
-"text":["Ajugero Negro Succionador"]
+"text":["Agujero Negro Succionador"]
 },
 "armor_178_desc":{
-"text":["\\}Prueba de una zorra que usó la habilidad del sexo anal con más de 10 pollas diferentes en una batalla.",
+"text":["\\}Prueba de una zorra que ha usado la habilidad Sexo Anal con más de 10 pollas diferentes en una batalla.",
 "\\REM_EFF[armor_178_effect]"
 ]},
 "armor_179_name":{
-"text":["Metal de Pollas Duras"]
+"text":["Metal Cock Solid"]
 },
 "armor_179_desc":{
-"text":["Prueba de operaciones especiales que sometieron a más de 5 enemigos de metal con sexo.",
+"text":["Prueba de una soldado de élite que ha sometido a más de 5 enemigos de metal con sexo.",
 "\\REM_EFF[armor_179_effect]"
 ]},
 "armor_180_name":{
-"text":["Cara de guardián sorprendido"]
+"text":["Cara de Sorpresa de la Directora"]
 },
 "armor_180_desc":{
-"text":["\\}Prueba de una mascota que usó la habilidad Patada Ligera y fue contraatacada sexualmente más de 3 veces.\\{",
+"text":["\\}Prueba de una mascota que ha usado la habilidad Patada Ligera y ha sido contraatacada sexualmente más de 3 veces.\\{",
 "\\REM_EFF[armor_180_effect]"
 ]},
 "armor_181_name":{
-"text":["Guardián advenedizo"]
+"text":["Directora Advenediza"]
 },
 "armor_181_desc":{
 "text":["Prueba de una Directora capaz de conservar el puesto durante más de treinta días.",
 "\\REM_EFF[armor_181_effect]"
 ]},
 "armor_182_name":{
-"text":["Inquilino de prisión de larga estancia"]
+"text":["Inquilina de Larga Duración de la Prisión"]
 },
 "armor_182_desc":{
-"text":["Prueba de que una mujer vivió dentro de una prisión durante más de noventa días.",
+"text":["Prueba de una mujer que ha vivido en una prisión durante más de noventa días.",
 "\\REM_EFF[armor_182_effect]"
 ]},
 "armor_183_name":{
-"text":["Pastel de cumpleaños"]
+"text":["Tarta de Cumpleaños"]
 },
 "armor_183_desc":{
-"text":["Prueba de una mujer que ha pasado casi 300 días dentro de una prisión.",
+"text":["Prueba de una mujer que ha pasado casi 300 días en una prisión.",
 "\\REM_EFF[armor_183_effect]"
 ]},
 "armor_184_name":{
-"text":["Stripper profesional"]
+"text":["Stripper Profesional"]
 },
 "armor_184_desc":{
-"text":["Prueba de una stripper que ha completado más de 20 turnos.",
+"text":["Prueba de una stripper que ha completado más de 20 jornadas.",
 "\\REM_EFF[armor_184_effect]"
 ]},
 "armor_185_name":{
-"text":["Revolución del pole dance"]
+"text":["Pole Dance Revolution"]
 },
 "armor_185_desc":{
-"text":["Prueba de un pole dance que alcanzó un Dance Combo de 10 o superior.",
+"text":["Prueba de una bailarina que ha alcanzado un Combo de Baile superior a 10.",
 "\\REM_EFF[armor_185_effect]"
 ]},
 "armor_186_name":{
-"text":["Espectáculo de orgasmo de una mujer"]
+"text":["Espectáculo Orgásmico"]
 },
 "armor_186_desc":{
-"text":["\\}Prueba de un exhibicionista que tuvo más de 5 orgasmos mientras bailaba con 3 Dance Combo o superior.",
+"text":["\\}Prueba de un exhibicionista que ha tenido más de 5 orgasmos mientras bailaba con un Combo de Baile superior a 3.",
 "\\REM_EFF[armor_186_effect]"
 ]},
 "armor_187_name":{
-"text":["Desnudándose toda la noche"]
+"text":["Desnudándose Toda la Noche"]
 },
 "armor_187_desc":{
-"text":["\\}\\}Prueba de una stripper que permaneció en el escenario durante todo el espectáculo que duró más de dieciséis minutos sin intermedio.\\{",
+"text":["\\}\\}Prueba de una stripper que ha permanecido en el escenario durante todo un espectáculo de más de 16 minutos sin intermedio.\\{",
 "\\REM_EFF[armor_187_effect]"
 ]},
 "armor_188_name":{
-"text":["Alquimista del condón lleno"]
+"text":["Fullcondom Alchemist"]
 },
 "armor_188_desc":{
-"text":["Prueba de un imán de semen que usó más de 16 condones al mismo tiempo.",
+"text":["Prueba de una adicta al semen que ha llevado más de 16 condones al mismo tiempo.",
 "\\REM_EFF[armor_188_effect]"
 ]},
 "armor_189_name":{
-"text":["stripper superestrella"]
+"text":["Stripper Superestrella"]
 },
 "armor_189_desc":{
 "text":[
-"Prueba de una stripper premiada con más de 30 reputación en clubes de striptease.",
+"Prueba de una stripper con más de 30 de Reputación del Club de Striptease.",
 "\\REM_EFF[armor_189_effect]"
 ]},
 "armor_190_name":{
-"text":["Siempre completo"]
+"text":["Siempre Hasta Arriba"]
 },
 "armor_190_desc":{
-"text":["\\}Prueba de una prostituta que sirvió 6 pollas diferentes a la vez con su cuerpo en privado.\\{",
+"text":["\\}Prueba de una prostituta que ha servido en privado a 6 pollas diferentes a la vez.\\{",
 "\\REM_EFF[armor_190_effect]"
 ]},
 "armor_191_name":{
-"text":["Capitán marinero"]
+"text":["Capitána Guarrona"]
 },
 "armor_191_desc":{
-"text":["\\}\\}Prueba de un capitán que ha tomado el semen de todo tipo de reclusas en su boca y vagina, y el otro capitán fue derrotado.\\{\\{",
+"text":["\\}\\}Prueba de una capitana que ha tomado semen de todos los tipos de reclusos en su boca y coño, y además el otro capitán ha sido derrotado.\\{\\{",
 "\\REM_EFF[armor_191_effect]"
 ]},
 "armor_192_name":{
-"text":["Novia técnicamente virgen"]
+"text":["Novia Técnicamente Virgen"]
 },
 "armor_192_desc":{
-"text":["Prueba de una novia que entró en el Modo Juego Libre manteniendo intacta su virginidad (Final Feliz)",
+"text":["Prueba de una novia que ha entrado en el Modo de Juego Libre manteniendo intacta su virginidad (Final Feliz)",
 "\\REM_EFF[armor_192_effect]"
 ]},
 "armor_193_name":{
-"text":["Novia teñida de blanco puro"]
+"text":["Novia Teñida de Blanco Puro"]
 },
 "armor_193_desc":{
-"text":["Prueba de una novia que entró en el Modo Juego Libre con un nivel de puta superior a 400. (Final Feliz)",
+"text":["Prueba de una novia que ha entrado en el Modo de Juego Libre con un nivel de puta superior a 400. (Final Feliz)",
 "\\REM_EFF[armor_193_effect]"
 ]},
 "armor_194_name":{
-"text":["Santa emperatriz"]
+"text":["Santa Emperatriz"]
 },
 "armor_194_desc":{
-"text":["\\}Prueba de una emperatriz que conservó su primer beso y ambas virginidades para su marido (Empress End).\\{",
+"text":["\\}Prueba de una emperatriz que reservó su primer beso y ambas virginidades para su marido (Final Emperatriz).\\{",
 "\\REM_EFF[armor_194_effect]"
 ]},
 "armor_195_name":{
 "text":["Emperatriz Karryn"]
 },
 "armor_195_desc":{
-"text":["Prueba de una protagonista que llegó al Final Emperatriz.",
+"text":["Prueba de una protagonista que ha alcanzado el Final Emperatriz.",
 "\\REM_EFF[armor_195_effect]"
 ]},
 "armor_196_name":{
 "text":["Vida Feliz"]
 },
 "armor_196_desc":{
-"text":["Prueba de un protagonista que llegó al Final Feliz.",
+"text":["Prueba de una protagonista que ha alcanzado el Final Feliz.",
 "\\REM_EFF[armor_196_effect]"
 ]},
 "armor_197_name":{
 "text":["Pilar Incorruptible"]
 },
 "armor_197_desc":{
-"text":["Prueba de un alcaide que venció al jefe final sin que se acumulara corrupción.",
+"text":["Prueba de una directora que ha vencido al jefe final sin acumular corrupción.",
 "\\REM_EFF[armor_197_effect]"
 ]},
 
 "armor_200_name":{
-"text":["Baronesa de la ropa interior"]
+"text":["Calientapollas"]
 },
 "armor_200_desc":{
-"text":["\\}Prueba de un bromista infantil que se quitó 10 pantalones cortos y luego no hizo nada sexual.\\{",
+"text":["\\}Prueba de una bromista infantil que ha bajado 10 pantalones y luego no ha hecho nada sexual.\\{",
 "\\REM_EFF[armor_200_effect]"
 ]},
 "armor_201_name":{
-"text":["Instructor de fitness"]
+"text":["Instructora de Fitness"]
 },
 "armor_201_desc":{
-"text":["Prueba de un buen entrenador físico que ha dado más de 30 buenos consejos.",
+"text":["Prueba de una buena preparadora física que ha dado más de 30 buenos consejos.",
 "\\REM_EFF[armor_201_effect]"
 ]},
 "armor_202_name":{
-"text":["Esa mujer sedienta en el gimnasio"]
+"text":["Esa Guarra del Gimnasio"]
 },
 "armor_202_desc":{
 "text":["Prueba de alguien que ha dado más de 30 consejos relacionados con las pollas.",
 "\\REM_EFF[armor_202_effect]"
 ]},
 "armor_203_name":{
-"text":["Líder del gimnasio Fort Ganon"]
+"text":["Líder del Gimnasio de Fort Ganon"]
 },
 "armor_203_desc":{
-"text":["Prueba de un formador que completó más de 20 turnos.",
+"text":["Prueba de una entrenadora que ha completado más de 20 jornadas.",
 "\\REM_EFF[armor_203_effect]"
 ]},
 "armor_204_name":{
-"text":["Gurú del fitness de moda"]
+"text":["Gurú de Fitness de Moda"]
 },
 "armor_204_desc":{
-"text":["Prueba de un entrenador premiado con más de 30 reputación en gimnasios.",
+"text":["Prueba de una entrenadora con más de 30 de reputación del gimnasio.",
 "\\REM_EFF[armor_204_effect]"
 ]},
 "armor_205_name":{
-"text":["Perra del gimnasio"]
+"text":["Puta del Gimnasio"]
 },
 "armor_205_desc":{
-"text":["\\}Prueba de una perra que derribo 7 personas en un solo turno de entrenador.\\{",
+"text":["\\}Prueba de una puta que ha calentado a 7 personas sin hacer que se corran en una sola jornada de entrenadora.\\{",
 "\\REM_EFF[armor_205_effect]"
 ]},
 "armor_206_name":{
-"text":["Imán de pelo de polla sucia"]
+"text":["Imán de Pelos de Polla Sucia"]
 },
 "armor_206_desc":{
-"text":["\\}Prueba de un quitapelusas púbico que tenía el cuerpo cubierto de vello púbico masculino.\\{",
+"text":["\\}Prueba de una guarra que ha tenido el cuerpo cubierto de vello púbico masculino.\\{",
 "\\REM_EFF[armor_206_effect]"
 ]},
 
 "armor_409_desc":{
 "text":[
-"Guarde la carga actual del equipo en un conjunto que ",
-"pueda usarse para volver a cargarlo más adelante."
+"Guardar el equipamiento actual en un set",
+"que se puede cargar más tarde."
 ]},
 "armor_410_name":{
 "text":["Set #1"]
 },
 "armor_410_desc":{
 "text":[
-"Guarde la carga actual del equipo en Set #1."
+"Guardar el equipamiento actual en el Set #1."
 ]},
 "armor_411_name":{
 "text":["Set #2"]
 },
 "armor_411_desc":{
 "text":[
-"Guarde la carga actual del equipo en Set #2."
+"Guardar el equipamiento actual en el Set #2."
 ]},
 "armor_412_name":{
 "text":["Set #3"]
 },
 "armor_412_desc":{
 "text":[
-"Guarde la carga actual del equipo en Set #3."
+"Guardar el equipamiento actual en el Set #3."
 ]},
 "armor_413_name":{
 "text":["Set #4"]
 },
 "armor_413_desc":{
 "text":[
-"Guarde la carga actual del equipo en Set #4."
+"Guardar el equipamiento actual en el Set #4."
 ]},
 "armor_414_name":{
 "text":["Set #5"]
 },
 "armor_414_desc":{
 "text":[
-"Guarde la carga actual del equipo en Set #5."
+"Guardar el equipamiento actual en el Set #5."
 ]},
 "armor_415_name":{
 "text":["Set #6"]
 },
 "armor_415_desc":{
 "text":[
-"Guarde la carga actual del equipo en Set #6."
+"Guardar el equipamiento actual en el Set #6."
 ]},
 "armor_416_name":{
 "text":["Set #7"]
 },
 "armor_416_desc":{
 "text":[
-"Guarde la carga actual del equipo en Set #7."
+"Guardar el equipamiento actual en el Set #7."
 ]},
 "armor_417_name":{
 "text":["Set #8"]
 },
 "armor_417_desc":{
 "text":[
-"Guarde la carga actual del equipo en Set #8."
+"Guardar el equipamiento actual en el Set #8."
 ]},
 
 
 "armor_419_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"one of the saved sets."
+"Reemplazar el equipamiento actual por",
+"uno de los sets guardados."
 ]},
 "armor_420_name":{
 "text":["Set #1"]
 },
 "armor_420_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"la carga del equipo guardada en Set #1."
+"Reemplazar el equipo actual por",
+"el equipo guardado en el Set #1."
 ]},
 "armor_421_name":{
 "text":["Set #2"]
 },
 "armor_421_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"la carga del equipo guardada en Set #2."
+"Reemplazar el equipo actual por",
+"el equipo guardado en el Set #2."
 ]},
 "armor_422_name":{
 "text":["Set #3"]
 },
 "armor_422_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"la carga del equipo guardada en Set #3."
+"Reemplazar el equipo actual por",
+"el equipo guardado en el Set #3."
 ]},
 "armor_423_name":{
 "text":["Set #4"]
 },
 "armor_423_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"la carga del equipo guardada en Set #4."
+"Reemplazar el equipo actual por",
+"el equipo guardado en el Set #4."
 ]},
 "armor_424_name":{
 "text":["Set #5"]
 },
 "armor_424_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"la carga del equipo guardada en Set #5."
+"Reemplazar el equipo actual por",
+"el equipo guardado en el Set #5."
 ]},
 "armor_425_name":{
 "text":["Set #6"]
 },
 "armor_425_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"la carga del equipo guardada en Set #6."
+"Reemplazar el equipo actual por",
+"el equipo guardado en el Set #6."
 ]},
 "armor_426_name":{
 "text":["Set #7"]
 },
 "armor_426_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"la carga del equipo guardada en Set #7."
+"Reemplazar el equipo actual por",
+"el equipo guardado en el Set #7."
 ]},
 "armor_427_name":{
 "text":["Set #8"]
 },
 "armor_427_desc":{
 "text":[
-"Reemplace la carga del equipo actual con ",
-"la carga del equipo guardada en Sett #8."
+"Reemplazar el equipo actual por",
+"el equipo guardado en el Sett #8."
 ]},
 
 
 "armor_430_name":{
-"text":["[Varios] Conjunto de esmalte de uñas"]
+"text":["[Misc] Set de Esmalte de Uñas"]
 },
 "armor_431_name":{
-"text":["[Varios] Juego de delineador de ojos"]
+"text":["[Misc] Set de Eyeliner"]
 },
 "armor_432_name":{
-"text":["[Varios] Juego de Pintalabios"]
+"text":["[Misc] Set de Pintalabios"]
 },
 "armor_433_name":{
-"text":["[Varios] Adorno de telefono de mascota"]
+"text":["[Misc] Adorno de Teléfono"]
 },
 "armor_434_name":{
-"text":["[Varios] Tacones altos"]
+"text":["[Misc] Tacones Altos"]
 },
 "armor_435_name":{
-"text":["[Varios] Bufanda de cachemir"]
+"text":["[Misc] Bufanda Cachemir"]
 },
 "armor_436_name":{
-"text":["[Varios] Perfume"]
+"text":["[Misc] Perfume"]
 },
 "armor_437_name":{
-"text":["[Varios] Bolso de marca"]
+"text":["[Misc] Bolso de Marca"]
 },
 "armor_438_name":{
-"text":["[Varios] Medias de latex"]
+"text":["[Misc] Medias de Látex"]
 },
 "armor_439_name":{
-"text":["[Varios] Cinturón de piel de becerro"]
+"text":["[Misc] Cinturón de Piel de Becerro"]
 },
 "armor_440_name":{
-"text":["[Pulsera] Puños de diamantes"]
+"text":["[Pulsera] Pulsera de diamantes"]
 },
 "armor_441_name":{
 "text":["[Anillo] Pureza"]
 },
 "armor_442_name":{
-"text":["[Pendientes] Rosado"]
+"text":["[Pendientes] Rosa"]
 },
 "armor_443_name":{
-"text":["[Collar] Heroe"]
+"text":["[Collar] Héroe"]
 },
 
 
 
 
 "state_4_actor_msg":{
-"text":["%1 está desarmada!"]
+"text":["¡%1 está desarmada!"]
 },
 
 "state_10_actor_msg":{
-"text":["%1 está cachonda!"]
+"text":["¡%1 está cachonda!"]
 },
 "state_10_enemy_msg":{
 "text":["%1 está cachondo!"]
 },
 "state_10_remove_msg":{
-"text":["%1 ya no está cachondo."]
+"text":["¡%1 ya no está cachond@."]
 },
 "state_11_actor_msg":{
-"text":["%1 está debilitada!"]
+"text":["¡%1 está debilitada!"]
 },
 "state_11_enemy_msg":{
-"text":["%1 está debilitado!"]
+"text":["¡%1 está debilitado!"]
 },
 "state_12_actor_msg":{
-"text":["%1 está mareada!"]
+"text":["¡%1 está mareada!"]
 },
 "state_12_enemy_msg":{
-"text":["%1 está mareado!"]
+"text":["¡%1 está mareado!"]
 },
 "state_13_actor_msg":{
-"text":["%1 está lenta!"]
+"text":["¡%1 está ralentizada!"]
 },
 "state_13_enemy_msg":{
-"text":["%1 está lento!"]
+"text":["¡%1 está ralentizado!"]
 },
 "state_14_actor_msg":{
-"text":["%1 es vulnerable!"]
+"text":["¡%1 está vulnerable!"]
 },
 "state_14_enemy_msg":{
-"text":["%1 es vulnerable!"]
+"text":["¡%1 está vulnerable!"]
 },
 "state_15_actor_msg":{
-"text":["%1 está desequilibrada!"]
+"text":["¡%1 ha perdido el equilibrio!"]
 },
 "state_15_enemy_msg":{
-"text":["%1 está desequilibrado!"]
+"text":["¡%1 ha perdido el equilibrio!"]
 },
 "state_16_actor_msg":{
-"text":["%1 está Aturdida!"]
+"text":["¡%1 está Aturdida!"]
 },
 "state_16_enemy_msg":{
-"text":["%1 está Aturdido!"]
+"text":["¡%1 está Aturdido!"]
 },
 "state_17_actor_msg":{
-"text":["%1 se cae!"]
+"text":["¡%1 se ha caído!"]
 },
 "state_18_actor_msg":{
-"text":["%1 está envenenada!"]
+"text":["¡%1 está envenenada!"]
 },
 "state_18_enemy_msg":{
-"text":["%1 está envenenado!"]
+"text":["¡%1 está envenenado!"]
 },
 
 "state_58_enemy_msg":{
-"text":["%1 está enojado!"]
+"text":["¡%1 está enfadado!"]
 },
 
 "end":0}
