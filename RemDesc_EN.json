@@ -13881,7 +13881,7 @@
 "\\REM_EFF[skill_2116_effect]"
 ]},
 "skill_2117_name":{
-"text":["Objeto extraño no identificado repentino"]
+"text":["Objeto Peludo No Identificado"]
 },
 "skill_2117_desc":{
 "text":[
@@ -13893,7 +13893,7 @@
 },
 "skill_2118_desc":{
 "text":[
-"\\}Tener vello púbico colgando hace que parezca que quiero transmitir al mundo que acabo de follar♥ Bueno, en verdad es lo que hacía.",
+"\\}Con este vello púbico colgando parece que quiero contar al mundo que acabo de follar♥ Bueno, en verdad es lo que hacía.",
 "\\{\\REM_EFF[skill_2118_effect]"
 ]},
 "skill_2119_name":{
@@ -13901,7 +13901,7 @@
 },
 "skill_2119_desc":{
 "text":[
-"\\}Mirad todo este pelo púbico plantado por hombres en mi cuerpo♥ Nnhoh♥ Es como si finalmente se me estuviera reconociendo como custodia de las pollas♥♥ Qué bendición~♥",
+"\\}Mirad todo este pelo púbico plantado por hombres en mi cuerpo♥ Nnhoh♥ Es como si estuviera siendo reconocida como custodia de las pollas♥♥ Qué bendición~♥",
 "\\{\\REM_EFF[skill_2119_effect]"
 ]},
 
@@ -14216,7 +14216,7 @@
 },
 "armor_8_desc":{
 "text": [
-"\\}Prueba de haber adoptado una postura de 'Por las buenas o por las malas' después de haber recibido un argumento justo.",
+"\\}Prueba de haber adoptado una postura de 'Por las buenas o por las malas' después de haber recibido un argumento razonable.",
 "\\REM_EFF[armor_8_effect_passive]"
 ]},
 "armor_8_desc_equip":{
@@ -14307,7 +14307,7 @@
 "text":["[Anillo] Vidrio Dorado"]
 },
 "armor_32_name":{
-"text":["[Anillo] Piedras preciosas"]
+"text":["[Anillo] Piedras Preciosas"]
 },
 "armor_33_name":{
 "text":["[Pendientes] Lágrima"]
@@ -14363,28 +14363,28 @@
 "text":["Directora Hermosa"]
 },
 "armor_53_desc":{
-"text":["Prueba de una hermosa directora que ha trabajado en una prisión (+24 Encanto)",
+"text":["Prueba de una hermosa directora que ha trabajado en una prisión (24+ Encanto)",
 "\\REM_EFF[armor_53_effect]"
 ]},
 "armor_54_name":{
 "text":["Directora Bellísima"]
 },
 "armor_54_desc":{
-"text":["Prueba de una directora increíblemente hermosa que vivía en una prisión (+32 Encanto)",
+"text":["Prueba de una directora increíblemente hermosa que ha vivido en una prisión (32+ Encanto)",
 "\\REM_EFF[armor_54_effect]"
 ]},
 "armor_55_name":{
 "text":["Directora Encantadora"]
 },
 "armor_55_desc":{
-"text":["Prueba de una mujer que ha llamado la atención allá donde ha ido (+42 Encanto)",
+"text":["Prueba de una mujer que ha llamado la atención allá donde ha ido (42+ Encanto)",
 "\\REM_EFF[armor_55_effect]"
 ]},
 "armor_56_name":{
 "text":["Flor del Fuerte Ganon"]
 },
 "armor_56_desc":{
-"text":["\\}Prueba de una mujer que puede enloquecer a los hombres de la prisión con solo su olor (+69 Encanto)\\{",
+"text":["\\}Prueba de una mujer que puede enloquecer a los hombres de la prisión con solo su olor (69+ Encanto)\\{",
 "\\REM_EFF[armor_56_effect]"
 ]},
 "armor_57_name":{
@@ -14560,77 +14560,77 @@
 "text":["Luchadora Revulsiva"]
 },
 "armor_82_desc":{
-"text":["\\}\\}Prueba de una luchadora experimentada que ha contraatacado 25 veces más que ha atacado normalmente (Nivel +16, +100 ataques).\\{\\{",
+"text":["\\}\\}Prueba de una luchadora experimentada que ha contraatacado 25 veces más que ataques normales ha hecho (Nivel 16+, 100+ ataques).\\{\\{",
 "\\REM_EFF[armor_82_effect]"
 ]},
 "armor_83_name":{
 "text":["Maestra del Anzuelo"]
 },
 "armor_83_desc":{
-"text":["\\}Prueba de una luchadora veterana que ha contraatacado 3 veces más que ha atacado normalmente (Nivel +36, +200 ataques).\\{",
+"text":["\\}Prueba de una luchadora veterana que ha contraatacado 3 veces más que ataques normales ha hecho (Nivel 36+, 200+ ataques).\\{",
 "\\REM_EFF[armor_83_effect]"
 ]},
 "armor_84_name":{
 "text":["Mujer Contundente"]
 },
 "armor_84_desc":{
-"text":["\\}Prueba de una guerrera que ha usado ataques Contundentes más veces que otros tipos de ataques (+100 ataques).\\{",
+"text":["\\}Prueba de una guerrera que ha usado ataques Contundentes más veces que otros tipos de ataques (100+ ataques).\\{",
 "\\REM_EFF[armor_84_effect]"
 ]},
 "armor_85_name":{
 "text":["Mujer Pesada"]
 },
 "armor_85_desc":{
-"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Contundentes más veces que otros tipos de ataques (Nivel +16, +200 ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Contundentes más veces que otros tipos de ataques (Nivel 16+, 200+ ataques).\\{\\{",
 "\\REM_EFF[armor_85_effect]"
 ]},
 "armor_86_name":{
 "text":["Mujer Gruesa"]
 },
 "armor_86_desc":{
-"text":["\\}\\}Prueba de una guerrera veterana que ha usado ataques Contundentes más veces que otros tipos de ataques (Nivel +36, +300 ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera veterana que ha usado ataques Contundentes más veces que otros tipos de ataques (Nivel 36+, +300 ataques).\\{\\{",
 "\\REM_EFF[armor_86_effect]"
 ]},
 "armor_87_name":{
 "text":["Empaladora Veloz"]
 },
 "armor_87_desc":{
-"text":["\\}\\}Prueba de una guerrera que ha usado ataques Perforantes más veces que otros tipos de ataques (+100 ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera que ha usado ataques Perforantes más veces que otros tipos de ataques (100+ ataques).\\{\\{",
 "\\REM_EFF[armor_87_effect]"
 ]},
 "armor_88_name":{
 "text":["Empaladora Implacable"]
 },
 "armor_88_desc":{
-"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Perforantes más veces que otros tipos de ataques (Nivel +16, +200 ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Perforantes más veces que otros tipos de ataques (Nivel 16+, 200+ ataques).\\{\\{",
 "\\REM_EFF[armor_88_effect]"
 ]},
 "armor_89_name":{
 "text":["Empaladora Sónica"]
 },
 "armor_89_desc":{
-"text":["\\}\\}Prueba de una guerrera veterana que ha usado ataques Perforantes más veces que otros tipos de ataques (Nivel +36, +300 ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera veterana que ha usado ataques Perforantes más veces que otros tipos de ataques (Nivel 36+, +300 ataques).\\{\\{",
 "\\REM_EFF[armor_89_effect]"
 ]},
 "armor_90_name":{
 "text":["Mujer Cortante"]
 },
 "armor_90_desc":{
-"text":["\\}Prueba de una guerrera que ha usado ataques Cortantes más veces que otros tipos de ataques (+100 ataques).\\{",
+"text":["\\}Prueba de una guerrera que ha usado ataques Cortantes más veces que otros tipos de ataques (100+ ataques).\\{",
 "\\REM_EFF[armor_90_effect]"
 ]},
 "armor_91_name":{
 "text":["Neo Cortante"]
 },
 "armor_91_desc":{
-"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Cortantes más veces que otros tipos de ataques (Nivel +16, +200 ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera experimentada que ha usado ataques Cortantes más veces que otros tipos de ataques (Nivel 16+, 200+ ataques).\\{\\{",
 "\\REM_EFF[armor_91_effect]"
 ]},
 "armor_92_name":{
 "text":["Cortadora de Barreras"]
 },
 "armor_92_desc":{
-"text":["\\}\\}Prueba de una guerrera experta que ha usado ataques Cortantes más veces que otros tipos de ataques (Nivel +36, +300 ataques).\\{\\{",
+"text":["\\}\\}Prueba de una guerrera experta que ha usado ataques Cortantes más veces que otros tipos de ataques (Nivel 36+, +300 ataques).\\{\\{",
 "\\REM_EFF[armor_92_effect]"
 ]},
 "armor_93_name":{
@@ -14644,21 +14644,21 @@
 "text":["¡Spinning Bird Kick!"]
 },
 "armor_94_desc":{
-"text": ["Prueba de una luchadora carcelaria que ha pateado 42 veces con las piernas. (Nivel +16)",
+"text": ["Prueba de una luchadora carcelaria que ha pateado 42 veces con las piernas. (Nivel 16+)",
 "\\REM_EFF[armor_94_effect]"
 ]},
 "armor_95_name":{
 "text":["Belleza Primaveral"]
 },
 "armor_95_desc":{
-"text": ["Prueba de una luchadora bien formada que ha pateado más de 150 veces con las piernas. (Nivel +36)",
+"text": ["Prueba de una luchadora bien formada que ha pateado más de 150 veces con las piernas. (Nivel 36+)",
 "\\REM_EFF[armor_95_effect]"
 ]},
 "armor_96_name":{
 "text":["Queen of Fighters"]
 },
 "armor_96_desc":{
-"text":["\\}\\}Prueba de una directora que ha completado el juego en el Modo Guardiana con \\I[89]Luchadora Carcelaria equipado desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[89]Luchadora Carcelaria equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_96_effect]"
 ]},
 "armor_97_name":{
@@ -14672,105 +14672,105 @@
 "text":["Discípula de la Fuerza"]
 },
 "armor_98_desc":{
-"text":["\\}Prueba de una directora que tiene más niveles de fuerza que de otras estadísticas. (Nivel +16, Niveles de estadísticas +5)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de fuerza que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_98_effect]"
 ]},
 "armor_99_name":{
 "text":["Doctrina de la Fuerza"]
 },
 "armor_99_desc":{
-"text":["\\}Prueba de una directora que tiene muchos más niveles de fuerza que de otras estadísticas. (Nivel +36, niveles de estadísticas +10)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de fuerza que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_99_effect]"
 ]},
 "armor_100_name":{
 "text":["Un Poder Abrumador lo es Todo"]
 },
 "armor_100_desc":{
-"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de fuerza que de otras estadísticas. (Niveles de estadísticas +15)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de fuerza que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_100_effect]"
 ]},
 "armor_101_name":{
 "text":["Discípula de la Destreza"]
 },
 "armor_101_desc":{
-"text":["\\}Prueba de una directora que tiene más niveles de destreza que de otras estadísticas. (Nivel +16, Niveles de estadísticas +5)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de destreza que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_101_effect]"
 ]},
 "armor_102_name":{
 "text":["Doctrina de la Destreza"]
 },
 "armor_102_desc":{
-"text":["\\}Prueba de una directora que tiene muchos más niveles de destreza que de otras estadísticas. (Nivel +36, niveles de estadísticas +10)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de destreza que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_102_effect]"
 ]},
 "armor_103_name":{
 "text":["Supremacía de la Técnica"]
 },
 "armor_103_desc":{
-"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de destreza que de otras estadísticas. (Niveles de estadísticas +15)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de destreza que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_103_effect]"
 ]},
 "armor_104_name":{
 "text":["Discípula de la Agilidad"]
 },
 "armor_104_desc":{
-"text":["\\}Prueba de una directora que tiene más niveles de agilidad que de otras estadísticas. (Nivel +16, Niveles de estadísticas +5)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de agilidad que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_104_effect]"
 ]},
 "armor_105_name":{
 "text":["Doctrina de la Agilidad"]
 },
 "armor_105_desc":{
-"text":["\\}Prueba de una directora que tiene muchos más niveles de agilidad que de otras estadísticas. (Nivel +36, niveles de estadísticas +10)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de agilidad que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_105_effect]"
 ]},
 "armor_106_name":{
 "text":["Primer Golpe = Victoria"]
 },
 "armor_106_desc":{
-"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de agilidad que de otras estadísticas. (Niveles de estadísticas +15)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de agilidad que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_106_effect]"
 ]},
 "armor_107_name":{
 "text":["Discípula del Vigor"]
 },
 "armor_107_desc":{
-"text":["\\}Prueba de una directora que tiene más niveles de Vigor que de otras estadísticas. (Nivel +16, Niveles de estadísticas +5)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de Vigor que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_107_effect]"
 ]},
 "armor_108_name":{
 "text":["Doctrina del Vigor"]
 },
 "armor_108_desc":{
-"text":["\\}Prueba de una directora que tiene muchos más niveles de Vigor que de otras estadísticas. (Nivel +36, niveles de estadísticas +10)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de Vigor que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_108_effect]"
 ]},
 "armor_109_name":{
 "text":["El Mejor Ataque es una Buena Defensa"]
 },
 "armor_109_desc":{
-"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de Vigor que de otras estadísticas. (Niveles de estadísticas +15)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de Vigor que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_109_effect]"
 ]},
 "armor_110_name":{
 "text":["Discípula de la Mente"]
 },
 "armor_110_desc":{
-"text":["\\}Prueba de una directora que tiene más niveles de mente que de otras estadísticas. (Nivel +16, Niveles de estadísticas +5)\\{",
+"text":["\\}Prueba de una directora que tiene más niveles de mente que de otras estadísticas. (Nivel 16+, Niveles de estadísticas 5+)\\{",
 "\\REM_EFF[armor_110_effect]"
 ]},
 "armor_111_name":{
 "text":["Doctrina de la Mente"]
 },
 "armor_111_desc":{
-"text":["\\}Prueba de una directora que tiene muchos más niveles de mente que de otras estadísticas. (Nivel +36, niveles de estadísticas +10)\\{",
+"text":["\\}Prueba de una directora que tiene muchos más niveles de mente que de otras estadísticas. (Nivel 36+, niveles de estadísticas 10+)\\{",
 "\\REM_EFF[armor_111_effect]"
 ]},
 "armor_112_name":{
 "text":["Deformar la Realidad con Voluntad de Hierro"]
 },
 "armor_112_desc":{
-"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de mente que de otras estadísticas. (Niveles de estadísticas +15)\\{",
+"text":["\\}Prueba de una directora que ha completado el juego con muchos más niveles de mente que de otras estadísticas. (Niveles de estadísticas 15+)\\{",
 "\\REM_EFF[armor_112_effect]"
 ]},
 "armor_113_name":{
@@ -14778,7 +14778,7 @@
 },
 "armor_113_desc":{
 "text":[
-"Prueba de una adicta al sexo que ha utilizado 10 veces más habilidades sexuales que habilidades de ataque. (+50 Habilidades)",
+"Prueba de una adicta al sexo que ha utilizado 10 veces más habilidades sexuales que habilidades de ataque. (50+ Habilidades)",
 "\\REM_EFF[armor_113_effect]"
 ]},
 "armor_114_name":{
@@ -14786,14 +14786,14 @@
 },
 "armor_114_desc":{
 "text":[
-"Prueba de una puta que ha usado 3 veces más habilidades sexuales que habilidades de ataque. (+150 habilidades)",
+"Prueba de una puta que ha usado 3 veces más habilidades sexuales que habilidades de ataque. (150+ habilidades)",
 "\\REM_EFF[armor_114_effect]"
 ]},
 "armor_115_name":{
 "text":["Dama Imperial"]
 },
 "armor_115_desc":{
-"text":["\\}\\}Prueba de una directora que ha completado el juego en el Modo Guardiana con \\I[89]Secretaria del Emperador equipado desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[89]Secretaria del Emperador equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_115_effect]"
 ]},
 "armor_116_name":{
@@ -14807,7 +14807,7 @@
 "text":["Matrona de la Prisión"]
 },
 "armor_117_desc":{
-"text":["\\}\\}Prueba de una directora que ha completado el juego en el modo Guardiana con \\I[88]Líder Excelente equipado desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[88]Líder Excelente equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_117_effect]"
 ]},
 "armor_118_name":{
@@ -14919,21 +14919,21 @@
 "text":["Camarera Dorada"]
 },
 "armor_133_desc":{
-"text":["Prueba de una camarera con más de 30 Reputación de Bar.",
+"text":["Prueba de una camarera con más de 30 de Reputación del Bar.",
 "\\REM_EFF[armor_133_effect]"
 ]},
 "armor_134_name":{
 "text":["Recepcionista de Clase Mundial"]
 },
 "armor_134_desc":{
-"text":["\\}Prueba de una recepcionista con más de 30 reputación del centros de visitantes, fama y notoriedad.\\{",
+"text":["\\}Prueba de una recepcionista con más de 30 de reputación del centros de visitantes, fama y notoriedad.\\{",
 "\\REM_EFF[armor_134_effect]"
 ]},
 "armor_135_name":{
 "text":["Redimida"]
 },
 "armor_135_desc":{
-"text":["\\}\\}Prueba de una directora que ha completado el juego en el Modo Guardiana con \\I[89]Una Decepción equipado desde el nivel 1.\\{\\}",
+"text":["\\}\\}Prueba de una directora que ha completado el juego en Modo Guardiana con \\I[89]Una Decepción equipado desde el nivel 1.\\{\\}",
 "\\REM_EFF[armor_135_effect]"
 ]},
 "armor_136_name":{
@@ -14954,7 +14954,7 @@
 "text":["Sirvienta de los Guardias 24/7"]
 },
 "armor_138_desc":{
-"text":["Prueba de una superiora que ha servido a sus subordinados todo el día y la noche.",
+"text":["Prueba de una superiora que ha servido a sus subordinados día y noche.",
 "\\REM_EFF[armor_138_effect]"
 ]},
 "armor_139_name":{
@@ -15010,14 +15010,14 @@
 "text":["Como una Bailarina"]
 },
 "armor_146_desc":{
-"text":["Prueba de una bailarina ágil que ha esquivado más veces de las que ha recibido ataques (Nivel +16, +42 Evasiones).",
+"text":["Prueba de una bailarina ágil que ha esquivado más veces de las que ha recibido ataques (Nivel 16+, +42 Evasiones).",
 "\\REM_EFF[armor_146_effect]"
 ]},
 "armor_147_name":{
 "text":["Ligero como una Pluma"]
 },
 "armor_147_desc":{
-"text":["\\}Prueba de una bailarina escurridiza que ha esquivado más veces de las que ha recibido ataques (Nivel +36, +150 Evasiones).",
+"text":["\\}Prueba de una bailarina escurridiza que ha esquivado más veces de las que ha recibido ataques (Nivel 36+, +150 Evasiones).",
 "\\REM_EFF[armor_147_effect]"
 ]},
 "armor_148_name":{
@@ -15098,7 +15098,7 @@
 "\\REM_EFF[armor_158_effect]"
 ]},
 "armor_159_name":{
-"text":["Guardiana Besucona"]
+"text":["Directora Besucona"]
 },
 "armor_159_desc":{
 "text":["Prueba de una mujer que ha usado la habilidad Beso.",
@@ -15122,7 +15122,7 @@
 "text":["Vigilante de Pollas Profesional"]
 },
 "armor_162_desc":{
-"text":["Prueba de guarra que ha usado Mirar Polla Fijamente con 30 pollas diferentes.",
+"text":["Prueba de una guarra que ha usado Mirar Polla Fijamente con 30 pollas diferentes.",
 "\\REM_EFF[armor_162_effect]"
 ]},
 "armor_163_name":{
@@ -15241,7 +15241,7 @@
 "text":["Metal Cock Solid"]
 },
 "armor_179_desc":{
-"text":["Prueba de una soldado de élote que ha sometido a más de 5 enemigos de metal con sexo.",
+"text":["Prueba de una soldado de élite que ha sometido a más de 5 enemigos de metal con sexo.",
 "\\REM_EFF[armor_179_effect]"
 ]},
 "armor_180_name":{
@@ -15376,7 +15376,7 @@
 "text":["Calientapollas"]
 },
 "armor_200_desc":{
-"text":["\\}Prueba de una bromista infantil que se ha bajado 10 pantalones y luego no hizo nada sexual.\\{",
+"text":["\\}Prueba de una bromista infantil que ha bajado 10 pantalones y luego no ha hecho nada sexual.\\{",
 "\\REM_EFF[armor_200_effect]"
 ]},
 "armor_201_name":{
@@ -15593,7 +15593,7 @@
 "text":["[Anillo] Pureza"]
 },
 "armor_442_name":{
-"text":["[Pendientes] Rosas"]
+"text":["[Pendientes] Rosa"]
 },
 "armor_443_name":{
 "text":["[Collar] Héroe"]
