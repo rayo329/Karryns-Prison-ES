@@ -2250,34 +2250,34 @@
 "text":["\\C[31]\\I[10]Corrupción "]
 },
 "effect_global_riotchance_plus":{
-"text":["\\C[10]\\I[407]Probabilidad de Motín"]
+"text":["\\C[10]\\I[407]Prob. de Motín"]
 },
 "effect_global_riotchance_minus":{
-"text":["\\C[11]\\I[406]Probabilidad de Motín"]
+"text":["\\C[11]\\I[406]Prob. de Motín"]
 },
 "effect_lv1_riotchance_plus":{
-"text":["\\C[10]\\I[407]Probabilidad de Motín en el Nivel 1"]
+"text":["\\C[10]\\I[407]Prob. de Motín en el Nivel 1"]
 },
 "effect_lv1_riotchance_minus":{
-"text":["\\C[11]\\I[406]Probabilidad de Motín en el Nivel 1"]
+"text":["\\C[11]\\I[406]Prob. de Motín en el Nivel 1"]
 },
 "effect_lv2_riotchance_plus":{
-"text":["\\C[10]\\I[407]Probabilidad de Motín en el Nivel 2"]
+"text":["\\C[10]\\I[407]Prob. de Motín en el Nivel 2"]
 },
 "effect_lv2_riotchance_minus":{
-"text":["\\C[11]\\I[406]Probabilidad de Motín en el Nivel 2"]
+"text":["\\C[11]\\I[406]Prob. de Motín en el Nivel 2"]
 },
 "effect_lv3_riotchance_plus":{
-"text":["\\C[10]\\I[407]Probabilidad de Motín en el Nivel 3"]
+"text":["\\C[10]\\I[407]Prob. de Motín en el Nivel 3"]
 },
 "effect_lv3_riotchance_minus":{
-"text":["\\C[11]\\I[406]Probabilidad de Motín en el Nivel 3"]
+"text":["\\C[11]\\I[406]Prob. de Motín en el Nivel 3"]
 },
 "effect_lv4_riotchance_plus":{
-"text":["\\C[10]\\I[407]Probabilidad de Motín en el nivel 4"]
+"text":["\\C[10]\\I[407]Prob. de Motín en el nivel 4"]
 },
 "effect_lv4_riotchance_minus":{
-"text":["\\C[11]\\I[406]Probabilidad de Motín en el Nivel 4"]
+"text":["\\C[11]\\I[406]Prob. de Motín en el Nivel 4"]
 },
 
 "effect_noriot_unlessbankrupt":{
@@ -2315,52 +2315,52 @@
 
 
 "effect_inmate_actchance_plus":{
-"text":["\\C[10]\\I[393]Probabilidad de Actuar de los Reclusos"]
+"text":["\\C[10]\\I[393]Prob. de Actuar de los Reclusos"]
 },
 "effect_inmate_actchance_minus":{
-"text":["\\C[11]\\I[392]Porbabilidad de Actuar de los Reclusos"]
+"text":["\\C[11]\\I[392]Prob. de Actuar de los Reclusos"]
 },
 "effect_inmate_attackchance_plus":{
-"text":["\\C[10]\\I[385]Probabilidad de Ataque de los Reclusos"]
+"text":["\\C[10]\\I[385]Prob. de Ataque de los Reclusos"]
 },
 "effect_inmate_attackchance_minus":{
-"text":["\\C[11]\\I[384]Probabilidad de Ataque de los Reclusos"]
+"text":["\\C[11]\\I[384]Prob. de Ataque de los Reclusos"]
 },
 "effect_thug_attackchance_minus":{
-"text":["\\C[11]\\I[384]Probabilidad de Ataque de los Matones"]
+"text":["\\C[11]\\I[384]Prob. de Ataque de los Matones"]
 },
 "effect_goblin_attackchance_plus":{
-"text":["\\C[10]\\I[385]Probabilidad de Ataque de los Goblins"]
+"text":["\\C[10]\\I[385]Prob. de Ataque de los Goblins"]
 },
 "effect_goblin_attackchance_minus":{
-"text":["\\C[11]\\I[384]Probabilidad de Ataque de los Goblins"]
+"text":["\\C[11]\\I[384]Prob. de Ataque de los Goblins"]
 },
 "effect_rogue_attackchance_minus":{
-"text":["\\C[11]\\I[384]Probabilidad de Ataque de los Pícaros"]
+"text":["\\C[11]\\I[384]Prob. de Ataque de los Pícaros"]
 },
 "effect_orc_attackchance_plus":{
-"text":["\\C[10]\\I[385]Probabilidad de Ataque de los Orcos"]
+"text":["\\C[10]\\I[385]Prob. de Ataque de los Orcos"]
 },
 "effect_orc_attackchance_minus":{
-"text":["\\C[11]\\I[384]Probabilidad de Ataque de los Orcos"]
+"text":["\\C[11]\\I[384]Prob. de Ataque de los Orcos"]
 },
 "effect_lizardman_attackchance_plus":{
-"text":["\\C[10]\\I[385]Probabilidad de Ataque de los Hombres Lagarto"]
+"text":["\\C[10]\\I[385]Prob. de Ataque de los Hombres Lagarto"]
 },
 "effect_lizardman_attackchance_minus":{
-"text":["\\C[11]\\I[384]Probabilidad de Ataque de los Hombres Lagarto"]
+"text":["\\C[11]\\I[384]Prob. de Ataque de los Hombres Lagarto"]
 },
 "effect_inmate_charmreq_plus":{
-"text":["\\C[10]\\I[387]Requerimiento de Atractivo de los Reclusos"]
+"text":["\\C[10]\\I[387]Atractivo req. por los Reclusos"]
 },
 "effect_inmate_charmreq_minus":{
-"text":["\\C[11]\\I[386]Requerimiento de Atractivo de los Reclusos"]
+"text":["\\C[11]\\I[386]Atractivo req. por los Reclusos"]
 },
 "effect_inmate_stats_plus":{
-"text":["\\C[10]\\I[391]Estadísticas de los Reclusos"]
+"text":["\\C[10]\\I[391]Estads. de los Reclusos"]
 },
 "effect_inmate_stats_minus":{
-"text":["\\C[11]\\I[390]Estadísticas de los Reclusos"]
+"text":["\\C[11]\\I[390]Estads. de los Reclusos"]
 },
 "effect_inmate_agi_minus":{
 "text":["\\C[11]\\I[390]Agilidad de los Reclusos "]
@@ -2376,7 +2376,7 @@
 "text":["\\C[11]\\I[390]Fuerza de los Matones "]
 },
 "effect_thug_stats_minus":{
-"text":["\\C[11]\\I[390]Estadísticas de los Matones"]
+"text":["\\C[11]\\I[390]Estads. de los Matones"]
 },
 "effect_goblin_energy_plus":{
 "text":["\\C[10]\\I[487]Energía de los Goblins"]
@@ -2397,7 +2397,7 @@
 "text":["\\C[11]\\I[422]Precisión de los Pícaros"]
 },
 "effect_nerds_stats_plus":{
-"text":["\\C[10]\\I[391]Estadísticas de los Frikis"]
+"text":["\\C[10]\\I[391]Estads. de los Frikis"]
 },
 
 "effect_guard_aggr_plus":{
@@ -2407,16 +2407,16 @@
 "text":["\\C[11]\\I[412]Agresión de los Guardias"]
 },
 "effect_guard_stats_plus":{
-"text":["\\C[10]\\I[405]Estadísticas de los Guardias"]
+"text":["\\C[10]\\I[405]Estads. de los Guardias"]
 },
 "effect_guard_stats_minus":{
-"text":["\\C[11]\\I[404]Estadísticas de los Guardias"]
+"text":["\\C[11]\\I[404]Estads. de los Guardias"]
 },
 "effect_rioter_stats_plus":{
-"text":["\\C[10]\\I[391]Estadísticas de Amotinados"]
+"text":["\\C[10]\\I[391]Estads. de los Amotinados"]
 },
 "effect_rioter_stats_minus":{
-"text":["\\C[11]\\I[391]Estadísticas de Amotinados"]
+"text":["\\C[11]\\I[391]Estads. de los Amotinados"]
 },
 
 "effect_inmate_ejvolume_plus":{
@@ -2443,151 +2443,154 @@
 },
 
 "effect_learn_slam":{
-"text":["\\C[11]\\I[307]Aprendes 'Atizar', una poderosa Habilidad de Ataque de Alabarda de tipo Contundente"]
+"text":["\\C[11]\\I[307]Aprendes 'Atizar', una poderosa Habilidad de Ataque de Alabarda de tipo Contundente."]
 },
 "effect_slam_strdmg1":{
-"text":["\\C[11]\\I[307]El daño de Atizar aumenta según la Fuerza"]
+"text":["\\C[11]\\I[307]El daño de Atizar aumenta según la Fuerza."]
 },
 "effect_slam_strdmg2":{
-"text":["\\C[11]\\I[308]El daño de Atizar aumenta según la Fuerza"]
+"text":["\\C[11]\\I[308]El daño de Atizar aumenta según la Fuerza."]
 },
 
 "effect_learn_strike":{
-"text":["\\C[11]\\I[305]Aprendes 'Impacto', una Habilidad de Ataque de tipo Contundente"]
+"text":["\\C[11]\\I[305]Aprendes 'Impacto', una Habilidad de Ataque de tipo Contundente."]
 },
 "effect_learn_headstrike":{
-"text":["\\C[11]\\I[310]Aprendes 'Impacto a la cabeza', una Habilidad de Ataque de Alabarda de tipo Contundente"]
+"text":["\\C[11]\\I[310]Aprendes 'Impacto a la cabeza', una Habilidad de Ataque de Alabarda de tipo Contundente."]
 },
 "effect_headstrike_strdmg":{
-"text":["\\C[11]\\I[305]El daño de Impacto e \\I[310]Impacto a la cabeza aumenta según la Fuerza"]
+"text":["\\C[11]\\I[305]El daño de Impacto e \\I[310]Impacto a la cabeza aumenta según la Fuerza."]
 },
 
 "effect_learn_cleave":{
-"text":["\\C[11]\\I[312]Aprendes 'Filo', una Habilidad de Ataque de Alabarda vertical de tipo Cortante con Área de Efecto"]
+"text":["\\C[11]\\I[312]Aprendes 'Filo', una Habilidad de Ataque de Alabarda de tipo Cortante en Área."]
 },
 "effect_cleave_dexdmg1":{
-"text":["\\C[11]\\I[312]El daño de Filo aumenta según la Destreza"]
+"text":["\\C[11]\\I[312]El daño de Filo aumenta según la Destreza."]
 },
 "effect_cleave_aoeupgrade":{
-"text":["\\C[11]\\I[313]El Área de Efecto de Filo aumentó"]
+"text":["\\C[11]\\I[313]El Área de Efecto de Filo aumentó."]
 },
 
 "effect_learn_slash":{
-"text":["\\C[11]\\I[304]Aprendes 'Corte', una Habilidad de Ataque de Tipo Cortante"]
+"text":["\\C[11]\\I[304]Aprendes 'Corte', una Habilidad de Ataque de Tipo Cortante."]
 },
 "effect_learn_armslash":{
-"text":["\\C[11]\\I[314]Aprendes 'Cortabrazos', una Habilidad de Ataque de Alabarda de Tipo Cortante"]
+"text":["\\C[11]\\I[314]Aprendes 'Cortabrazos', una Habilidad de Ataque de Alabarda de Tipo Cortante."]
 },
 "effect_armslash_dexdmg":{
-"text":["\\C[11]\\I[304]El daño de Corte y \\I[314]Cortabrazos aumenta según la Destreza"]
+"text":["\\C[11]\\I[304]El daño de Corte y \\I[314]Cortabrazos aumenta según la Destreza."]
 },
 
 "effect_learn_skewer":{
-"text":["\\C[11]\\I[317]Aprendes 'Estocada', una Habilidad de Ataque de Alabarda de Tipo Perforante de múltiples golpes"]
+"text":["\\C[11]\\I[317]Aprendes 'Estocada', una Habilidad de Ataque de Alabarda de Tipo Perforante de múltiples golpes."]
 },
 "effect_skewer_hitupgrade1":{
-"text":["\\C[11]\\I[317]Estocada puede golpear una tercera vez"]
+"text":["\\C[11]\\I[317]Estocada puede golpear una tercera vez."]
 },
 "effect_skewer_hitupgrade2":{
-"text":["\\C[11]\\I[239]Estocada golpea una vez más"]
+"text":["\\C[11]\\I[239]Estocada golpea una vez más."]
 },
 
 "effect_learn_thrust":{
-"text":["\\C[11]\\I[306]Aprendes 'Empalar', una Habilidad de Ataque Tipo Perforante"]
+"text":["\\C[11]\\I[306]Aprendes 'Empalar', una Habilidad de Ataque Tipo Perforante."]
 },
 "effect_learn_legthrust":{
-"text":["\\C[11]\\I[316]Aprendes 'Empalapiernas', una Habilidad de Ataque de Alabarda de tipo Perforante"]
+"text":["\\C[11]\\I[316]Aprendes 'Empalapiernas', una Habilidad de Ataque de Alabarda de tipo Perforante."]
 },
 "effect_legthrust_agidmg":{
-"text":["\\C[11]\\I[306]El daño de Empalar y \\I[316]Empalapiernas aumenta según la Agilidad"]
+"text":["\\C[11]\\I[306]El daño de Empalar y \\I[316]Empalapiernas aumenta según la Agilidad."]
 },
 
 "effect_learn_revitalize":{
-"text":["\\C[11]\\I[321]Aprendes 'Revitalizar', una Habilidad de Energía que restaura la Resistencia"]
+"text":["\\C[11]\\I[321]Aprendes 'Revitalizar', una Habilidad de Energía que restaura la Resistencia."]
 },
 "effect_learn_secondwind":{
-"text":["\\C[11]\\I[322]Aprendes 'Fuerzas Renovadas', una Habilidad de Energía que restaura enormemente la Resistencia",
+"text":["\\C[11]\\I[322]Aprendes 'Fuerzas Renovadas', una Habilidad de Energía que restaura mucha Resistencia.",
 "\\C[11]Fuerzas Renovadas solo se puede usar cuando no queda Resistencia."]
 },
 "effect_revitalize_buff":{
-"text":["\\C[11]\\I[321]Revitalizar restaura más Resistencia"]
+"text":["\\C[11]\\I[321]Revitalizar restaura más Resistencia."]
 },
 "effect_learn_cautiousstance":{
-"text":["\\C[11]\\I[323]Aprendes 'Postura Cautelosa', una Habilidad de Energía que aumenta la Evasión y la Evasión de Crítico"]
+"text":["\\C[11]\\I[323]Aprendes 'Postura Cautelosa', una Habilidad de Energía que aumenta la Evasión y la Evasión de Crítico."]
 },
 "effect_learn_defensivestance":{
 "text":["\\C[11]\\I[324]Aprendes 'Postura Defensiva', una Habilidad de Energía que aumenta la Defensa, el Control de Daño,",
 "\\C[11]la Resistencia a Perder Ropa y previene la mayoría de desventajas."]
 },
 "effect_learn_counterstance":{
-"text":["\\C[11]\\I[325]Aprendes 'Posición de Contraataque', una Habilidad de Energía que aumenta la tasa de contraataque,",
-"\\C[11]el Máximo de Contraataques y aumenta ligeramente el Control de Daño."]
+"text":["\\C[11]\\I[325]Aprendes 'Postura de Contraataque', una Habilidad de Energía que aumenta",
+"\\C[11]la prob. de contraataque, el Máximo de Contraataques y el control de Daño."]
 },
 
 "effect_defensivestance_buff1":{
-"text":["\\C[11]\\I[324]La Postura Defensiva aumenta más la Defensa y también añade un poco de regeneración de Resistencia."]
+"text":["\\C[11]\\I[324]La Postura Defensiva aumenta más la Defensa y la regeneración de Resistencia."]
 },
 "effect_counterstance_buff1":{
-"text":["\\C[11]\\I[325]La Posición de Contraataque también aumenta el Ataque."]
+"text":["\\C[11]\\I[325]La Postura de Contraataque también aumenta el Ataque."]
 },
 
 
 "effect_learn_suppressdesire":{
-"text":["\\C[11]\\I[327]Aprendes 'Suprimir Deseos', un grupo de Habilidades de Voluntad que disminuyen los Deseos"]
+"text":["\\C[11]\\I[327]Aprendes 'Suprimir Deseos', un grupo de Habilidades de Voluntad que los disminuyen."]
 },
 "effect_learn_releasedesire":{
-"text":["\\C[11]\\I[328]Aprendes 'Liberar Deseos', un grupo de Habilidades de Voluntad que aumentan los Deseos"]
+"text":["\\C[11]\\I[328]Aprendes 'Liberar Deseos', un grupo de Habilidades de Voluntad que aumentan los Deseos."]
 },
 "effect_learn_releasecockdesire":{
-"text":["\\C[11]\\I[328]Aprendes 'Liberar Deseo: Polla', una Habilidad de Voluntad que aumenta el Deseo: Polla"]
+"text":["\\C[11]\\I[328]Aprendes 'Liberar Deseo: Polla', una Habilidad de Voluntad que aumenta el Deseo: Polla."]
 },
 "effect_learn_healingthoughts":{
-"text":["\\C[11]\\I[328]Aprendes 'Pensamientos Curativos', una Habilidad de Voluntad que restaura la Energía"]
+"text":["\\C[11]\\I[328]Aprendes 'Pensamientos Curativos', una Habilidad de Voluntad que restaura la Energía."]
 },
 "effect_healingthoughts_buff":{
-"text":["\\C[11]\\I[328]Pensamientos Curativos restaura más Energía"]
+"text":["\\C[11]\\I[328]Pensamientos Curativos restaura más Energía."]
 },
 "effect_learn_mindovermatter":{
-"text":["\\C[11]\\I[330]Aprendes 'Mente Sobre Materia', una Habilidad de Voluntad que restaura enormemente la Energía"]
+"text":["\\C[11]\\I[330]Aprendes 'Mente Sobre Materia', una Habilidad que restaura enormemente la Energía."]
 },
 "effect_learn_seenoevil":{
-"text":["\\C[11]\\I[331]Aprendes 'No Ver el Mal', una Habilidad de Voluntad que aumenta la resistencia a las Miradas"]
+"text":["\\C[11]\\I[331]Aprendes 'No Ver el Mal', Habilidad de Voluntad que aumenta la Res. a las Miradas."]
 },
 "effect_learn_hearnoevil":{
-"text":["\\C[11]\\I[348]Aprendes 'No Escuchar el Mal', una Habilidad de Voluntad que aumenta la resistencia a los Comentarios"]
+"text":["\\C[11]\\I[348]Aprendes 'No Escuchar el Mal', Habilidad que aumenta la Res. a los comentarios."]
 },
 "effect_learn_speaknoevil":{
-"text":["\\C[11]\\I[333]Aprendes 'No Decir del Mal', una Habilidad de Voluntad que reduce Todos los Deseos",
-"\\C[11]No Decir el Mal requiere que \\I[331]'No Ver el Mal' y \\I[348]'No Escuchar el Mal' se usen antes en el mismo turno."]
+"text":["\\C[11]\\I[333]Aprendes 'No Decir del Mal', Habilidad que reduce Todos los Deseos",
+"\\C[11]Requiere haber usado \\I[331]'No Ver el Mal' y \\I[348]'No Escuchar el Mal' en el mismo turno."]
 },
 "effect_learn_eyeofthemind":{
-"text":["\\C[11]\\I[336]Aprendes 'Ojo de la Mente', una Habilidad de Voluntad que aumenta la Precisión, la Evasión y la Probabilidad de Críticos"]
+"text":["\\C[11]\\I[336]Aprendes 'Ojo de la Mente', una Habilidad de Voluntad que aumenta la Precisión, la Evasión",
+"\\C[11]y la Probabilidad de Críticos."]
 },
 "effect_learn_realitymarble":{
-"text":["\\C[11]\\I[337]Aprendes 'Esfera de Realidad', una Habilidad de Voluntad que aumenta el Atractivo"]
+"text":["\\C[11]\\I[337]Aprendes 'Esfera de Realidad', una Habilidad de Voluntad que aumenta el Atractivo."]
 },
 "effect_learn_ki":{
-"text":["\\C[11]\\I[338]Aprendes 'Ki', una Habilidad de Voluntad que aumenta el Ataque"]
+"text":["\\C[11]\\I[338]Aprendes 'Ki', una Habilidad de Voluntad que aumenta el Ataque."]
 },
 "effect_learn_focus":{
-"text":["\\C[11]\\I[339]Aprendes 'Concentración', una Habilidad de Voluntad que aumenta la Probabilidad de Contraataque"]
+"text":["\\C[11]\\I[339]Aprendes 'Concentración', una Habilidad de Voluntad que aumenta",
+"\\C[11]la Probabilidad de Contraataque."]
 },
 "effect_learn_edgingcontrol":{
-"text":["\\C[11]\\I[187]Aprendes 'Control del Orgasmo', una Habilidad de Voluntad que aumenta el Placer necesario para eyacular"]
+"text":["\\C[11]\\I[187]Aprendes 'Control del Orgasmo', una Habilidad de Voluntad",
+"\\C[11]que aumenta el Placer necesario para eyacular."]
 },
 "effect_learn_resistorgasm":{
-"text":["\\C[11]\\I[186]Aprendes 'Resistir el Orgasmo', una Habilidad de Voluntad que aumenta el Placer necesario del orgasmo"]
+"text":["\\C[11]\\I[186]Aprendes 'Resistir el Orgasmo', Habilidad de Voluntad que sube el umbral para tener un orgasmo."]
 },
 
 
 "effect_freeartisanmeal":{
-"text":["\\C[31]\\I[544]Una Comida artesanal gratuita para Karryn en el Comedor"]
+"text":["\\C[31]\\I[544]Comida artesanal gratis para Karryn en el Comedor"]
 },
 "effect_publishstatus":{
 "text":["\\C[31]\\I[545]Se puede ver más información en Estadísticas"]
 },
 "effect_freestoreitem":{
-"text":["\\C[31]\\I[184]Artículos de la Tienda gratis para Karryn"]
+"text":["\\C[31]\\I[184]Artículos gratis para Karryn en la Tienda"]
 },
 "effect_store_newitem":{
 "text":["\\C[31]\\I[224]Artículos nuevos disponibles en la Tienda"]
@@ -2799,24 +2802,24 @@
 "text":["\\C[11]\\I[360]Bonificación de experiencia por someter a enemigos de Metal"]
 },
 "effect_metal_appearancerate":{
-"text":["\\C[11]\\I[122]Probabilidad de Aparición de enemigos de Metal"]
+"text":["\\C[11]\\I[122]Prob. de Aparición de enemigos de Metal"]
 },
 
 "effect_virgin_appearancerate":{
-"text":["\\C[11]\\I[122]Probabilidad de Aparición de Vírgenes"]
+"text":["\\C[11]\\I[122]Prob. de Aparición de Vírgenes"]
 },
 
 "effect_rareenemy_plus":{
-"text":["\\C[10]\\I[491]Probabilidad de Enemigos Raros"]
+"text":["\\C[10]\\I[491]Prob. de Enemigos Raros"]
 },
 "effect_rareenemy_minus":{
-"text":["\\C[11]\\I[490]Probabilidad de Enemigos Raros"]
+"text":["\\C[11]\\I[490]Prob. de Enemigos Raros"]
 },
 "effect_wantedenemy_plus":{
-"text":["\\C[10]\\I[491]Probabilidad de Enemigos Buscados"]
+"text":["\\C[10]\\I[491]Prob. de Enemigos Buscados"]
 },
 "effect_wantedenemy_minus":{
-"text":["\\C[11]\\I[490]Probabilidad de Enemigos Buscados"]
+"text":["\\C[11]\\I[490]Prob. de Enemigos Buscados"]
 },
 "effect_wantedenemylvl_plus":{
 "text":["\\C[10]\\I[491]El Nivel de los Enemigos Buscados aumenta después de ser sometido"]
@@ -2839,25 +2842,25 @@
 "text":["\\C[10]\\I[389]Recuperación de Fatiga"]
 },
 "effect_office_fatiguerecovery_plus":{
-"text":["\\C[11]\\I[388]Recuperación de Fatiga en la Oficina "]
+"text":["\\C[11]\\I[388]Rec. de Fatiga en la Oficina "]
 },
 "effect_office_fatiguerecovery_minus":{
-"text":["\\C[10]\\I[389]Recuperación de Fatiga en la Oficina "]
+"text":["\\C[10]\\I[389]Rec. de Fatiga en la Oficina "]
 },
 "effect_toilet_fatiguerecovery_plus":{
-"text":["\\C[11]\\I[418]Recuperación de Fatiga en el Baño "]
+"text":["\\C[11]\\I[418]Rec. de Fatiga en el Baño "]
 },
 "effect_office_sleepquality_plus":{
-"text":["\\C[11]\\I[424]Calidad del Sueño en la Oficina"]
+"text":["\\C[11]\\I[424]Calidad de Sueño en Oficina"]
 },
 "effect_office_sleepquality_minus":{
-"text":["\\C[10]\\I[425]Calidad del Sueño en la Oficina"]
+"text":["\\C[10]\\I[425]Calidad de Sueño en Oficina"]
 },
 "effect_guard_sleepquality_plus":{
-"text":["\\C[11]\\I[424]Calidad del Sueño en las Estaciones de Guardia"]
+"text":["\\C[11]\\I[424]Calidad de Sueño en Estaciones de Guardia"]
 },
 "effect_guard_sleepquality_minus":{
-"text":["\\C[10]\\I[425]Calidad del Sueño en las Estaciones de Guardia"]
+"text":["\\C[10]\\I[425]Calidad de Sueño en Estaciones de Guardia"]
 },
 "effect_fatiguegain_plus":{
 "text":["\\C[10]\\I[419]Ganancia de Fatiga "]
@@ -2866,31 +2869,31 @@
 "text":["\\C[11]\\I[418]Ganancia de Fatiga "]
 },
 "effect_warden_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[462]Durabilidad del Uniforme de Guardiana "]
+"text":["\\C[11]\\I[462]Durabilidad del Uniforme de Directora"]
 },
 "effect_waitress_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[173]Durabilidad del Uniforme de Camarera "]
+"text":["\\C[11]\\I[173]Durabilidad del Uniforme de Camarera"]
 },
 "effect_receptionist_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[128]Durabilidad del Uniforme de Recepcionista "]
+"text":["\\C[11]\\I[128]Durabilidad del Uniforme de Recepcionista"]
 },
 "effect_edictpoints_daily_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto todos los días "]
+"text":["\\C[11]\\I[364]Punto de Decreto todos los días"]
 },
 "effect_edictpoints_daily_minus":{
 "text":["\\C[10]\\I[365]Punto de Decreto todos los días"]
 },
 "effect_edictpoints_even_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto en días pares "]
+"text":["\\C[11]\\I[364]Punto de Decreto en días pares"]
 },
 "effect_edictpoints_even_minus":{
 "text":["\\C[10]\\I[365]Punto de Decreto en días pares"]
 },
 "effect_edictpoints_odd_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto en días impares "]
+"text":["\\C[11]\\I[364]Punto de Decreto en días impares"]
 },
 "effect_edictpoints_odd_minus":{
-"text":["\\C[10]\\I[365]Punto de Decreto en días impares "]
+"text":["\\C[10]\\I[365]Punto de Decreto en días impares"]
 },
 "effect_edictpoints_carryover":{
 "text":["\\C[11]\\I[364]Punto de Decreto que pasa al día siguiente cuando no se usa "]
@@ -2918,14 +2921,14 @@
 "text":["\\C[11]\\I[362]Coste de los Decretos de Accesorio "]
 },
 "effect_training_edictcost_exact_plus":{
-"text":["\\C[10]\\I[363]Coste de los Decretos de Estadísticas de Entrenamiento "]
+"text":["\\C[10]\\I[363]Coste de los Decretos de Estads. de Entrenamiento "]
 },
 "effect_training_edictcost_exact_minus":{
-"text":["\\C[11]\\I[362]Coste de los Decretos de Estadísticas de Entrenamiento "]
+"text":["\\C[11]\\I[362]Coste de los Decretos de Estads. de Entrenamiento "]
 },
 
 "effect_counterstance_edictcost_exact_minus":{
-"text":["\\C[11]\\I[325]Coste de los Decretos de Posición de Contraataque"]
+"text":["\\C[11]\\I[325]Coste de los Decretos de Postura de Contraataque"]
 },
 "effect_headstrike_edictcost_exact_minus":{
 "text":["\\C[11]\\I[310]Coste de los Decretos de Impacto a la cabeza"]
@@ -3061,16 +3064,16 @@
 "text":["\\C[10]\\I[429]Probabilidad de Crítico "]
 },
 "effect_halberd_critrate_exact_plus":{
-"text":["\\C[11]\\I[428]Probabilidad de Crítico con Alabarda "]
+"text":["\\C[11]\\I[428]Prob. de Crítico con Alabarda "]
 },
 "effect_halberd_critrate_exact_minus":{
-"text":["\\C[10]\\I[429]Probabilidad de Crítico con Alabarda"]
+"text":["\\C[10]\\I[429]Prob. de Crítico con Alabarda"]
 },
 "effect_enemy_critrate_exact_plus":{
-"text":["\\C[10]\\I[429]Probabilidad de Crítico de los Enemigos "]
+"text":["\\C[10]\\I[429]Prob. de Crítico de los Enemigos "]
 },
 "effect_enemy_critrate_exact_minus":{
-"text":["\\C[11]\\I[428]Probabilidad de Crítico de los Enemigos"]
+"text":["\\C[11]\\I[428]Prob. de Crítico de los Enemigos"]
 },
 "effect_double_critrate_all":{
 "text":["\\C[10]\\I[429]Doble Probabilidad de Crítico para todos"]
@@ -3172,16 +3175,16 @@
 "text":["\\C[31]\\I[480]Siempre luchas desarmada"]
 },
 "effect_counterrate_exact_plus":{
-"text":["\\C[11]\\I[460]Probabilidad de Contraataque "]
+"text":["\\C[11]\\I[460]Prob. de Contraataque "]
 },
 "effect_counterrate_exact_minus":{
-"text":["\\C[10]\\I[461]Probabilidad de Contraataque "]
+"text":["\\C[10]\\I[461]Prob. de Contraataque "]
 },
 "effect_unarmed_counterrate_exact_plus":{
-"text":["\\C[11]\\I[460]Probabilidad de Contraataque desarmado "]
+"text":["\\C[11]\\I[460]Prob. de Contraataque desarmado "]
 },
 "effect_counterdmg_exact_plus":{
-"text":["\\C[11]\\I[460]Probabilidad de Contraataque desarmado "]
+"text":["\\C[11]\\I[460]Prob. de Contraataque desarmado "]
 },
 "effect_counterdmg_exact_minus":{
 "text":["\\C[10]\\I[461]Daño de Contraataque "]
@@ -3235,13 +3238,13 @@
 "text":["\\C[11]\\I[468]Coste de Habilidad de Ataque "]
 },
 "effect_slashatkskillcost_exact_minus":{
-"text":["\\C[11]\\I[304]Coste de Habilidad de tipo Cortante "]
+"text":["\\C[11]\\I[304]Coste de Habilidad Cortante "]
 },
 "effect_bluntatkskillcost_exact_minus":{
-"text":["\\C[11]\\I[305]Coste de Habilidad de tipo Contundente "]
+"text":["\\C[11]\\I[305]Coste de Habilidad Contundente "]
 },
 "effect_pierceatkskillcost_exact_minus":{
-"text":["\\C[11]\\I[306]Coste de habilidad tipo Perforante "]
+"text":["\\C[11]\\I[306]Coste de habilidad Perforante "]
 },
 
 "effect_sexskillcost_exact_plus":{
@@ -3264,52 +3267,52 @@
 },
 
 "effect_sta_growth_plus":{
-"text":["\\C[11]\\I[341]Crecimiento de la Resistencia "]
+"text":["\\C[11]\\I[341]Crec. de la Resistencia "]
 },
 "effect_sta_growth_minus":{
-"text":["\\C[10]\\I[341]Crecimiento de la Resistencia "]
+"text":["\\C[10]\\I[341]Crec. de la Resistencia "]
 },
 "effect_energy_growth_plus":{
-"text":["\\C[11]\\I[342]Crecimiento de la Energía "]
+"text":["\\C[11]\\I[342]Crec. de la Energía "]
 },
 "effect_energy_growth_minus":{
-"text":["\\C[10]\\I[342]Crecimiento de la Energía "]
+"text":["\\C[10]\\I[342]Crec. de la Energía "]
 },
 "effect_str_growth_plus":{
-"text":["\\C[11]\\I[309]Crecimiento de la Fuerza "]
+"text":["\\C[11]\\I[309]Crec. de la Fuerza "]
 },
 "effect_str_growth_minus":{
-"text":["\\C[10]\\I[309]Crecimiento de la Fuerza "]
+"text":["\\C[10]\\I[309]Crec. de la Fuerza "]
 },
 "effect_dex_growth_plus":{
-"text":["\\C[11]\\I[311]Crecimiento de la Destreza "]
+"text":["\\C[11]\\I[311]Crec. de la Destreza "]
 },
 "effect_dex_growth_minus":{
-"text":["\\C[10]\\I[311]Crecimiento de la Destreza "]
+"text":["\\C[10]\\I[311]Crec. de la Destreza "]
 },
 "effect_agi_growth_plus":{
-"text":["\\C[11]\\I[315]Crecimiento de la Agilidad "]
+"text":["\\C[11]\\I[315]Crec. de la Agilidad "]
 },
 "effect_agi_growth_minus":{
-"text":["\\C[10]\\I[315]Crecimiento de la Agilidad "]
+"text":["\\C[10]\\I[315]Crec. de la Agilidad "]
 },
 "effect_end_growth_plus":{
-"text":["\\C[11]\\I[318]Crecimiento del Aguante "]
+"text":["\\C[11]\\I[318]Crec. del Aguante "]
 },
 "effect_end_growth_minus":{
-"text":["\\C[10]\\I[318]Crecimiento del Aguante "]
+"text":["\\C[10]\\I[318]Crec. del Aguante "]
 },
 "effect_mind_growth_plus":{
-"text":["\\C[11]\\I[326]Crecimiento de la Mente "]
+"text":["\\C[11]\\I[326]Crec. de la Mente "]
 },
 "effect_mind_growth_minus":{
-"text":["\\C[10]\\I[326]Crecimiento de la Mente "]
+"text":["\\C[10]\\I[326]Crec. de la Mente "]
 },
 "effect_charm_growth_plus":{
-"text":["\\C[11]\\I[319]Crecimiento del Atractivo "]
+"text":["\\C[11]\\I[319]Crec. del Atractivo "]
 },
 "effect_charm_growth_minus":{
-"text":["\\C[10]\\I[319]Crecimiento del Atractivo "]
+"text":["\\C[10]\\I[319]Crec. del Atractivo "]
 },
 "effect_exprate_exact_plus":{
 "text":["\\C[11]\\I[360]Ganancia de Experiencia "]
@@ -3319,52 +3322,52 @@
 "text":["\\C[10]\\I[361]Ganancia de Experiencia "]
 },
 "effect_talkresist_exact_plus":{
-"text":["\\C[11]\\I[438]Resistencia a los Comentarios "]
+"text":["\\C[11]\\I[438]Res. a los Comentarios "]
 },
 "effect_talkresist_exact_minus":{
-"text":["\\C[10]\\I[439]Resistencia a los Comentarios "]
+"text":["\\C[10]\\I[439]Res. a los Comentarios "]
 },
 "effect_sightresist_exact_plus":{
-"text":["\\C[11]\\I[442]Resistencia a las Miradas "]
+"text":["\\C[11]\\I[442]Res. a las Miradas "]
 },
 "effect_sightresist_exact_minus":{
-"text":["\\C[10]\\I[443]Resistencia a las Miradas "]
+"text":["\\C[10]\\I[443]Res. a las Miradas "]
 },
 "effect_stripresist_exact_plus":{
-"text":["\\C[11]\\I[446]Resistencia a Perder Ropa "]
+"text":["\\C[11]\\I[446]Res. a Perder Ropa "]
 },
 "effect_stripresist_exact_minus":{
-"text":["\\C[10]\\I[447]Resistencia a Perder Ropa "]
+"text":["\\C[10]\\I[447]Res. a Perder Ropa "]
 },
 "effect_pettingresist_exact_plus":{
-"text":["\\C[11]\\I[444]Resistencia al Manoseo "]
+"text":["\\C[11]\\I[444]Res. al Manoseo "]
 },
 "effect_pettingresist_exact_minus":{
-"text":["\\C[10]\\I[445]Resistencia al Manoseo "]
+"text":["\\C[10]\\I[445]Res. al Manoseo "]
 },
 "effect_sexresist_exact_plus":{
-"text":["\\C[11]\\I[440]Resistencia al Sexo "]
+"text":["\\C[11]\\I[440]Res. al Sexo "]
 },
 "effect_sexresist_exact_minus":{
-"text":["\\C[10]\\I[441]Resistencia al Sexo"]
+"text":["\\C[10]\\I[441]Res. al Sexo"]
 },
 "effect_slashresist_exact_plus":{
-"text":["\\C[11]\\I[432]Resistencia al daño Cortante "]
+"text":["\\C[11]\\I[432]Res. al daño Cortante "]
 },
 "effect_slashresist_exact_minus":{
-"text":["\\C[10]\\I[433]Resistencia al daño Cortante "]
+"text":["\\C[10]\\I[433]Res. al daño Cortante "]
 },
 "effect_pierceresist_exact_plus":{
-"text":["\\C[11]\\I[436]Resistencia al daño Perforante "]
+"text":["\\C[11]\\I[436]Res. al daño Perforante "]
 },
 "effect_pierceresist_exact_minus":{
-"text":["\\C[10]\\I[437]Resistencia al daño Perforante "]
+"text":["\\C[10]\\I[437]Res. al daño Perforante "]
 },
 "effect_bluntresist_exact_plus":{
-"text":["\\C[11]\\I[434]Resistencia al daño Contundente"]
+"text":["\\C[11]\\I[434]Res. al daño Contundente"]
 },
 "effect_bluntresist_exact_minus":{
-"text":["\\C[10]\\I[435]Resistencia al daño Contundente "]
+"text":["\\C[10]\\I[435]Res. al daño Contundente "]
 },
 
 "effect_strike_stun_chance":{
@@ -3557,7 +3560,7 @@
 "text":["\\C[11]\\I[384]Probabilidad de Ataque Enemigo"]
 },
 "effect_enemy_stats_plus":{
-"text":["\\C[10]\\I[391]Estadísticas del enemigo"]
+"text":["\\C[10]\\I[391]Estads. del enemigo"]
 },
 "effect_enemy_lessangry":{
 "text":["\\C[11]\\I[122]Probabilidad de Aparición de enemigo enfadado"]
@@ -3816,7 +3819,7 @@
 "text":["¡%1 adopta una postura defensiva!"]
 },
 "skill_76_name":{
-"text":["Posición de contraataque"]
+"text":["Postura de Contraataque"]
 },
 "skill_76_desc":{
 "text":[
@@ -3832,7 +3835,7 @@
 },
 "skill_77_desc":{
 "text": [
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente las Resistencias a los Comentarios, las miradas, las Caricias, los Manoseos y al Sexo durante 1 turno.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta mucho las Res. a Comentarios, Miradas, Caricias y Sexo 1 turno.",
 "\\C[9]➤\\C[0] Reduce la duración de \\I[320]Cachonda en 1 turno.",
 "\\C[8]➤\\C[0] Aumenta el Placer infligido a los enemigos durante 1 turno."
 ]},
@@ -4022,7 +4025,8 @@
 },
 "skill_102_desc":{
 "text": [
-"Aumenta la Probabilidad de Contraataque durante 1 turno."
+"Aumenta la Probabilidad de Contraataque",
+"durante 1 turno."
 ]},
 "skill_103_name":{
 "text":["Control del Orgasmo"]
@@ -4130,7 +4134,7 @@
 },
 "skill_119_desc":{
 "text": [
-"Vaya... estos reclusos... ahí abajo... es mucho más desagradable y grande de lo que imaginaba...",
+"Vaya... Estos reclusos... Eso de abajo... Es mucho más desagradable y grande de lo que imaginaba...",
 "\\REM_EFF[skill_119_effect]"
 ]},
 "skill_120_name":{
@@ -4170,7 +4174,7 @@
 },
 "skill_124_desc":{
 "text": [
-"Puedo sentirlos... todos esos deseos crudos y vulgares dirigidos hacia mi culo......",
+"Puedo sentirlos... Todos esos deseos crudos y vulgares dirigidos hacia mi culo......",
 "\\REM_EFF[skill_124_effect]"
 ]},
 "skill_125_name":{
@@ -4210,7 +4214,7 @@
 },
 "skill_129_desc":{
 "text": [
-"Ooohhh......♥ No puedo más... tal vez... debería tener sexo.......♥",
+"Ooohhh......♥ No puedo más... Tal vez... Debería tener sexo.......♥",
 "\\REM_EFF[skill_129_effect]"
 ]},
 "skill_130_name":{
@@ -4234,7 +4238,7 @@
 },
 "skill_132_desc":{
 "text": [
-"Uuu......♥ Todo mi cuerpo está pidiendo más...♥ Necesito algo, cualquier cosa... todo......♥",
+"Uuu......♥ Todo mi cuerpo está pidiendo más...♥ Necesito algo, cualquier cosa... Todo......♥",
 "\\REM_EFF[skill_132_effect]"
 ]},
 "skill_133_name":{
@@ -4242,7 +4246,7 @@
 },
 "skill_133_desc":{
 "text": [
-"Finalmente tuve... mi primer beso...",
+"Finalmente tuve... Mi primer beso...",
 "\\REM_EFF[skill_133_effect]"
 ]},
 "skill_134_name":{
@@ -4306,7 +4310,7 @@
 },
 "skill_141_desc":{
 "text": [
-"\\}Oh, Dios♥ No me canso♥ de besar♥ hombres♥ Mi mente se queda en blanco con sólo chupar sus lenguas......♥ Uh...... nh♥ Me cooorro♥♥ ",
+"\\}Oh, Dios♥ No me canso♥ de besar♥ hombres♥ Mi mente se queda en blanco con sólo chupar sus lenguas......♥ Uh...... Nh♥ Me cooorro♥♥ ",
 "\\REM_EFF[skill_141_effect]"
 ]},
 "skill_142_name":{
@@ -4314,7 +4318,7 @@
 },
 "skill_142_desc":{
 "text": [
-"Me sorprende... que en realidad no es tan difícil usar mi lengua para lamerlos....",
+"Me sorprende... Que en realidad no es tan difícil usar mi lengua para lamerlos....",
 "\\REM_EFF[skill_142_effect]"
 ]},
 "skill_143_name":{
@@ -4370,7 +4374,7 @@
 },
 "skill_149_desc":{
 "text":[
-"No puedo dejar de correrme mientras chupo pollas... hhngk♥ Pero no puedo dejar de chupar pooOOoLLAS♥",
+"No puedo dejar de correrme mientras chupo pollas... Hhngk♥ Pero no puedo dejar de chupar pooOOoLLAS♥",
 "\\REM_EFF[skill_149_effect]"
 ]},
 "skill_150_name":{
@@ -4410,7 +4414,7 @@
 },
 "skill_154_desc":{
 "text":[
-"Hm hm, veamos... este sabe como si se hubiera pajeado ayer.",
+"Hm hm, veamos... Este sabe como si se hubiera pajeado ayer.",
 "A ver que tal el siguiente... ¿Oh? Este sabe a 3 días sin paja.♪",
 "\\REM_EFF[skill_154_effect]"
 ]},
@@ -4555,7 +4559,7 @@
 },
 "skill_172_desc":{
 "text":[
-"Oh...♥ De ninguna manera...♥ Me acabo de correr... por ser manchada con semen.♥ ¿Por qué soy tan sucia y guarra?♥",
+"Oh...♥ De ninguna manera...♥ Me acabo de correr... Por ser manchada con semen.♥ ¿Por qué soy tan sucia y guarra?♥",
 "\\REM_EFF[skill_172_effect]"
 ]},
 "skill_173_name":{
@@ -4763,7 +4767,7 @@
 },
 "skill_198_desc":{
 "text":[
-"Aunque es tan vergonzoso... se que no debería correrme mientras alguien está mirando... pero se siente tan bien...",
+"Aunque es tan vergonzoso... Se que no debería correrme mientras alguien está mirando... Pero se siente tan bien...",
 "\\REM_EFF[skill_198_effect]"
 ]},
 "skill_199_name":{
@@ -4811,7 +4815,7 @@
 },
 "skill_204_desc":{
 "text":[
-"¡¿Me siento feliz... cuando los hombres manosean mis tetas...?!",
+"¡¿Me siento feliz... Cuando los hombres manosean mis tetas...?!",
 "\\REM_EFF[skill_204_effect]"
 ]},
 "skill_205_name":{
@@ -4819,7 +4823,7 @@
 },
 "skill_205_desc":{
 "text":[
-"Más fuerte... quiero que uses toda tu fuerza para apretar mis tetas...♥ No te contengas y hazlo.♥",
+"Más fuerte... Quiero que uses toda tu fuerza para apretar mis tetas...♥ No te contengas y hazlo.♥",
 "\\REM_EFF[skill_205_effect]"
 ]},
 "skill_206_name":{
@@ -4875,7 +4879,7 @@
 },
 "skill_212_desc":{
 "text":[
-"Mis pequeños pezones son... hng♥ Demasiado sexys cuando se ponen duros como un pene al sentirse bieeen♥",
+"Mis pequeños pezones son... Hng♥ Demasiado sexys cuando se ponen duros como un pene al sentirse bieeen♥",
 "\\REM_EFF[skill_212_effect]"
 ]},
 "skill_213_name":{
@@ -4923,7 +4927,7 @@
 },
 "skill_218_desc":{
 "text":[
-"¿Se te puso tan dura por mis tetas?...... Parece que no tengo más remedio que hacerte una paja con ellas.",
+"¿Se te puso tan dura por mis tetas...? Parece que no tengo más remedio que hacerte una paja con ellas.",
 "\\REM_EFF[skill_218_effect]"
 ]},
 "skill_219_name":{
@@ -4939,7 +4943,7 @@
 },
 "skill_220_desc":{
 "text":[
-"Su polla se veía tan feliz entre mis tetas... que yo también me corrí...",
+"Su polla se veía tan feliz entre mis tetas... Que yo también me corrí...",
 "\\REM_EFF[skill_220_effect]"
 ]},
 "skill_221_name":{
@@ -5051,7 +5055,7 @@
 },
 "skill_234_desc":{
 "text":[
-"Aah aah♥ Mi coño... se siente taaan...♥ Bien♥ Que los hombres te lo chupen se siente demasiado bien...♥",
+"Aah aah♥ Mi coño... Se siente taaan...♥ Bien♥ Que los hombres te lo chupen se siente demasiado bien...♥",
 "\\REM_EFF[skill_234_effect]"
 ]},
 "skill_235_name":{
@@ -5075,7 +5079,7 @@
 },
 "skill_237_desc":{
 "text":[
-"¿Por qué se siente más sensible que cuando estaba en la Capital Imperial?...",
+"¿Por qué se siente más sensible que cuando estaba en la Capital Imperial...?",
 "\\REM_EFF[skill_237_effect]"
 ]},
 "skill_238_name":{
@@ -5131,7 +5135,7 @@
 },
 "skill_244_desc":{
 "text":[
-"De verdad perdí mi virginidad en este agujero de mierda... además con un tipo que ni siquiera amo...",
+"De verdad perdí mi virginidad en este agujero de mierda... Además con un tipo que ni siquiera amo...",
 "\\REM_EFF[skill_244_effect]"
 ]},
 "skill_245_name":{
@@ -5291,7 +5295,7 @@
 },
 "skill_264_desc":{
 "text":[
-"Nnh... uhh♥ Tu semen está entrando con tanta fuerza que yo-, ¡uhhh!...Me voy a correr.♥",
+"Nnh... Uhh♥ Tu semen está entrando con tanta fuerza que yo-, ¡uhhh...! Me voy a correr.♥",
 "\\REM_EFF[skill_264_effect]"
 ]},
 "skill_265_name":{
@@ -5331,7 +5335,7 @@
 },
 "skill_269_desc":{
 "text":[
-"¿P-Puede alguien culparme por querer que me pellizquen el culo... después de todas las veces que han jugado con él?...",
+"¿P-Puede alguien culparme por querer que me pellizquen el culo... Después de todas las veces que han jugado con él...?",
 "\\REM_EFF[skill_269_effect]"
 ]},
 "skill_270_name":{
@@ -5403,7 +5407,7 @@
 },
 "skill_278_desc":{
 "text":[
-"¿Qué... por qué... en una zona tan sucia...?",
+"¿Qué... Por qué... En una zona tan sucia...?",
 "\\REM_EFF[skill_278_effect]"
 ]},
 "skill_279_name":{
@@ -5626,8 +5630,8 @@
 },
 "skill_306_desc":{
 "text":[
-"Comienza un régimen de entrenamiento para aprender a poner toda tu fuerza en un solo golpe hacia abajo.",
-"",
+"Comienza un régimen de entrenamiento para aprender a poner toda tu fuerza",
+"en un solo golpe hacia abajo.",
 "\\REM_EFF[skill_306_effect]"
 ]},
 "skill_307_name":{
@@ -5671,8 +5675,8 @@
 },
 "skill_311_desc":{
 "text":[
-"No hace falta ninguna técnica, sólo usar la fuerza bruta para enviarlos a volando con cada golpe.",
-"",
+"No hace falta ninguna técnica, sólo usar la fuerza bruta",
+"para enviarlos a volando con cada golpe.",
 "\\REM_EFF[skill_311_effect]"
 ]},
 "skill_312_name":{
@@ -5725,8 +5729,8 @@
 },
 "skill_317_desc":{
 "text":[
-"Comienza un régimen de entrenamiento para aprender a atacar a múltiples oponentes con un solo golpe",
-"",
+"Comienza un régimen de entrenamiento para aprender a atacar a",
+"múltiples oponentes con un solo golpe",
 "\\}\\REM_EFF[skill_317_effect]"
 ]},
 "skill_318_name":{
@@ -5734,8 +5738,8 @@
 },
 "skill_318_desc":{
 "text":[
-"Entrénate para que sea la propia alabarda la que haga la mayor parte del trabajo durante el balanceo.",
-"",
+"Entrénate para que sea la propia alabarda la que haga la mayor parte",
+"del trabajo durante el balanceo.",
 "\\REM_EFF[skill_318_effect]"
 ]},
 "skill_319_name":{
@@ -5824,8 +5828,8 @@
 },
 "skill_328_desc":{
 "text":[
-"Comienza un régimen de entrenamiento para aprender a atacar rápidamente dos veces contra uno o más oponentes.",
-"",
+"Comienza un régimen de entrenamiento para aprender a atacar",
+"rápidamente dos veces contra uno o más oponentes.",
 "\\}\\REM_EFF[skill_328_effect]"
 ]},
 "skill_329_name":{
@@ -5851,7 +5855,7 @@
 },
 "skill_331_desc":{
 "text":[
-"Aprende a empalar con todo el cuerpo de la alabarda para golpear con el extremo puntiagudo.",
+"Aprende a empalar con todo el cuerpo de la alabarda para dar con el extremo puntiagudo.",
 "Todos los ataques Perforantes con alabarda se basan en la Fuerza y la Agilidad.",
 "\\REM_EFF[skill_331_effect]"
 ]},
@@ -5896,8 +5900,8 @@
 },
 "skill_336_desc":{
 "text":[
-"Aumentar el Aguante también aumenta tu Resistencia Máxima. La Resistencia es necesaria",
-"para realizar ataques y habilidades sexuales, y no tener Resistencia te pone en una posición vulnerable.",
+"Aumentar el Aguante aumenta también tu Resistencia Máxima. La Resistencia es necesaria",
+"para hacer ataques sexuales, no tener Resistencia te pone en una posición vulnerable.",
 "\\REM_EFF[skill_336_effect]"
 ]},
 "skill_337_name":{
@@ -5923,8 +5927,8 @@
 },
 "skill_339_desc":{
 "text":[
-"Comienza un régimen de entrenamiento para aumentar tu capacidad de recuperar la Resistencia rápidamente.",
-"Debes mantener tu respiración tranquila y controlada pase lo que pase.",
+"Comienza un régimen de entrenamiento para aumentar tu capacidad de recuperar",
+"la Resistencia. Debes mantener tu respiración tranquila y controlada pase lo que pase.",
 "\\REM_EFF[skill_339_effect]"
 ]},
 "skill_340_name":{
@@ -5999,7 +6003,7 @@
 "\\}\\REM_EFF[skill_347_effect]"
 ]},
 "skill_348_name":{
-"text":["Posición Defensiva"]
+"text":["Postura Defensiva"]
 },
 "skill_348_desc":{
 "text":[
@@ -6055,12 +6059,12 @@
 },
 "skill_354_desc":{
 "text":[
-"Los efectos de todas las Habilidades de Voluntad aumentan a medida que tu Mente se fortalece.",
-"Si quieres sobrevivir, entrena no solo tu cuerpo, también tu mente.",
+"Los efectos de todas las Habilidades de Voluntad aumentan a medida que tu Mente",
+"se fortalece. Si quieres sobrevivir, entrena no solo tu cuerpo, también tu mente.",
 "\\REM_EFF[skill_354_effect]"
 ]},
 "skill_355_name":{
-"text":["Reprimir Deseos"]
+"text":["Suprimir Deseos"]
 },
 "skill_355_desc":{
 "text":[
@@ -6163,7 +6167,6 @@
 "skill_366_desc":{
 "text":[
 "Entrena la mente para prever los movimientos futuros.",
-"",
 "\\}\\REM_EFF[skill_366_effect]"
 ]},
 "skill_367_name":{
@@ -6189,7 +6192,7 @@
 },
 "skill_369_desc":{
 "text":[
-"Hay una iniciativa en el imperio que da una ayuda a los empresarios que contraten ex delincuentes.",
+"Hay una ayuda que da el imperio a los empresarios que contraten ex delincuentes.",
 "Así que hemos participado en el programa contratando a nuestros propios ex reclusos.",
 "\\REM_EFF[skill_369_effect]"
 ]},
@@ -6198,8 +6201,8 @@
 },
 "skill_370_desc":{
 "text":[
-"A los guardias recién contratados solo se les da un folleto a doble cara.",
-"Es rentable, y el folleto se le puede dar al siguiente empleado una vez que haya terminado de leerlo.",
+"A los guardias recién contratados solo se les da un folleto a doble cara. Es rentable,",
+"y el folleto se le puede dar al siguiente una vez que haya terminado de leerlo.",
 "\\REM_EFF[skill_370_effect]"
 ]},
 "skill_371_name":{
@@ -6207,8 +6210,8 @@
 },
 "skill_371_desc":{
 "text":[
-"Los guardias están equipados con material barato procedente de un vendedor de artículos usados.",
-"El coste de repararlos supera el coste inicial de compra...",
+"Los guardias están equipados con material barato procedente de un vendedor de",
+"artículos usados. El coste de repararlos supera el coste inicial de compra...",
 "\\REM_EFF[skill_371_effect]"
 ]},
 "skill_372_name":{
@@ -6252,8 +6255,8 @@
 },
 "skill_376_desc":{
 "text":[
-"Resulta caro realizar todas esas comprobaciones de antecedentes y entrevistas a cada nuevo empleado.",
-"Reducir todo ese papeleo reducirá nuestros gastos generales.",
+"Resulta caro realizar todas esas comprobaciones de antecedentes y entrevistas a cada",
+"nuevo empleado. Reducir todo ese papeleo reducirá nuestros gastos generales.",
 "\\REM_EFF[skill_376_effect]"
 ]},
 "skill_377_name":{
@@ -6261,7 +6264,7 @@
 },
 "skill_377_desc":{
 "text":[
-"¡No esperes a que los reclusos salgan¡",
+"¡No esperes a que los reclusos salgan!",
 "¡Contrátalos mientras cumplen su condena!",
 "\\REM_EFF[skill_377_effect]"
 ]},
@@ -6315,8 +6318,8 @@
 },
 "skill_383_desc":{
 "text":[
-"A partir de ahora, todo el equipo de los guardias se pagará por adelantado con su propio salario. ",
-"Aunque esto sea un centro penitenciario, se debe gestionar adecuadamente.",
+"A partir de ahora, todo el equipo de los guardias se pagará por adelantado con su propio",
+"salario. Aunque esto sea un centro penitenciario, se debe gestionar adecuadamente.",
 "\\REM_EFF[skill_383_effect]"
 ]},
 "skill_384_name":{
@@ -6378,8 +6381,8 @@
 },
 "skill_390_desc":{
 "text":[
-"Revisa los papeles de los reclusos para encontrar a los que que estén cualificados para ser cocineros.",
-"¡Lo mejor de todo es que no necesitas pagarles!",
+"Revisa los papeles de los reclusos para encontrar a los que que estén cualificados",
+"para ser cocineros. ¡Lo mejor de todo es que no necesitas pagarles!",
 "\\REM_EFF[skill_390_effect]"
 ]},
 "skill_391_name":{
@@ -6495,8 +6498,8 @@
 },
 "skill_403_desc":{
 "text":[
-"Nuestros guardias se merecen un premio por trabajar tan duro.",
-"Si estás dispuesta a ser su cubo de semen, podemos añadir afrodisíacos en las comidas de los guardias.",
+"Nuestros guardias se merecen un premio por trabajar tan duro. Si estás dispuesta",
+"a ser su cubo de semen, podemos añadir afrodisíacos en las comidas de los guardias.",
 "\\REM_EFF[skill_403_effect]"
 ]},
 "skill_404_name":{
@@ -6558,8 +6561,8 @@
 },
 "skill_410_desc":{
 "text":[
-"Parece que los farmacéuticos pagarían a la prisión por los informes sobre los efectos",
-"de sus medicamentos experimentales en nuestros reclusos y personal. No hay razón para no hacerlo.",
+"Parece que los farmacéuticos nos pagarían por informes sobre los efectos de medicamentos",
+"experimentales en nuestros reclusos y personal. No hay razón para no hacerlo.",
 "\\REM_EFF[skill_410_effect]"
 ]},
 "skill_411_name":{
@@ -6567,8 +6570,8 @@
 },
 "skill_411_desc":{
 "text":[
-"Los reclusos heridos son una buena oportunidad de probar los fármacos experimentales más arriesgados",
-"y los farmacéuticos pagarán generosamente a la prisión por los resultados.",
+"Los reclusos heridos son una buena oportunidad de probar los fármacos experimentales",
+"más arriesgados, Los farmacéuticos pagarán generosamente por los resultados.",
 "\\REM_EFF[skill_411_effect]"
 ]},
 "skill_412_name":{
@@ -6585,8 +6588,9 @@
 },
 "skill_413_desc":{
 "text":[
-"Si no estas satisfecha con el rendimiento sexual de los guardias, podemos encargar algunos fármacos",
-"de rendimiento sexual que deberían hacer que duren más. Todo para su disfrute, por supuesto.",
+"Si no estas satisfecha con el rendimiento sexual de los guardias, podemos encargar",
+"algunos fármacos de rendimiento sexual, que deberían hacer que duren más.",
+"Todo para su disfrute, por supuesto.",
 "\\REM_EFF[skill_413_effect]"
 ]},
 "skill_414_name":{
@@ -6594,8 +6598,9 @@
 },
 "skill_414_desc":{
 "text":[
-"\\}¿Sigues insatisfecha con los guardias? Tal vez algunas drogas para mejorar el rendimiento les hagan mucho mejores en el.",
-"\\}cumplimiento de sus deberes extraoficiales. Al fin y al cabo, complacer a la Directora es la razón por la que se alistaron.",
+"\\}¿Sigues insatisfecha con los guardias? Tal vez algunas drogas para mejorar el rendimiento",
+"\\}les hagan mucho mejores en el cumplimiento de sus deberes extraoficiales.",
+"\\}Al fin y al cabo, complacer a la Directora es la razón por la que se alistaron.",
 "\\REM_EFF[skill_414_effect]"
 ]},
 "skill_415_name":{
@@ -6603,8 +6608,8 @@
 },
 "skill_415_desc":{
 "text":[
-"Proporcionar a los reclusos libre acceso a drogas recreativas hará que sean más fáciles de controlar",
-"Una mente obtusa es una mente obediente.",
+"Proporcionar a los reclusos libre acceso a drogas recreativas hará que sean",
+"más fáciles de controlar. Una mente obtusa es una mente obediente.",
 "\\}\\}\\REM_EFF[skill_415_effect]"
 ]},
 "skill_416_name":{
@@ -6613,7 +6618,8 @@
 "skill_416_desc":{
 "text":[
 "¿Te decepciona lo rápido que se corren los reclusos?",
-"Podemos intentar proporcionarles píldoras de rendimiento sexual para que puedas divertirte más.",
+"Podemos intentar proporcionarles píldoras de rendimiento sexual",
+"para que puedas divertirte más.",
 "\\}\\REM_EFF[skill_416_effect]"
 ]},
 "skill_417_name":{
@@ -6621,8 +6627,9 @@
 },
 "skill_417_desc":{
 "text":[
-"\\}Proporcionemos drogas afrodisíacas a los reclusos mientras les decimos que son drogas para mejorar el rendimiento.",
-"\\}Los afrodisíacos te ayudarán a seducirlos más fácilmente con tu cuerpo.",
+"\\}Proporcionemos drogas afrodisíacas a los reclusos mientras les decimos que son drogas",
+"\\}para mejorar el rendimiento. Los afrodisíacos te ayudarán",
+"a seducirlos más fácilmente con tu cuerpo.",
 "\\}\\REM_EFF[skill_417_effect]"
 ]},
 
@@ -6632,7 +6639,6 @@
 "skill_427_desc":{
 "text":[
 "Entrena para desbloquear la capacidad de canalizar tu ki interior.",
-"",
 "\\REM_EFF[skill_427_effect]"
 ]},
 "skill_428_name":{
@@ -6641,7 +6647,6 @@
 "skill_428_desc":{
 "text":[
 "Entrena para desbloquear la capacidad de enfocar tu mente.",
-"",
 "\\REM_EFF[skill_428_effect]"
 ]},
 
@@ -6651,15 +6656,15 @@
 },
 "skill_450_desc":{
 "text":[
-"Establece una puerta trasera para la compra secreta de artículos personales con fondos de la prisión.",
-"Cada accesorio comprado aquí aumenta el \\C[11]\\I[378]Atractivo \\C[0]y la \\C[31]\\I[10]Corrupción \\C[0]en 1."
+"Establece una puerta trasera para la compra secreta de artículos personales con fondos",
+"de la prisión. Cada accesorio comprado aquí aumenta el \\C[11]\\I[378]Atractivo \\C[0]y la \\C[31]\\I[10]Corrupción \\C[0]en 1."
 ]},
 "skill_451_name":{
 "text":["Publicar Perfil"]
 },
 "skill_451_desc":{
 "text":[
-"La gente de aquí tiene un interés anormal en tu información personal.",
+"La gente tiene un interés anormal en tu información personal.",
 "Vendamos esa información a tus fans por algo de dinero.",
 "\\REM_EFF[skill_451_effect]"
 ]},
@@ -6669,7 +6674,7 @@
 "skill_452_desc":{
 "text":[
 "La gente pagará dinero sólo para saber si eres virgen o no. ",
-"Este es el dinero más fácil del mundo.",
+"Esto es el dinero más fácil del mundo.",
 "\\REM_EFF[skill_452_effect]"
 ]},
 "skill_453_name":{
@@ -6882,7 +6887,7 @@
 },
 "skill_477_desc":{
 "text":[
-"Modifica la alabarda para que sea más fácil contraatacar con ella tras el ataque de tu oponente.",
+"Modifica la alabarda para que sea más fácil contraatacar tras el ataque de tu oponente.",
 "Nota: Todas las Mejoras Defensivas solo tienen efecto mientras se usa la alabarda.",
 "\\REM_EFF[skill_477_effect]"
 ]},
@@ -6977,7 +6982,7 @@
 "\\REM_EFF[skill_487_effect]"
 ]},
 "skill_488_name":{
-"text":["Añade Comodidades Personales"]
+"text":["Añadir Comodidades Personales"]
 },
 "skill_488_desc":{
 "text":[
@@ -6999,8 +7004,8 @@
 },
 "skill_490_desc":{
 "text":[
-"Su Majestad Imperial el Emperador ha mandado algunos soldados imperiales para vigilar la oficina.",
-"Es una señal de lo mucho que Su Majestad Imperial aprecia tu seguridad.",
+"Su Majestad Imperial el Emperador ha mandado algunos soldados imperiales para vigilar",
+"la oficina. Es una señal de lo mucho que Su Majestad Imperial aprecia tu seguridad.",
 "\\REM_EFF[skill_490_effect]"
 ]},
 "skill_491_name":{
@@ -7027,7 +7032,7 @@
 "skill_493_desc":{
 "text":[
 "Deja que quien quiera vigilar la oficina de la Directora lo haga.",
-"¡Lo mejor es que ni siquiera tenemos que pagar a nadie para que vigile tu oficina!",
+"¡Lo mejor es que ni siquiera tenemos que pagarles para que vigilen tu oficina!",
 "\\REM_EFF[skill_493_effect]"
 ]},
 "skill_494_name":{
@@ -7200,7 +7205,7 @@
 "skill_511_desc":{
 "text":[
 "En su lugar, podríamos utilizar reclusos como camareros del bar.",
-"Sin embargo... lo más probable es que esta no sea la mejor manera de reducir costes.",
+"Sin embargo... Lo más probable es que esta no sea la mejor manera de reducir costes.",
 "\\REM_EFF[skill_511_effect]"
 ]},
 "skill_512_name":{
@@ -7280,8 +7285,7 @@
 },
 "skill_520_desc":{
 "text":[
-"Entrena para usar tu mente para dominar el deseo de eyacular de los demás.",
-"Sólo podrán eyacular cuando su reina se lo permita.",
+"Entrena tu mente para dominar el deseo de eyacular de los demás.",
 "\\REM_EFF[skill_520_effect]"
 ]},
 "skill_521_name":{
@@ -7289,7 +7293,7 @@
 },
 "skill_521_desc":{
 "text":[
-"Entrena para utilizar tu voluntad para resistir el deseo de tu cuerpo de llegar al clímax.",
+"Entrena tu voluntad para resistir el deseo de tu cuerpo de llegar al clímax.",
 "Una mente lo suficientemente fuerte puede frenar temporalmente lo inevitable.",
 "\\}\\REM_EFF[skill_521_effect]"
 ]},
@@ -7851,7 +7855,7 @@
 "skill_586_desc":{
 "text": [
 "Lo único que deben aprender nuestros reclusos es a ganar dinero para nosotr-",
-"Eehh, quiero decir... habilidades valiosas como la artesanía y la construcción.",
+"Eehh, quiero decir... Habilidades valiosas como la artesanía y la construcción.",
 "\\REM_EFF[skill_586_effect]"
 ]},
 "skill_587_name":{
@@ -8290,7 +8294,7 @@
 "text":["Agujero Negro de Semen"]
 },
 "skill_702_desc":{
-"text":["Mi trasero...... está lleno de semen como si fuera unos testículos...♥",
+"text":["Mi trasero...... Está lleno de semen como si fuera unos testículos...♥",
 "\\REM_EFF[skill_702_effect]"
 ]},
 "skill_703_name":{
@@ -8318,7 +8322,7 @@
 "text":["Orgasmo por Enema de Semen"]
 },
 "skill_706_desc":{
-"text":["Con todo ese semen fresco y caliente inyectado en mi culo... al final no pude aguantar y me corrí......",
+"text":["Con todo ese semen fresco y caliente inyectado en mi culo... Al final no pude aguantar y me corrí......",
 "\\REM_EFF[skill_706_effect]"
 ]},
 "skill_707_name":{
@@ -8360,7 +8364,7 @@
 "text":["No Pueden Parar de Hablar de Esas Pedazo de Tetas"]
 },
 "skill_712_desc":{
-"text":["Todos parecen tan felices... cuando hablan de mis tetas...",
+"text":["Todos parecen tan felices... Cuando hablan de mis tetas...",
 "\\REM_EFF[skill_712_effect]"
 ]},
 
@@ -8404,7 +8408,7 @@
 "text":["Espectáculo de Orgasmos Públicos de una Mujer"]
 },
 "skill_718_desc":{
-"text":["Bien... acércate y mírame bien.♥ ¡¿Estás listo?! porque ya viene... me estoy... corriendo!♥ Acabo de correrme delante tuya.♥",
+"text":["Bien... Acércate y mírame bien.♥ ¡¿Estás listo?! porque ya viene... Me estoy... Corriendo!♥ Acabo de correrme delante tuya.♥",
 "\\REM_EFF[skill_718_effect]"
 ]},
 "skill_719_name":{
@@ -8425,7 +8429,7 @@
 "text":["Expresiones Puras y Naturales que Sólo se Muestran Aquí"]
 },
 "skill_721_desc":{
-"text":["Sé que no debería reaccionar cuando los hombres me miran, pero no puedo evitar sonreír cuando me fijo en sus miradas... uhnng......♥",
+"text":["Sé que no debería reaccionar cuando los hombres me miran, pero no puedo evitar sonreír cuando me fijo en sus miradas... Uhnng......♥",
 "\\REM_EFF[skill_721_effect]"
 ]},
 "skill_722_name":{
@@ -8439,7 +8443,7 @@
 "text":["Las Tetas Grandes están Hechas para Presumir"]
 },
 "skill_723_desc":{
-"text":["No me mires mucho las tetas...... Mi corazón... está latiendo más rápido...",
+"text":["No me mires mucho las tetas...... Mi corazón... Está latiendo más rápido...",
 "\\REM_EFF[skill_723_effect]"
 ]},
 "skill_724_name":{
@@ -8460,7 +8464,7 @@
 "text":["Partes Privadas en Exhibición"]
 },
 "skill_726_desc":{
-"text":["¡Sé más que de sobra que a los hombres os encantan los coños...! Pero no estudiéis el mío tan intensamente... o si no...",
+"text":["¡Sé más que de sobra que a los hombres os encantan los coños...! Pero no estudiéis el mío tan intensamente... O si no...",
 "\\REM_EFF[skill_726_effect]"
 ]},
 "skill_727_name":{
@@ -8481,7 +8485,7 @@
 "text":["Glúteos Sanos para Ojos Sanos"]
 },
 "skill_729_desc":{
-"text":["¿Entiendes las palabras que salen de mi boca? Sé que mi trasero es bonito... pero no seas descarado......",
+"text":["¿Entiendes las palabras que salen de mi boca? Sé que mi trasero es bonito... Pero no seas descarado......",
 "\\REM_EFF[skill_729_effect]"
 ]},
 "skill_730_name":{
@@ -8537,7 +8541,7 @@
 "text":["Curiosidad Estimulada"]
 },
 "skill_737_desc":{
-"text":["Siempre se hacen pajas conmigo..... ¿De verdad se siente tan bien?......",
+"text":["Siempre se hacen pajas conmigo..... ¿De verdad se siente tan bien....?",
 "\\REM_EFF[skill_737_effect]"
 ]},
 "skill_738_name":{
@@ -8572,7 +8576,7 @@
 "text":["Onanista Exhibicionista"]
 },
 "skill_742_desc":{
-"text":["Si los hombres pueden masturbarse delante de mí...... yo también debería poder hacerlo......",
+"text":["Si los hombres pueden masturbarse delante de mí...... Yo también debería poder hacerlo......",
 "\\REM_EFF[skill_742_effect]"
 ]},
 "skill_743_name":{
@@ -8650,7 +8654,7 @@
 "text":["Una Pervertida Desnuda Merodeando por el Fuerte"]
 },
 "skill_755_desc":{
-"text":["\\}Es genial pasear sin ropa mientras mi coño está empapado♥ Todo el mundo me mira... como si fuera una idol.♥\\{",
+"text":["\\}Es genial pasear sin ropa mientras mi coño está empapado♥ Todo el mundo me mira... Como si fuera una idol.♥\\{",
 "\\REM_EFF[skill_755_effect]"
 ]},
 "skill_756_name":{
@@ -8664,7 +8668,7 @@
 "text":["Bragas Fáciles de Quitar"]
 },
 "skill_757_desc":{
-"text":["Hay un cierto tipo de emoción... por ir sin bragas dentro de la prisión...... Hnng......♥",
+"text":["Hay un cierto tipo de emoción... Por ir sin bragas dentro de la prisión...... Hnng......♥",
 "\\REM_EFF[skill_757_effect]"
 ]},
 "skill_758_name":{
@@ -8706,7 +8710,7 @@
 "text":["Lucha Continua para Frenar los Deseos Mundanos"]
 },
 "skill_763_desc":{
-"text":["¡¿Qué es esta oleada de placer?! ...No me...... canso de ello......",
+"text":["¡¿Qué es esta oleada de placer?! ...No me...... Canso de ello......",
 "\\REM_EFF[skill_763_effect]"
 ]},
 "skill_764_name":{
@@ -8776,7 +8780,7 @@
 "text":["Arrebato Sádico"]
 },
 "skill_773_desc":{
-"text":["Ohh... esto es celestial... ¡Pensar que puedo sentir tanto éxtasis por acosar a hombres inútiles e inferiores!",
+"text":["Ohh... Esto es celestial... ¡Pensar que puedo sentir tanto éxtasis por acosar a hombres inútiles e inferiores!",
 "\\REM_EFF[skill_773_effect]"
 ]},
 "skill_774_name":{
@@ -8833,7 +8837,7 @@
 "text":["El Placer de Ser la Perra de la Prisión"]
 },
 "skill_785_desc":{
-"text":["No... no puedo dejar que nadie del imperio me vea así...♥ Y cada vez que imagino que eso sucede, yo......♥♥",
+"text":["No... No puedo dejar que nadie del imperio me vea así...♥ Y cada vez que imagino que eso sucede, yo......♥♥",
 "\\REM_EFF[skill_785_effect]"
 ]},
 "skill_786_name":{
@@ -8896,7 +8900,7 @@
 "text":["Primera Orgía de Mamadas"]
 },
 "skill_794_desc":{
-"text":["Es surrealista no ver más que... penes delante mía...",
+"text":["Es surrealista no ver más que... Penes delante mía...",
 "\\REM_EFF[skill_794_effect]"
 ]},
 "skill_795_name":{
@@ -8910,21 +8914,21 @@
 "text":["El Paraíso de las Barras de Carne"]
 },
 "skill_796_desc":{
-"text":["Ooh... hay pollas hasta donde mis ojos pueden ver.♥♥ Es como si me hubiera convertido en la servilleta de todo el mundo.♥♥♥",
+"text":["Ooh... Hay pollas hasta donde mis ojos pueden ver.♥♥ Es como si me hubiera convertido en la servilleta de todo el mundo.♥♥♥",
 "\\REM_EFF[skill_796_effect]"
 ]},
 "skill_797_name":{
 "text":["Exsecretaria Enloquecida"]
 },
 "skill_797_desc":{
-"text":["Así que ya... me he acostado con más de diez hombres diferentes, ¿no?......",
+"text":["Así que... Ya me he acostado con más de diez hombres diferentes, ¿no......?",
 "\\REM_EFF[skill_797_effect]"
 ]},
 "skill_798_name":{
 "text":["Objeto Sexual Conveniente"]
 },
 "skill_798_desc":{
-"text":["Últimamente, siento que estoy perdiendo más y más mi pureza... oh bueno. ♪",
+"text":["Últimamente, siento que estoy perdiendo más y más mi pureza... Oh bueno. ♪",
 "\\REM_EFF[skill_798_effect]"
 ]},
 "skill_799_name":{
@@ -8980,7 +8984,7 @@
 "text":["Amiga Sexual de los Matones"]
 },
 "skill_806_desc":{
-"text":["Los matones también tienen sus cosas buenas,... en concreto, las pollas......",
+"text":["Los matones también tienen sus cosas buenas,... En concreto, las pollas......",
 "\\REM_EFF[skill_806_effect]"
 ]},
 "skill_807_name":{
@@ -9029,7 +9033,7 @@
 "text":["Besadora Enloquecida con Cero Fidelidad"]
 },
 "skill_813_desc":{
-"text":["Quiero besar a alguien... oh♥ He encontrado a un chico~♥ Hola guapo~ Vamos a enrollarnos~~♥",
+"text":["Quiero besar a alguien... Oh♥ He encontrado a un chico~♥ Hola guapo~ Vamos a enrollarnos~~♥",
 "\\REM_EFF[skill_813_effect]"
 ]},
 "skill_814_name":{
@@ -9113,7 +9117,7 @@
 "text":["Funda para Pollas Llevada en Cien Batallas"]
 },
 "skill_825_desc":{
-"text":["Fufufu...♥ No es momento de mirar hacia otro lado.♥ ¿Ves?... Ya estoy encima de ti.♥",
+"text":["Fufufu...♥ No es momento de mirar hacia otro lado.♥ ¿Ves...? Ya estoy encima tuya.♥",
 "\\REM_EFF[skill_825_effect]"
 ]},
 "skill_826_name":{
@@ -9169,14 +9173,14 @@
 "text":["Atractivo Sexual Cautivador"]
 },
 "skill_833_desc":{
-"text":["Oh, es demasiado fácil tener a estos bufones inútiles bailando en la palma de mi mano. ♪ Fufufu... esto es divertido.♥",
+"text":["Oh, es demasiado fácil tener a estos bufones inútiles bailando en la palma de mi mano. ♪ Fufufu... Esto es divertido.♥",
 "\\REM_EFF[skill_833_effect]"
 ]},
 "skill_834_name":{
 "text":["Trampa de Miel Demoníaca"]
 },
 "skill_834_desc":{
-"text":["Sí... sigue mirándome... excítate con mi cuerpooo...♥ Veo que se te hincha la entrepierna... Quiero hacerla aún más grande.♥♥",
+"text":["Sí... Sigue mirándome... Excítate con mi cuerpooo...♥ Veo que se te hincha la entrepierna... Quiero hacerla aún más grande.♥♥",
 "\\REM_EFF[skill_834_effect]"
 ]},
 "skill_835_name":{
@@ -9239,7 +9243,7 @@
 "text":["Rodillas y Orgullo Derrumbados"]
 },
 "skill_843_desc":{
-"text":["Volví a caerme... sorprendentemente, no es desagradable ser menospreciada por estos hombres inferiores......",
+"text":["Volví a caerme... Sorprendentemente, no es desagradable ser menospreciada por estos hombres inferiores......",
 "\\REM_EFF[skill_843_effect]"
 ]},
 "skill_844_name":{
@@ -9386,14 +9390,14 @@
 "text":["Acostumbrándose al Tacto de los Juguetes"]
 },
 "skill_864_desc":{
-"text":["Luzco absolutamente estúpida con estas cosas pegadas a mí... pero sin embargo, yo......",
+"text":["Luzco absolutamente estúpida con estas cosas pegadas a mí... Pero sin embargo, yo......",
 "\\REM_EFF[skill_864_effect]"
 ]},
 "skill_865_name":{
 "text":["El Retumbar de los Vibradores"]
 },
 "skill_865_desc":{
-"text":["¿Cómo es tan potente este juguete...... siendo tan pequeño?... ngh...",
+"text":["¿Cómo es tan potente este juguete...... Siendo tan pequeño...? Ngh...",
 "\\REM_EFF[skill_865_effect]"
 ]},
 "skill_866_name":{
@@ -9407,14 +9411,14 @@
 "text":["¿Son mejores los Consoladores o las Pollas?"]
 },
 "skill_867_desc":{
-"text":["¿No es esta cosa... demasiado parecida a la real? Su dureza también está muy bien hecha......",
+"text":["¿No es esta cosa... Demasiado parecida a la real? Su dureza también está muy bien hecha......",
 "\\REM_EFF[skill_867_effect]"
 ]},
 "skill_868_name":{
 "text":["No me Canso del Consolador"]
 },
 "skill_868_desc":{
-"text":["Empiezo... a enamorarme cada vez más de estas pollas falsas... A diferencia de las de verdad, nunca se ablandan......",
+"text":["Empiezo... A enamorarme cada vez más de estas pollas falsas... A diferencia de las de verdad, nunca se ablandan......",
 "\\REM_EFF[skill_868_effect]"
 ]},
 "skill_869_name":{
@@ -9435,7 +9439,7 @@
 "text":["Divertiéndose con Juguetes Como una Adulta"]
 },
 "skill_871_desc":{
-"text":["¿Cómo esperas que trabaje, uhh... hng...♥ con estos juguetes metidos dentro...?♥",
+"text":["¿Cómo esperas que trabaje, uhh... Hng...♥ con estos juguetes metidos dentro...?♥",
 "\\REM_EFF[skill_871_effect]"
 ]},
 "skill_872_name":{
@@ -9449,7 +9453,7 @@
 "text":["Orgasmo con Juguetes para Adultos"]
 },
 "skill_873_desc":{
-"text":["No soy... una puta callejera a la que puedas llevar al orgasmo... con algún juguete... pero... tal vez......",
+"text":["No soy... Una puta callejera a la que puedas llevar al orgasmo... Con algún juguete... Pero... Tal vez......",
 "\\REM_EFF[skill_873_effect]"
 ]},
 "skill_874_name":{
@@ -9463,7 +9467,7 @@
 "text":["Material para Pajas para los Frikis"]
 },
 "skill_875_desc":{
-"text":["¡Uuu... estas cosas son asquerosas...! ¡Vuelve cuando te hayas duchado!",
+"text":["¡Uuu... Estas cosas son asquerosas...! ¡Vuelve cuando te hayas duchado!",
 "\\REM_EFF[skill_875_effect]"
 ]},
 "skill_876_name":{
@@ -9617,7 +9621,7 @@
 "text":["Camarera Exhibicionista"]
 },
 "skill_897_desc":{
-"text":["El bar realmente no es el lugar para este tipo de cosas, pero...... bueno, tal vez un poco está bien.",
+"text":["El bar realmente no es el lugar para este tipo de cosas, pero... Bueno, tal vez un poco está bien.",
 "\\REM_EFF[skill_897_effect]"
 ]},
 "skill_898_name":{
@@ -9638,7 +9642,7 @@
 "text":["Salúdame con Caricias"]
 },
 "skill_900_desc":{
-"text":["No debería dejar que los hombres me toquen por todas partes mientras trabajo, pero... ohhh... tampoco puedo luchar contra mis impulsos......",
+"text":["No debería dejar que los hombres me toquen por todas partes mientras trabajo, pero... Ohhh... Tampoco puedo luchar contra mis impulsos......",
 "\\REM_EFF[skill_900_effect]"
 ]},
 "skill_901_name":{
@@ -9652,7 +9656,7 @@
 "text":["Importancia de la Gestión de la Resistencia"]
 },
 "skill_902_desc":{
-"text":["Sigo quedándome sin resistencia contra un grupo de aficionados... parece que todavía tengo mucho que aprender...",
+"text":["Sigo quedándome sin resistencia contra un grupo de aficionados... Parece que todavía tengo mucho que aprender...",
 "\\REM_EFF[skill_902_effect]"
 ]},
 "skill_903_name":{
@@ -9673,7 +9677,7 @@
 "text":["Orgasmo por Azotes en el Culo"]
 },
 "skill_905_desc":{
-"text":["Sé que luzco patética... pero no puedo dejar de correrme mientras me azotan...♥",
+"text":["Sé que luzco patética... Pero no puedo dejar de correrme mientras me azotan...♥",
 "\\REM_EFF[skill_905_effect]"
 ]},
 "skill_906_name":{
@@ -9695,7 +9699,7 @@
 "text":["Puta de los Hombres Lagarto"]
 },
 "skill_910_desc":{
-"text":["¡Me estoy volviendo adicta...... a estas suaves pooollas de lagarto......!",
+"text":["¡Me estoy volviendo adicta...... A estas suaves pooollas de lagarto......!",
 "\\REM_EFF[skill_910_effect]"
 ]},
 "skill_911_name":{
@@ -9737,7 +9741,7 @@
 "text":["Voluntaria de los Vagabundos"]
 },
 "skill_916_desc":{
-"text":["¿No es triste que no tengan casa ni trabajo?... Por eso les doy un poco de alegría de vez en cuando......",
+"text":["¿No es triste que no tengan casa ni trabajo...? Por eso les doy un poco de alegría de vez en cuando......",
 "\\REM_EFF[skill_916_effect]"
 ]},
 "skill_917_name":{
@@ -9779,14 +9783,14 @@
 "text":["El Placer de ser Capturada"]
 },
 "skill_922_desc":{
-"text":["Es como si yo fuera la reclusa aquí... así que, ¿por qué estoy disfrutando de esta sensación?......",
+"text":["Es como si yo fuera la reclusa aquí... Así que, ¿por qué estoy disfrutando de esta sensación......?",
 "\\REM_EFF[skill_922_effect]"
 ]},
 "skill_923_name":{
 "text":["Adicta al Aislamiento"]
 },
 "skill_923_desc":{
-"text":["¡Hnng! Me han vuelto a pillar♥ Nnghh...... Estoy tan cachonda ahora mismo... que alguien venga a castigarme~♥",
+"text":["¡Hnng! Me han vuelto a pillar♥ Nnghh...... Estoy tan cachonda ahora mismo... Que alguien venga a castigarme~♥",
 "\\REM_EFF[skill_923_effect]"
 ]},
 "skill_924_name":{
@@ -9842,7 +9846,7 @@
 "text":["Punto de Descanso Preferido al Mediodía"]
 },
 "skill_931_desc":{
-"text":["Ir al baño de hombres tantas veces es raro... pero es un buen lugar de descanso......",
+"text":["Ir al baño de hombres tantas veces es raro... Pero es un buen lugar de descanso......",
 "\\REM_EFF[skill_931_effect]"
 ]},
 "skill_932_name":{
@@ -10003,7 +10007,7 @@
 "text":["Los Pezones se endurecen por Calumnias"]
 },
 "skill_954_desc":{
-"text":["Aaa...♥ Mis pezones están ahora muy duros♥ Sigue burlándote... de lo grandes que son mis tetas, por favor♥",
+"text":["Aaa...♥ Mis pezones están ahora muy duros♥ Sigue burlándote... De lo grandes que son mis tetas, por favor♥",
 "\\REM_EFF[skill_954_effect]"
 ]},
 "skill_955_name":{
@@ -10073,7 +10077,7 @@
 "text":["Primer Contacto con Una Vara de Carne"]
 },
 "skill_964_desc":{
-"text":["¿Q-Qué es esto?... Puedo sentirlo latiendo en mi mano... Se siente tan extraño y vulgar...",
+"text":["¿Q-Qué es esto...? Puedo sentirlo latiendo en mi mano... Se siente tan extraño y vulgar...",
 "\\REM_EFF[skill_964_effect]"
 ]},
 "skill_965_name":{
@@ -10108,14 +10112,14 @@
 "text":["Perra de Monta de los Hombres Lobo"]
 },
 "skill_969_desc":{
-"text":["¡Lo que hacen no es sexo! ¡Es... algo más instintivo... y primitivo...!",
+"text":["¡Lo que hacen no es sexo! ¡Es... Algo más instintivo... Y primitivo...!",
 "\\REM_EFF[skill_969_effect]"
 ]},
 "skill_970_name":{
 "text":["Activadora de Celo en Hombres Lobo"]
 },
 "skill_970_desc":{
-"text":["Estoy empezando a volverme adicta... a la forma en que me embisten por detrás como una bestia mientras golpean mis puntos débiles...",
+"text":["Estoy empezando a volverme adicta... A la forma en que me embisten por detrás como una bestia mientras golpean mis puntos débiles...",
 "\\REM_EFF[skill_970_effect]"
 ]},
 "skill_971_name":{
@@ -10136,7 +10140,7 @@
 "text":["Deseo por los Yetis"]
 },
 "skill_973_desc":{
-"text":["Siempre pensé que el tamaño no importaba... pero...... las pollas grandes también son muy buenas...",
+"text":["Siempre pensé que el tamaño no importaba... Pero...... Las pollas grandes también son muy buenas...",
 "\\REM_EFF[skill_973_effect]"
 ]},
 "skill_974_name":{
@@ -10150,7 +10154,7 @@
 "text":["Los Perdedores Son Enviados a la Guillotina"]
 },
 "skill_975_desc":{
-"text":["¡¿Qué clase de psicópata... utilizaría una anticuada herramienta de castigo como juguete?!",
+"text":["¡¿Qué clase de psicópata... Utilizaría una anticuada herramienta de castigo como juguete?!",
 "\\REM_EFF[skill_975_effect]"
 ]},
 "skill_976_name":{
@@ -10671,7 +10675,7 @@
 "\\}\\}\\C[9]➤\\C[0] Usa \\I[321]Revitalizar y luego usa \\I[323]Postura Cautelosa."
 ]},
 "skill_1082_msg1":{
-"text":["%1 respira hondo para revitalizarse"]
+"text":["¡%1 respira hondo para revitalizarse"]
 },
 "skill_1082_msg2":{
 "text":["y observa con cautela a sus enemigos!"]
@@ -10685,7 +10689,7 @@
 "\\}\\}\\C[9]➤\\C[0] Usa \\I[322]Fuerzas Renovadas y luego usa \\I[323]Postura Cautelosa."
 ]},
 "skill_1083_msg1":{
-"text":["%1 utiliza su energía interior para renovar sus fuerzas"]
+"text":["¡%1 utiliza su energía interior para renovar sus fuerzas"]
 },
 "skill_1083_msg2":{
 "text":["y observa con cautela a sus enemigos!"]
@@ -10710,10 +10714,10 @@
 "skill_1085_desc":{
 "text":[
 "Restaura algo de Resistencia y adopta una postura.",
-"\\}\\}\\C[9]➤\\C[0] Usa \\I[321]Revitalizar y luego usa \\I[324]Posición defensiva."
+"\\}\\}\\C[9]➤\\C[0] Usa \\I[321]Revitalizar y luego usa \\I[324]Postura Defensiva."
 ]},
 "skill_1085_msg1":{
-"text":["%1 respira hondo para revitalizarse"]
+"text":["¡%1 respira hondo para revitalizarse"]
 },
 "skill_1085_msg2":{
 "text":["y adopta una postura defensiva!"]
@@ -10741,7 +10745,7 @@
 "\\}\\}\\C[9]➤\\C[0] Usa \\I[346]Arreglar la ropa y luego usa \\I[324]Postura Defensiva."
 ]},
 "skill_1087_msg1":{
-"text":["%1 se arregla la ropa y se la pone correctamente"]
+"text":["¡%1 se arregla la ropa y se la pone correctamente"]
 },
 "skill_1087_msg2":{
 "text":["y adopta una postura defensiva!"]
@@ -10755,7 +10759,7 @@
 "\\}\\}\\C[9]➤\\C[0] Usa \\I[321]Revitalizar y luego usa \\I[325]Postura de Contraataque."
 ]},
 "skill_1088_msg1":{
-"text":["%1 respira hondo para revitalizarse"]
+"text":["¡%1 respira hondo para revitalizarse"]
 },
 "skill_1088_msg2":{
 "text":["y adopta una postura de contraataque!"]
@@ -10769,7 +10773,7 @@
 "\\}\\}\\C[9]➤\\C[0] Usa \\I[322]Fuerzas Renovadas y luego usa \\I[325]Postura de Contraataque."
 ]},
 "skill_1089_msg1":{
-"text":["%1 utiliza su energía interior para renovar sus fuerzas"]
+"text":["¡%1 utiliza su energía interior para renovar sus fuerzas"]
 },
 "skill_1089_msg2":{
 "text":["y adopta una postura de contraataque!"]
@@ -10783,7 +10787,7 @@
 "\\}\\}\\C[9]➤\\C[0] Usa \\I[346]Arreglar la ropa y luego usa \\I[325]Postura de Contraataque."
 ]},
 "skill_1090_msg1":{
-"text":["%1 se arregla la ropa y se la pone correctamente"]
+"text":["¡%1 se arregla la ropa y se la pone correctamente"]
 },
 "skill_1090_msg2":{
 "text":["y adopta una postura de contraataque!"]
@@ -10793,17 +10797,17 @@
 "text":["¡%1 mira fijamente a %2!"]
 },
 "skill_1092_msg1":{
-"text":["%1 acaricia a %2!"]
+"text":["¡%1 acaricia a %2!"]
 },
 
 "skill_1093_msg1":{
-"text":["%1 patea la cabeza de %2 con sus pies!"]
+"text":["¡%1 patea la cabeza de %2 con sus pies!"]
 },
 "skill_1094_msg1":{
-"text":["%1 patea los brazos de %2 con sus pies!"]
+"text":["¡%1 patea los brazos de %2 con sus pies!"]
 },
 "skill_1095_msg1":{
-"text":["%1 patea las piernas de %2 con sus pies!"]
+"text":["¡%1 patea las piernas de %2 con sus pies!"]
 },
 
 "skill_1096_name":{
@@ -11018,7 +11022,7 @@
 "text":["¡%1 golpea con sus tentáculos!"]
 },
 "skill_1231_msg1":{
-"text":["¡%1 golpea con sus nudillos de metal!"]
+"text":["¡%1 golpea con su puño americano!"]
 },
 "skill_1232_msg1":{
 "text":["¡%1 golpea con sus cadenas!"]
@@ -11619,7 +11623,7 @@
 "text":["¡%1 le mete los dedos en el coño a %2!"]
 },
 "skill_1521_msg1":{
-"text":["¡%1 aprieta el gran trasero de %2!"]
+"text":["¡%1 aprieta el enorme trasero de %2!"]
 },
 "skill_1522_msg1":{
 "text":["¡%1 le mete los dedos por el culo a %2!"]
@@ -13779,7 +13783,7 @@
 },
 "skill_2104_desc":{
 "text":[
-"Vaya... Si que hay ambiente aquí... con toda esta iluminación sospechosa y aceite perfumado en la habitación...",
+"Vaya... Si que hay ambiente aquí... Con toda esta iluminación sospechosa y aceite perfumado en la habitación...",
 "\\REM_EFF[skill_2104_effect]"
 ]},
 "skill_2105_name":{
@@ -13829,7 +13833,7 @@
 },
 "skill_2110_desc":{
 "text":[
-"No podía ignorarlos más... cuando tienen una erección tan cerca mía...",
+"No podía ignorarlos más... Cuando tienen una erección tan cerca mía...",
 "\\REM_EFF[skill_2110_effect]"
 ]},
 "skill_2111_name":{
@@ -13853,7 +13857,7 @@
 },
 "skill_2113_desc":{
 "text":[
-"Estoy empezando a entender... por qué los tíos no paran de intentar desnudarme..........",
+"Estoy empezando a entender... Por qué los tíos no paran de intentar desnudarme..........",
 "\\REM_EFF[skill_2113_effect]"
 ]},
 "skill_2114_name":{
@@ -13885,7 +13889,7 @@
 },
 "skill_2117_desc":{
 "text":[
-"¡¿Mmmh?! ¡¿Esto es... pelo...?! No se parece al mío... No creo... ¿Podría ser...?",
+"¡¿Mmmh?! ¡¿Esto es... Pelo...?! No se parece al mío... No creo... ¿Podría ser...?",
 "\\REM_EFF[skill_2117_effect]"
 ]},
 "skill_2118_name":{
@@ -15394,7 +15398,7 @@
 "\\REM_EFF[armor_202_effect]"
 ]},
 "armor_203_name":{
-"text":["Líder del Gimnasio de Fort Ganon"]
+"text":["Líder del Gimnasio del Fuerte Ganon"]
 },
 "armor_203_desc":{
 "text":["Prueba de una entrenadora que ha completado más de 20 jornadas.",
