@@ -701,12 +701,12 @@
 ]},
 "commonevent153_choice_2":{
 "text":[
-"Comienza la batalla del Infierno Infinito"
+"Comenzar Batalla Infernal Infinita"
 ]},
 "commonevent153_description_2":{
 "text":[
-"\\}Derrota a \\C[3]10 Oleadas\\C[0] en Prisión Infinita para desbloquear batallas del Infierno Infinito.",
-"\\}\\I[25]Los trucos se desactivarán durante el Infierno Infinito, pero se activará un truco aleatorio cada 5 oleadas.\\{",
+"\\}Derrota a \\C[3]10 Oleadas\\C[0] en Prisión Infinita para desbloquear las Batallas Infernales Infinitas.",
+"\\}\\I[25]Los trucos se desactivarán durante esta batalla, pero se activará un truco aleatorio cada 5 oleadas.\\{",
 "\\I[25]Puntuación más alta: \\C[3]Oleadas \\REM_ENDLESS_HELL_SCORE[0]\\C[0]  De todos los tiempos: \\C[29]\\REM_ENDLESS_HELL_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_HELL_SCORE[2] (Modo Guardiana)  \\C[10]\\REM_ENDLESS_HELL_SCORE[3] (Modo Prisionera)"
 ]},
 "commonevent153_choice_3":{
@@ -2134,7 +2134,7 @@
 "text":["Visitante Negociador"]},
 "map4_ev40_p1_1":{
 "text":[
-"Oye, ¿Existe la posibilidad de que me des un número más alto para saltarme la cola?", 
+"Oye, ¿Me podrías dar un número más alto para saltarme la cola?", 
 "Estoy dispuesto a pagarte todo esto por las molestias..."
 ]},
 "map4_ev40_tachiename_2":{
@@ -2152,7 +2152,7 @@
 "text":[
 "¡198! ¡199! ¡200...!",
 "Uffff. Este es el momento perfecto para hacer unas flexiones.",
-"...Espera un segundo... ¡¡Eres la Secretaria Imperial!! ¡¡Soy un gran admirador!!"
+"...Espera... ¡¡Eres la Secretaria Imperial!! ¡¡Soy un gran admirador!!"
 ]},
 "map4_ev42_tachiename_2":{
 "text":["Visitante Dormido"]},
@@ -2224,12 +2224,13 @@
 "text":[
 "¡P-Pero no me interesan las chicas con pechos grandes!",
 "¡Así que ni siquiera recuerdo cómo era su cara! ¿Eh? E-está bien...",
-"¡¿Huh?! ¿Que no te importa? ¿Que quieres más material sobre Karryn? Bueno...",
-"Espera ¿Lo dices enserio? ¡¿Solo quieres más material para masturbarte?!",
+"¡¿Huh?! ¿No te importa? ¿Quieres más material sobre Karryn? Bueno...",
+"Espera ¿De verdad? ¡¿Solo quieres más material para masturbarte?!",
 "¡Editor en jefe! ¡Por favor, no trate a sus periodistas como a sus ",
 "asistentes personales para traerle una revista guarra de la tienda!",
 "Tendré que rechazar firme y formalmente su solicitud.",
-"¡Solo estoy aquí como periodista para recopilar material sobre el Fuerte Ganon!"
+"¡Solo estoy aquí como periodista para recopilar",
+"material sobre el Fuerte Ganon!"
 ]},
 
 "map4_ev47_tachiename_3":{
@@ -2673,9 +2674,9 @@
 "Pero está bien. Seré franco, este bar es sitio lúgubre y sin vida.",
 "Tampoco es muy rentable. Los costos de reemplazar vasos y ",
 "muebles rotos por las peleas diarias son una locura.",
-"El único guardia asignado al bar también está demasiado ocupado",
-"bebiéndose los ingresos del bar en lugar de hacer su trabajo. Le he planteado ",
-"este asunto al Subdirector varias veces, pero dijo que tienen poco personal.",
+"El único guardia asignado al bar está demasiado ocupado bebiéndose ",
+"los ingresos del bar en lugar de hacer su trabajo. Le he planteado ",
+"este asunto al Subdirector, pero dice que tienen poco personal.",
 "Pero, si trabajaras aquí solo un ratito de tu día,",
 "la noticia se extendería como la pólvora entre los reclusos.",
 "",
@@ -3346,7 +3347,7 @@
 "map15_ev28_p1_1":{
 "text":[
 "¡Señorita Karryn! No te preocupes",
-"¡Ningún recluso hará ninguna locura en este nivel bajo nuestra supervisión!"
+"¡Nadie hará ninguna locura en este nivel bajo nuestra supervisión!"
 ]},
 "map15_ev28_p2_1":{
 "text":[
@@ -5142,7 +5143,7 @@
 ]},
 "map18_ev26_p1_Lv3_desc_4":{
 "text":[
-"Efecto del Regalo: \\C[11]\\I[474]Control de daño +7%",
+"Efecto del Regalo: \\C[11]\\I[474]Control de Daño +7%",
 "\\C[31]El Nivel de Puta de Karryn debe ser menor a 55 para seleccionar este regalo."
 ]},
 "map18_ev26_p1_Lv3_desc_5":{
@@ -7419,7 +7420,7 @@
 
 "La cantidad de experiencia depende del crecimiento de esa estadística, ",
 "si el enemigo al que te enfrentas es más débil o más fuerte que tú.",
-"Por cada 5 niveles, tu \\C[3]Nivel de Guardiana\\C[0] también aumentará.",
+"Por cada 5 niveles, tu \\C[3]Nivel de Directora\\C[0] también aumentará.",
 
 "Depende de ti si quieres tener una distribución uniforme",
 "en todas las estadísticas o centrarte en una o dos estadísticas.",
@@ -8457,8 +8458,9 @@
 "¿Has visto el traje de la nueva Directora?",
 "",
 
-"¿Cómo espera que nos aguantemos mientras va por ahí caminando con ese uniforme?",
-"Es como si estuviera pidiendo a gritos que nos amotinemos. "
+"¿Cómo espera que nos aguantemos mientras va por ahí",
+"caminando con ese uniforme? Es como si estuviera",
+"pidiendo a gritos que nos amotinemos."
 ]},
 
 "map22_ev3_p1_2":{
@@ -8477,7 +8479,8 @@
 "",
 
 "A medida que aumenta su \\C[1]\\I[297]Deseo: Culo\\C[0], seguramente",
-"empezará a dejarme no solo tocar su trasero, sino también meterle los dedos, jojojo."
+"empezará a dejarme no solo tocar su trasero, sino también",
+"meterle los dedos, jojojo."
 ]},
 
 "map22_ev9_p1_2":{
@@ -8574,7 +8577,7 @@
 
 "map22_ev11_p1_1":{
 "text": [
-"Hermanos, permítanme encargarme de su \\C[1]\\I[293]Deseo: Pechos\\C[0].",
+"Hermanos, permitidme encargarme de su \\C[1]\\I[293]Deseo: Pechos\\C[0].",
 "",
 "",
 
@@ -8594,7 +8597,7 @@
 
 "map22_ev12_p1_1":{
 "text": [
-"¡HERMANO humano!",
+"¡Hermano HUMANO!",
 "¡Permite que hermano goblin suba \\C[1]\\I[294]DESEO: BOCA\\C[0]!",
 "",
 
@@ -8742,9 +8745,9 @@
 "usar habilidades sexuales. Y alguien con una",
 "Probabilidad de Ataque alta preferirá atacar.",
 
-"Algunos prisioneros tienen inherentemente una alta Probabilidad de Ataque",
+"Algunos prisioneros tienen una alta Probabilidad de Ataque",
 "y algunos tienen una Probabilidad de Ataque baja.",
-"Los prisioneros que están enfadados también tendrán una alta Probabilidad de Ataque."
+"Los prisioneros enfadados tendrán una alta Probabilidad de Ataque."
 ]},
 
 "map22_ev20_p1_2":{
@@ -8758,11 +8761,11 @@
 
 "map22_ev21_p1_1":{
 "text": [
-"Nuestra estadística Probabilidad de Actuar representa la",
+"Nuestra estadística 'Probabilidad de Actuar' representa la",
 "posibilidad de que tengamos un turno para hacer algo.",
 "",
 
-"Oportunidad de actuar se basa principalmente en las diferencias entre nuestra",
+"Oportunidad de actuar se basa en la diferencia entre nuestra",
 "Agilidad y la \\C[4]\\I[315]Agilidad de la Directora\\C[0]. Así que, alguien",
 "más rápido que la Directora podrá actuar prácticamente en cada turno.",
 
@@ -8770,8 +8773,9 @@
 "probablemente solo actuará cada dos turnos.",
 "",
 
-"Pero no importa cuán baja sea la Probabilidad de Actuar de alguien, si no actuó",
-"en el turno anterior, lo más probable es que actúe en el próximo turno."
+"Pero no importa cuán baja sea la Probabilidad de Actuar de alguien,",
+"si no actuó en el turno anterior, lo más probable",
+"es que actúe en el próximo turno."
 ]},
 
 
@@ -8976,7 +8980,7 @@
 "te pondrán en desventaja si no te ocupas de ellos primero.",
 
 "Recomiendo usar \\I[324]\\C[5]Postura Defensiva\\C[0] cuando se están preparando",
-"para hacer algo, a menos que estés seguro de que puedes eliminarlos primero."
+"para hacer algo, a menos que sepas que puedes eliminarlos primero."
 ]},
 
 
@@ -9061,7 +9065,7 @@
 "Asegúrate de usar el tipo correcto de ataques contra él, ",
 "parece favorecer los ataques \\C[2]\\I[305]Contundentes\\C[0] y \\C[4]\\I[306]Perforantes\\C[0].",
 
-"Probablemente deberías tener un Nivel de Guardiana 9 o superior junto a ",
+"Probablemente deberías tener un Nivel de Directora 9 o superior junto a ",
 "unos buenos \\C[3]Decretos Personales\\C[0] promulgados antes de tratar con él.",
 "Ah, y quizás deberías 'despejar' la habitación antes de enfrentarte a él."
 ]},
@@ -9084,7 +9088,7 @@
 "ahí arriba, pero otros dicen que los Slimes no deberían poder",
 "ser capaces de lograr algo así sin que nadie los ayude.",
 
-"Por si acaso, recomiendo tener un Nivel de Guardiana de 18 o superior",
+"Por si acaso, recomiendo tener un Nivel de Directora de 18 o superior",
 "y tener mucha práctica enfrentándote a Slimes antes de",
 "meterte demasiado profundo en el Nivel Dos.",
 
@@ -9233,7 +9237,7 @@
 "la mayoría del daño que les hagas.",
 
 "¡¡Si quieres evitar que se regeneren, necesitas \\I[307]\\C[18]Atizar\\C[0]les!!",
-"Si no tienes \\\\C[18]Atizar\\\\C[0], puedes usar \\\\I[312]\\\\C[3]Filo\\\\C[0] o \\\\I[317]\\\\C[4]Estocada\\\\C[0] ",
+"Si no tienes \\C[18]Atizar\\C[0], puedes usar \\I[312]\\C[3]Filo\\C[0] o \\I[317]\\C[4]Estocada\\C[0] ",
 "para al menos reducir su regeneración un montonazo.",
 
 "Si aún no has aprendido esos ataques, entonces ponte ya mismo",
@@ -9246,8 +9250,8 @@
 
 "map24_ev17_p1_1":{
 "text": [
-"Solo hay un tipo de recluso que es más débil que nosotros, los Prisioneros Normales,",
-"y esos son los Frikis. Son lentos, débiles y una molestia en general.",
+"Los únicos reclusos más débiles que nosotros, los Prisioneros Normales,",
+"son los Frikis. Son lentos, débiles y una molestia en general.",
 "También son inteligentes, pero ser inteligente aquí no vale para nada."
 ]},
 
@@ -9742,8 +9746,8 @@
 "map35_ev33_p2_challengerun_desc":{
 "text":[
 "\\#Los Desafíos son opcionales y otorgan un Título al vencer al jefe final.",
-"\\#Los Desafíos solo se pueden realizar en modo Guardiana o Prisionera después de reiniciar todos los niveles y estadísticas.",
-"\\#La recompensa por superar el desafío en el modo Prisionera sobrescribirá la recompensa del modo Guardiana.",
+"\\#Los Desafíos solo se pueden realizar en Modo Guardiana o Prisionera después de reiniciar todos los niveles y estadísticas.",
+"\\#La recompensa por superar el desafío en el modo Prisionera sobrescribirá la recompensa del Modo Guardiana.",
 "\\#Los Desafíos se pueden abandonar o fallar sin penalización alguna."
 ]},
 "map35_ev33_p2_secretary_desc":{

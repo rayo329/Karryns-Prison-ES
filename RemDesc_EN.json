@@ -241,7 +241,7 @@
 "text":["\\C[27]Ganas más Deseo: Coño cada vez que se pellizca el clítoris en la misma batalla."]
 },
 "peffect_pussydesiregainrate_cunni_people_day":{
-"text":["\\C[27]Ganas más Deseo: Coño por cada persona que haga un cunnilingus a Karryn en ese mismo día."]
+"text":["\\C[27]Ganas más Deseo: Coño por cada persona que haga un Cunnilingus a Karryn en ese mismo día."]
 },
 "peffect_pussydesiregainrate_sightpussy_people_battle":{
 "text":["\\C[27]Ganas más Deseo: Coño por cada persona mira fijamente la entrepierna de Karryn en la misma batalla."]
@@ -709,26 +709,26 @@
 },
 
 "peffect_pussycreampiesensitivity":{
-"text":["\\C[1]La Sensibilidad a las Corridas Internas ha aumentado."]
+"text":["\\C[1]La Sensibilidad a las Corridas Vaginales ha aumentado."]
 },
 "peffect_pussycreampiesensitivity_talkpussy_day":{
-"text":["\\C[27]La Sensibilidad a las Corridas Internas aumenta por cada persona que hable de forma humillante sobre el coño de Karryn en ese mismo día."]
+"text":["\\C[27]La Sensibilidad a las Corridas Vaginales aumenta por cada persona que hable de forma humillante sobre el coño de Karryn en ese mismo día."]
 },
 "peffect_pussycreampiesensitivity_psex_count_day":{
-"text":["\\C[27]La Sensibilidad a las Corridas Internas aumenta cada vez que el coño es follado en ese mismo día."]
+"text":["\\C[27]La Sensibilidad a las Corridas Vaginales aumenta cada vez que el coño es follado en ese mismo día."]
 },
 "peffect_pussycreampiesensitivity_pussycreampie_battle":{
-"text":["\\C[27]La Sensibilidad a las Corridas Internas aumenta con cada gota de semen eyaculada dentro en esa misma batalla."]
+"text":["\\C[27]La Sensibilidad a las Corridas Vaginales aumenta con cada gota de semen eyaculada dentro en esa misma batalla."]
 },
 "peffect_pussycreampiesensitivity_pussycreampie_day":{
-"text":["\\C[27]La Sensibilidad a las Corridas Internas aumenta con cada gota de semen eyaculada dentro en ese mismo día."]
+"text":["\\C[27]La Sensibilidad a las Corridas Vaginales aumenta con cada gota de semen eyaculada dentro en ese mismo día."]
 },
 
 "peffect_clitpussycreampiesensitivity":{
-"text":["\\C[1]La Sensibilidad de la Vagina, del Clítoris y a las Corridas Internas ha aumentado."]
+"text":["\\C[1]La Sensibilidad de la Vagina, del Clítoris y a las Corridas Vaginales ha aumentado."]
 },
 "peffect_clitpussycreampiesensitivity_pussydesire":{
-"text":["\\C[27]La Sensibilidad de la Vagina, del Clítoris y a las Corridas Internas aumenta en base al Deseo: Coño."]
+"text":["\\C[27]La Sensibilidad de la Vagina, del Clítoris y a las Corridas Vaginales aumenta en base al Deseo: Coño."]
 },
 
 "peffect_buttsensitivity":{
@@ -798,7 +798,7 @@
 "text":["\\C[1]La Sensibilidad Anal y de la Vagina aumenta mientras se es follada por detrás."]
 },
 "peffect_pussyandanalcreampiesensitivity_doggy":{
-"text":["\\C[1]La Sensibilidad a las Corridas internas y Anales aumenta mientras se es follada por detrás."]
+"text":["\\C[1]La Sensibilidad a las Corridas Vaginales y Anales aumenta mientras se es follada por detrás."]
 },
 
 "peffect_handsensitivity":{
@@ -1700,7 +1700,7 @@
 "text":["\\C[27]La Precisión ha disminuido."]
 },
 "peffect_acc_down_cunni_count_battle":{
-"text":["\\C[27]La Precisión disminuye por cada persona que haga un cunnilingus en esa misma batalla."]
+"text":["\\C[27]La Precisión disminuye por cada persona que haga un Cunnilingus en esa misma batalla."]
 },
 "peffect_acc_down_nerd":{
 "text":["\\C[27]La Precisión disminuye mientras haya un nerd presente."]
@@ -3225,10 +3225,10 @@
 "text":["\\C[11]\\I[474]Control de Daño contra Enemigos "]
 },
 "effect_wardenlvlimit_exact_plus":{
-"text":["\\C[11]\\I[352]Nivel máximo de Guardiana "]
+"text":["\\C[11]\\I[352]Nivel máximo de Directora "]
 },
 "effect_wardenlvlimit_exact_minus":{
-"text":["\\C[10]\\I[353]Nivel máximo de Guardiana "]
+"text":["\\C[10]\\I[353]Nivel máximo de Directora "]
 },
 
 "effect_atkskillcost_exact_plus":{
@@ -3340,10 +3340,10 @@
 "text":["\\C[10]\\I[447]Res. a Perder Ropa "]
 },
 "effect_pettingresist_exact_plus":{
-"text":["\\C[11]\\I[444]Res. al Manoseo "]
+"text":["\\C[11]\\I[444]Res. a las Caricias "]
 },
 "effect_pettingresist_exact_minus":{
-"text":["\\C[10]\\I[445]Res. al Manoseo "]
+"text":["\\C[10]\\I[445]Res. a las Caricias "]
 },
 "effect_sexresist_exact_plus":{
 "text":["\\C[11]\\I[440]Res. al Sexo "]
@@ -3700,7 +3700,7 @@
 },
 "skill_60_desc":{
 "text":[
-"Ataca a un objetivo con daño Perforante",
+"Ataca a un objetivo con daño Perforante.",
 "\\}\\}\\C[9]➤\\C[0] Inflige Ralentización al golpear.",
 "\\C[13]➤\\C[0] La Ralentización es una desventaja que disminuye la Agilidad."
 ]},
@@ -3812,7 +3812,7 @@
 "skill_75_desc":{
 "text":[
 "Adoptas una postura defensiva.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Defensa, el Control de Daño y la Resistencia a Perder Ropa durante 1 turno.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta mucho la Defensa, el Ctrl. de Daño y la Res. a Perder Ropa 1 turno.",
 "\\C[9]➤\\C[0] Protege contra varias desventajas durante 1 turno."
 ]},
 "skill_75_msg1":{
@@ -3824,7 +3824,7 @@
 "skill_76_desc":{
 "text":[
 "Adoptas una postura de contraataque.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Probabilidad de Contraataque y el Máximo de Contraataques durante 1 turno.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta mucho la Prob. de Contraataque y el Máx. de Contraataques 1 turno.",
 "\\C[9]➤\\C[0] Aumenta ligeramente el Control de Daño durante 1 turno."
 ]},
 "skill_76_msg1":{
@@ -3922,14 +3922,16 @@
 },
 "skill_87_desc":{
 "text": [
-"Aumenta la Resistencia a las Miradas durante 1 turno."
+"Aumenta la Resistencia a las Miradas",
+"durante 1 turno."
 ]},
 "skill_88_name":{
 "text":["No Escuchar el Mal"]
 },
 "skill_88_desc":{
 "text": [
-"Aumenta la Resistencia a los Comentarios durante 1 turno."
+"Aumenta la Resistencia a los Comentarios",
+"durante 1 turno."
 ]},
 "skill_89_name":{
 "text":["No Decir el Mal"]
@@ -4011,7 +4013,8 @@
 },
 "skill_100_desc":{
 "text": [
-"\\}Aumenta la Precisión, la Evasión y la Probabilidad de Crítico durante 1 turno."
+"\\}Aumenta la Precisión, la Evasión y",
+"la Probabilidad de Crítico durante 1 turno."
 ]},
 "skill_101_name":{
 "text":["Ki"]
@@ -4033,7 +4036,7 @@
 },
 "skill_103_desc":{
 "text": [
-"Aumenta el Placer necesario para eyacular durante 1 turno.",
+"Aumenta el Placer necesario para eyacular 1 turno.",
 "\\}\\}\\C[13]➤\\C[0] Solo funciona en el objetivo de una habilidad sexual."
 ]},
 "skill_104_name":{
@@ -4041,7 +4044,8 @@
 },
 "skill_104_desc":{
 "text": [
-"\\}Aumenta el Placer necesario para tener un orgasmo durante 1 turno."
+"\\}Aumenta el Placer necesario para tener un orgasmo",
+"durante 1 turno."
 ]},
 "skill_105_name":{
 "text":["Restaurar la Mente"]
@@ -5563,7 +5567,7 @@
 "\\REM_EFF[skill_297_effect]"
 ]},
 "skill_298_name":{
-"text":["Placer Por Corridas Internas en el Ano"]
+"text":["Placer Por Corridas en el Ano"]
 },
 "skill_298_desc":{
 "text":[
@@ -12812,7 +12816,7 @@
 "text":["¡%1 se folla las enormes tetas de %2!"]
 },
 "skill_1807_msg1":{
-"text":["¡%1 le hace un cunnilingus a %2!"]
+"text":["¡%1 le hace un Cunnilingus a %2!"]
 },
 "skill_1808_msg1":{
 "text":["¡%1 hace que %2 le coma el culo!"]
@@ -13679,7 +13683,7 @@
 "text":["\\REM_EFF[skill_2028_effect]"
 ]},
 "skill_2029_name":{
-"text":["Entrenamiento de Entereza: Manoseo"]
+"text":["Entrenamiento de Entereza: Caricias"]
 },
 "skill_2029_desc":{
 "text":["\\REM_EFF[skill_2029_effect]"
