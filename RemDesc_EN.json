@@ -2307,7 +2307,7 @@
 "text":["\\C[11]\\I[420]Probabilidad de Invasión en la Oficina"]
 },
 "effect_guardstation_invasionchance_minus":{
-"text":["\\C[11]\\I[420]Probabilidad de Invasión en la Estación de Guardia"]
+"text":["\\C[11]\\I[420]Probabilidad de Invasión en un Puesto de Guardia"]
 },
 "effect_visitorcenter_invasionchance_plus":{
 "text":["\\C[10]\\I[487]Probabilidad de Invasión de Goblins en el Centro de Visitantes"]
@@ -3404,7 +3404,7 @@
 "text":["\\C[11]\\I[314]Se puede usar Cortabrazos estando desarmada"]
 },
 "effect_cleave_offbalance":{
-"text":["\\C[11]\\I[312]Filo inflige Desequilibrio a todos los enemigos golpeados"]
+"text":["\\C[11]\\I[312]Filo hace perder el equilibrio a todos los enemigos golpeados"]
 },
 "effect_cleave_cooldown_minus":{
 "text":["\\C[11]\\I[312]Reduce el tiempo de enfriamiento de Filo en 1 turno"]
@@ -10398,7 +10398,7 @@
 },
 "skill_1028_desc":{
 "text":[
-"Elimina la desventaja de Desequilibrio."
+"Elimina la desventaja de Perder el Equilibrio."
 ]},
 "skill_1028_msg1":{
 "text":["¡%1 recupera el equilibrio!"]
@@ -13637,7 +13637,7 @@
 },
 "skill_2021_desc":{
 "text":["\\REM_EFF[skill_2021_effect]",
-"\\C[11]El desequilibrio disminuye el ataque, la defensa y la evasión."
+"\\C[11]Perder el equilibrio disminuye el ataque, la defensa y la evasión."
 ]},
 "skill_2022_name":{
 "text":["Entrenamiento de Filo: Técnica"]
@@ -14399,21 +14399,21 @@
 "text":["Derrochadora Ruinosa"]
 },
 "armor_57_desc":{
-"text":["Prueba de una mala directora que llevó la prisión a la quiebra.",
+"text":["Prueba de una mala directora que llevó la prisión a la bancarrota.",
 "\\REM_EFF[armor_57_effect]"
 ]},
 "armor_58_name":{
 "text":["Mujer Despilfarradora"]
 },
 "armor_58_desc":{
-"text":["Prueba de una mala gestora que dejó la prisión en quiebra más de 5 veces.",
+"text":["Prueba de una mala gestora que dejó la prisión en bancarrota más de 5 veces.",
 "\\REM_EFF[armor_58_effect]"
 ]},
 "armor_59_name":{
-"text":["Reina de la Quiebra"]
+"text":["Reina de la Bancarrota"]
 },
 "armor_59_desc":{
-"text":["\\}La prueba de una defraudadora fiscal que reinó en una prisión en quiebra durante más de dos semanas.",
+"text":["\\}La prueba de una defraudadora fiscal que reinó en una prisión en bancarrota durante más de dos semanas.",
 "\\REM_EFF[armor_59_effect]"
 ]},
 "armor_60_name":{

@@ -1773,7 +1773,7 @@
 "map_name_12":{
 "text":["Las Escaleras al Nivel 3"]},
 "map_name_9":{
-"text":["Estación de Guardia del Nivel 1"]},
+"text":["Puesto de Guardia del Nivel 1"]},
 "map_name_10":{
 "text":["El Taller"]},
 
@@ -1806,7 +1806,7 @@
 "map_name_39":{
 "text":["Pasillo del Nivel 2"]},
 "map_name_45":{
-"text":["Estación de Guardia del Nivel 2"]},
+"text":["Puesto de Guardia del Nivel 2"]},
 "map_name_46":{
 "text":["El Laboratorio"]},
 
@@ -1823,7 +1823,7 @@
 "map_name_62":{
 "text":["Las Duchas"]},
 "map_name_60":{
-"text":["Estación de Guardia del Nivel 3"]},
+"text":["Puesto de Guardia del Nivel 3"]},
 "map_name_61":{
 "text":["Celda Solitaria 1919"]},
 "map_name_58":{
@@ -1846,7 +1846,7 @@
 "map_name_69":{
 "text":["La Cancha de Baloncesto"]},
 "map_name_73":{
-"text":["Estación de Guardia del Nivel 4"]},
+"text":["Puesto de Guardia del Nivel 4"]},
 "map_name_71":{
 "text":["La Caverna del Yeti"]},
 "map_name_65":{
@@ -7583,7 +7583,7 @@
 "Puedes ganar fatiga al hacer casi cualquier cosa.",
 
 "La única manera de reducir tu \\C[18]\\I[419]Fatiga\\C[0] es descansando.",
-"Puedes descansar en tu oficina o en una Estación de ",
+"Puedes descansar en tu oficina o en un Puesto de ",
 "Guardia ubicada en algún lugar de cada Nivel de la Prisión.",
 
 "Recuerda descansar antes de que tu \\C[18]\\I[419]Fatiga\\C[0] suba demasiado.",
@@ -7922,7 +7922,7 @@
 "Promulgar un \\C[3]Decreto\\C[0] podría abrir las puertas a nuevos \\C[3]Decretos\\C[0].",
 
 "1. \\C[3]Los Decretos\\C[0] se pueden promulgar desde esta oficina o desde  ",
-"cualquier estación de guardia con un teléfono que funcione.",
+"cualquier puesto de guardia con un teléfono que funcione.",
 "",
 
 "2. Para promulgar un \\C[3]Decreto\\C[0], necesitas disponer de una cierta cantidad de ",
@@ -9265,7 +9265,7 @@
 "El \\I[285]\\C[1]Rotor Rosa\\C[0] te hará ganar ",
 "Placer cada turno y reducirá tu Precisión.",
 
-"El \\I[286]\\C[1]Dildo\\C[0] reducirá tu Agilidad.",
+"El \\I[286]\\C[1]Consolador\\C[0] reducirá tu Agilidad.",
 "Las \\I[287]\\C[1]Bolas Chinas\\C[0] reducirán tu Fuerza. Así que probablemente deberías",
 "deshacerte de cualquier juguete que te inserten lo antes posible."
 ]},
@@ -9696,7 +9696,7 @@
 "text":[
 "\\C[3]Para seleccionar o confirmar algo:\\C[0]",
 "Con teclado: Presiona la tecla confirmar (Z por defecto)",
-"Con gamepad: Presiona la tecla confirmar (por defecto en Xbox: A; en Dualshock: X)",
+"Con mando: Presiona la tecla confirmar (por defecto en Xbox: A; en Dualshock: X)",
 "Con ratón: Clic izquierdo en el elemento",
 "",
 "\\C[3]Para moverse:\\C[0]",
