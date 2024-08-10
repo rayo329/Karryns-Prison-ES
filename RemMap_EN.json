@@ -378,7 +378,7 @@
 ]},
 "commonevent109_karryn_3":{
 "text":[
-"Pero bueno, ¡Con este tipo de cosas no me van a vencer tan fácilmente!",
+"Pero bueno, ¡No seré vencida tan fácilmente!",
 "¿Hmm.........?"
 ]},
 "commonevent109_karryn_4":{
@@ -707,7 +707,7 @@
 "text":[
 "\\}Derrota a \\C[3]10 Oleadas\\C[0] en Prisión Infinita para desbloquear las Batallas Infernales Infinitas.",
 "\\}\\I[25]Los trucos se desactivarán durante esta batalla, pero se activará un truco aleatorio cada 5 oleadas.\\{",
-"\\I[25]Puntuación más alta: \\C[3]Oleadas \\REM_ENDLESS_HELL_SCORE[0]\\C[0]  De todos los tiempos: \\C[29]\\REM_ENDLESS_HELL_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_HELL_SCORE[2] (Modo Guardiana)  \\C[10]\\REM_ENDLESS_HELL_SCORE[3] (Modo Prisionera)"
+"\\}\\I[25]Puntuación más alta: \\C[3]Oleadas \\REM_ENDLESS_HELL_SCORE[0]\\C[0]  De todos los tiempos: \\C[29]\\REM_ENDLESS_HELL_SCORE[1] (Modo Secretaria)  \\C[12]\\REM_ENDLESS_HELL_SCORE[2] (Modo Guardiana)  \\C[10]\\REM_ENDLESS_HELL_SCORE[3] (Modo Prisionera)"
 ]},
 "commonevent153_choice_3":{
 "text":[
@@ -740,7 +740,7 @@
 
 "commonevent154_text_1":{
 "text":[
-"\\#\\{\\{\\{\\{\\C[5]¡Bienvenido al Modo de Juego Libre!"
+"\\#\\{\\{\\{\\C[5]¡Bienvenido al Modo de Juego Libre!"
 ]},
 "commonevent154_text_2":{
 "text":[
@@ -1059,7 +1059,7 @@
 "Rem ya ha dicho mucho sobre Karryn's prison en su carta, ",
 "así que no quiero hablar mucho sobre eso aquí.",
 "",
-"Pero hay sentimientos de agradecimiento que están brotando de mi",
+"Pero hay sentimientos de agradecimiento que están brotando de mí",
 "pecho y de los que quiero hablar después de leer la carta de Rem.",
 "",
 "Al principio, cuando Rem me preguntó sobre Karryn's Prision', ",
@@ -1716,7 +1716,7 @@
 "troops280_p1_noinim_1":{
 "text":[
 "Usar tales tácticas contra una mujer......",
-"Está en contra de mi filosofía..........",
+"Va en contra de mi filosofía..........",
 "Pero debo seguir las órdenes de mi Maestro............",
 "¡¡Entendido..................!!"
 ]},
@@ -3003,7 +3003,7 @@
 
 "map13_ev32_p2_tonkin_1":{
 "text":[
-"Hehehe, oink......",
+"jejeje, oink......",
 "Más más, y hazlo bonito y grande."
 ]},
 
@@ -3019,7 +3019,7 @@
 
 "map13_ev32_p3_tonkin_lose_1":{
 "text":[
-"Hehehehe ¡¡OINK!!",
+"jejejehe ¡¡OINK!!",
 "¡Gané! ¡¡Gané!! ¡¡Finalmente gané!!",
 "¡¡No ha sido para nada difícil!!"
 ]},
@@ -3127,7 +3127,7 @@
 "No quiero hacer más cosas malas, de verdad.",
 
 "¿Recuerdas lo que dijiste? ¡¡'Te están utilizando como a un peón'!!",
-"¡Fuiste capaz de ver a través de mi! ¡¡Eso es exactamente lo que",
+"¡Fuiste capaz de ver a través de mí! ¡¡Eso es exactamente lo que",
 " está pasando!! Me quedé helado por como acertaste de lleno.",
 
 "Después de que dijeras eso... Comencé a pensar.",
@@ -4578,7 +4578,7 @@
 "text":[
 "¡Sí, Su Majestad Imperial!",
 "Tengo recuerdos irremplazables del Fuerte Ganon...",
-"También obtuve lo que se podría llamar buenos compañeros.",
+"También conseguí, lo que se podría llamar, unos buenos compañeros.",
 "¡Y todo fue gracias a Su Majestad Imperial!",
 "Muchas gracias."
 ]},
@@ -4604,7 +4604,7 @@
 "map17_ev63_p2_noinim_1":{
 "text":[
 "Poderosa mujer...............",
-"Incluso aunque hayas salido aquí......",
+"Incluso aunque hayas salido de aquí......",
 "No te olvides seguir perfeccionando ese cuerpo..........",
 "¡¡La próxima vez que nos encontremos, seré vencedor....!!"
 ]},
@@ -4614,8 +4614,8 @@
 ]},
 "map17_ev63_p2_gobriel_2":{
 "text":[
-"¿......HUH?! ¡¿Qué pasa, qué me ha pasado?!",
-"¡¿P-Por qué estoy afuera?!"
+"¡¿......HUH?! ¡¿Qué pasa, qué me ha pasado?!",
+"¡¿P-Por qué estoy fuera?!"
 ]},
 "map17_ev63_p2_yasu_1":{
 "text":[
@@ -4624,7 +4624,7 @@
 "map17_ev63_p2_yasu_2":{
 "text":[
 "D-Disculpe, S-Su Majestad Imperial......",
-"¿Le ha hablado la señorita Karryn de mi....?"
+"¿Le ha hablado la señorita Karryn de mí....?"
 ]},
 "map17_ev63_p2_emperor_2":{
 "text":[
@@ -4632,7 +4632,7 @@
 "Es gracias a ti que actualmente estamos aquí de esta forma.",
 "Estoy profundamente agradecido contigo.",
 "Ahora, en lo que respecta a tu padre.......",
-"Le ofrezco mi más sentido pésame...",
+"Te ofrezco mi más sentido pésame...",
 "",
 "¡Como compensación, prometo asegurar el futuro del Fuerte Ganon!",
 "Deberíamos poder apoyar al Fuerte Ganon más que nunca ",
@@ -4656,8 +4656,8 @@
 "map17_ev63_p2_yasu_4":{
 "text":[
 "Si señora... ¡Gracias...!",
-"Por presuntuoso que sea, ahora estaré ",
-"cumpliendo el papel de sacerdote."
+"Por presuntuoso que sea, ahora ",
+"cunpliré el papel de sacerdote."
 ]},
 "map17_ev63_p2_yasu_5":{
 "text":[
@@ -4680,16 +4680,16 @@
 "map17_ev63_p2_emperor_4":{
 "text":[
 "Así que así se siente besarte......",
-"Es como si me llenara de sentimientos de felicidad......!"
+"¡Es como si me llenara de sentimientos de felicidad......!"
 ]},
 "map17_ev63_p2_karryn_6":{
 "text":[
-"¿E-Es así......?"
+"¿Ah si......?"
 ]},
 "map17_ev63_p2_karryn_7":{
 "text":[
 "(Estoy feliz por poder besar a Su Majestad Imperial......",
-"Pero quizás por eso, un impulso distinto está empezando a surgir......)"
+"Pero un ansia distinta está empezando a surgir en mí......)"
 ]},
 "map17_ev63_p2_karryn_8":{
 "text":[
@@ -4708,7 +4708,7 @@
 "map17_ev63_p2_emperor_6":{
 "text":[
 "¿Eeh? ¿Ahora mismo?",
-"Para mi gusto estás perfecta ahora mismo.......",
+"Para mi gusto estás perfecta.......",
 "B-Bueno, no importa."
 ]},
 "map17_ev63_p2_karryn_10":{
@@ -4718,7 +4718,7 @@
 ]},
 "map17_ev63_p2_karryn_11":{
 "text":[
-"¿Me puede ayudar?"
+"¿Me podéis ayudar?"
 ]},
 "map17_ev63_p2_karryn_12":{
 "text":[
@@ -4732,7 +4732,7 @@
 "text":[
 "Si......♪",
 "Oh, umm, Su Majestad Imperial......",
-"¿Puedes besarme una vez más?"
+"¿Puede besarme una vez más?"
 ]},
 "map17_ev63_p2_emperor_8":{
 "text":[
@@ -4745,7 +4745,7 @@
 "map17_ev63_p2_karryn_15":{
 "text":[
 "......Vale, he estado pensando......",
-"¿Me permitirías quedarme aquí un poco más como Directora?"
+"¿Me permitiría quedarme aquí un poco más como Directora?"
 ]},
 "map17_ev63_p2_emperor_9":{
 "text":[
@@ -4753,7 +4753,7 @@
 ]},
 "map17_ev63_p2_karryn_16":{
 "text":[
-"¿No me dejarás?"
+"¿No puedo...?"
 ]},
 "map17_ev63_p2_emperor_10":{
 "text":[
@@ -4786,7 +4786,7 @@
 ]},
 "map17_ev63_p2_karryn_20":{
 "text":[
-"¡Así que todos lo habeis escuchado!",
+"¡Habéis escuchado todos!",
 "Estaré a vuestro cuidado una vez más♥"
 ]},
 "map17_ev63_p2_narration_1":{
@@ -5039,8 +5039,8 @@
 "map18_ev26_p1_LvX_desc_0":{
 "text":[
 "Selecciona el regalo que el Emperador ha elegido darle a Karryn.",
-"El efecto de este regalo siempre estará activo mientras Karryn no pierda el regalo ",
-"de alguna manera. El regalo elegido aquí no tiene ningún efecto en la historia."
+"Su efecto siempre estará activo mientras Karryn no lo pierda.",
+"El regalo elegido aquí no tiene ningún efecto en la historia."
 ]},
 
 "map18_ev26_p1_Lv1_choice_1":{
@@ -5067,19 +5067,19 @@
 "map18_ev26_p1_Lv1_desc_3":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[378]Encanto +2",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 45 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 45 para elegir este regalo."
 ]},
 
 "map18_ev26_p1_Lv1_desc_4":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[428]Probabilidad de Crítico +10%",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 30 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 30 para elegir este regalo."
 ]},
 
 "map18_ev26_p1_Lv1_desc_5":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[446]Resistencia a Perder Ropa +15%",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 20 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 20 para elegir este regalo."
 ]},
 
 "map18_ev26_p1_Lv2_choice_1":{
@@ -5104,17 +5104,17 @@
 "map18_ev26_p1_Lv2_desc_3":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[378]Encanto +2",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 60 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 60 para elegir este regalo."
 ]},
 "map18_ev26_p1_Lv2_desc_4":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[414]Evasión de Crítico +15%",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 40 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 40 para elegir este regalo."
 ]},
 "map18_ev26_p1_Lv2_desc_5":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[438]Resistencia a los Comentarios +15%",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 30 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 30 para elegir este regalo."
 ]},
 
 "map18_ev26_p1_Lv3_choice_1":{
@@ -5139,17 +5139,17 @@
 "map18_ev26_p1_Lv3_desc_3":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[378]Encanto +2",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 75 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 75 para elegir este regalo."
 ]},
 "map18_ev26_p1_Lv3_desc_4":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[474]Control de Daño +7%",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 55 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 55 para elegir este regalo."
 ]},
 "map18_ev26_p1_Lv3_desc_5":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[442]Resistencia a las miradas +20%",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 40 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 40 para elegir este regalo."
 ]},
 
 "map18_ev26_p1_Lv4_choice_1":{
@@ -5174,17 +5174,17 @@
 "map18_ev26_p1_Lv4_desc_3":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[378]Encanto +2",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 85 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 85 para elegir este regalo."
 ]},
 "map18_ev26_p1_Lv4_desc_4":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[454]Regeneracion de resistencia +3%",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 65 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 65 para elegir este regalo."
 ]},
 "map18_ev26_p1_Lv4_desc_5":{
 "text":[
 "Efecto del Regalo: \\C[11]\\I[472]Regeneracion de Voluntad +3%",
-"\\C[31]El Nivel de Puta de Karryn debe ser menor a 50 para seleccionar este regalo."
+"\\C[31]El Nv. de Puta de Karryn debe ser menor a 50 para elegir este regalo."
 ]},
 "map18_ev26_p1_2":{
 "text":[
@@ -5398,8 +5398,8 @@
 "Entre todas las mujeres que he visto, definitivamente eres la más capaz.",
 "Sin embargo, sólo tienes un defecto.",
 
-"Que es tu orgullo sin límites por ser excelente en todo.",
-"He he estado pensando en convertirte en mi emperatriz..."
+"Tu orgullo sin límites por ser excelente en todo.",
+"He estado pensando en convertirte en mi emperatriz..."
 ]},
 
 "map18_ev26_p2_letter3_2":{
@@ -5408,8 +5408,8 @@
 "Si te convierto en emperatriz, ",
 "al final tu orgullo será tu perdición.",
 
-"Así que, para que puedas convertirte en una buena representante del imperio, ",
-"quería que aprendieras a tratar con los ciudadanos, sin importar quiénes sean.",
+"Así que, para que puedas ser una buena representante del imperio,",
+"quería que aprendieras a tratar con ciudadanos, sin importar quiénes sean.",
 "",
 
 "Deseaba que obtuvieras la capacidad de evaluar cuándo y ",
@@ -5444,7 +5444,7 @@
 "y para ayudarte, prometo continuar ",
 "apoyándote plenamente.",
 
-"Con oraciones al cielo por verte aunque sea un segundo antes,",
+"Me despido pidiendo al cielo, verte aunque sea un segundo antes,",
 "",
 "　　　　　　　　　　　- El Emperador de Zanados, Oribus Sykes IV"
 ]},
@@ -5455,7 +5455,7 @@
 "",
 "",
 
-"Han pasado \\V[9] días desde que te separaste de mi......",
+"Han pasado \\V[9] días desde que te separaste de mí......",
 "Dentro del imperio, el interés por el tema del Fuerte Ganon",
 "ha ido disminuyendo gradualmente.",
 
@@ -5861,8 +5861,8 @@
 "diciendo que me tiene afecto... Perdí la virginidad...)",
 
 "(No puedo seguir así....",
-"Incluso si subyugo al Fuerte Ganon, si sigo teniendo sexo con otros hombres,",
-"seguiría traicionando a Su Majestad Imperial...)",
+"Aunque tome el Fuerte Ganon, si sigo teniendo sexo con otros hombres,",
+"estaría traicionando a Su Majestad Imperial...)",
 
 "(Pero siendo honesta,",
 "el sexo ha sido realmente asombroso......)",
@@ -5870,7 +5870,7 @@
 
 "(Aunque al mismo tiempo,",
 "Quiero apreciar los sentimientos de Su Majestad Imperial......",
-"Ohhh......... Que dilema......)"
+"Ohhh......... Qué dilema......)"
 ]},
 
 "map18_ev35_p3_karryn_slut2_1":{
@@ -6058,11 +6058,11 @@
 "Es porque he traicionado a Su Majestad Imperial...)",
 "",
 
-"(¿Realmente merezco usar un vestido blanco y casarme con Su Majestad Imperial.....?",
+"(¿Merezco vestir de blanco y casarme con Su Majestad Imperial...?",
 "Yo, que he tenido sexo prematrimonial con un montón de inútiles...)",
 "",
 
-"(Probablemente sea una pérdida de tiempo preocuparse por eso a estas alturas.......",
+"(Es una pérdida de tiempo preocuparme por eso a estas alturas...",
 "Todo lo que puedo hacer ahora es dejar de ",
 "acumular pecados y no degradarme más...)"
 ]},
@@ -6226,7 +6226,7 @@
 ]},
 "map18_ev58_p2_tonkin_3":{
 "text":[
-"\\}......y-............ Asu..............."
+"\\}......Y-............ asu..............."
 ]},
 "map18_ev58_p2_karryn_12":{
 "text":[
@@ -6328,7 +6328,7 @@
 "text":[
 "Recibimos una gran cantidad de pasteles gratis de un proveedor.",
 "Así que pensé deshacerme de ellos de forma gratui-, ejem,",
-"Para recompensar a todos por su esfuerzo los regalé.",
+"Para recompensar a todos por sus esfuerzos los regalé.",
 "......Sin embargo, la fecha de consumo preferente ya había pasado..."
 ]},
 "map18_ev58_p3_tonkin_3":{
@@ -6390,7 +6390,7 @@
 "te permitiré seguir trabajando en esta prisión.",
 "Además, le contaré personalmente a Su Majestad Imperial",
 "y a todos los burócratas del imperio lo que sucedió en ",
-"el pasado en el Fuerte Ganon, así como la historia de su padre."
+"el pasado en el Fuerte Ganon, así como la historia de tu padre."
 ]},
 "map18_ev58_p3_yasu_6":{
 "text":[
@@ -6483,7 +6483,7 @@
 "map18_ev58_p3_if_a_karryn_1":{
 "text":[
 "Por supuesto.",
-"¡El Fuerte Ganon para mí es como Cupido uniéndonos!"
+"¡El Fuerte Ganon para mí ha sido como Cupido uniéndonos!"
 ]},
 
 "map18_ev58_p3_if_b_karryn_1":{
@@ -6513,7 +6513,7 @@
 "map18_ev58_p3_narration_2":{
 "text":[
 "\\#Durante su viaje de regreso al castillo donde la espera el emperador,",
-"\\#recordó todo lo sucedido en el Fuerte Ganon."
+"\\#Karryn recordó todo lo sucedido en el Fuerte Ganon."
 ]},
 
 "map18_ev58_p3_if_a_narration_1":{
@@ -6570,7 +6570,7 @@
 "text":[
 "¡No te he visto en absoluto y, sin embargo, ",
 "resulta que has estado escondido en esta habitación...!",
-"¿Eres la razón por la que los reclusos de afuera son así?"
+"¿Eres el causante de que los reclusos estén así?"
 ]},
 "map19_ev2_p1_yasu_3":{
 "text":[
@@ -6608,7 +6608,7 @@
 "Qué comentario tan inquietante.",
 "Directora Karryn ¿Podría ser...?",
 "",
-"¿No me digas que no te estás poniendo sentimental con esos presos?"
+"¿No me digas que no te dan pena esos presos?"
 ]},
 "map19_ev2_p1_karryn_6":{
 "text":[
@@ -6616,7 +6616,7 @@
 ]},
 "map19_ev2_p1_yasu_8":{
 "text":[
-"jujuju ¿Te diste cuenta?."
+"Jujuju ¿Te has dado cuenta?."
 ]},
 "map19_ev2_p1_karryn_7":{
 "text":[
@@ -6683,7 +6683,7 @@
 "Directora Karryn, no, Secretaria Imperial Karryn.",
 "No han sido solo los reclusos.",
 "Tú también has trabajado duro.",
-"para mi."
+"para mí."
 ]},
 "map19_ev2_p1_karryn_12":{
 "text":[
@@ -6766,11 +6766,11 @@
 "",
 "Le haré pagar caro el arrojarme a los abismos del infierno.",
 "",
-"......y vengaré a mi padre............"
+"...... Y vengaré a mi padre............"
 ]},
 "map19_ev2_p1_yasu_27":{
 "text":[
-"El primer paso fue que necesitaba ascender dentro de las filas.",
+"El primer paso fue ascender dentro de las filas.",
 "Necesitaba convertirme en el Director.",
 "",
 "Luego, trabajé febrilmente para transformar el Fuerte Ganon de un ",
@@ -6817,11 +6817,11 @@
 "text":[
 "Puede que hayas pensado que todo lo que has hecho mientras ",
 "administrabas la prisión fuese por tu propia voluntad...",
-"...Pero eso no es cierto en absoluto."
+"... Pero eso no es cierto en absoluto."
 ]},
 "map19_ev2_p1_karryn_18":{
 "text":[
-"¿Es por eso que me diste la autoridad para elegir Decretos... A mí...?"
+"¿Es por eso que me diste la autoridad para promulgar Decretos... A mí...?"
 ]},
 "map19_ev2_p1_yasu_32":{
 "text":[
@@ -6832,11 +6832,11 @@
 ]},
 "map19_ev2_p1_karryn_19":{
 "text":[
-"... ¡CAAAAAABBBRRRÓÓÓÓÓNNN!"
+"... ¡BASTAAAAARDOOOO!"
 ]},
 "map19_ev2_p1_yasu_33":{
 "text":[
-"Uf, eso estaba fuera de lugar."
+"Uf, eso ha estado fuera de lugar."
 ]},
 "map19_ev2_p1_karryn_20":{
 "text":[
@@ -6876,7 +6876,7 @@
 ]},
 "map19_ev2_p1_karryn_22":{
 "text":[
-"¡¿......Hey?!"
+"¡¿......?!"
 ]},
 "map19_ev2_p1_yasu_38":{
 "text":[
@@ -6915,7 +6915,7 @@
 "text":[
 "El método más eficaz para engañar a una persona con demasiado orgullo, ",
 "es hacer el papel de una mosquita muerta.",
-"Pero es hora de quitarse esa venda de los ojos."
+"Pero es hora de quitarte esa venda de los ojos."
 ]},
 "map19_ev2_p1_yasu_42":{
 "text":[
@@ -6928,12 +6928,12 @@
 ]},
 "map19_ev2_p1_yasu_43":{
 "text":[
-"Permítanme pedirles disculpas de antemano ",
+"Permíteme pedirte disculpas de antemano ",
 "pues todavía estoy en servicio activo."
 ]},
 "map19_ev2_p1_yasu_44":{
 "text":[
-"Y tu deber aquí terminará ahora."
+"Y tu servicio aquí, acaba ahora."
 ]},
 "map19_ev2_p1_yasu_45":{
 "text":[
@@ -7002,7 +7002,7 @@
 "text":[
 "Si no hubieras hecho eso, podrías haber tenido ",
 "la posibilidad de evitar la pena de muerte....",
-"¡¡Pero ya no hay ninguna manera de escapar de tus crímenes!!"
+"¡¡Pero ya no hay ninguna manera de que escapes de tus crímenes!!"
 ]},
 "map19_ev2_p3_yasu_4":{
 "text":[
@@ -7022,7 +7022,7 @@
 ]},
 "map19_ev2_p3_karryn_5":{
 "text":[
-"En otras palabras ¿Envenenaste la comida....",
+"Osea que ¿Envenenaste la comida....",
 "Y usaste eso para asesinar a todos?"
 ]},
 "map19_ev2_p3_yasu_6":{
@@ -10082,7 +10082,7 @@
 ]},
 "map36_ev7_p2_karryn_3":{
 "text": [
-"Nunca había escuchado algo así",
+"Nunca había escuchado algo así.",
 "Así que los hombres lagarto tienen algún tipo de sinergia racial entre ellos...",
 "¿Es biológico o son solo los que viven en esta prisión?"
 ]},
@@ -10111,7 +10111,7 @@
 "map36_ev7_p2_karryn_5":{
 "text":[
 "En biología lo llaman alfa.",
-"Debajo de los alfa están los betas, y debajo de ellas los gammas..."
+"Debajo de los alfa están los betas, y debajo de ellos los gammas..."
 ]},
 "map36_ev7_p2_tonkin_8":{
 "text":[
@@ -10358,13 +10358,13 @@
 "text":["Hombre Lagarto Ruidoso"]},
 "map37_ev11_p1_1":{
 "text":[
-"¡AQUÍ AQUÍ!",
+"¡ESO ESO!",
 "¡Todos nacísteis de diferentes madres, ",
 "pero os trato a todos como a mi familia!"
 ]},
 "map37_ev11_p2_1":{
 "text":[
-"¡AQUÍ AQUÍ!♥",
+"¡ESO ESO!♥",
 "Aunque creo que hay otro lugar en el que ",
 "deberíamos estar todos.♥ Al mismo tiempo.♥♥"
 ]},
@@ -10398,7 +10398,7 @@
 ]},
 
 "map37_ev13_tachiename_1":{
-"text":["Hombre Lagarto Seguro de Si Mismo"]},
+"text":["Hombre Lagarto Seguro de Sí Mismo"]},
 "map37_ev13_p1_1":{
 "text":[
 "¡No pueden detenernos!",
@@ -10526,8 +10526,8 @@
 "map37_ev20_p1_1":{
 "text": [
 "Lo que tú digas, todos sabemos que eso es casi imposible.",
-"Estoy más preocupado por como la Directora puede obtener hasta 3 Títulos",
-"acabando con los motines. ¿Es humana...?"
+"Estoy más preocupado de que la Directora puede obtener hasta 3 Títulos",
+"acabando con los motines. ¿Es humana si quiera...?"
 ]},
 "map37_ev21_tachiename_1":{
 "text": ["Vagabundo Estoico"]},
@@ -10555,7 +10555,7 @@
 "",
 "Sé que no soy el único que se siente así a veces",
 "Todos aquí cuando se enfadan, actúan un poco diferente",
-"¿Qué como, preguntas? Bueno, buena pregunta ¡Déjame explicarlo!",
+"¡Déjame explicártelo!",
 "Primero, cuando alguien está enfadado, obtiene una pequeña",
 "mejora de ataque y una gran disminución de su defensa.",
 "Luego, su Probabilidad de Ataque también aumenta significativamente.",
@@ -12407,7 +12407,7 @@
 "En comparación, el lugar del que vengo, es el infierno en la tierra.",
 "",
 "El subsuelo del Fuerte Ganon es mucho más grande de lo que piensas.",
-"Incluso reclusos veteranos como nosotros no hemos visto todo lo que hay aquí."
+"Incluso reclusos veteranos como nosotros no hemos visto todo."
 ]},
 "map54_ev12_p2_1":{
 "text": [
@@ -12453,7 +12453,7 @@
 "text": ["Matón Cachondo"]},
 "map54_ev34_p3_1":{
 "text": [
-"Heh heh...",
+"je je...",
 "Lo mismo que hacemos todas las noches...",
 "",
 "\\{\\{¡Intentar follarnos a Karryn!"
@@ -12490,7 +12490,7 @@
 "map56_ev30_p2_choice_explain":{
 "text":["(¿Qué hace una entrenadora personal?)"]},
 "map56_ev30_p2_choice_work":{
-"text":["(¡Por qué no, vamos!)"]},
+"text":["(¿Por qué no? ¡Vamos!)"]},
 
 "map56_ev30_p2_explain":{
 "text":[
@@ -12501,8 +12501,8 @@
 "De esta manera puedo saber si entrenan con buena \\C[3]Forma\\C[0] o no.",
 "Entonces puedo \\C[3]Asesorar\\C[0] sobre cómo mejorar su \\C[3]Forma\\C[0].)",
 "(Cuanto mejor sea su \\C[3]Forma\\C[0], más probable es que tengan éxito.",
-"\\C[3]Se volverán más fuertes si completan con éxito su entrenamiento.\\C[0].",
-"Puedo pasar a la siguiente persona una vez que termine de arreglar su Forma.)",
+"\\C[3]Se volverán más fuertes si completan con éxito su entrenamiento\\C[0].",
+"Puedo pasar al siguiente una vez que termine de arreglar su Forma.)",
 "(Vale, ya sé lo que tengo que hacer.)"
 ]},
 
@@ -12525,7 +12525,7 @@
 "map56_ev30_p2_work_head_1":{
 "text":[
 "(¿Qué estilo debería llevar hoy?)",
-"\\C[2](Nota: Estas opciones son cosméticas y no tienen ningún efecto en el juego.)\\C[0]"
+"\\C[2](Estas opciones son cosméticas y no tienen ningún efecto en el juego.)\\C[0]"
 ]},
 "map56_ev30_p2_choice_head_1":{
 "text":["Con Capucha, Con Gorra (Predeterminado)"]},
@@ -12558,7 +12558,7 @@
 "map56_ev31_p2_1":{
 "text":[
 "La reputación del gimnasio es de \\C[2]\\V[85]\\C[0].",
-"Efecto: Las estadísticas de los enemigos y la ganancia experiencia de Karryn aumentan.",
+"Las estadísticas de los enemigos y la ganancia de exp. de Karryn aumentan.",
 "Satisfacer a los asistentes del gimnasio aumentará su reputación."
 ]},
 
@@ -12617,8 +12617,8 @@
 "map57_ev10_p1_1":{
 "text": [
 "¡Sed Bienvenidos! ¡Acercaos!",
-"¡Os quitaré de las manos todo lo que no necesiteis!",
-"Basura, artículos usados, ¡si los teneis, los quiero!",
+"¡Os quitaré de las manos todo lo que no necesitéis!",
+"Basura, artículos usados, ¡si los tenéis, los quiero!",
 "......Es una broma...",
 "",
 "",
@@ -12764,7 +12764,7 @@
 "map59_ev3_p1_aron_4":{
 "text": [
 "OooOOoo~♪",
-"¡Picante! ¡Me gusta! La directora de prisión, tan dura y severa...",
+"¡Picante! ¡Me gusta! La directora de la prisión, dura y severa...",
 "¡No está nada mal! ¡¡Es un buen personaje para interpretar!!"
 ]},
 "map59_ev3_p1_karryn_4":{
@@ -12812,12 +12812,12 @@
 "Así que esta es... La antigua Secretaria Imperial, Karryn...",
 "¡Es un desperdicio ser una carcelera teniendo ese cuerpazo...!",
 "No puedo diferenciar las caras de los humanos",
-"pero ese cuerpo toca todas mis preferencias. ♥"
+"pero ese cuerpo me pone a mil por hora. ♥"
 ]},
 "map59_ev3_p1_karryn_6":{
 "text": [
 "¡¡No digas 'antigua'!!",
-"¡Tú y todas esos, burlándose de mí, maldita sea!"
+"¡Siempre estáis con lo mismo, burlándose de mí, maldita sea!"
 ]},
 "map59_ev3_p1_karryn_7":{
 "text": [
@@ -12833,7 +12833,7 @@
 ]},
 "map59_ev3_p1_aron_10":{
 "text": [
-"\\{\\{TENER UN CLUB DE STRIPTEASE!!!"
+"\\{\\{¡¡¡TENER UN CLUB DE STRIPTEASE!!!"
 ]},
 "map59_ev3_p1_karryn_8":{
 "text": [
@@ -12847,7 +12847,7 @@
 ]},
 "map59_ev3_p1_aron_11":{
 "text": [
-"Pues claro que si, coño.",
+"Pues claro que sí, coño.",
 "No hay más tias aquí a parte de ti",
 "¿Quién va a querer verme a mi haciendo striptease?",
 "Vale, ya está decidido, soy Aron, el jefe de los hombres lagarto",
@@ -12856,11 +12856,11 @@
 ]},
 "map59_ev3_p1_karryn_10":{
 "text": [
-"Mantén tus fantasias sin sentido en tus sueños......"
+"Mantén tus fantasías sin sentido en tus sueños......"
 ]},
 "map59_ev3_p1_aron_12":{
 "text": [
-"¡GYAHAHAHAH! ¡Sabía que no sería tan fácil!",
+"¡GAJAJAJAJA! ¡Sabía que no sería tan fácil!",
 "¡Así que así es el juguete sexual del emperador!",
 "¡¡Me gustas!!"
 ]},
@@ -12878,13 +12878,13 @@
 ]},
 "map59_ev3_p1_aron_14":{
 "text": [
-"Desde hace mucho tiempo,",
-"no puedo dejar de perseguir ",
-"algo que quiera hasta que sea mío.",
+"Desde siempre,",
+"no he podido dejar de perseguir",
+"cualquier cosa que quiera hasta que sea mía.",
 "Y esas ganas... Esa hambre...",
 "¡Es aún más grande cuando es algo ",
 "que pertenece a un pez gordo!",
-"No hay nada lógico en este sentimiento......",
+"No hay nada de lógica en esto......",
 "Es solo la triste realidad de un ",
 "hombre que nace siendo un Alfa."
 ]},
@@ -12971,14 +12971,14 @@
 ]},
 "map59_ev3_p4_karryn_1":{
 "text": [
-"¡Deténed vuestra inútil resistencia!",
+"¡Detened vuestra inútil resistencia!",
 "No importa cuántos reptiles seais",
-"No podeis vencerme."
+"No podéis vencerme."
 ]},
 "map59_ev3_p4_aron_2":{
 "text": [
 "¡¡E-Esto no puede estar pasando!!",
-"...He nacido como un élite... ¡¡EL HOMBRE LAGARTO ALFA!!",
+"...He nacido como siendo élite... ¡¡EL HOMBRE LAGARTO ALFA!!",
 "¡¡No puedo estar perdiendo ante una humana......!!"
 ]},
 "map59_ev3_p4_karryn_2":{
@@ -13105,7 +13105,7 @@
 ]},
 "map59_ev3_p4_karryn_10":{
 "text": [
-"Este tipo se está inventando su historia por su cuenta......."
+"Este tipo se está montando una película en la cabeza......."
 ]},
 "map59_ev3_p4_karryn_11":{
 "text": [
@@ -13130,8 +13130,8 @@
 ]},
 "map59_ev3_p4_karryn_12":{
 "text": [
-"¡¿De donde sacais esta coordinación digna de telenovela turca?!",
-"No me digais que el secreto detrás de vuestra fuerza al estar en grupo...",
+"¡¿De donde sacáis esta coordinación digna de una telenovela turca?!",
+"No me digáis que el secreto detrás de vuestra fuerza al estar en grupo...",
 "¡¿Es ESTO?!"
 ]},
 "map59_ev3_p4_karryn_13":{
@@ -13226,7 +13226,7 @@
 "map59_ev3_p4_karryn_21":{
 "text": [
 "¿Q-Qué quieres decir...?",
-"...... No te estoy siguiendo en absoluto... Cambio..."
+"......No te estoy siguiendo en absoluto...Cambio..."
 ]},
 "map59_ev3_p4_yasu_8":{
 "text": [
@@ -13250,7 +13250,7 @@
 "text": [
 "¡¿Un escenario lleno de mosaicos verdes y marrones?!",
 "¡¿Qué tipo de espectáculo de terror estás tratando de organizar?!",
-"¡Ahora si que siento pena por Aron!"
+"¡Ahora sí que siento pena por Aron!"
 ]},
 "map59_ev3_p4_karryn_24":{
 "text": [
@@ -13285,9 +13285,9 @@
 "......Permitir a los reclusos hacer lo que les plazca......",
 "No esperaba tener que llegar a esto...",
 "",
-"Si Su Majestad Imperial se entera de esto, ",
+"Si Su Majestad Imperial se enterara de esto, ",
 "Definitivamente estaría muy decepcionado...",
-"Aah... cambio."
+"Aah... Cambio."
 ]},
 "map59_ev3_p4_yasu_11":{
 "text": [
@@ -13308,7 +13308,7 @@
 "text": [
 "Entendido.",
 "¡Y a partir de mañana el \\C[3]Nivel 3 estará subyugado\\C[0]!",
-"Ahora, si me disculpas, me pongo a escribir los informes. Cambio y corto."
+"Ahora, si me disculpas, voy a escribir los informes. Cambio y corto."
 ]},
 "map59_ev3_p4_karryn_29":{
 "text":[
@@ -13318,7 +13318,7 @@
 "text": [
 "O-oye,",
 "¡¿Entonces me vas a dejar tener un club de striptease, verdad?!",
-"¡¡Di que si, Karryn!!"
+"¡¡Di que sí, Karryn!!"
 ]},
 "map59_ev3_p4_karryn_30":{
 "text": [
@@ -13437,7 +13437,7 @@
 "map64_ev10_p2_karryn_3":{
 "text": [
 "¡Aquí Karryn!",
-"¡Yasu¡, ¿Me escuchas? ¡Cambio!"
+"¡Yasu! ¿Me escuchas? ¡Cambio!"
 ]},
 "map64_ev10_p2_karryn_4":{
 "text":[
@@ -13503,13 +13503,13 @@
 ]},
 "map64_ev10_p2_karryn_10":{
 "text": [
-"Está bien, nunca esperé nada de ninguno de vosotros",
-"así que hacer estas notas para mí es más que suficiente",
+"Está bien, nunca esperé nada de ninguno de vosotros.",
+"Así que hacer estas notas para mí es más que suficiente",
 "Puedo decir sinceramente que lo aprecio."
 ]},
 "map64_ev10_p2_tonkin_3":{
 "text":[
-"Heh heh oink oink.♥ "
+"Jejeje oink oink.♥ "
 ]},
 "map64_ev10_p2_cargill_5":{
 "text": [
@@ -13524,20 +13524,20 @@
 "map64_ev10_p2_karryn_12":{
 "text": [
 "......Bueno, ya que estoy, os pregunto sobre el jefe de este piso.",
-"Decidme todo lo que sepais ahora mismo."
+"Decidme todo lo que sepáis ahora mismo."
 ]},
 "map64_ev10_p2_tonkin_4":{
 "text": [
-"¡Señorita Karryn! ¡La verdad es que no lo sé!",
+"¡Señorita Karryn! ¡La verdad es que no tengo ni idea!",
 "El nivel 4 fue originalmente el hogar de todos los ",
 "reclusos, donde pasábamos el rato y nos divertíamos......",
-"¡Pero ahora, todo el mundo aquí son subordinados del Capitán!",
+"¡Pero ahora, todo el mundo es subordinado del Capitán!",
 "Así que supongo que el jefe del Nivel 4 ",
 "es la mano derecha del Capitán."
 ]},
 "map64_ev10_p2_karryn_13":{
 "text": [
-"Eso, no es realmente útil......."
+"Eso no es muy útil......."
 ]},
 "map64_ev10_p2_cargill_6":{
 "text": [
@@ -13560,10 +13560,10 @@
 "text": [
 "No soy bueno pensando,",
 "¡¡pero primero deberías ir a acabar con el jefe de nivel 4!!",
-"¡¡Nunca sabrás nada sobre el Capitán hasta que lo sepas!!",
+"¡¡Nunca sabrás nada sobre el Capitán hasta entonces!!",
 "¡Este área subterránea tiene muchos lugares que son más cómodos que cualquier ",
 "otro lugar del mundo exterior! ¡Así que, por favor, señorita Karryn!",
-"¡Realmente quiero que reconquistes el Nivel 4 y derrotes al Capitán!"
+"¡Reconquista el Nivel 4 y derrota al Capitán!"
 ]},
 "map64_ev10_p2_karryn_15":{
 "text": [
@@ -13581,10 +13581,10 @@
 "map64_ev10_p2_karryn_16":{
 "text": [
 "Dicho esto...... Después de todo lo que he experimentado aquí,",
-"No es como si no pudiera estar un poco de acuerdo con que los reclusos ",
-"digais que el Fuerte Ganon es vuestro paraíso...",
-"Y a pesar de ello, los reclusos sois capaces de destruir",
-"vuestro propio paraiso y de conspirar para apoderarse del imperio......",
+"No es como si no pudiera entender que los reclusos ",
+"digáis que el Fuerte Ganon es vuestro paraíso...",
+"Y a pesar de ello, sois capaces de destruir",
+"vuestro propio paraíso y de conspirar para apoderarse del imperio......",
 "Cada vez tengo más curiosidad de saber quién es el capitán......."
 ]},
 "map64_ev10_p2_karryn_17":{
@@ -13711,9 +13711,9 @@
 
 "map69_ev3_p1_1":{
 "text": [
-"Objeto de la suerte de hoy, comprobado.",
+"Objeto de la suerte de hoy, listo.",
 "Horóscopo alineado correctamente, comprobado.",
-"Hoy no puedo fallar."
+"Hoy no voy a fallar."
 ]},
 
 "map69_ev9_tachiename_1":{
@@ -13739,7 +13739,7 @@
 
 "map69_ev11_p1_1":{
 "text": [
-"¡¡¡FUERA DE MI CAMINO, PERRO SARSONOSOO!!!"
+"¡¡¡FUERA DE MI CAMINO, PERRO SARNOSOO!!!"
 ]},
 
 "map69_ev12_tachiename_1":{
@@ -13804,8 +13804,8 @@
 "........................",
 "",
 "",
-"Así que finalmente estás ante mí, la sirvienta del oscuro imperio",
-"que nos muestra sus colmillos............."
+"Así que finalmente estás ante mí, la sirvienta del que nos",
+"muestra sus colmillos............."
 ]},
 "map72_ev3_p1_karryn_1":{
 "text":[
@@ -13894,7 +13894,7 @@
 "map72_ev3_p1_noinim_8":{
 "text": [
 "Muy bien...........................",
-"Mis oídos ya escucharon tu futuro...... Tu destino como nuestro juguete............",
+"Mis oídos ya escucharon tu futuro...... Serás nuestro juguete............",
 "¡¡Y con esta mano..................!! ¡¡Lo haré realidad.........!!"
 ]},
 
@@ -14002,12 +14002,12 @@
 "map72_ev3_p4_karryn_4":{
 "text": [
 "(Eh.... ¡¿Estás de broma...?!",
-"¡¡Acaba de ignorarme y de irse......!!)"
+"¡¡Acaba de ignorarme e irse......!!)"
 ]},
 "map72_ev3_p4_karryn_5":{
 "text": [
 "(¿Quién coño va a esperar aquí solo porque tú lo digas?",
-"Argh, estoy tan harta de que la gente de aquí haga lo que quiera.)"
+"Argh, estoy tan harta de que la gente aquí haga lo que quiera.)"
 ]},
 "map72_ev3_p4_karryn_6":{
 "text": [
@@ -14031,7 +14031,7 @@
 "text": [
 "¡Hey! ¡¡Karryn!!",
 "¡Te he esperado tanto tiempo que se me está cayendo la cola!",
-"¿Estás aquí para bailar para mi?"
+"¿Estás aquí para bailar para mí?"
 ]},
 "map74_ev3_choice1_1":{
 "text": [
@@ -14079,8 +14079,8 @@
 "Y \\C[11]una vez que el club de striptease se vuelva lo suficientemente popular\\C[0],",
 "se correrá la voz a otros niveles y ",
 "\\C[11]es posible que tampoco se amotinen con tus espectáculos\\C[0]~~.",
-"¿Qué? ¿Finalmente te he metido en la cabeza lo importantes que son las strippers?",
-"¡Oooh~! ¡Solo con ver tus ojos puedo ver que estás sumida en tus pensamientos.",
+"¿Qué? ¿Te he metido en la cabeza lo importantes que son las strippers?",
+"¡Solo con ver tus ojos puedo ver que estás sumida en tus pensamientos.",
 "Bueno, ¿nos ponemos serios y hablamos de negocios?"
 ]},
 "map74_ev3_p1_7":{
@@ -14088,9 +14088,9 @@
 "¿Que qué necesitas hacer...? Hmm...... Ooh, ¡¡buena pregunta!!",
 "¡Ya eres muy inteligente pero aún tienes ganas de aprender más...!",
 "¡Eres toda una mujer, Karryn!",
-"¡Escucha, Karryn! No necesitas pensar demasiado en los pequeños detalles!!",
+"¡Escucha, Karryn! No necesitas pensar demasiado en nimiedades!!",
 "¡¡Mira el cuerpo que tienes!! No importa quiénes sean, humanos o ",
-"monstruos, ¡ese cuerpo tuyo, perfecto y sexy, puede encantar a cualquiera!!",
+"monstruos, ¡ese cuerpo tuyo, perfecto y sexy, encantará a cualquiera!!",
 "¡Así que muéstrales a todas estas personas tu cuerpo!",
 "¿Quieres mostrarles tus tetas? ¡¡Adelante!!",
 "¿Quieres mover el culo? ¡¡Hazlo, ni preguntes!!",
@@ -14098,8 +14098,8 @@
 "¡¡Es más que suficiente para hacer que un hombre se corra......!!",
 "",
 "Arriesgamos nuestras vidas para construir este lugar......",
-"Un lugar en el corazón de todos los hombres, donde sus sueños se hagan realidad...",
-"",
+"Un lugar en el corazón de todos los hombres",
+"donde sus sueños se hacen realidad...",
 "¡¡Es por eso que las strippers aquí son",
 "tratadas con la mayor dignidad y respeto!!"
 ]},
@@ -14121,7 +14121,7 @@
 "de todos esos escenarios grandes y elegantes que hay.",
 "",
 "Por eso, decidí algo después de que me enviaran al talego.",
-"¡La regla más importante del club de striptease de Aron! Que es......",
+"¡La regla más importante del club de striptease de Aron!",
 "\\C[16]¡Los clientes del club de striptease no pueden dar propinas de dinero\\C[0]!"
 ]},
 "map74_ev3_p1_9":{
@@ -14190,7 +14190,7 @@
 "map74_ev3_p2_1":{
 "text": [
 "¡Joder Karryn~! ¡¡Ha sido un pedazo espectáculo!!",
-"\\C[3]Casi todos han salido hoy con una sonrisa en la cara.\\C[0]!",
+"\\C[3]¡Casi todos han salido hoy con una sonrisa en la cara!\\C[0]",
 "",
 "¡¡Vuelve mañana!!",
 "¡¡Las cosas se van a poner más ocupadas por aquí~~!!",
@@ -14265,7 +14265,7 @@
 "map74_ev12_p2_1":{
 "text": [
 "COLOQUE UN CONDÓN EN SU PENE ANTES DE CORRERSE",
-"MANTENGA SU PENE EN LOS PANTALONES DURANTE EL ESPECTÁCULO",
+"NO SAQUE SU PENE DURANTE EL ESPECTÁCULO",
 "DESECHE TODOS LOS CONDONES SIN UTILIZAR ANTES DE SALIR"
 ]},
 
@@ -14354,7 +14354,7 @@
 "map76_ev57_p1_gobriel_5":{
 "text": [
 "¿Te sorprende que un goblin pueda llegar a lo más alto?",
-"... ¿O tal vez estás sorprendida de que un",
+"¿... O tal vez estás sorprendida de que un",
 "goblin pueda hablar tan fluidamente?"
 ]},
 "map76_ev57_p1_karryn_3":{
@@ -14609,7 +14609,7 @@
 ]},
 "map76_ev57_p4_karryn_3":{
 "text": [
-"¡¡Aprieta los dientes, Capitán, no, Gobriel!!",
+"¡¡Aprieta los dientes, Capitán!! No, ¡¡Gobriel!!",
 "¡Tus ambiciones han acabado!"
 ]},
 "map76_ev57_p4_gobriel_2":{
@@ -14681,11 +14681,11 @@
 ]},
 "map76_ev57_p4_aron_1":{
 "text": [
-"hey tío, corta el rollo."
+"Oye tío, corta el rollo."
 ]},
 "map76_ev57_p4_karryn_7":{
 "text": [
-"...Oh, os habeis reunido todos aquí......",
+"...Oh, os habéis reunido todos aquí......",
 "¿Estáis aquí para interponeros en mi camino?"
 ]},
 "map76_ev57_p4_cargill_1":{
@@ -14713,7 +14713,7 @@
 "map76_ev57_p4_gobriel_12":{
 "text": [
 "¡¡NOINIM!!",
-"Acaba con todos aquí."
+"Acaba con todos los presentes."
 ]},
 "map76_ev57_p4_noinim_1":{
 "text": [
@@ -14735,14 +14735,14 @@
 ]},
 "map76_ev57_p4_tonkin_2":{
 "text": [
-"Hey señor capitán...",
-"Deberías rendirte...",
-"No se siente bien estar en desacuerdo con la señorita Karryn."
+"Oye Señor Capitán...",
+"Debería rendirse...",
+"No es agradable estar en desacuerdo con la Señorita Karryn."
 ]},
 "map76_ev57_p4_tonkin_3":{
 "text": [
-"Y no soy solo yo. Todos los chicos en esta prisión......",
-"Están TODOS ~~~~ enamorados de la señorita Karryn......",
+"Y no solo lo digo yo. Todos los chicos de esta prisión......",
+"Están TODOS~~~~ enamorados de la señorita Karryn......",
 "¡De hecho, probablemente todos piensen que ella es la verdadera Capitana!"
 ]},
 "map76_ev57_p4_karryn_9":{
@@ -14806,12 +14806,12 @@
 ]},
 "map76_ev57_p4_karryn_11":{
 "text": [
-"¡¿Qué está diciendo?! ¿Podría ser él......"
+"¡¿Qué está diciendo?! ¿Podría ser él......?"
 ]},
 "map76_ev57_p4_cargill_4":{
 "text": [
 "Mhmm.",
-"Originalmente es un recluso goblin que",
+"Originalmente era un recluso goblin que",
 "participó en uno de mis experimentos.",
 "Sin embargo, un día después del experimento,",
 "desarrolló de repente una gran inteligencia......"
@@ -14822,7 +14822,7 @@
 "Empezó a hablar como si pudiera ver el pasado de la gente",
 "y, a veces, incluso su futuro.",
 "No tenía ninguna teoría sobre cuál era la causa...",
-"Así que estaba bastante sorprendido, te-hee.",
+"Así que estaba bastante sorprendido, jiji~.",
 "",
 "De todos modos,",
 "Es cierto que Gobriel obtuvo un poder especial.",
@@ -14856,7 +14856,7 @@
 "No lo aceptaré... No aceptaré ese destino.......!!",
 "",
 "¡Soy especial! ¡¡Fui BENDECIDO.........!!",
-"¡Yo! Tengo las cualidades para convertirme en el nuevo reeeeeeyyyyyyyy......!!",
+"¡Yo! ¡¡Tengo las cualidades para convertirme en el nuevo reeeeeeyyyyyyyy......!!",
 "",
 "¡¡Yo... Yo... Yo,yo,yo,yo,yo......",
 "...R-......REY......",
@@ -14887,7 +14887,7 @@
 "text": [
 "Hmmmm,",
 "Entonces, ¿Así que este es el efecto de jugar demasiado con los cromosomas?",
-"¿O ha sido por los límites del propio sujeto......??",
+"¿O ha sido por los límites del propio sujeto......?",
 "Oh bueno, lo importante es que he obtenido nuevos resultados~~♪"
 ]},
 "map76_ev57_p4_noinim_3":{
@@ -14927,7 +14927,7 @@
 "map76_ev57_p4_noinim_4":{
 "text": [
 ".........Es impresionante.........",
-"Se mantuvo firme durante todo ese tiempo después de tantas batallas......",
+"Se mantuvo firme durante todo este tiempo después de tantas batallas......",
 "Mmhmm... Mis respetos... Qué mujer tan formidable..."
 ]},
 "map76_ev57_p4_cargill_8":{

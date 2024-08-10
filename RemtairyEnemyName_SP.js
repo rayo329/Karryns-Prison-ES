@@ -2,7 +2,7 @@ const ENEMY_NAMES_GENERIC_SP = [
 	"Ren", "Jorge", "Jack", "Dan", "Christian", "Alex", "Early", "Costa",
 	"Henning", "Thomas", "Bern", "Nikita", "Egor", "Max", "Robert", "Wojtek", "Boris", "Oleg", "Jayden", "Kyle", "Cameron",
 	"Shaun", "Hayden", "Town", "Satoshi", "Kei", "Jimmy", "Deck", "Bob", "Barry", "Brock", "Angus", "Antonio",
-	"Lucas", "Felipe", "Andre", "Carr", "Luis", "Lewie", "Ramon", "Hugo", "Jean", "Ash", "Angdy", "Manuel", "Charly",
+	"Lucas", "Felipe", "Andre", "Carr", "Luis", "Lewie", "Ramón", "Hugo", "Jean", "Ash", "Angdy", "Manuel", "Charly",
 	"Saul", "Dog", "Ben", "Nicolas", "Víctor", "Sebastian", "Seb", "Noah", "Peter", "Jason", "Ham", "Francisco",
 	"Konstantin", "Kim", "Junho", "Park", "Sung", "Dong", "Ming", "Yang", "Zen", "Zhao", "Peng", "Chan", "Asif", "Sergio", 
 	"Asmat", "Amer", "Solomon", "Nassim", "Jean-Paul", "Jose", "Guelo", "Young", "Yazen", "Lee", "Kai", "Javier", "Rafael",

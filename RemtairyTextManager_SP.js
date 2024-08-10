@@ -193,7 +193,7 @@ const CounterAttackTextSP = "¡%1 contraataca!";
 
 const WardenNameSP = "Nv De Direct. ";
 const WardenLvlLimitSP = "Límite De Nivel De Directora";
-const SlutNameSP = "Nivel De Puta ";
+const SlutNameSP = "Nv De Puta ";
 const StatLevelNameSP = "Nivel de %1";
 const DayNameSP = "Día";
 const OrderNameSP = "Orden";
@@ -785,7 +785,7 @@ const SkillDescriptionCantDoThisSP = "No puedes usar esta habilidad ahora.";
 const SkillDescriptionHandsBusySP = "Necesitas una mano libre para esto.";
 const SkillDescriptionNotWetSP = "No estás lo suficientemente mojada.";
 
-const TitleDescriptionFirstTimeTitleEquipSP = "\\C[0] (Equípalo una vez para recibir los efectos toda la partida)";
+const TitleDescriptionFirstTimeTitleEquipSP = "\\C[0] (Equípalo para recibir los efectos toda la partida)";
 
 const CharmEquipReqTextSP = "Requisito de Encanto: ";
 const GrowthRateTextSP = " Crecimiento de";
@@ -1312,7 +1312,7 @@ const RemYanflySaveSelectHelpSP = "Elige una ranura de guardado.";
 const RemYanflySaveLoadHelpSP = "Carga los datos de una partida guardada.";
 const RemYanflySaveSaveHelpSP = "Guarda el progreso de tu partida.";
 const RemYanflySaveDeleteHelpSP = "Borra todos los datos de este archivo de guardado.";
-const RemYanflyAutosavingSP = "Guardado automático...";
+const RemYanflyAutosavingSP = "Guardando...";
 
 const RemYanflySavePlaytimeSP = "Tiempo de Juego:";
 const RemYanflySaveTotalSavesSP = "Partidas Totales:";
@@ -1373,31 +1373,31 @@ const RemSkillTypesSP = ["",
 
 
 //Enemy Types
-const RemPrisonerGenericSP = " Prisionero";
-const RemPrisonerGuardSP = " Guardia";
-const RemPrisonerThugSP = " Matón";
-const RemPrisonerGoblinSP = " Goblin";
-const RemPrisonerOrcSP = " Orco";
-const RemPrisonerSlimeSP = " Slime";
-const RemPrisonerNerdSP = " Friki";
-const RemPrisonerRogueSP = " Pícaro";
-const RemPrisonerLizardmanSP = " Hombre Lagarto";
-const RemPrisonerHomelessSP = " Vagabundo";
-const RemPrisonerWerewolfSP = " Hombre Lobo";
-const RemPrisonerYetiSP = " Yeti";
+const RemPrisonerGenericSP = "Prisionero ";
+const RemPrisonerGuardSP = "Guardia ";
+const RemPrisonerThugSP = "Matón ";
+const RemPrisonerGoblinSP = "Goblin ";
+const RemPrisonerOrcSP = "Orco ";
+const RemPrisonerSlimeSP = "Slime ";
+const RemPrisonerNerdSP = "Friki ";
+const RemPrisonerRogueSP = "Pícaro ";
+const RemPrisonerLizardmanSP = "Hombre Lagarto ";
+const RemPrisonerHomelessSP = "Vagabundo ";
+const RemPrisonerWerewolfSP = "Hombre Lobo ";
+const RemPrisonerYetiSP = "Yeti ";
 
 
 const RemReceptionistVisitorSP = "Visitante";
 const RemReceptionistFanSP = "Fan";
 
 //Boss Types
-const RemBossYasuSP = "Subdirector";
-const RemBossTonkinSP = "Orco";
-const RemBossCargillSP = "Doctor";
-const RemBossAronSP = "Hombre Lagarto Alpha";
-const RemBossNoinimSP = "Gran Yeti";
-const RemBossGobrielSP = "Capitán";
-const RemBossEmperorSP = "Su Majestad Imperial";
+const RemBossYasuSP = "Subdirector ";
+const RemBossTonkinSP = "Orco ";
+const RemBossCargillSP = "Doctor ";
+const RemBossAronSP = "Hombre Lagarto Alpha ";
+const RemBossNoinimSP = "Gran Yeti ";
+const RemBossGobrielSP = "Capitán ";
+const RemBossEmperorSP = "Su Majestad Imperial ";
 
 //Disable Smegma Text
 const RemDisableSmegmaSkill815NameSP = "Máquina Limpia-pollas";
@@ -1545,7 +1545,7 @@ const RemTrainerEnemyObserveFormOkaySP = "\\C[8](La forma de %1 podría ser mejo
 const RemTrainerEnemyObserveFormPoorSP = "\\C[8](La forma de %1 tiene mucho que mejorar%2\\C[8].)";
 const RemTrainerEnemyObserveFormBadSP = "\\C[8](La forma de %1 es absolutamente terrible%2\\C[8].)";
 const RemTrainerEnemyObserveFormMaxSP = "\\C[8] y parece que \\C[10]esto es lo mejor que puede hacer"; //上のGood～Badの％２はここ
-const RemTrainerEnemyObserveStaminaTiredSP = "\\C[8](Empieza a parece cansado.)";
+const RemTrainerEnemyObserveStaminaTiredSP = "\\C[8](Empieza a parecer cansado.)";
 const RemTrainerEnemyObserveStaminaExhaustedSP = "\\C[8](Parece cansado.)";
 const RemTrainerEnemyEntersGymSP = "\\C[2]%1 entra al gimnasio y empieza a entrenar.";
 const RemTrainerEnemyLeavesGymFinishedWorkoutSP = "\\C[8]%1 termina su entrenamiento y sale del gimnasio.";
