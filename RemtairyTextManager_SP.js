@@ -133,7 +133,7 @@ const PassiveCategoryNameSP = [
 const FightNameSP = "Luchar";
 const EscapeNameSP = "Huir";
 const AttackNameSP = "Atacar"; 
-const GuardNameSP = "Fin Fase Mental";
+const GuardNameSP = "Fin F. Ment.";
 const ItemNameSP = "Objeto";
 const SkillNameSP = "Pasivas";
 const EquipNameSP = "Equipamiento";
@@ -191,9 +191,9 @@ const VictoryTextSP = "¡%1 ha ganado!"; //currently unused
 const CounterAttackTextSP = "¡%1 contraataca!";
 
 
-const WardenNameSP = "Nivel De Directora";
+const WardenNameSP = "Nv De Direct. ";
 const WardenLvlLimitSP = "Límite De Nivel De Directora";
-const SlutNameSP = "Nivel De Puta";
+const SlutNameSP = "Nivel De Puta ";
 const StatLevelNameSP = "Nivel de %1";
 const DayNameSP = "Día";
 const OrderNameSP = "Orden";
@@ -355,8 +355,8 @@ const ProfileBio_One_SP = [
 
 const ProfileRecordFirstSP = "Primero: ";
 const ProfileRecordLastSP = "Último: ";
-const ProfileRecordSecretSP = "\\C[7]Secreto\\C[0]";
-const ProfileRecordNeverSP = "\\C[29]Nunca\\C[0]";
+const ProfileRecordSecretSP = "  \\C[7]Secreto\\C[0]";
+const ProfileRecordNeverSP = "  \\C[29]Nunca\\C[0]";
 
 const ProfileRecordKissSP = "Beso";
 const ProfileRecordSexSP = "Sexo";
@@ -388,39 +388,39 @@ const ProfileRecordPussySexSP = "Sexo Vaginal";
 const ProfileRecordAnalSexSP = "Sexo Anal";
 
 
-const ProfileRecordFirstKissSP = "Di mi primer beso a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstKissWasPenisSP = "Di mi primer beso a la polla de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstKissWasAnusSP = "Di mi primer beso al ano de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstKissSP = "  Di mi primer beso a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstKissWasPenisSP = "  Di mi primer beso a la polla de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstKissWasAnusSP = "  Di mi primer beso al ano de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
 
-const ProfileRecordLastKissSP = "Besé a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstSexSP = "Perdí mi virginidad con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstPussySexWasDildoSP = "Perdí mi virginidad con el consolador de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordLastSexSP = "Tuve sexo con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstAnalSP = "Perdí mi virginidad anal con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordLastAnalSP = "Tuve sexo anal con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstHandjobSP = "Hice mi primera paja el \\C[26]Día %1\\C[0] en %3 con la polla de \\C[31]%2\\C[0].";
-const ProfileRecordLastHandjobSP = "Le hice una paja a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstBlowjobSP = "Mi primera mamada fue el \\C[26]Día %1\\C[0] en %3 con la polla de \\C[31]%2\\C[0].";
-const ProfileRecordLastBlowjobSP = "Le hice una mamada a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstTittyFuckSP = "Le Hice mi primera paja con las tetas a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastTittyFuckSP = "Le hice una paja con las tetas a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastKissSP = "  Besé a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstSexSP = "  Perdí mi virginidad con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstPussySexWasDildoSP = "  Perdí mi virginidad con el consolador de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastSexSP = "  Tuve sexo con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstAnalSP = "  Perdí mi virginidad anal con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastAnalSP = "  Tuve sexo anal con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstHandjobSP = "  Hice mi primera paja el \\C[26]Día %1\\C[0] en %3 con la polla de \\C[31]%2\\C[0].";
+const ProfileRecordLastHandjobSP = "  Le hice una paja a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstBlowjobSP = "  Mi primera mamada fue el \\C[26]Día %1\\C[0] en %3 con la polla de \\C[31]%2\\C[0].";
+const ProfileRecordLastBlowjobSP = "  Le hice una mamada a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstTittyFuckSP = "  Le Hice mi primera paja con las tetas a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastTittyFuckSP = "  Le hice una paja con las tetas a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
 
-const ProfileRecordFirstFootjobSP = "Le Hice mi primera paja con los pies a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastFootjobSP = "Le hice una paja con los pies a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstRimjobSP = "Hice mi primer anilingus a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastRimjobSP = "Le comí el culo a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstFootjobSP = "  Le Hice mi primera paja con los pies a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastFootjobSP = "  Le hice una paja con los pies a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstRimjobSP = "  Hice mi primer anilingus a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastRimjobSP = "  Le comí el culo a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
 
-const ProfileRecordFirstBukkakeSP = "\\C[31]%2\\C[0] me hizo mi primer bukkake el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastBukkakeSP = "\\C[31]%2\\C[0] se corrió sobre mí en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstFaceBukkakeSP = "Mi primera corrida en la cara fue de \\C[31]%2\\C[0], el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastFaceBukkakeSP = "\\C[31]%2\\C[0] se corrió en mi cara en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstBukkakeSP = "  \\C[31]%2\\C[0] me hizo mi primer bukkake el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastBukkakeSP = "  \\C[31]%2\\C[0] se corrió sobre mí en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstFaceBukkakeSP = "  Mi primera corrida en la cara fue de \\C[31]%2\\C[0], el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastFaceBukkakeSP = "  \\C[31]%2\\C[0] se corrió en mi cara en %3 el \\C[26]Día %1\\C[0].";
 
-const ProfileRecordFirstSwallowSP = "Probé semen por primera vez el \\C[26]Día %1\\C[0] en %3, me tragué el semen de \\C[31]%2\\C[0].";
-const ProfileRecordLastSwallowSP = "Me tragué el semen de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstPussyCreampieSP = "Dejé que \\C[31]%2\\C[0] se corriera en mi coño en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordLastPussyCreampieSP = "Dejé que \\C[31]%2\\C[0] se corriera en mi coño en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstAnalCreampieSP = "Dejé que \\C[31]%2\\C[0] se corriera en mi culo en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordLastAnalCreampieSP = "\\C[31]%2\\C[0] me llenó el culo de leche en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstSwallowSP = " Probé semen por primera vez el \\C[26]Día %1\\C[0] en %3, me tragué el semen de \\C[31]%2\\C[0].";
+const ProfileRecordLastSwallowSP = "  Me tragué el semen de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstPussyCreampieSP = "  Dejé que \\C[31]%2\\C[0] se corriera en mi coño en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastPussyCreampieSP = "  Dejé que \\C[31]%2\\C[0] se corriera en mi coño en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstAnalCreampieSP = "  Dejé que \\C[31]%2\\C[0] se corriera en mi culo en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastAnalCreampieSP = "  \\C[31]%2\\C[0] me llenó el culo de leche en %3 el \\C[26]Día %1\\C[0].";
 
 
 const StatusRecordDaysSingularSP = "día";
@@ -715,7 +715,7 @@ const VirginityNoSP = "\\C[27]No Virgen\\C[0]";
 const VirginActorTextSP = "Primera vez con:"; //currently unused
 const VirginActorNoneSP = "---------"; //currently unused
 
-const ResistNameSP = " Resistencia";
+const ResistNameSP = " Resistencia a";
 const SafeModeSP = "Modo Seguro"; //currently unused
 const ReplayModeSP = "Modo Repetición"; //currently unused
 const PixelMovementSP = "Movimiento de Pixeles"; //currently unused
@@ -788,7 +788,7 @@ const SkillDescriptionNotWetSP = "No estás lo suficientemente mojada.";
 const TitleDescriptionFirstTimeTitleEquipSP = "\\C[0] (Equípalo una vez para recibir los efectos toda la partida)";
 
 const CharmEquipReqTextSP = "Requisito de Encanto: ";
-const GrowthRateTextSP = " Crecimiento";
+const GrowthRateTextSP = " Crecimiento de";
 
 const RemResultsVictorySP = "¡Victoria!";
 const RemResultsDefeatSP = "Derrota...";
@@ -804,8 +804,8 @@ const RemResultsGainedExpSP = "EXP Ganada";
 const RemResultsLevelUpSP = "¡SUBIDA DE NIVEL!";
 const RemResultsOrderIncreaseSP = "\\I[408]\\C[11]¡Se ha restaurado %1 de Orden!";
 const RemResultsOrderDecreaseSP = "\\I[409]\\C[10]Se ha perdido %1 de Orden...";
-const RemResultsFundingIncreaseSP = "\\I[400]\\C[11]¡%1 monedas de oro conseguidas!";
-const RemResultsFundingDecreaseSP = "\\I[401]\\C[10]%1 monedas de oro perdidas...";
+const RemResultsFundingIncreaseSP = "\\I[400]\\C[11]¡%1 de oro conseguidos!";
+const RemResultsFundingDecreaseSP = "\\I[401]\\C[10]%1 de oro perdidos...";
 const RemResultsFatigueIncreaseSP = "\\I[389]\\C[10]Fatiga aumentada en %1%...";
 const RemResultsFatigueDecreaseSP = "\\I[388]\\C[11]Fatiga disminuida en %1%!";
 const RemResultsItemDropSP = "\\I[96]\\C[11]¡Se ha obtenido un nuevo objeto %1!";
@@ -817,7 +817,7 @@ const CockinessMaxxedOutSP = "\\I[354]\\C[11]¡Arrogancia al 100%!";
 
 const RemResultsSubduedWithAttackSP = "\\I[74]\\C[11]¡Subyugadas %1 %2 por la fuerza!";
 const RemResultsSubduedSexuallySP = "\\I[43]\\C[27]¡Subyugadas %1 %2 sexualmente!";
-const RemResultsSubduedWithAttackAndSexuallySP = "\\I[291]\\C[11]¡Subyugados %1 %2 por la fuerza y \\C[27]%3 %4 sexualmente\\C[11]!";
+const RemResultsSubduedWithAttackAndSexuallySP = "\\I[291]\\C[11]¡Subyugadas %1 %2 por la fuerza y \\C[27]%3 %4 sexualmente\\C[11]!";
 const RemResultsKarrynOrgasmSingularSP = "\\I[99]\\C[27]¡Se ha corrido una vez!";
 const RemResultsKarrynOrgasmPluralSP = "\\I[99]\\C[27]¡Se ha corrido %1 veces!";
 const RemResultsKarrynMasturbatedInBattleSingularSP = "\\I[46]\\C[27]¡Se ha masturbado una vez durante el combate!";
@@ -838,7 +838,7 @@ const RemParamLevelGainedPluralSP = "\\C[16]¡¡%1 niveles de %2 ganados!!";
 const RemWardenLevelRequireSingularSP = "\\C[8]\\I[25]¡%1 nivel más hasta el siguiente Nivel de Directora!";
 const RemWardenLevelRequirePluralSP = "\\C[8]\\I[25]¡%1 niveles más hasta el siguiente Nivel de Directora!";
 const RemWardenLevelUpSP = "\\I[352]\\C[11]¡¡¡SUBE DE NIVEL!!! \\C[16]¡¡%1 ha alcanzado el nivel %2 de Directora!!";
-const RemWardenLevelLimitReachedSP = "\\I[353]\\C[8]%1 ha alcanzado el límite de Nivel de Directora y no ganará más niveles de Estadísticas.";
+const RemWardenLevelLimitReachedSP = "\\I[353]\\C[8]%1 ha alcanzado el límite de Nivel de Directora y no ganará más Estadísticas.";
 
 const RemResultsPassivesTitleSP = "¡¡Nuevas Pasivas Desbloqueadas!!";
 const RemResultsTooManyPassivesUnlockedSP = "\\C[8]\\I[25]¡Y %1 Pasivas más!";
@@ -852,7 +852,7 @@ const RemDailyReportRiot_NewSP = "\\I[407]¡¡El nivel %1 ha iniciado un \\C[18]
 const RemDailyReportRiot_OldSP = "\\I[407]¡¡El \\C[18]MOTÍN\\C[0] del nivel %1 ha durado ya %2 días! ¡El Orden se ha reducido en un \\C[18]-%3\\C[0]!";
 const RemDailyReportOrderChange_PositiveSP = "\\I[408]El Orden ha subido hasta un %1.";
 const RemDailyReportOrderChange_NegativeSP = "\\I[409]El Orden ha caído hasta un %1.";
-const RemDailyReportOrderChange_NeutralSP = "\\I[408]El Orden se ha mantenido en un %1.";
+const RemDailyReportOrderChange_NeutralSP = "\\I[408]El Orden se ha mantenido en %1.";
 const RemDailyReportFundingChange_PositiveSP = "\\I[410]Los Ingresos han subido a \\C[11]$%1\\C[0].";
 const RemDailyReportFundingChange_NegativeSP = "\\I[411]Los Ingresos han bajado a \\C[2]$%1\\C[0].";
 const RemDailyReportBankruptcySP = "\\I[411]¡¡¡La prisión está en \\C[2]BANCARROTA\\C[0]!!! ¡El Control se ha reducido en un \\C[18]-%1\\C[0]!";
@@ -1328,18 +1328,18 @@ const RemYanflyTargetMultiFoesSP = "Any Enemy"; // currently unused
 const RemYanflyTargetFemaleAllySP = "Female Ally"; // currently unused
 const RemYanflyTargetFemaleEnemySP = "Female Enemy"; // currently unused
 
-const RemFTKRSkillTreeConfirmTextSP = "%2";
-const RemFTKRSkillTreeYesSP = "Promulgar";
-const RemFTKRSkillTreeNoSP = "Cancelar";
-const RemFTKRSkillTreeEdictPointsSP = "Pts. de Decreto:";
-const RemFTKRSkillTreeEdictPointsAbbrSP = "PD";
-const RemFTKRSkillTreeOrderSP = "Orden:";
-const RemFTKRSkillTreeFundingSP = "Fondos:";
-const RemFTKRSkillTreeFundingCostSP = "Coste:";
-const RemFTKRSkillTreeCostItemSP = "%1 Cost:"; // currently unused
-const RemFTKRSkillTreePreReqTextSP = "\\c[16]Requisitos:";
-const RemFTKRSkillTreeReqTypeEdictSP = "Decreto: ";
-const RemFTKRSkillTreeReqTypePassiveSP = "Pasiva: ";
+const RemFTSPSkillTreeConfirmTextSP = "%2";
+const RemFTSPSkillTreeYesSP = "Promulgar";
+const RemFTSPSkillTreeNoSP = "Cancelar";
+const RemFTSPSkillTreeEdictPointsSP = "Pts. de Decreto:";
+const RemFTSPSkillTreeEdictPointsAbbrSP = "PD";
+const RemFTSPSkillTreeOrderSP = "Orden:";
+const RemFTSPSkillTreeFundingSP = "Fondos:";
+const RemFTSPSkillTreeFundingCostSP = "Coste:";
+const RemFTSPSkillTreeCostItemSP = "%1 Cost:"; // currently unused
+const RemFTSPSkillTreePreReqTextSP = "\\c[16]Requisitos:";
+const RemFTSPSkillTreeReqTypeEdictSP = "Decreto: ";
+const RemFTSPSkillTreeReqTypePassiveSP = "Pasiva: ";
 
 
 const RemErrorMessageSP = "Si el mensaje de error dice 'Array buffer allocation failed' o 'resolution' o 'Out of memory', entonces el juego se ha quedado sin memoria, cierra todos los programas, ESPECIALMENTE LAS VENTANAS DEL NAVEGADOR, antes de ejecutar Karryn's Prison. Para el resto de errores, si los archivos del juego y de tu partida no se han modificado, y si estás jugando una copia legítima de Steam o DLsite, porfavor, ¡toma una captura de pantalla del error y publícala en el canal #kp-bug-reports channel de nuestro Discord! ¡Cuéntanos también tantos detalles como sea posible de lo que estaba pasando justo antes de que ocurriera el error!";
@@ -1350,7 +1350,7 @@ const RemSkillTypesSP = ["",
 "Ataque",
 "Energía",
 "Sexual",
-"Fuerza de Voluntad",
+"Fuer. de Vol.",
 "Ventajas",
 "Desventajas",
 "Pasivas",
@@ -1450,7 +1450,7 @@ const RemAlcoholTypeDirtyMugsPluralSP = "jarras usadas";
 const RemAlcoholTypeDirtyGlassesSingularSP = "vaso usado";
 const RemAlcoholTypeDirtyGlassesPluralSP = "vasos usados";
 
-const RemWaitressGetsTipSP = "\\C[3]¡%1 recibe %2 monedas de oro de propina!";
+const RemWaitressGetsTipSP = "\\C[3]¡%1 recibe %2 de oro de propina!";
 const RemWaitressEnemySleepSP = "¡%1 se duerme encima de la mesa.";
 const RemWaitressEnemyWakeUpSP = "¡%1 se despierta de un bote por todo el barullo.";
 const RemWaitressEnemyLeavesBarSP = "\\C[8]¡%1 se levanta y se va del bar.";
@@ -1471,7 +1471,7 @@ const RemWaitressEnemyCheerForBrawlNoDrinkSP = "%1 celebra mientras mira como se
 const RemWaitressEnemyCheerForBrawlYesDrinkSP = "%1 bebe mientras celebra y mira la pelea.";
 const RemWaitressBrawlStartSP = "\\C[18]¡¡Ha empezado una pelea!!";
 const RemWaitressBrawlJoinSP = "\\C[18]¡%1 se mete en la pelea!";
-const RemWaitressBarDamageSP = "\\C[3]¡El bar recibe daños por valor de %1 monedas de oro!";
+const RemWaitressBarDamageSP = "\\C[3]¡El bar recibe daños por valor de %1 de oro!";
 const RemWaitressEnemyTellsJokeSP = "¡%1 cuenta un chiste.";
 const RemWaitressEnemyContinuesJokeSP = "%1 sigue contando el chiste.";
 const RemWaitressEnemyHearsJokeSP = "%1 escucha el chiste de %2.";
