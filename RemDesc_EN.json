@@ -2210,10 +2210,10 @@
 "text":["\\C[10]\\I[411]Ingresos del Taller "]
 },
 "effect_storeincome_exact_plus":{
-"text":["\\C[11]\\I[410]Ingreso de la Tienda "]
+"text":["\\C[11]\\I[410]Ingresos de la Tienda "]
 },
 "effect_storeincome_exact_minus":{
-"text":["\\C[10]\\I[411]Ingreso de la Tienda "]
+"text":["\\C[10]\\I[411]Ingresos de la Tienda "]
 },
 
 "effect_expense_exact_plus":{
@@ -2597,10 +2597,10 @@
 },
 
 "effect_classeffectsdoubled":{
-"text":["\\C[11]\\I[245]Los efectos de los Decretos de las clases y las aulas se duplican."]
+"text":["\\C[11]\\I[245]Efectos de los Decretos de las clases y las aulas duplicados."]
 },
 "effect_gymeffectsdoubled":{
-"text":["\\C[11]\\I[364]Los efectos de los Decretos sobre Políticas del Gimnasio se duplican."]
+"text":["\\C[11]\\I[364]Efectos de los Decretos sobre Políticas del Gimnasio duplicados."]
 },
 
 "effect_nerd_blackmail":{
@@ -2668,13 +2668,13 @@
 "text":["\\C[11]\\I[212]Las habilidades de Camarera y Bartender tardan 2 segundos menos"]
 },
 "effect_waitress_mugsglasses_plus":{
-"text":["\\C[11]\\I[164]Jarras y Vasos disponibles durante el trabajo de Camarera."]
+"text":["\\C[11]\\I[164]Jarras y Vasos disponibles durante el trabajo de Camarera "]
 },
 "effect_waitress_barinsurance":{
-"text":["\\C[11]\\I[165]Daño que el Bar sufre por las peleas durante el trabajo de Camarera."]
+"text":["\\C[11]\\I[165]Daño del Bar por peleas durante el trabajo de Camarera "]
 },
 "effect_waitress_unlock":{
-"text":["\\C[31]\\I[173]Desbloquea el trabajo de Camarera en el Bar."]
+"text":["\\C[31]\\I[173]Desbloquea el trabajo de Camarera en el Bar "]
 },
 
 "effect_receptionist_unlock":{
@@ -2826,20 +2826,20 @@
 },
 
 "effect_staffeff_explain":{
-"text":["\\C[31]\\I[496]50% de la Eficiencia del Personal cuando el Cuarto de Personal no funcione"]
+"text":["\\C[31]\\I[496]50% de la Eficiencia del Personal cuando la Sala del Personal no funcione "]
 },
 "effect_staffeff_plus":{
-"text":["\\C[11]\\I[496]Eficiencia del Personal cuando el Cuarto de Personal no funcione"]
+"text":["\\C[11]\\I[496]Eficiencia del Personal cuando la Sala del Personal no funcione "]
 },
 "effect_staffeff_minus":{
-"text":["\\C[10]\\I[497]Eficiencia del Personal cuando el Cuarto de Personal no funcione"]
+"text":["\\C[10]\\I[497]Eficiencia del Personal cuando la Sala del Personal no funcione "]
 },
 
 "effect_fatiguerecovery_plus":{
-"text":["\\C[11]\\I[388]Recuperación de Fatiga"]
+"text":["\\C[11]\\I[388]Recuperación de Fatiga "]
 },
 "effect_fatiguerecovery_minus":{
-"text":["\\C[10]\\I[389]Recuperación de Fatiga"]
+"text":["\\C[10]\\I[389]Recuperación de Fatiga "]
 },
 "effect_office_fatiguerecovery_plus":{
 "text":["\\C[11]\\I[388]Rec. de Fatiga en la Oficina "]
@@ -2869,37 +2869,37 @@
 "text":["\\C[11]\\I[418]Ganancia de Fatiga "]
 },
 "effect_warden_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[462]Durabilidad del Uniforme de Directora"]
+"text":["\\C[11]\\I[462]Durabilidad del Uniforme de Directora "]
 },
 "effect_waitress_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[173]Durabilidad del Uniforme de Camarera"]
+"text":["\\C[11]\\I[173]Durabilidad del Uniforme de Camarera "]
 },
 "effect_receptionist_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[128]Durabilidad del Uniforme de Recepcionista"]
+"text":["\\C[11]\\I[128]Durabilidad del Uniforme de Recepcionista "]
 },
 "effect_edictpoints_daily_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto todos los días"]
+"text":["\\C[11]\\I[364]Punto de Decreto todos los días "]
 },
 "effect_edictpoints_daily_minus":{
-"text":["\\C[10]\\I[365]Punto de Decreto todos los días"]
+"text":["\\C[10]\\I[365]Punto de Decreto todos los días "]
 },
 "effect_edictpoints_even_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto en días pares"]
+"text":["\\C[11]\\I[364]Punto de Decreto en días pares "]
 },
 "effect_edictpoints_even_minus":{
-"text":["\\C[10]\\I[365]Punto de Decreto en días pares"]
+"text":["\\C[10]\\I[365]Punto de Decreto en días pares "]
 },
 "effect_edictpoints_odd_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto en días impares"]
+"text":["\\C[11]\\I[364]Punto de Decreto en días impares "]
 },
 "effect_edictpoints_odd_minus":{
-"text":["\\C[10]\\I[365]Punto de Decreto en días impares"]
+"text":["\\C[10]\\I[365]Punto de Decreto en días impares "]
 },
 "effect_edictpoints_carryover":{
 "text":["\\C[11]\\I[364]Punto de Decreto que pasa al día siguiente cuando no se usa "]
 },
 "effect_edictpoints_gold":{
-"text":["\\C[11]\\I[410]Exceso de puntos de decreto no utilizados se convierte en 100 de oro al final del día"]
+"text":["\\C[11]\\I[410]Exceso de PDs no utilizados se convierten en 100 de oro al final del día"]
 },
 
 "effect_all_edictcost_exact_plus":{
@@ -3577,10 +3577,10 @@
 },
 
 "effect_visitorcenter_highrep_minorbonus":{
-"text":["\\C[11]\\I[213]Tener Reputación alta en el Centro de Visitantes da una bonificación menor de Control"]
+"text":["\\C[11]\\I[213]Una alta Reputación en el Centro de Vis. da un poco de Control"]
 },
 "effect_visitorcenter_highrep_majorbonus":{
-"text":["\\C[11]\\I[213]Tener Reputación alta en el Centro de Visitantes da una bonificación mayor de Control"]
+"text":["\\C[11]\\I[213]Una alta Reputación en el Centro de Vis. da más Control"]
 },
 
 "skill_1_msg1":{
@@ -3735,7 +3735,7 @@
 "skill_63_desc":{
 "text":[
 "Ataca a un objetivo con daño Contundente.",
-"\\}\\}\\C[9]➤\\C[0] Hace un daño masivo."
+"\\}\\}\\C[9]➤\\C[0] Hace un daño inmenso."
 ]},
 "skill_63_msg1":{
 "text":["¡%1 atiza con su alabarda!"]
@@ -4130,7 +4130,7 @@
 },
 "skill_118_desc":{
 "text": [
-"¿De verdad todos los hombres están así de interesados en mi culo..?",
+"¿De verdad todos los hombres están así de interesados en mi culo...?",
 "\\REM_EFF[skill_118_effect]"
 ]},
 "skill_119_name":{
@@ -4531,7 +4531,7 @@
 },
 "skill_168_desc":{
 "text":[
-"Estoy cubierta por un velo de leche.♥ Mira, soy como la novia en una boda.♥ Me encantan las duchas de semen.♥",
+"Estoy cubierta por un velo de leche.♥ Mira, soy como la novia en una boda.♥ Me encantan los bukkakes.♥",
 "\\REM_EFF[skill_168_effect]"
 ]},
 "skill_169_name":{
@@ -4571,7 +4571,7 @@
 },
 "skill_173_desc":{
 "text":[
-"\\}Por favor, por favor♥♥ Bendíce mi cuerpo con el sagrado esperma de todos♥♥ Ooh, esto se siente tan BIEEEN♥♥ Me estoy corriendo♥ Me estoy corriendo otra vez~~♥♥\\{",
+"\\}Por favor, por favor♥♥ Bendice mi cuerpo con el sagrado esperma de todos♥♥ Ooh, esto se siente tan BIEEEN♥♥ Me estoy corriendo♥ Me estoy corriendo otra vez~~♥♥\\{",
 "\\REM_EFF[skill_173_effect]"
 ]},
 "skill_174_name":{
@@ -4667,7 +4667,7 @@
 },
 "skill_185_desc":{
 "text":[
-"Ya puedo sentir tu líquido preseminal goteando♥ Ufufu... Qué adorable♥ No te corras todavía... Primero necesito divertirme más contigo ...♥",
+"Puedo sentir tu líquido preseminal goteando♥ Ufufu... Qué adorable♥ No te corras todavía... Necesito divertirme más contigo...♥",
 "\\REM_EFF[skill_185_effect]"
 ]},
 "skill_186_name":{
@@ -4675,7 +4675,7 @@
 },
 "skill_186_desc":{
 "text":[
-"Esto es una pesadilla, ¿cómo he podido tener mi primer orgasmo en un lugar tan sucio y sin un ambiente romántico? Y para colmo estando de servicio......",
+"Esto es una pesadilla, ¿mi primer orgasmo en un lugar tan sucio y nada romántico? Y para colmo estando de servicio...",
 "\\REM_EFF[skill_186_effect]"
 ]},
 "skill_187_name":{
@@ -4691,7 +4691,7 @@
 },
 "skill_188_desc":{
 "text":[
-"Me-me-me corrí tres veces seguidas...♥ Creo que el placer está volviendo locos todos mis sentidos, si es que no están ya destrozados...♥",
+"M-me corrí tres veces seguidas...♥ El placer está volviendo locos todos mis sentidos, si es que no están ya destrozados...♥",
 "\\REM_EFF[skill_188_effect]"
 ]},
 "skill_189_name":{
@@ -4959,7 +4959,7 @@
 "\\REM_EFF[skill_221_effect]"
 ]},
 "skill_222_name":{
-"text":["Zona Erógena blanda y dura"]
+"text":["Zona Erógena Blanda y Dura"]
 },
 "skill_222_desc":{
 "text":[
@@ -6225,7 +6225,7 @@
 "text":[
 "\\}Se ha dado el primer paso hacia la restauración de la prisión.",
 "\\}Ahora podemos empezar a restaurar algunas de las funciones necesarias para mantener la prisión.",
-"\\}\\REM_EFF[skill_372_effect]"
+"\\}\\}\\REM_EFF[skill_372_effect]"
 ]},
 "skill_373_name":{
 "text":["Nivel 2 Subyugado"]
@@ -6234,7 +6234,7 @@
 "text":[
 "\\}Con el orden restablecido en el Nivel 2, ya tenemos las últimas piezas para que la prisión sea autosuficiente.",
 "\\}¡Ha llegado el momento de escribir un nuevo capítulo en la historia  del Fuerte Ganon!",
-"\\}\\REM_EFF[skill_373_effect]"
+"\\}\\}\\REM_EFF[skill_373_effect]"
 ]},
 "skill_374_name":{
 "text":["Nivel 3 Subyugado"]
@@ -7173,7 +7173,7 @@
 "skill_507_desc":{
 "text":[
 "Tener solo cerveza rubia y agua es un poco triste para un bar.",
-"¡Firmemos un contrato de envíos para añadir vodka y ron al menú!",
+"¡Vamos a pedir vodka y ron para añadir al menú!",
 "\\REM_EFF[skill_507_effect]"
 ]},
 "skill_508_name":{
@@ -7181,8 +7181,8 @@
 },
 "skill_508_desc":{
 "text":[
-"Consigamos whisky para el bar, es el favorito de algunos bebedores.",
-"Y al mismo tiempo, deberíamos añadir otra marca de cerveza para los reclusos con menos dinero.",
+"Consigamos whisky para el bar, es el favorito de algunos clientes.",
+"Tambien deberíamos añadir otra marca de cerveza para los reclusos con menos dinero.",
 "\\REM_EFF[skill_508_effect]"
 ]},
 "skill_509_name":{
@@ -7199,8 +7199,8 @@
 },
 "skill_510_desc":{
 "text":[
-"Todos los bares necesitan personal para funcionar correctamente.",
-"Deberíamos contratar a algunos camareros para ayudar a gestionar y mantener el orden dentro del bar.",
+"Todos los bares necesitan personal para funcionar correctamente. Deberíamos contratar",
+"a algunos camareros para ayudar a gestionar y mantener el orden dentro del bar.",
 "\\}\\REM_EFF[skill_510_effect]"
 ]},
 "skill_511_name":{
@@ -7245,7 +7245,7 @@
 "skill_515_desc":{
 "text":[
 "¡¿Aún no hay suficientes jarras y vasos para el bar?!",
-"Qué pasa ahí en el bar que todavía no tienéis suficiente...",
+"Qué pasa ahí en el bar que todavía no tenéis suficiente...",
 "\\REM_EFF[skill_515_effect]"
 ]},
 "skill_516_name":{
@@ -7280,8 +7280,8 @@
 },
 "skill_519_desc":{
 "text":[
-"No esperaba que el nuevo uniforme de camarera fuera tan endeble.",
-"Podemos pagar a un sastre para que lo arregle un poco y lo haga más resistente a las manos pervertidas.",
+"No esperaba que el nuevo uniforme de camarera fuera tan endeble Podemos pagar a.",
+"un sastre para que lo arregle un poco y lo haga más resistente a las manos pervertidas.",
 "\\REM_EFF[skill_519_effect]"
 ]},
 "skill_520_name":{
@@ -7316,7 +7316,7 @@
 "skill_523_desc":{
 "text":[
 "La lavandería es donde los reclusos lavan la ropa de la prisión.",
-"Repararlo les hará felices, ya que a nadie le gusta pasearse con la ropa sucia.",
+"Repararla les hará felices, ya que a nadie le gusta pasearse con la ropa sucia.",
 "\\REM_EFF[skill_523_effect]"
 ]},
 "skill_524_name":{
@@ -7325,7 +7325,7 @@
 "skill_524_desc":{
 "text":[
 "No nos hará ganar mucho dinero, pero podemos ofrecer el servicios de lavandería a otros.",
-"Consistiría en que cogemos su ropa sucia y utilizamos nuestra mano de obra gratuita para lavarla por ellos.",
+"Básicamente cogemos ropa sucia y utilizamos nuestra mano de obra gratuita para lavarla.",
 "\\REM_EFF[skill_524_effect]"
 ]},
 "skill_525_name":{
@@ -7360,8 +7360,8 @@
 },
 "skill_528_desc":{
 "text":[
-"Podemos acondicionar nuestro taller para fabricar piezas electrónicas para artículos como radios y teléfonos.",
-"Esto nos hará ganar más dinero, pero también molestará a los reclusos, que tendrán que trabajar más.",
+"Podemos acondicionar nuestro taller para fabricar electrónica para radios y teléfonos.",
+"Nos hará ganar más dinero, pero molestará a los reclusos, que tendrán que trabajar más.",
 "\\REM_EFF[skill_528_effect]"
 ]},
 "skill_529_name":{
@@ -7379,7 +7379,7 @@
 "skill_530_desc":{
 "text":[
 "La recepción es la primera sala que ven los nuevos reclusos al entrar en la prisión.",
-"No necesita reparaciones para funcionar correctamente, pero nos daría un aspecto más ordenado.",
+"No necesita reparaciones para funcionar, pero nos daría un aspecto más ordenado.",
 "\\REM_EFF[skill_530_effect]"
 ]},
 "skill_531_name":{
@@ -7487,7 +7487,7 @@
 "skill_542_desc":{
 "text":[
 "\\}Sólo se repararon dos de las cuatro salas de visitas antes de que se agotara el presupuesto.",
-"\\}Conseguir que funcione aunque solo sea una sala de visitas más reducirá enormemente el tiempo de espera de nuestros visitantes.",
+"\\}Arreglar una sala de visitas más reducirá enormemente el tiempo de espera de nuestros visitantes.",
 "\\}\\REM_EFF[skill_542_effect]"
 ]},
 "skill_543_name":{
@@ -7513,8 +7513,8 @@
 },
 "skill_545_desc":{
 "text":[
-"\\}Podemos implementar un sistema en el que los visitantes paguen más dinero para colarse delante de los que no lo hicieron.",
-"\\}En definitiva, el tiempo de espera y el servicio siguen siendo los mismos, pero la prisión gana más dinero.",
+"\\}Podemos implementar un sistema donde los visitantes paguen más dinero para colarse en la cola.",
+"\\}En definitiva, mismo tiempo de espera y mismo servicio, pero la prisión gana más dinero.",
 "\\REM_EFF[skill_545_effect]"
 ]},
 "skill_546_name":{
@@ -7532,7 +7532,7 @@
 "skill_547_desc":{
 "text":[
 "El Centro de Visitantes siempre está escaso de personal. ¿Podrías ayudarles?",
-"Puedo reunir algo de material para hacer una réplica de tu famoso uniforme y usarlo para este trabajo.",
+"Puedo reunir algo de material para hacer una réplica de tu famoso uniforme.",
 "\\}\\REM_EFF[skill_547_effect]"
 ]},
 "skill_548_name":{
@@ -7541,7 +7541,7 @@
 "skill_548_desc":{
 "text":[
 "¿Hmm? ¿Necesitas que el uniforme de recepcionista sea más duradero?",
-"No estoy seguro de para qué serviría eso aquí, pero puedo pedirle a un sastre que lo investigue.",
+"No sé para qué lo quieres, pero puedo pedirle a un sastre que lo investigue.",
 "\\REM_EFF[skill_548_effect]"
 ]},
 "skill_549_name":{
@@ -7551,7 +7551,7 @@
 "text":[
 "\\}\\}Los frikis han obtenido acceso a los datos de la prisión cuando tomaron el control del Nivel 2.",
 "\\}\\}Ahora aprovechan esa información para pedirnos dos cosas: Dinero y tu información privada.",
-"\\}\\REM_EFF[skill_549_effect]"
+"\\}\\}\\REM_EFF[skill_549_effect]"
 ]},
 "skill_550_name":{
 "text":["Pagar a los Frikis"]
@@ -7569,7 +7569,7 @@
 "text":[
 "\\}\\}Los frikis sólo intentan aprovecharse de nuestra falta de recursos. Envía a los guardias a amenazar a los frikis",
 "\\}\\}para que se rindan, diciéndoles que les romperémos sus ordenadores y juguetes si no ponen fin a su chantaje.",
-"\\REM_EFF[skill_551_effect]"
+"\\}\\REM_EFF[skill_551_effect]"
 ]},
 "skill_552_name":{
 "text":["Ríndete ante los Frikis"]
@@ -7578,7 +7578,7 @@
 "text":[
 "\\}\\}Por favor, sacrifique su información privada por el bien de la prisión.",
 "\\}\\}De todos modos, sólo hay un tipo de información que realmente interesa a los frikis.",
-"\\REM_EFF[skill_552_effect]"
+"\\}\\REM_EFF[skill_552_effect]"
 ]},
 "skill_553_name":{
 "text":["El Problema con los Pícaros"]
@@ -7696,7 +7696,7 @@
 },
 "skill_568_desc":{
 "text": [
-"La tienda proporciona bienes y suministros generales a nuestros guardias y miembros del personal.",
+"La tienda proporciona bienes y suministros generales a nuestros guardias y personal.",
 "Solo se cobran artículos de lujo, como los cigarrillos, todo lo demás es gratis.",
 "\\REM_EFF[skill_568_effect]"
 ]},
@@ -7714,18 +7714,18 @@
 },
 "skill_570_desc":{
 "text": [
-"Hacer que los miembros del personal paguen los artículos de la tienda nos dará una fuente extra de ingresos.",
-"",
-"\\}\\REM_EFF[skill_570_effect]"
+"Hacer que los miembros del personal paguen los artículos de la tienda",
+"nos dará una fuente extra de ingresos.",
+"\\}\\}\\REM_EFF[skill_570_effect]"
 ]},
 "skill_571_name":{
 "text":["Permitir que los Reclusos Utilicen la Tienda"]
 },
 "skill_571_desc":{
 "text": [
-"Algunos reclusos ya consiguen artículos de la tienda mediante robos o compras de segunda mano.",
+"Algunos reclusos consiguen artículos de la tienda con robos o compras de segunda mano.",
 "\\}Dejarles utilizar oficialmente la tienda nos proporcionará una enorme fuente de ingresos para la tienda.",
-"\\REM_EFF[skill_571_effect]"
+"\\}\\REM_EFF[skill_571_effect]"
 ]},
 "skill_572_name":{
 "text":["Artículos de la Tienda Gratis para la Directora"]
@@ -7804,9 +7804,9 @@
 },
 "skill_580_desc":{
 "text": [
-"\\}Los empleados cualificados, como cocineros, contables o abogados, necesitan una sala de descanso como parte de sus beneficios.",
+"\\}Los empleados cualificados, como cocineros, contables o abogados, necesitan una sala de descanso.",
 "\\}Además, trabajarán con menos eficacia si su sala de descanso se ve arruinada por los motines.",
-"\\REM_EFF[skill_580_effect]"
+"\\}\\REM_EFF[skill_580_effect]"
 ]},
 "skill_581_name":{
 "text":["La Sala ya no es Gratis"]
@@ -7833,7 +7833,7 @@
 "text": [
 "¿Qué sentido tienen las clases si los reclusos pueden elegir no asistir nunca a ellas?",
 "A partir de ahora, todos los reclusos deben ir a clase al menos dos veces por semana.",
-"\\REM_EFF[skill_583_effect]"
+"\\}\\REM_EFF[skill_583_effect]"
 ]},
 "skill_584_name":{
 "text":["Plan de Estudios: Nada"]
@@ -7851,7 +7851,7 @@
 "text": [
 "Los reclusos deben ser reeducados para convertirse en ciudadanos modelo del imperio.",
 "El plan de estudios se centrará en la historia, el decoro y la búsqueda de empleo.",
-"\\REM_EFF[skill_585_effect]"
+"\\}\\REM_EFF[skill_585_effect]"
 ]},
 "skill_586_name":{
 "text":["Plan de Estudios: Taller"]
@@ -7876,8 +7876,8 @@
 },
 "skill_588_desc":{
 "text": [
-"\\}Para ayudar a los reclusos a comprender mejor la anatomía, quizá deberíamos suministrarles un modelo anatómicamente correcto.",
-"\\}Y sugiero que el modelo esté basado en tu cuerpo para ahorrar tiempo y dinero.",
+"\\}Para ayudar a los reclusos a estudiar anatomía, deberíamos suministrarles un modelo anatómicamente",
+"\\}correcto. Sugiero que el modelo esté basado en tu cuerpo para ahorrar tiempo y dinero.",
 "\\REM_EFF[skill_588_effect]"
 ]},
 "skill_589_name":{
@@ -7894,8 +7894,8 @@
 },
 "skill_590_desc":{
 "text": [
-"Añadir una tarifa de entrada a la sala de lectura nos ayudará a ganar dinero a costa de los amantes de los libros.",
-"",
+"Añadir una tarifa de entrada a la sala de lectura nos ayudará",
+"a ganar dinero a costa de los amantes de los libros.",
 "\\REM_EFF[skill_590_effect]"
 ]},
 "skill_591_name":{
@@ -7912,8 +7912,8 @@
 },
 "skill_592_desc":{
 "text": [
-"Llenémos las estanterías de literatura sobre el imperio.",
-"Libros de historia, autobiografías de emperadores pasados y otros textos que alaben el imperio.",
+"Llenémos las estanterías de literatura sobre el imperio. Libros de historia,",
+"autobiografías de emperadores pasados y otros textos que alaben el imperio.",
 "\\REM_EFF[skill_592_effect]"
 ]},
 "skill_593_name":{
@@ -7923,7 +7923,7 @@
 "text": [
 "Tengamos sólo libros que enseñen a los reclusos",
 "a fortalecer su cuerpo física y mentalmente.",
-"\\REM_EFF[skill_593_effect]"
+"\\}\\}\\REM_EFF[skill_593_effect]"
 ]},
 "skill_594_name":{
 "text":["Material de Lectura: Adulto"]
@@ -7974,7 +7974,7 @@
 "skill_599_desc":{
 "text": [
 "\\}Empezaremos a favorecer a los reclusos más fuertes para aceptarlos en la prisión.",
-"\\}Puede que sean más difíciles de controlar, pero el imperio nos enviará más ayuda, además los reclusos fuertes son mejores trabajadores.",
+"\\}Son más difíciles de controlar, pero el imperio nos enviará más ayuda, y los reclusos fuertes son mejores trabajadores.",
 "\\REM_EFF[skill_599_effect]"
 ]},
 "skill_600_name":{
@@ -7993,7 +7993,7 @@
 "text": [
 "Todos los nuevos reclutas recibirán formación durante un mes,",
 "y todos los guardias tendrán que recibir una formación obligatoria de 3 días cada mes.",
-"\\REM_EFF[skill_601_effect]"
+"\\}\\REM_EFF[skill_601_effect]"
 ]},
 "skill_602_name":{
 "text":["Equipamiento Militar"]
@@ -9468,7 +9468,7 @@
 "\\REM_EFF[skill_874_effect]"
 ]},
 "skill_875_name":{
-"text":["Material para Pajas para los Frikis"]
+"text":["Material para Pajas de los Frikis"]
 },
 "skill_875_desc":{
 "text":["¡Uuu... Estas cosas son asquerosas...! ¡Vuelve cuando te hayas duchado!",
@@ -10755,7 +10755,7 @@
 "text":["y adopta una postura defensiva!"]
 },
 "skill_1088_name":{
-"text":["Contra-Revitalizar"]
+"text":["Revitalizar y Contraatacar"]
 },
 "skill_1088_desc":{
 "text":[
@@ -10769,7 +10769,7 @@
 "text":["y adopta una postura de contraataque!"]
 },
 "skill_1089_name":{
-"text":["Contra-Fuerzas Renovadas"]
+"text":["Fuerzas Renovadas y Contraatacar"]
 },
 "skill_1089_desc":{
 "text":[
@@ -10783,7 +10783,7 @@
 "text":["y adopta una postura de contraataque!"]
 },
 "skill_1090_name":{
-"text":["Contra-Arreglar la Ropa"]
+"text":["Arreglar la Ropa y Contraatacar"]
 },
 "skill_1090_desc":{
 "text":[

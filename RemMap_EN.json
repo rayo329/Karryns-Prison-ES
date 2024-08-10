@@ -179,12 +179,12 @@
 "commonevent104_newgame":{
 "text":[
 "",
-"Karryn ganó el título, \\C[3]\"\\REM_VARIABLE_ICON[27]\\V[26]\"\\C[0]!"
+"¡Karryn ha ganado el título, \\C[3]\"\\REM_VARIABLE_ICON[27]\\V[26]\"\\C[0]!"
 ]},
 "commonevent104_normal":{
 "text":[
 "",
-"\\#                    Karryn ganó el título, \\C[3]\"\\V[26]\"\\C[0]!"
+"\\#                   ¡Karryn ha ganado el título, \\C[3]\"\\V[26]\"\\C[0]!"
 ]},
 
 "commonevent105_normal":{
@@ -334,7 +334,7 @@
 "text":[
 "Sí... No puedo negar esa afirmación.",
 "Me avergüenza, pero soy muy consciente de lo",
-"mucho que pido que hagas por nosotros ..."
+"mucho que pido que hagas por nosotros..."
 ]},
 "commonevent108_karryn_10":{
 "text":[
@@ -384,7 +384,7 @@
 "commonevent109_karryn_4":{
 "text":[
 "¡¿Qu-?! ¡¡Me estás tomando el pelo!!",
-"Mi Alabarda ...... La han ...",
+"Mi Alabarda...... La han...",
 "¡UGH!...... ¡¡Qué asco!!",
 "¡¡Esos primates han profanado mi alabarda!!",
 "\\C[10]¡¡No puedo usar mi alabarda en estas condiciones!!\\C[0]",
@@ -416,7 +416,7 @@
 "text":[
 "(¡Esos brutos! ¡Han tirado demasiado fuerte de mi ropa! ",
 "Supongo que al menos no arrancaron nada, ¡¡Pero aun así!!",
-"Encima me siguen rociando con su porquería ...... ¡¡Argh~!!)"
+"Encima me siguen rociando con su porquería...... ¡¡Argh~!!)"
 ]},
 "commonevent110_karryn_exp1_3":{
 "text":[
@@ -1125,7 +1125,7 @@
 ]},
 "commonevent212_karryn_1":{
 "text":[
-"(Esa puerta conduce a \\V[31].",
+"(Esa puerta conduce a \\V[31]",
 "No tengo ningún motivo para ir allí ahora.)"
 ]},
 "commonevent217_karryn_1":{
@@ -1423,7 +1423,7 @@
 "troops10_p2_karryn_2":{
 "text":[
 "¡Mierda......!",
-"¡Arrghh! ......Es porque sigues tirando del uniforme......!"
+"¡Arrghh...! ¡Es porque sigues tirando del uniforme......!"
 ]},
 
 "troops10_p3_karryn_1":{
@@ -1458,7 +1458,7 @@
 
 "troops10_p4_karryn_1":{
 "text":[
-"Estoy genuinamente sorprendida ......",
+"Estoy genuinamente sorprendida......",
 "Pensé que no aguantarías un solo golpe, pero aquí estás.",
 "Tienes bastante resistencia, ¿No es así?"
 ]},
@@ -1771,7 +1771,7 @@
 "map_name_29":{
 "text":["El centro de Visitantes"]},
 "map_name_12":{
-"text":["Las Escaleras al Nivel 3"]},
+"text":["Escaleras al Nivel 3"]},
 "map_name_9":{
 "text":["Puesto de Guardia del Nivel 1"]},
 "map_name_10":{
@@ -2218,7 +2218,7 @@
 "text":[
 "Hola... Sí, Editor en Jefe, todavía estoy en el Fuerte Ganon...",
 "Si señor, prometo traer algo interesante para los lectores.......",
-"Si ...¿Si? ¿Prefiere que informe sobre Karryn?"
+"Si... ¿Si? ¿Prefiere que informe sobre Karryn?"
 ]},
 "map4_ev46_p1_2":{
 "text":[
@@ -3117,7 +3117,7 @@
 
 "map13_ev32_p4_karryn_3":{
 "text":[
-"..............................Uh, ............vale."
+"..............................Uh............Vale."
 ]},
 
 "map13_ev32_p4_tonkin_6":{
@@ -3311,11 +3311,11 @@
 ]},
 "map15_ev7_can_not_enter_next_room_name":{
 "text":[
-"El taller donde trabajan los reclusos."
+"al taller donde trabajan los reclusos."
 ]},
 "map15_ev8_can_not_enter_next_room_name":{
 "text":[
-"El Área de Lavado de Vajilla"
+"al Área de Lavado de Vajilla"
 ]},
 
 "map15_ev26_tachiename_1":{
@@ -4689,7 +4689,7 @@
 "map17_ev63_p2_karryn_7":{
 "text":[
 "(Estoy feliz por poder besar a Su Majestad Imperial......",
-"Pero quizás por eso, un impulso distinto está empezando a surgir ......)"
+"Pero quizás por eso, un impulso distinto está empezando a surgir......)"
 ]},
 "map17_ev63_p2_karryn_8":{
 "text":[
@@ -5283,8 +5283,8 @@
 "map18_ev26_p2_karryn_Lv4_1":{
 "text":[
 "(¡G-Guau...! ¡¡Qué estatua de la diosa tan maravillosa...!!",
-"Su Majestad realmente está un paso... No, un salto por encima de todo el mundo.",
-"¿Soy yo, o la cara se parece mucho a la mía ...?)"
+"Su Majestad realmente está un paso... No, un salto por delante de todo el mundo.",
+"¿Soy yo, o la cara se parece mucho a la mía...?)"
 ]},
 "map18_ev26_p2_karryn_Lv4_2":{
 "text":[
@@ -5356,22 +5356,22 @@
 "",
 
 "Tu nueva posición como la Directora del Fuerte Ganon se ha convertido ",
-"en un tema de conversación en todo el mundo. Gracias a toda esta nueva atención, ",
+"en un tema de conversación. Gracias a toda esta nueva atención, ",
 "el interés de la gente en el Fuerte Ganon ha aumentado dramáticamente.",
 
 "Quizás esto sea algo inevitable dada tu popularidad en todo el mundo,",
-"pero me sigue doliendo en el alma escuchar a la gente difundir prensa amarillista",
-"y cotilleos sobre ti y el Fuerte Ganon.",
+"pero me sigue doliendo en el alma escuchar a la gente difundir",
+"prensa amarillista y cotilleos sobre ti y el Fuerte Ganon.",
 
-"Sin embargo, afortunadamente, el público no ha oído hablar ni ha difundido ningún",
-"rumor sobre la conspiración del Fuerte Ganon para rebelarse contra el imperio.",
-"",
+"Afortunadamente, el público no ha oído hablar ni ha difundido",
+"ningún rumor sobre la conspiración del Fuerte Ganon",
+"para rebelarse contra el imperio.",
 
-"Actualmente, alguien ha sido asignado como Secretario Imperial interino,",
-"pero me ha resultado difícil separar mis expectativas del puesto de tu legado.",
+"Actualmente, se ha asignado a alguien como Secretario Imperial interino,",
+"pero me ha resultado difícil separar mis expectativas por tu legado.",
 "Me he dado cuenta una vez más de lo excelente que eres.",
 
-"Con sueños sobre el día en que pueda ver tu sonrisa otra vez,",
+"Sueños con el día en que pueda ver tu sonrisa una vez más,",
 "",
 "　　　　　　　　　　　- El Emperador de Zanados, Oribus Sykes IV"
 ]},
@@ -5628,7 +5628,7 @@
 ]},
 "map18_ev35_p1_karryn_slut3_2":{
 "text":[
-"(Oh querido, mírame ...... ♥",
+"(Oh querido, mírame...... ♥",
 "Aunque Su Majestad Imperial hizo todo lo posible para escribirme ",
 "una carta, sólo puedo pensar en las pollas de otros hombres...♥)"
 ]},
@@ -5640,7 +5640,7 @@
 "",
 
 "(En cuanto a esa última frase, ",
-"'¿'El día en que pueda ver tu sonrisa otra vez'...?)",
+"¿'El día en que pueda ver tu sonrisa otra vez'...?)",
 "",
 
 "(¡¡Y pensar que Su Majestad Imperial usaría palabras tan halagadoras...!!",
@@ -5714,7 +5714,7 @@
 "text":[
 "(Su Majestad Imperial siempre está pensando en mí...",
 "Aun asi... Yo... He dejado que estos hombres inútiles se salgan con la suya...",
-"Soy patética ...... Por favor, perdóneme ... Su Majestad Imperial ...)",
+"Soy patética...... Por favor, perdóneme... Su Majestad Imperial...)",
 
 "(No puedo perder más la confianza de Su Majestad Imperial.",
 "Sí. Eso es... No me rendiré al placer...",
@@ -5775,7 +5775,7 @@
 
 "map18_ev35_p3_karryn_virgin_slut1_1":{
 "text":[
-"(¡Qué sorpresa leer esto ......!",
+"(¡Qué sorpresa leer esto......!",
 "¡Y pensar que Su Majestad Imperial tomó aquella decisión ",
 "porque pensaba tanto en mí...!)",
 
@@ -5904,7 +5904,7 @@
 "text":[
 "(Hablando de eso, me pregunto si todavía es virgen.",
 "Tal vez debería darle una follada rápida",
-"una vez que vuelva como su secretaria ......)"
+"una vez que vuelva como su secretaria......)"
 ]},
 "map18_ev35_p3_karryn_slut3_3":{
 "text":[
@@ -7018,7 +7018,7 @@
 "text":[
 "¿P-Puede ser que quieras decir... Que están todos inconscientes?",
 "Solo le di aquello a los reclusos para que comieran...",
-"Parece que los guardias también terminaron uniéndose ..."
+"Parece que los guardias también terminaron uniéndose..."
 ]},
 "map19_ev2_p3_karryn_5":{
 "text":[
@@ -8039,12 +8039,12 @@
 ]},
 "map21_ev39_p1_yasu_3":{
 "text":[
-"Por favor...... Aah aah ...... Me gustaría mucho quedarme aquí...",
+"Por favor...... Aah aah...... Me gustaría mucho quedarme aquí...",
 "Directora Karryn...... Aah aah......"
 ]},
 "map21_ev39_p1_karryn_3":{
 "text":[
-"¿Hm? ...Oh...... Mmm, vale......",
+"¿Hm...? Oh...... Mmm, vale......",
 "Su Majestad Imperial te destituyó de tu puesto como Director....",
 "Pero no dijo que eras libre de irte del Fuerte Ganon.........."
 ]},
@@ -10590,7 +10590,7 @@
 ]},
 "map39_ev12_p1_karryn_3":{
 "text": [
-"Así que tienen incluso Slimes presos aquí......."
+"Así que hay hasta Slimes por aquí......."
 ]},
 "map39_ev12_p1_karryn_4":{
 "text": [
@@ -10601,14 +10601,14 @@
 "text": [
 "Oink... Estaba ocupado limpiando toda",
 "la basura y antes de darme cuenta,",
-"Estaba rodeado de restos de Slime ......",
+"Estaba rodeado de restos de Slime......",
 "No he podido moverme de este sitio porque ",
 "no quiero pisar este líquido viscoso..."
 ]},
 "map39_ev12_p1_karryn_5":{
 "text": [
 "Realmente eres un cerdo gordo sin cojones...",
-"No se necesita ningún esfuerzo para limpiar este lugar y salir."
+"No es ningún esfuerzo limpiar este lugar y salir."
 ]},
 "map39_ev12_p1_tonkin_3":{
 "text": [
@@ -10622,7 +10622,7 @@
 "map39_ev12_p1_karryn_6":{
 "text": [
 "¡¡Qué......!! ¡¡Deja de intentar asquearme!!",
-"¡¡De ninguna manera voy a caminar por ahí!!"
+"¡¡No pienso caminar por ahí!!"
 ]},
 "map39_ev12_p1_karryn_7":{
 "text": [
@@ -11012,7 +11012,7 @@
 "map51_ev9_p1_cargill_1":{
 "text": [
 "¡¡Aaahhhhh~~!!",
-"¡¡A-Ayuda!! ¡¡Que alguien me ayude!!"
+"¡¡A-Ayuda!! ¡¡Qué alguien me ayude!!"
 ]},
 "map51_ev9_p1_karryn_1":{
 "text":[
@@ -11020,7 +11020,7 @@
 ]},
 "map51_ev9_p1_karryn_2":{
 "text":[
-"¡¡Atizar!!"
+"¡¡Quitad de enmedio!!"
 ]},
 "map51_ev9_p1_cargill_2":{
 "text": [
@@ -11048,11 +11048,11 @@
 "map51_ev9_p1_karryn_6":{
 "text": [
 "(Eso ha sido extraño...",
-"Esos Slimes no opusieron ninguna resistencia...)"
+"Esos Slimes no han puesto ninguna resistencia...)"
 ]},
 "map51_ev9_p1_cargill_4":{
 "text": [
-"Eres muy fuerte, señorita... Ehh...¿?",
+"Eres muy fuerte, señorita... ¿Ehh...?",
 "Creo que he visto tu cara en alguna parte antes, pero..."
 ]},
 "map51_ev9_p1_karryn_7":{
@@ -11077,7 +11077,7 @@
 ]},
 "map51_ev9_p1_cargill_6":{
 "text": [
-"¿¿Ohhh~...?? ¿Eso es así?",
+"¿¿Ohhh~...?? ¿Enserio",
 "Bueno~, que puta pena.",
 "O más bien.... ¡Qué pena, puta!"
 ]},
@@ -11085,7 +11085,7 @@
 "text": [
 "¡¿Cómo.....?!",
 "¡¡Acabo de rescatarte y así es como me tratas......!!",
-"......¿Quién demonios es este viejo......?"
+"¿......Quién demonios es este viejo......?"
 ]},
 "map51_ev9_p1_cargill_7":{
 "text": [
@@ -11096,12 +11096,12 @@
 "text": [
 "¡¡Entonces eres mi subordinado!!",
 "De verdad, este lugar... Tanto Yasu como tú, ¡Los hombres aquí ",
-"no saben mostrar el debido respeto a su superior!"
+"no saben mostrar el debido respeto a sus superiores!"
 ]},
 "map51_ev9_p1_cargill_8":{
 "text": [
 "Más importante que eso, señorita Karryn, ¿Puede echarle un vistazo a esto?",
-"Aquí. ¿Qué crees que es esto?"
+"Mire. ¿Qué cree que es esto?"
 ]},
 "map51_ev9_p1_karryn_11":{
 "text": [
@@ -11114,24 +11114,24 @@
 ]},
 "map51_ev9_p1_karryn_13":{
 "text": [
-"¡T-Tú......!",
+"¡O-Oye......!",
 "Me acabas de pinchar con algo.........",
 "¡¿Qué me has inyectado...?!"
 ]},
 "map51_ev9_p1_cargill_9":{
 "text": [
 "¡Nnkah kah kah......!",
-"Muy fácil... Muy muy fácil.....",
-"Realmente eres solo una niña tonta, cayendo en algo así."
+"Qué fácil ha sido.....",
+"Si que eres tonta, cayendo en una trampa así."
 ]},
 "map51_ev9_p1_karryn_14":{
 "text": [
-"Nrgh...... Mi cuerpo... Se está calentando......... Aah aah......",
+"Nrgh...... Mi cuerpo... Se está calentando.........Aah aah......",
 "Sabía que era extraño que una persona mayor estuviera aquí sola......."
 ]},
 "map51_ev9_p1_cargill_10":{
 "text": [
-"Permítame presentarme formalmente, Directora Karryn.",
+"Permíteme presentarme formalmente, Directora Karryn.",
 "Mi nombre es Dr. Cargill..."
 ]},
 "map51_ev9_p1_cargill_11":{
@@ -11147,14 +11147,14 @@
 "map51_ev9_p1_cargill_12":{
 "text": [
 "Casi, pero no. Lo que pasa es",
-"que ambos tendríamos mucho que ganar trabajando juntos",
-"durante un tiempo, así que llámalo alianza temporal..."
+"que ambos tenemos mucho que ganar trabajando juntos",
+"un tiempo, así que llámalo alianza temporal..."
 ]},
 "map51_ev9_p1_cargill_13":{
 "text": [
 "Debo decir......",
 "Que eres tú quien necesita aprender a respetar a los demás.",
-"¿Cómo te atreves a hablar de respeto una persona mayor con esos modales?"
+"¿Cómo te atreves a hablar de respeto a una persona mayor con esos modales?"
 ]},
 "map51_ev9_p1_cargill_14":{
 "text": [
@@ -11174,9 +11174,9 @@
 ]},
 "map51_ev9_p1_cargill_15":{
 "text": [
-"Nnkah kah kah kah kah!!",
-"Esto si que es ridículo. ¡¡El mal dices......!!",
-"¡¡Es como si estuvieras diciendo que tú eres el símbolo de la justicia!!"
+"¡¡Nnkah kah kah kah kah!!",
+"Esto si que es ridículo. ¡¡El mal dice......!!",
+"¡¡Como si tu fueras el símbolo de la justicia!!"
 ]},
 "map51_ev9_p1_cargill_16":{
 "text": [
@@ -11185,8 +11185,8 @@
 ]},
 "map51_ev9_p1_karryn_17":{
 "text": [
-"Aah... Aah.........",
-"¿Tus ......metas......?"
+"Aah...Aah.........",
+"¿Tus......metas......?"
 ]},
 "map51_ev9_p1_cargill_17":{
 "text": [
@@ -11195,7 +11195,7 @@
 ]},
 "map51_ev9_p1_karryn_18":{
 "text": [
-"¡¿S-... Aah...... Sujeto ......de pruebas...?!"
+"¡¿S-...Aah......Sujeto......De pruebas...?!"
 ]},
 "map51_ev9_p1_cargill_18":{
 "text": [
@@ -11208,14 +11208,14 @@
 "Mi objetivo en la vida es la investigación médica......",
 "Y resulta que posees las variables ideales que estaba buscando",
 "en un espécimen. Eres el mejor sujeto de pruebas que podría desear...",
-"En otras palabras, la razón por la que te llamaron aquí fui yo",
+"En otras palabras, estás aquí gracias a mí",
 "Usé todos y cada uno de los medios que pude para traerte aquí.",
 "......Todo para lograr mis grandes planes."
 ]},
 "map51_ev9_p1_karryn_19":{
 "text": [
 "E-Entonces... Eso significa... Que desde que Yasu me contactó",
-"por primera vez...¿Ya estábamos bailando sobre la palma de tu mano...?"
+"por primera vez... ¿Ya estábamos bailando sobre la palma de tu mano...?"
 ]},
 "map51_ev9_p1_cargill_19":{
 "text": [
@@ -11228,7 +11228,7 @@
 "Aun así, no puedo creer que Yasu haya hecho todo lo que le pedí.",
 "¡No sabía que yo era tan capaz de manipular a otros.......!",
 "¡¡Gracias a mí, incluso ese pervertido e incompetente Carcelero,",
-"hizo algo bueno por el mundo!!",
+"ha hecho algo bueno por el mundo!!",
 "¡NKAHH KAHH KAHH!"
 ]},
 "map51_ev9_p1_karryn_20":{
@@ -11246,7 +11246,7 @@
 "¿Qué habría pasado si hubieses venido sola a la inspección?",
 "",
 "En esa situación, si Yasu te hubiera pedido que te convirtieras en la nueva Directora,",
-"¿Habrías sonreído mientras decías que si?",
+"¿Hubieses sonreído mientras decías que si?",
 "......Hmph, obviamente es una pregunta retórica. Por supuesto que no lo habrías hecho."
 ]},
 "map51_ev9_p1_karryn_21":{
@@ -11263,7 +11263,7 @@
 "text": [
 "En otras palabras......",
 "mi plan cuidadosamente elaborado tuvo en cuenta todo sobre ti,",
-"incluyendo tu personalidad y relaciones."
+"incluyendo tu personalidad y tus relaciones."
 ]},
 "map51_ev9_p1_karryn_22":{
 "text": [
@@ -11299,7 +11299,7 @@
 "text": [
 "Ahora ¡¡Adelante!! ¡Mis sujetos Slime!",
 "¡¡Es hora de que le mostréis al mundo el poder que os he dado!!",
-"¡Aquí y ahora, mostrad los resultados de nuestro experimento!"
+"¡Aquí y ahora, mostrad los resultados de nuestros experimentos!"
 ]},
 "map51_ev9_p1_karryn_23":{
 "text": [
@@ -11337,7 +11337,7 @@
 "text": [
 "Niña estúpida... ¡¡Como si una aficionada como tú fuera remótamente capaz de",
 "comprender la profundidad y el significado de mi investigación...!!",
-"¡Tengo un sueño! Un sueño acerca de aquello más allá de lo alcanzable...!!"
+"¡Tengo un sueño! ¡¡Un sueño acerca de algo inalcanzable...!!"
 ]},
 "map51_ev9_p1_karryn_25":{
 "text": [
@@ -11361,7 +11361,7 @@
 "text": [
 "(Ya no tiene sentido intentar hablar con esta persona...",
 "Así que después del cerdo estúpido, me toca un viejo verde...",
-"¡¡¿Hay alguien remotamente normal dentro de esta prisión?!!)"
+"¡¡¿Hay alguien remótamente normal dentro de esta prisión?!!)"
 ]},
 "map51_ev9_p1_cargill_32":{
 "text": [
@@ -11435,8 +11435,8 @@
 
 "map51_ev12_p3_karryn_1":{
 "text": [
-"Toda la baba de slime desapareció del suelo......",
-"¡¡Ha perdido este combate, Dr. Cargill!!",
+"Toda la baba de slime ha desaparecido del suelo......",
+"¡¡Has perdido este combate, Dr. Cargill!!",
 "¡Sé que todavía estás aquí, así que muéstrate ahora mismo!"
 ]},
 "map51_ev12_p3_karryn_2":{
@@ -11466,10 +11466,10 @@
 "de ver que el experimento de fusión de slimes terminó siendo un éxito.",
 "",
 "Esa baba pegajosa del suelo a la que te acabas de referir,",
-"era en realidad de mis intentos fallidos.",
+"eran mis intentos fallidos.",
 "",
 "De hecho, estaba bastante preocupado por cómo podría quitarlo del suelo,",
-"pero todo salió bien al final, mmmhmm......"
+"pero todo ha salido bien al final, mmmhmm......"
 ]},
 "map51_ev12_p3_cargill_4":{
 "text": [
@@ -11501,7 +11501,7 @@
 ]},
 "map51_ev12_p3_cargill_7":{
 "text": [
-"¡¡Baila para mi!!"
+"¡¡Baila para mí!!"
 ]},
 "map51_ev12_p3_karryn_6":{
 "text": [
@@ -11539,7 +11539,7 @@
 "text": [
 "¡¿Oink?!",
 "N-no estoy seguro de lo que está pasando,",
-"pero déjamelo a mi!!"
+"pero déjamelo a mí!!"
 ]},
 "map51_ev12_p3_tonkin_3":{
 "text": [
@@ -11586,7 +11586,7 @@
 "map51_ev12_p3_tonkin_6":{
 "text": [
 "¡¿Oink?!",
-"De verdad...",
+"¿De verdad...?",
 "¡¡Ya no puede retirar esas palabras, Señorita Karryn......!!"
 ]},
 "map51_ev12_p3_karryn_10":{
@@ -11599,7 +11599,7 @@
 "text": [
 "¡Oiinnkkk~! ¡En ese caso!",
 "¿Puedo obtener algún tipo de recompensa?",
-"¡¡Así puedo estar aún más motivado para seguir ayudándole!!"
+"¡¡Así estaría aún más motivado para seguir ayudándola!!"
 ]},
 "map51_ev12_p3_karryn_11":{
 "text": [
@@ -11657,13 +11657,13 @@
 "map51_ev12_p3_cargill_16":{
 "text": [
 "¿Este orco está hablando en serio...?",
-"Hay muchas cosas que discutir de esto, pero lo importante es",
-"¡¡Que has sido tú quien me ató en primer lugar......!!"
+"No sé ni por donde empezar contigo, pero lo importante es",
+"¡¡Que has sido TÚ quien me ha atado en primer lugar......!!"
 ]},
 "map51_ev12_p3_cargill_17":{
 "text": [
 "S-Sin embargo... ¡No puedo dejar que las emociones se interpongan!",
-"Necesito su ayuda para salir de esta.",
+"Necesito tu ayuda para salir de esta.",
 "¡¡Tonkin, date prisa y ve a hablar con ella!!"
 ]},
 "map51_ev12_p3_karryn_13":{
@@ -11699,9 +11699,9 @@
 ]},
 "map51_ev12_p3_cargill_19":{
 "text": [
-"¡Mhmm, lo que dice Tonkin es correcto! ¿Por favor? ¡¡Karryn!!",
-"¡Me equivoqué al manipular al Emperador y a Yasu para que te convirtieran en la Directora!",
-"Mírame......! ¡¡Mira cuánto lo siento!! ¡He aprendido mi lección!",
+"¡Mhmm, lo que dice Tonkin es verdad! ¡¡Karryn!! ¿Por favor?",
+"¡Hice mal al manipular al Emperador y a Yasu para que fueses la Directora!",
+"¡Mírame......! ¡¡Mira cuánto lo siento!! ¡He aprendido mi lección!",
 "¡¡A-Además!! ¡¿No estás interesada?!",
 "¡¿No quieres que te de información sobre el Capitán?!"
 ]},
@@ -11723,7 +11723,7 @@
 "map51_ev12_p3_yasu_1":{
 "text": [
 "¡Aquí el Subdirector Yasu! Buen trabajo, Directora Karryn.",
-"Las babas de Slime estaba interfiriendo con las señales,",
+"Las babas de Slime estaban interfiriendo con las señales,",
 "¡Pero ya puedo contactarte!",
 "Lo siento, pero ¿Puede informarme sobre la situación actual?",
 "Cambio."
@@ -11749,7 +11749,7 @@
 ]},
 "map51_ev12_p3_yasu_4":{
 "text": [
-"......Eso sería un problema......",
+"......Hay un problema......",
 "Si bien es cierto que es alguien que tiene sus taras......",
 "es un médico excelente.",
 "¿Sería posible exigirle que se centre su trabajo como médico",
@@ -11775,13 +11775,13 @@
 "map51_ev12_p3_karryn_21":{
 "text": [
 "¿Recuerdas cómo no sólo yo,",
-"pero Su Majestad Imperial también fue convocada para venir aquí a la inspección?",
-"Todo eso era parte del plan de Cargill para convertirme en Directora. cambio."
+"sino Su Majestad Imperial también fue convocada para venir aquí a la inspección?",
+"Todo eso era parte del plan de Cargill para convertirme en Directora. Cambio."
 ]},
 "map51_ev12_p3_yasu_6":{
 "text": [
 "......Ohhh...... Ya veo......",
-"Pero si me permite la interrupción, Directora Karryn...",
+"Pero si me permite un comentario, Directora Karryn...",
 "¿No ha salido todo bien al final...?",
 "Si Su Majestad Imperial no la hubiera alentado",
 "Lo más probable es que usted no se hubiese convertido en",
@@ -11801,14 +11801,14 @@
 ]},
 "map51_ev12_p3_karryn_23":{
 "text": [
-"Pensándolo mejor, es como dices, pero......"
+"Pensándolo bien, es como dices, pero......"
 ]},
 "map51_ev12_p3_yasu_8":{
 "text": [
 "Además, en lo que respecta a los problemas del Nivel 2,",
 "Estoy perfectamente de acuerdo con dejarlo ir con una severa advertencia.",
 "",
-"... ¿Podría por favor reconsiderar su decisión,",
+"¿...Podría por favor reconsiderar su decisión,",
 "y dejarlo volver a la Enfermería? Cambio."
 ]},
 "map51_ev12_p3_cargill_20":{
@@ -11829,7 +11829,7 @@
 "Podría hacer que toda la prisión se amotine por los ataques",
 "bioterroristas diarios que haría en los baños.........",
 "Señorita Karryn......",
-"¡¿De verdad quieres ser la razón de que eso suceda...?!"
+"¡¿De verdad quieres ser la culpable de que eso suceda...?!"
 ]},
 "map51_ev12_p3_karryn_25":{
 "text": [
@@ -11964,7 +11964,7 @@
 "map52_ev13_p1_1":{
 "text": [
 "Lo estoy intentando......",
-"Pero no hay suficientes trapos sucios que sacar ..."
+"Pero no hay suficientes trapos sucios que sacar..."
 ]},
 "map52_ev13_tachiename_2":{
 "text": ["Friki Hacker"]},
@@ -12317,7 +12317,7 @@
 "Mmmh......",
 "Últimamente, ese nuevo club de striptease en el Nivel 3 ",
 "es de lo único de lo que hablan mis compañeros...",
-"Estaría mintiendo si digo que no me da curiosidad ......",
+"Estaría mintiendo si digo que no me da curiosidad......",
 "Pero... Todavía tengo muchos juegos pendientes...",
 "Uurggh......"
 ]},
@@ -12339,7 +12339,7 @@
 "text": ["Pícaro Guay"]},
 "map54_ev10_p1_1":{
 "text": [
-"Te conozco ...... Eres la Secretaria Imperial...",
+"Te conozco...... Eres la Secretaria Imperial...",
 "¿Qué quieres de mí? ¿Te preocupa que esté tratando de ",
 "escapar de aquí? Hmph... No pierdas tu tiempo con eso...",
 "Para mí, dejar este lugar es como quitarle un caramelo a un niño...",
@@ -12348,7 +12348,7 @@
 ]},
 "map54_ev10_p2_1":{
 "text": [
-"Te conozco ...... Eres la Secretaria Imperial...",
+"Te conozco...... Eres la Secretaria Imperial...",
 "¿Estás declarando que transformarás esta prisión en un paraíso",
 "mejor? Jujuju...... Qué giro de los acontecimientos.",
 "Parece que el Fuerte Ganon no solo convierte a sus",
@@ -14051,7 +14051,7 @@
 ]},
 "map74_ev3_p1_2":{
 "text": [
-"¿¡¡¿¿Eh??!!? ......¡Ah ya entiendo! ¡Hoy no estás de humor!",
+"¿¡¡¿¿Eh......??!!? ¡Ah ya entiendo! ¡Hoy no estás de humor!",
 "Como se esperaba de una profesional, ¡sabes cuándo bailar y cuándo no~~~!",
 "¡¡No hay problema, vuelve a mí cuando estés al cien por cien!!"
 ]},
