@@ -241,7 +241,7 @@
 "text":["\\C[27]Ganas más Deseo: Coño cada vez que se pellizca el clítoris en la misma batalla."]
 },
 "peffect_pussydesiregainrate_cunni_people_day":{
-"text":["\\C[27]Ganas más Deseo: Coño por cada persona que haga un cunnilingus a Karryn en ese mismo día."]
+"text":["\\C[27]Ganas más Deseo: Coño por cada persona que haga un Cunnilingus a Karryn en ese mismo día."]
 },
 "peffect_pussydesiregainrate_sightpussy_people_battle":{
 "text":["\\C[27]Ganas más Deseo: Coño por cada persona mira fijamente la entrepierna de Karryn en la misma batalla."]
@@ -709,26 +709,26 @@
 },
 
 "peffect_pussycreampiesensitivity":{
-"text":["\\C[1]La Sensibilidad a las Corridas Internas ha aumentado."]
+"text":["\\C[1]La Sensibilidad a las Corridas Vaginales ha aumentado."]
 },
 "peffect_pussycreampiesensitivity_talkpussy_day":{
-"text":["\\C[27]La Sensibilidad a las Corridas Internas aumenta por cada persona que hable de forma humillante sobre el coño de Karryn en ese mismo día."]
+"text":["\\C[27]La Sensibilidad a las Corridas Vaginales aumenta por cada persona que hable de forma humillante sobre el coño de Karryn en ese mismo día."]
 },
 "peffect_pussycreampiesensitivity_psex_count_day":{
-"text":["\\C[27]La Sensibilidad a las Corridas Internas aumenta cada vez que el coño es follado en ese mismo día."]
+"text":["\\C[27]La Sensibilidad a las Corridas Vaginales aumenta cada vez que el coño es follado en ese mismo día."]
 },
 "peffect_pussycreampiesensitivity_pussycreampie_battle":{
-"text":["\\C[27]La Sensibilidad a las Corridas Internas aumenta con cada gota de semen eyaculada dentro en esa misma batalla."]
+"text":["\\C[27]La Sensibilidad a las Corridas Vaginales aumenta con cada gota de semen eyaculada dentro en esa misma batalla."]
 },
 "peffect_pussycreampiesensitivity_pussycreampie_day":{
-"text":["\\C[27]La Sensibilidad a las Corridas Internas aumenta con cada gota de semen eyaculada dentro en ese mismo día."]
+"text":["\\C[27]La Sensibilidad a las Corridas Vaginales aumenta con cada gota de semen eyaculada dentro en ese mismo día."]
 },
 
 "peffect_clitpussycreampiesensitivity":{
-"text":["\\C[1]La Sensibilidad de la Vagina, del Clítoris y a las Corridas Internas ha aumentado."]
+"text":["\\C[1]La Sensibilidad de la Vagina, del Clítoris y a las Corridas Vaginales ha aumentado."]
 },
 "peffect_clitpussycreampiesensitivity_pussydesire":{
-"text":["\\C[27]La Sensibilidad de la Vagina, del Clítoris y a las Corridas Internas aumenta en base al Deseo: Coño."]
+"text":["\\C[27]La Sensibilidad de la Vagina, del Clítoris y a las Corridas Vaginales aumenta en base al Deseo: Coño."]
 },
 
 "peffect_buttsensitivity":{
@@ -798,7 +798,7 @@
 "text":["\\C[1]La Sensibilidad Anal y de la Vagina aumenta mientras se es follada por detrás."]
 },
 "peffect_pussyandanalcreampiesensitivity_doggy":{
-"text":["\\C[1]La Sensibilidad a las Corridas internas y Anales aumenta mientras se es follada por detrás."]
+"text":["\\C[1]La Sensibilidad a las Corridas Vaginales y Anales aumenta mientras se es follada por detrás."]
 },
 
 "peffect_handsensitivity":{
@@ -1700,7 +1700,7 @@
 "text":["\\C[27]La Precisión ha disminuido."]
 },
 "peffect_acc_down_cunni_count_battle":{
-"text":["\\C[27]La Precisión disminuye por cada persona que haga un cunnilingus en esa misma batalla."]
+"text":["\\C[27]La Precisión disminuye por cada persona que haga un Cunnilingus en esa misma batalla."]
 },
 "peffect_acc_down_nerd":{
 "text":["\\C[27]La Precisión disminuye mientras haya un nerd presente."]
@@ -1788,7 +1788,7 @@
 "text":["\\C[1]El Placer Inicial de los Vírgenes ha aumentado."]
 },
 "peffect_charmreq_virgin":{
-"text":["\\C[1]El Requerimiento de Atractivo de los vírgenes ha aumentado."]
+"text":["\\C[1]El Requisito de Atractivo de los vírgenes ha aumentado."]
 },
 
 "peffect_attackchance_down":{
@@ -2210,10 +2210,10 @@
 "text":["\\C[10]\\I[411]Ingresos del Taller "]
 },
 "effect_storeincome_exact_plus":{
-"text":["\\C[11]\\I[410]Ingreso de la Tienda "]
+"text":["\\C[11]\\I[410]Ingresos de la Tienda "]
 },
 "effect_storeincome_exact_minus":{
-"text":["\\C[10]\\I[411]Ingreso de la Tienda "]
+"text":["\\C[10]\\I[411]Ingresos de la Tienda "]
 },
 
 "effect_expense_exact_plus":{
@@ -2307,7 +2307,7 @@
 "text":["\\C[11]\\I[420]Probabilidad de Invasión en la Oficina"]
 },
 "effect_guardstation_invasionchance_minus":{
-"text":["\\C[11]\\I[420]Probabilidad de Invasión en la Estación de Guardia"]
+"text":["\\C[11]\\I[420]Probabilidad de Invasión en un Puesto de Guardia"]
 },
 "effect_visitorcenter_invasionchance_plus":{
 "text":["\\C[10]\\I[487]Probabilidad de Invasión de Goblins en el Centro de Visitantes"]
@@ -2597,10 +2597,10 @@
 },
 
 "effect_classeffectsdoubled":{
-"text":["\\C[11]\\I[245]Los efectos de los Decretos de las clases y las aulas se duplican."]
+"text":["\\C[11]\\I[245]Efectos de los Decretos de las clases y las aulas duplicados."]
 },
 "effect_gymeffectsdoubled":{
-"text":["\\C[11]\\I[364]Los efectos de los Decretos sobre Políticas del Gimnasio se duplican."]
+"text":["\\C[11]\\I[364]Efectos de los Decretos sobre Políticas del Gimnasio duplicados."]
 },
 
 "effect_nerd_blackmail":{
@@ -2668,13 +2668,13 @@
 "text":["\\C[11]\\I[212]Las habilidades de Camarera y Bartender tardan 2 segundos menos"]
 },
 "effect_waitress_mugsglasses_plus":{
-"text":["\\C[11]\\I[164]Jarras y Vasos disponibles durante el trabajo de Camarera."]
+"text":["\\C[11]\\I[164]Jarras y Vasos disponibles durante el trabajo de Camarera "]
 },
 "effect_waitress_barinsurance":{
-"text":["\\C[11]\\I[165]Daño que el Bar sufre por las peleas durante el trabajo de Camarera."]
+"text":["\\C[11]\\I[165]Daño del Bar por peleas durante el trabajo de Camarera "]
 },
 "effect_waitress_unlock":{
-"text":["\\C[31]\\I[173]Desbloquea el trabajo de Camarera en el Bar."]
+"text":["\\C[31]\\I[173]Desbloquea el trabajo de Camarera en el Bar "]
 },
 
 "effect_receptionist_unlock":{
@@ -2826,20 +2826,20 @@
 },
 
 "effect_staffeff_explain":{
-"text":["\\C[31]\\I[496]50% de la Eficiencia del Personal cuando el Cuarto de Personal no funcione"]
+"text":["\\C[31]\\I[496]50% de la Eficiencia del Personal cuando la Sala del Personal no funcione "]
 },
 "effect_staffeff_plus":{
-"text":["\\C[11]\\I[496]Eficiencia del Personal cuando el Cuarto de Personal no funcione"]
+"text":["\\C[11]\\I[496]Eficiencia del Personal cuando la Sala del Personal no funcione "]
 },
 "effect_staffeff_minus":{
-"text":["\\C[10]\\I[497]Eficiencia del Personal cuando el Cuarto de Personal no funcione"]
+"text":["\\C[10]\\I[497]Eficiencia del Personal cuando la Sala del Personal no funcione "]
 },
 
 "effect_fatiguerecovery_plus":{
-"text":["\\C[11]\\I[388]Recuperación de Fatiga"]
+"text":["\\C[11]\\I[388]Recuperación de Fatiga "]
 },
 "effect_fatiguerecovery_minus":{
-"text":["\\C[10]\\I[389]Recuperación de Fatiga"]
+"text":["\\C[10]\\I[389]Recuperación de Fatiga "]
 },
 "effect_office_fatiguerecovery_plus":{
 "text":["\\C[11]\\I[388]Rec. de Fatiga en la Oficina "]
@@ -2869,37 +2869,37 @@
 "text":["\\C[11]\\I[418]Ganancia de Fatiga "]
 },
 "effect_warden_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[462]Durabilidad del Uniforme de Directora"]
+"text":["\\C[11]\\I[462]Durabilidad del Uniforme de Directora "]
 },
 "effect_waitress_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[173]Durabilidad del Uniforme de Camarera"]
+"text":["\\C[11]\\I[173]Durabilidad del Uniforme de Camarera "]
 },
 "effect_receptionist_outfitdura_exact_plus":{
-"text":["\\C[11]\\I[128]Durabilidad del Uniforme de Recepcionista"]
+"text":["\\C[11]\\I[128]Durabilidad del Uniforme de Recepcionista "]
 },
 "effect_edictpoints_daily_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto todos los días"]
+"text":["\\C[11]\\I[364]Punto de Decreto todos los días "]
 },
 "effect_edictpoints_daily_minus":{
-"text":["\\C[10]\\I[365]Punto de Decreto todos los días"]
+"text":["\\C[10]\\I[365]Punto de Decreto todos los días "]
 },
 "effect_edictpoints_even_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto en días pares"]
+"text":["\\C[11]\\I[364]Punto de Decreto en días pares "]
 },
 "effect_edictpoints_even_minus":{
-"text":["\\C[10]\\I[365]Punto de Decreto en días pares"]
+"text":["\\C[10]\\I[365]Punto de Decreto en días pares "]
 },
 "effect_edictpoints_odd_plus":{
-"text":["\\C[11]\\I[364]Punto de Decreto en días impares"]
+"text":["\\C[11]\\I[364]Punto de Decreto en días impares "]
 },
 "effect_edictpoints_odd_minus":{
-"text":["\\C[10]\\I[365]Punto de Decreto en días impares"]
+"text":["\\C[10]\\I[365]Punto de Decreto en días impares "]
 },
 "effect_edictpoints_carryover":{
 "text":["\\C[11]\\I[364]Punto de Decreto que pasa al día siguiente cuando no se usa "]
 },
 "effect_edictpoints_gold":{
-"text":["\\C[11]\\I[410]Exceso de puntos de decreto no utilizados se convierte en 100 de oro al final del día"]
+"text":["\\C[11]\\I[410]Exceso de PDs no utilizados se convierten en 100 de oro al final del día"]
 },
 
 "effect_all_edictcost_exact_plus":{
@@ -3225,10 +3225,10 @@
 "text":["\\C[11]\\I[474]Control de Daño contra Enemigos "]
 },
 "effect_wardenlvlimit_exact_plus":{
-"text":["\\C[11]\\I[352]Nivel máximo de Guardiana "]
+"text":["\\C[11]\\I[352]Nivel máximo de Directora "]
 },
 "effect_wardenlvlimit_exact_minus":{
-"text":["\\C[10]\\I[353]Nivel máximo de Guardiana "]
+"text":["\\C[10]\\I[353]Nivel máximo de Directora "]
 },
 
 "effect_atkskillcost_exact_plus":{
@@ -3340,10 +3340,10 @@
 "text":["\\C[10]\\I[447]Res. a Perder Ropa "]
 },
 "effect_pettingresist_exact_plus":{
-"text":["\\C[11]\\I[444]Res. al Manoseo "]
+"text":["\\C[11]\\I[444]Res. a las Caricias "]
 },
 "effect_pettingresist_exact_minus":{
-"text":["\\C[10]\\I[445]Res. al Manoseo "]
+"text":["\\C[10]\\I[445]Res. a las Caricias "]
 },
 "effect_sexresist_exact_plus":{
 "text":["\\C[11]\\I[440]Res. al Sexo "]
@@ -3404,7 +3404,7 @@
 "text":["\\C[11]\\I[314]Se puede usar Cortabrazos estando desarmada"]
 },
 "effect_cleave_offbalance":{
-"text":["\\C[11]\\I[312]Filo inflige Desequilibrio a todos los enemigos golpeados"]
+"text":["\\C[11]\\I[312]Filo hace perder el equilibrio a todos los enemigos golpeados"]
 },
 "effect_cleave_cooldown_minus":{
 "text":["\\C[11]\\I[312]Reduce el tiempo de enfriamiento de Filo en 1 turno"]
@@ -3577,10 +3577,10 @@
 },
 
 "effect_visitorcenter_highrep_minorbonus":{
-"text":["\\C[11]\\I[213]Tener Reputación alta en el Centro de Visitantes da una bonificación menor de Control"]
+"text":["\\C[11]\\I[213]Una alta Reputación en el Centro de Vis. da un poco de Control"]
 },
 "effect_visitorcenter_highrep_majorbonus":{
-"text":["\\C[11]\\I[213]Tener Reputación alta en el Centro de Visitantes da una bonificación mayor de Control"]
+"text":["\\C[11]\\I[213]Una alta Reputación en el Centro de Vis. da más Control"]
 },
 
 "skill_1_msg1":{
@@ -3700,7 +3700,7 @@
 },
 "skill_60_desc":{
 "text":[
-"Ataca a un objetivo con daño Perforante",
+"Ataca a un objetivo con daño Perforante.",
 "\\}\\}\\C[9]➤\\C[0] Inflige Ralentización al golpear.",
 "\\C[13]➤\\C[0] La Ralentización es una desventaja que disminuye la Agilidad."
 ]},
@@ -3735,7 +3735,7 @@
 "skill_63_desc":{
 "text":[
 "Ataca a un objetivo con daño Contundente.",
-"\\}\\}\\C[9]➤\\C[0] Hace un daño masivo."
+"\\}\\}\\C[9]➤\\C[0] Hace un daño inmenso."
 ]},
 "skill_63_msg1":{
 "text":["¡%1 atiza con su alabarda!"]
@@ -3812,7 +3812,7 @@
 "skill_75_desc":{
 "text":[
 "Adoptas una postura defensiva.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Defensa, el Control de Daño y la Resistencia a Perder Ropa durante 1 turno.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta mucho la Defensa, el Ctrl. de Daño y la Res. a Perder Ropa 1 turno.",
 "\\C[9]➤\\C[0] Protege contra varias desventajas durante 1 turno."
 ]},
 "skill_75_msg1":{
@@ -3824,7 +3824,7 @@
 "skill_76_desc":{
 "text":[
 "Adoptas una postura de contraataque.",
-"\\}\\}\\C[9]➤\\C[0] Aumenta considerablemente la Probabilidad de Contraataque y el Máximo de Contraataques durante 1 turno.",
+"\\}\\}\\C[9]➤\\C[0] Aumenta mucho la Prob. de Contraataque y el Máx. de Contraataques 1 turno.",
 "\\C[9]➤\\C[0] Aumenta ligeramente el Control de Daño durante 1 turno."
 ]},
 "skill_76_msg1":{
@@ -3922,14 +3922,16 @@
 },
 "skill_87_desc":{
 "text": [
-"Aumenta la Resistencia a las Miradas durante 1 turno."
+"Aumenta la Resistencia a las Miradas",
+"durante 1 turno."
 ]},
 "skill_88_name":{
 "text":["No Escuchar el Mal"]
 },
 "skill_88_desc":{
 "text": [
-"Aumenta la Resistencia a los Comentarios durante 1 turno."
+"Aumenta la Resistencia a los Comentarios",
+"durante 1 turno."
 ]},
 "skill_89_name":{
 "text":["No Decir el Mal"]
@@ -4011,7 +4013,8 @@
 },
 "skill_100_desc":{
 "text": [
-"\\}Aumenta la Precisión, la Evasión y la Probabilidad de Crítico durante 1 turno."
+"\\}Aumenta la Precisión, la Evasión y",
+"la Probabilidad de Crítico durante 1 turno."
 ]},
 "skill_101_name":{
 "text":["Ki"]
@@ -4033,7 +4036,7 @@
 },
 "skill_103_desc":{
 "text": [
-"Aumenta el Placer necesario para eyacular durante 1 turno.",
+"Aumenta el Placer necesario para eyacular 1 turno.",
 "\\}\\}\\C[13]➤\\C[0] Solo funciona en el objetivo de una habilidad sexual."
 ]},
 "skill_104_name":{
@@ -4041,7 +4044,8 @@
 },
 "skill_104_desc":{
 "text": [
-"\\}Aumenta el Placer necesario para tener un orgasmo durante 1 turno."
+"\\}Aumenta el Placer necesario para tener un orgasmo",
+"durante 1 turno."
 ]},
 "skill_105_name":{
 "text":["Restaurar la Mente"]
@@ -4055,7 +4059,7 @@
 },
 "skill_106_desc":{
 "text": [
-"\\}\\}Restaura los requerimientos originales de Deseo: Polla para",
+"\\}\\}Restaura los requisitos originales de Deseo: Polla para",
 "Bukkakes y Corrida Faciales",
 "\\C[9]➤\\C[0] La Voluntad Maxima también aumenta en 10."
 ]},
@@ -4064,7 +4068,7 @@
 },
 "skill_107_desc":{
 "text": [
-"\\}\\}Aumenta los requerimientos de Deseo: Polla según el nivel de sadismo para",
+"\\}\\}Aumenta los requisitos de Deseo: Polla según el nivel de sadismo para",
 "Bukkakes y Corridas Faciales",
 "\\C[9]➤\\C[0] La Voluntad máxima se reduce en 10 mientras este efecto está activo."
 ]},
@@ -4073,7 +4077,7 @@
 },
 "skill_108_desc":{
 "text": [
-"\\}\\}Restaura los requerimientos originales de Deseo: Polla para",
+"\\}\\}Restaura los requisitos originales de Deseo: Polla para",
 "Tragar semen y corridas internas vaginales y anales",
 "\\C[9]➤\\C[0] La Voluntad Máxima también aumenta en 10."
 ]},
@@ -4082,7 +4086,7 @@
 },
 "skill_109_desc":{
 "text": [
-"\\}\\}Aumenta los requerimientos de Deseo: Polla según el nivel de sadismo para",
+"\\}\\}Aumenta los requisitos de Deseo: Polla según el nivel de sadismo para",
 "Tragar semen y corridas internas vaginales y anales",
 "\\C[9]➤\\C[0] La Voluntad Máxima se reduce en 10 mientras este efecto está activo."
 ]},
@@ -4126,7 +4130,7 @@
 },
 "skill_118_desc":{
 "text": [
-"¿De verdad todos los hombres están así de interesados en mi culo..?",
+"¿De verdad todos los hombres están así de interesados en mi culo...?",
 "\\REM_EFF[skill_118_effect]"
 ]},
 "skill_119_name":{
@@ -4182,7 +4186,7 @@
 },
 "skill_125_desc":{
 "text": [
-"Uuu... No es justo que sea tan erótico cuando se les pone tan grande y palpita... Sin olvidar el líquido que les gotea...",
+"Uuuh... No es justo que sea tan erótico cuando se les pone tan grande y palpita... Sin olvidar el líquido que les gotea...",
 "\\REM_EFF[skill_125_effect]"
 ]},
 "skill_126_name":{
@@ -4206,7 +4210,7 @@
 },
 "skill_128_desc":{
 "text": [
-"Uuu...... Mis tetas quieren más, necesitan más, algo más grande y más duro......♥",
+"Uuuh...... Mis tetas quieren más, necesitan más, algo más grande y más duro......♥",
 "\\REM_EFF[skill_128_effect]"
 ]},
 "skill_129_name":{
@@ -4238,7 +4242,7 @@
 },
 "skill_132_desc":{
 "text": [
-"Uuu......♥ Todo mi cuerpo está pidiendo más...♥ Necesito algo, cualquier cosa... Todo......♥",
+"Uuuh......♥ Todo mi cuerpo está pidiendo más...♥ Necesito algo, cualquier cosa... Todo......♥",
 "\\REM_EFF[skill_132_effect]"
 ]},
 "skill_133_name":{
@@ -4511,7 +4515,7 @@
 },
 "skill_166_desc":{
 "text":[
-"¡¿Q-Qué?! ¡¿Así que esta es la eyaculación masculina?! Salen fluidos blancos a chorros del pene...",
+"¡¿Q-Qué?! ¡¿Así que esta es la eyaculación masculina?! Salen fluidos blancos a chorros...",
 "\\REM_EFF[skill_166_effect]"
 ]},
 "skill_167_name":{
@@ -4527,7 +4531,7 @@
 },
 "skill_168_desc":{
 "text":[
-"Estoy cubierta por un velo de leche.♥ Mira, soy como la novia en una boda.♥ Me encantan las duchas de semen.♥",
+"Estoy cubierta por un velo de leche.♥ Mira, soy como la novia en una boda.♥ Me encantan los bukkakes.♥",
 "\\REM_EFF[skill_168_effect]"
 ]},
 "skill_169_name":{
@@ -4567,7 +4571,7 @@
 },
 "skill_173_desc":{
 "text":[
-"\\}Por favor, por favor♥♥ Bendíce mi cuerpo con el sagrado esperma de todos♥♥ Ooh, esto se siente tan BIEEEN♥♥ Me estoy corriendo♥ Me estoy corriendo otra vez~~♥♥\\{",
+"\\}Por favor, por favor♥♥ Bendice mi cuerpo con el sagrado esperma de todos♥♥ Ooh, esto se siente tan BIEEEN♥♥ Me estoy corriendo♥ Me estoy corriendo otra vez~~♥♥\\{",
 "\\REM_EFF[skill_173_effect]"
 ]},
 "skill_174_name":{
@@ -4663,7 +4667,7 @@
 },
 "skill_185_desc":{
 "text":[
-"Ya puedo sentir tu líquido preseminal goteando♥ Ufufu... Qué adorable♥ No te corras todavía... Primero necesito divertirme más contigo ...♥",
+"Puedo sentir tu líquido preseminal goteando♥ Ufufu... Qué adorable♥ No te corras todavía... Necesito divertirme más contigo...♥",
 "\\REM_EFF[skill_185_effect]"
 ]},
 "skill_186_name":{
@@ -4671,7 +4675,7 @@
 },
 "skill_186_desc":{
 "text":[
-"Esto es una pesadilla, ¿cómo he podido tener mi primer orgasmo en un lugar tan sucio y sin un ambiente romántico? Y para colmo estando de servicio......",
+"Esto es una pesadilla, ¿mi primer orgasmo en un lugar tan sucio y nada romántico? Y para colmo estando de servicio...",
 "\\REM_EFF[skill_186_effect]"
 ]},
 "skill_187_name":{
@@ -4687,7 +4691,7 @@
 },
 "skill_188_desc":{
 "text":[
-"Me-me-me corrí tres veces seguidas...♥ Creo que el placer está volviendo locos todos mis sentidos, si es que no están ya destrozados...♥",
+"M-me corrí tres veces seguidas...♥ El placer está volviendo locos todos mis sentidos, si es que no están ya destrozados...♥",
 "\\REM_EFF[skill_188_effect]"
 ]},
 "skill_189_name":{
@@ -4787,7 +4791,7 @@
 "\\REM_EFF[skill_200_effect]"
 ]},
 "skill_201_name":{
-"text":["Sensación de Tetas"]
+"text":["Sensación en las Tetas"]
 },
 "skill_201_desc":{
 "text":[
@@ -4955,7 +4959,7 @@
 "\\REM_EFF[skill_221_effect]"
 ]},
 "skill_222_name":{
-"text":["Zona Erógena blanda y dura"]
+"text":["Zona Erógena Blanda y Dura"]
 },
 "skill_222_desc":{
 "text":[
@@ -5563,7 +5567,7 @@
 "\\REM_EFF[skill_297_effect]"
 ]},
 "skill_298_name":{
-"text":["Placer Por Corridas Internas en el Ano"]
+"text":["Placer Por Corridas en el Ano"]
 },
 "skill_298_desc":{
 "text":[
@@ -6221,7 +6225,7 @@
 "text":[
 "\\}Se ha dado el primer paso hacia la restauración de la prisión.",
 "\\}Ahora podemos empezar a restaurar algunas de las funciones necesarias para mantener la prisión.",
-"\\}\\REM_EFF[skill_372_effect]"
+"\\}\\}\\REM_EFF[skill_372_effect]"
 ]},
 "skill_373_name":{
 "text":["Nivel 2 Subyugado"]
@@ -6230,7 +6234,7 @@
 "text":[
 "\\}Con el orden restablecido en el Nivel 2, ya tenemos las últimas piezas para que la prisión sea autosuficiente.",
 "\\}¡Ha llegado el momento de escribir un nuevo capítulo en la historia  del Fuerte Ganon!",
-"\\}\\REM_EFF[skill_373_effect]"
+"\\}\\}\\REM_EFF[skill_373_effect]"
 ]},
 "skill_374_name":{
 "text":["Nivel 3 Subyugado"]
@@ -7169,7 +7173,7 @@
 "skill_507_desc":{
 "text":[
 "Tener solo cerveza rubia y agua es un poco triste para un bar.",
-"¡Firmemos un contrato de envíos para añadir vodka y ron al menú!",
+"¡Vamos a pedir vodka y ron para añadir al menú!",
 "\\REM_EFF[skill_507_effect]"
 ]},
 "skill_508_name":{
@@ -7177,8 +7181,8 @@
 },
 "skill_508_desc":{
 "text":[
-"Consigamos whisky para el bar, es el favorito de algunos bebedores.",
-"Y al mismo tiempo, deberíamos añadir otra marca de cerveza para los reclusos con menos dinero.",
+"Consigamos whisky para el bar, es el favorito de algunos clientes.",
+"También deberíamos añadir otra marca de cerveza para los reclusos con menos dinero.",
 "\\REM_EFF[skill_508_effect]"
 ]},
 "skill_509_name":{
@@ -7195,8 +7199,8 @@
 },
 "skill_510_desc":{
 "text":[
-"Todos los bares necesitan personal para funcionar correctamente.",
-"Deberíamos contratar a algunos camareros para ayudar a gestionar y mantener el orden dentro del bar.",
+"Todos los bares necesitan personal para funcionar correctamente. Deberíamos contratar",
+"a algunos camareros para ayudar a gestionar y mantener el orden dentro del bar.",
 "\\}\\REM_EFF[skill_510_effect]"
 ]},
 "skill_511_name":{
@@ -7241,7 +7245,7 @@
 "skill_515_desc":{
 "text":[
 "¡¿Aún no hay suficientes jarras y vasos para el bar?!",
-"Qué pasa ahí en el bar que todavía no tienéis suficiente...",
+"Qué pasa ahí en el bar que todavía no tenéis suficiente...",
 "\\REM_EFF[skill_515_effect]"
 ]},
 "skill_516_name":{
@@ -7276,8 +7280,8 @@
 },
 "skill_519_desc":{
 "text":[
-"No esperaba que el nuevo uniforme de camarera fuera tan endeble.",
-"Podemos pagar a un sastre para que lo arregle un poco y lo haga más resistente a las manos pervertidas.",
+"No esperaba que el nuevo uniforme de camarera fuera tan endeble. Podemos pagar a",
+"un sastre para que lo arregle un poco y lo haga más resistente a las manos pervertidas.",
 "\\REM_EFF[skill_519_effect]"
 ]},
 "skill_520_name":{
@@ -7312,7 +7316,7 @@
 "skill_523_desc":{
 "text":[
 "La lavandería es donde los reclusos lavan la ropa de la prisión.",
-"Repararlo les hará felices, ya que a nadie le gusta pasearse con la ropa sucia.",
+"Repararla les hará felices, ya que a nadie le gusta pasearse con la ropa sucia.",
 "\\REM_EFF[skill_523_effect]"
 ]},
 "skill_524_name":{
@@ -7321,7 +7325,7 @@
 "skill_524_desc":{
 "text":[
 "No nos hará ganar mucho dinero, pero podemos ofrecer el servicios de lavandería a otros.",
-"Consistiría en que cogemos su ropa sucia y utilizamos nuestra mano de obra gratuita para lavarla por ellos.",
+"Básicamente cogemos ropa sucia y utilizamos nuestra mano de obra gratuita para lavarla.",
 "\\REM_EFF[skill_524_effect]"
 ]},
 "skill_525_name":{
@@ -7356,8 +7360,8 @@
 },
 "skill_528_desc":{
 "text":[
-"Podemos acondicionar nuestro taller para fabricar piezas electrónicas para artículos como radios y teléfonos.",
-"Esto nos hará ganar más dinero, pero también molestará a los reclusos, que tendrán que trabajar más.",
+"Podemos acondicionar nuestro taller para fabricar electrónica para radios y teléfonos.",
+"Nos hará ganar más dinero, pero molestará a los reclusos, que tendrán que trabajar más.",
 "\\REM_EFF[skill_528_effect]"
 ]},
 "skill_529_name":{
@@ -7375,7 +7379,7 @@
 "skill_530_desc":{
 "text":[
 "La recepción es la primera sala que ven los nuevos reclusos al entrar en la prisión.",
-"No necesita reparaciones para funcionar correctamente, pero nos daría un aspecto más ordenado.",
+"No necesita reparaciones para funcionar, pero nos daría un aspecto más ordenado.",
 "\\REM_EFF[skill_530_effect]"
 ]},
 "skill_531_name":{
@@ -7483,7 +7487,7 @@
 "skill_542_desc":{
 "text":[
 "\\}Sólo se repararon dos de las cuatro salas de visitas antes de que se agotara el presupuesto.",
-"\\}Conseguir que funcione aunque solo sea una sala de visitas más reducirá enormemente el tiempo de espera de nuestros visitantes.",
+"\\}Arreglar una sala de visitas más reducirá enormemente el tiempo de espera de nuestros visitantes.",
 "\\}\\REM_EFF[skill_542_effect]"
 ]},
 "skill_543_name":{
@@ -7509,8 +7513,8 @@
 },
 "skill_545_desc":{
 "text":[
-"\\}Podemos implementar un sistema en el que los visitantes paguen más dinero para colarse delante de los que no lo hicieron.",
-"\\}En definitiva, el tiempo de espera y el servicio siguen siendo los mismos, pero la prisión gana más dinero.",
+"\\}Podemos implementar un sistema donde los visitantes paguen más dinero para colarse en la cola.",
+"\\}En definitiva, mismo tiempo de espera y mismo servicio, pero la prisión gana más dinero.",
 "\\REM_EFF[skill_545_effect]"
 ]},
 "skill_546_name":{
@@ -7528,7 +7532,7 @@
 "skill_547_desc":{
 "text":[
 "El Centro de Visitantes siempre está escaso de personal. ¿Podrías ayudarles?",
-"Puedo reunir algo de material para hacer una réplica de tu famoso uniforme y usarlo para este trabajo.",
+"Puedo reunir algo de material para hacer una réplica de tu famoso uniforme.",
 "\\}\\REM_EFF[skill_547_effect]"
 ]},
 "skill_548_name":{
@@ -7537,7 +7541,7 @@
 "skill_548_desc":{
 "text":[
 "¿Hmm? ¿Necesitas que el uniforme de recepcionista sea más duradero?",
-"No estoy seguro de para qué serviría eso aquí, pero puedo pedirle a un sastre que lo investigue.",
+"No sé para qué lo quieres, pero puedo pedirle a un sastre que lo investigue.",
 "\\REM_EFF[skill_548_effect]"
 ]},
 "skill_549_name":{
@@ -7547,7 +7551,7 @@
 "text":[
 "\\}\\}Los frikis han obtenido acceso a los datos de la prisión cuando tomaron el control del Nivel 2.",
 "\\}\\}Ahora aprovechan esa información para pedirnos dos cosas: Dinero y tu información privada.",
-"\\}\\REM_EFF[skill_549_effect]"
+"\\}\\}\\REM_EFF[skill_549_effect]"
 ]},
 "skill_550_name":{
 "text":["Pagar a los Frikis"]
@@ -7565,7 +7569,7 @@
 "text":[
 "\\}\\}Los frikis sólo intentan aprovecharse de nuestra falta de recursos. Envía a los guardias a amenazar a los frikis",
 "\\}\\}para que se rindan, diciéndoles que les romperémos sus ordenadores y juguetes si no ponen fin a su chantaje.",
-"\\REM_EFF[skill_551_effect]"
+"\\}\\}\\REM_EFF[skill_551_effect]"
 ]},
 "skill_552_name":{
 "text":["Ríndete ante los Frikis"]
@@ -7574,7 +7578,7 @@
 "text":[
 "\\}\\}Por favor, sacrifique su información privada por el bien de la prisión.",
 "\\}\\}De todos modos, sólo hay un tipo de información que realmente interesa a los frikis.",
-"\\REM_EFF[skill_552_effect]"
+"\\}\\REM_EFF[skill_552_effect]"
 ]},
 "skill_553_name":{
 "text":["El Problema con los Pícaros"]
@@ -7692,7 +7696,7 @@
 },
 "skill_568_desc":{
 "text": [
-"La tienda proporciona bienes y suministros generales a nuestros guardias y miembros del personal.",
+"La tienda proporciona bienes y suministros generales a nuestros guardias y personal.",
 "Solo se cobran artículos de lujo, como los cigarrillos, todo lo demás es gratis.",
 "\\REM_EFF[skill_568_effect]"
 ]},
@@ -7701,27 +7705,27 @@
 },
 "skill_569_desc":{
 "text": [
-"Hacer que los guardias paguen los artículos de la tienda nos dará una fuente extra de ingresos.",
+"Hacer que los guardias paguen en la tienda nos dará una fuente extra de ingresos.",
 "",
-"\\REM_EFF[skill_569_effect]"
+"\\}\\REM_EFF[skill_569_effect]"
 ]},
 "skill_570_name":{
 "text":["El Personal debe Pagar en la Tienda"]
 },
 "skill_570_desc":{
 "text": [
-"Hacer que los miembros del personal paguen los artículos de la tienda nos dará una fuente extra de ingresos.",
-"",
-"\\}\\REM_EFF[skill_570_effect]"
+"Hacer que los miembros del personal paguen los artículos de la tienda",
+"nos dará una fuente extra de ingresos.",
+"\\}\\}\\REM_EFF[skill_570_effect]"
 ]},
 "skill_571_name":{
 "text":["Permitir que los Reclusos Utilicen la Tienda"]
 },
 "skill_571_desc":{
 "text": [
-"Algunos reclusos ya consiguen artículos de la tienda mediante robos o compras de segunda mano.",
+"Algunos reclusos consiguen artículos de la tienda con robos o compras de segunda mano.",
 "\\}Dejarles utilizar oficialmente la tienda nos proporcionará una enorme fuente de ingresos para la tienda.",
-"\\REM_EFF[skill_571_effect]"
+"\\}\\REM_EFF[skill_571_effect]"
 ]},
 "skill_572_name":{
 "text":["Artículos de la Tienda Gratis para la Directora"]
@@ -7800,9 +7804,9 @@
 },
 "skill_580_desc":{
 "text": [
-"\\}Los empleados cualificados, como cocineros, contables o abogados, necesitan una sala de descanso como parte de sus beneficios.",
+"\\}Los empleados cualificados, como cocineros, contables o abogados, necesitan una sala de descanso.",
 "\\}Además, trabajarán con menos eficacia si su sala de descanso se ve arruinada por los motines.",
-"\\REM_EFF[skill_580_effect]"
+"\\}\\REM_EFF[skill_580_effect]"
 ]},
 "skill_581_name":{
 "text":["La Sala ya no es Gratis"]
@@ -7829,7 +7833,7 @@
 "text": [
 "¿Qué sentido tienen las clases si los reclusos pueden elegir no asistir nunca a ellas?",
 "A partir de ahora, todos los reclusos deben ir a clase al menos dos veces por semana.",
-"\\REM_EFF[skill_583_effect]"
+"\\}\\}\\REM_EFF[skill_583_effect]"
 ]},
 "skill_584_name":{
 "text":["Plan de Estudios: Nada"]
@@ -7847,7 +7851,7 @@
 "text": [
 "Los reclusos deben ser reeducados para convertirse en ciudadanos modelo del imperio.",
 "El plan de estudios se centrará en la historia, el decoro y la búsqueda de empleo.",
-"\\REM_EFF[skill_585_effect]"
+"\\}\\REM_EFF[skill_585_effect]"
 ]},
 "skill_586_name":{
 "text":["Plan de Estudios: Taller"]
@@ -7872,8 +7876,8 @@
 },
 "skill_588_desc":{
 "text": [
-"\\}Para ayudar a los reclusos a comprender mejor la anatomía, quizá deberíamos suministrarles un modelo anatómicamente correcto.",
-"\\}Y sugiero que el modelo esté basado en tu cuerpo para ahorrar tiempo y dinero.",
+"\\}Para ayudar a los reclusos a estudiar anatomía, deberíamos suministrarles un modelo anatómicamente",
+"\\}correcto. Sugiero que el modelo esté basado en tu cuerpo para ahorrar tiempo y dinero.",
 "\\REM_EFF[skill_588_effect]"
 ]},
 "skill_589_name":{
@@ -7890,8 +7894,8 @@
 },
 "skill_590_desc":{
 "text": [
-"Añadir una tarifa de entrada a la sala de lectura nos ayudará a ganar dinero a costa de los amantes de los libros.",
-"",
+"Añadir una tarifa de entrada a la sala de lectura nos ayudará",
+"a ganar dinero a costa de los amantes de los libros.",
 "\\REM_EFF[skill_590_effect]"
 ]},
 "skill_591_name":{
@@ -7908,8 +7912,8 @@
 },
 "skill_592_desc":{
 "text": [
-"Llenémos las estanterías de literatura sobre el imperio.",
-"Libros de historia, autobiografías de emperadores pasados y otros textos que alaben el imperio.",
+"Llenémos las estanterías de literatura sobre el imperio. Libros de historia,",
+"autobiografías de emperadores pasados y otros textos que alaben el imperio.",
 "\\REM_EFF[skill_592_effect]"
 ]},
 "skill_593_name":{
@@ -7919,7 +7923,7 @@
 "text": [
 "Tengamos sólo libros que enseñen a los reclusos",
 "a fortalecer su cuerpo física y mentalmente.",
-"\\REM_EFF[skill_593_effect]"
+"\\}\\}\\REM_EFF[skill_593_effect]"
 ]},
 "skill_594_name":{
 "text":["Material de Lectura: Adulto"]
@@ -7970,7 +7974,7 @@
 "skill_599_desc":{
 "text": [
 "\\}Empezaremos a favorecer a los reclusos más fuertes para aceptarlos en la prisión.",
-"\\}Puede que sean más difíciles de controlar, pero el imperio nos enviará más ayuda, además los reclusos fuertes son mejores trabajadores.",
+"\\}Son más difíciles de controlar, pero el imperio nos enviará más ayuda, y los reclusos fuertes trabajan más.",
 "\\REM_EFF[skill_599_effect]"
 ]},
 "skill_600_name":{
@@ -7989,7 +7993,7 @@
 "text": [
 "Todos los nuevos reclutas recibirán formación durante un mes,",
 "y todos los guardias tendrán que recibir una formación obligatoria de 3 días cada mes.",
-"\\REM_EFF[skill_601_effect]"
+"\\}\\REM_EFF[skill_601_effect]"
 ]},
 "skill_602_name":{
 "text":["Equipamiento Militar"]
@@ -9257,7 +9261,7 @@
 "text":["Primera Cata del Culo de un Hombre"]
 },
 "skill_845_desc":{
-"text":["Uuu...... Un beso lo entendería...... Pero por qué puse mi boca en el ano de un hombre......",
+"text":["Uuuh...... Un beso lo entendería...... Pero por qué puse mi boca en el ano de un hombre......",
 "\\REM_EFF[skill_845_effect]"
 ]},
 "skill_846_name":{
@@ -9464,10 +9468,10 @@
 "\\REM_EFF[skill_874_effect]"
 ]},
 "skill_875_name":{
-"text":["Material para Pajas para los Frikis"]
+"text":["Material para Pajas de los Frikis"]
 },
 "skill_875_desc":{
-"text":["¡Uuu... Estas cosas son asquerosas...! ¡Vuelve cuando te hayas duchado!",
+"text":["¡Uuuh... Estas cosas son asquerosas...! ¡Vuelve cuando te hayas duchado!",
 "\\REM_EFF[skill_875_effect]"
 ]},
 "skill_876_name":{
@@ -9734,7 +9738,7 @@
 "text":["Amiga de Campamento de los Vagabundos"]
 },
 "skill_915_desc":{
-"text":["Uu... Ni en un millón de años pensé que tocaría a seres tan inmundos, y sin embargo lo hice......",
+"text":["Uuh... Ni en un millón de años pensé que tocaría a seres tan inmundos, y sin embargo lo hice......",
 "\\REM_EFF[skill_915_effect]"
 ]},
 "skill_916_name":{
@@ -10394,7 +10398,7 @@
 },
 "skill_1028_desc":{
 "text":[
-"Elimina la desventaja de Desequilibrio."
+"Elimina la desventaja de Perder el Equilibrio."
 ]},
 "skill_1028_msg1":{
 "text":["¡%1 recupera el equilibrio!"]
@@ -10751,7 +10755,7 @@
 "text":["y adopta una postura defensiva!"]
 },
 "skill_1088_name":{
-"text":["Contra-Revitalizar"]
+"text":["Revitalizar y Contraatacar"]
 },
 "skill_1088_desc":{
 "text":[
@@ -10765,7 +10769,7 @@
 "text":["y adopta una postura de contraataque!"]
 },
 "skill_1089_name":{
-"text":["Contra-Fuerzas Renovadas"]
+"text":["Fuerzas Renovadas y Contraatacar"]
 },
 "skill_1089_desc":{
 "text":[
@@ -10779,7 +10783,7 @@
 "text":["y adopta una postura de contraataque!"]
 },
 "skill_1090_name":{
-"text":["Contra-Arreglar la Ropa"]
+"text":["Arreglar la Ropa y Contraatacar"]
 },
 "skill_1090_desc":{
 "text":[
@@ -11701,7 +11705,7 @@
 "\\}Recoge los papeles del visitante."
 ]},
 "skill_1581_msg1":{
-"text":["%1 toma el papeleo relleno de %2."]
+"text":["%1 toma el papeleo relleno del %2."]
 },
 "skill_1582_name":{
 "text":["Disculparse"]
@@ -11719,8 +11723,8 @@
 "skill_1583_desc":{
 "text":[
 "\\}Comienza a procesar el papeleo de un visitante.",
-"\\}\\C[9]➤\\C[0] El tiempo de procesado depende de la cantidad de páginas y de tener suficiente Voluntad.",
-"Una vez procesado, puede asignarle a una habitación."
+"\\}\\C[9]➤\\C[0] El tiempo de procesado depende de la cantidad de páginas y de tener",
+"suficiente Voluntad. Una vez procesado, puede asignarle a una habitación."
 ]},
 "skill_1583_msg1":{
 "text":["%1 empieza a procesar el papeleo de %2."]
@@ -11731,7 +11735,8 @@
 "skill_1584_desc":{
 "text":[
 "\\}Continúa procesando la documentación actual.",
-"\\}\\C[9]➤\\C[0] El tiempo de procesado depende de la cantidad de páginas y de tener suficiente Voluntad."
+"\\}\\C[9]➤\\C[0] El tiempo de procesado depende de la cantidad de páginas y de tener.",
+"suficiente Voluntad."
 ]},
 "skill_1585_name":{
 "text":["Llamar al visitante"]
@@ -12146,8 +12151,8 @@
 },
 "skill_1650_desc":{
 "text":[
-"Aumenta la regeneración de resistencia y descansa durante 5 turnos.",
-"\\}\\}\\C[9]➤\\C[0] Descansar con la resistencia llena aumenta la cantidad de fatiga reducida al final."
+"\\}Aumenta la regeneración de resistencia y descansa durante 5 turnos.",
+"\\}\\}\\C[9]➤\\C[0] Descansar con la resistencia llena reduce más fatiga al final."
 ]},
 "skill_1650_msg1":{
 "text":["%1 empieza a descansar."]
@@ -12812,7 +12817,7 @@
 "text":["¡%1 se folla las enormes tetas de %2!"]
 },
 "skill_1807_msg1":{
-"text":["¡%1 le hace un cunnilingus a %2!"]
+"text":["¡%1 le hace un Cunnilingus a %2!"]
 },
 "skill_1808_msg1":{
 "text":["¡%1 hace que %2 le coma el culo!"]
@@ -13633,7 +13638,7 @@
 },
 "skill_2021_desc":{
 "text":["\\REM_EFF[skill_2021_effect]",
-"\\C[11]El desequilibrio disminuye el ataque, la defensa y la evasión."
+"\\C[11]Perder el equilibrio disminuye el ataque, la defensa y la evasión."
 ]},
 "skill_2022_name":{
 "text":["Entrenamiento de Filo: Técnica"]
@@ -13679,7 +13684,7 @@
 "text":["\\REM_EFF[skill_2028_effect]"
 ]},
 "skill_2029_name":{
-"text":["Entrenamiento de Entereza: Manoseo"]
+"text":["Entrenamiento de Entereza: Caricias"]
 },
 "skill_2029_desc":{
 "text":["\\REM_EFF[skill_2029_effect]"
@@ -14375,7 +14380,7 @@
 },
 "armor_54_desc":{
 "text":["Prueba de una directora increíblemente hermosa que ha vivido en una prisión (32+ Encanto)",
-"\\REM_EFF[armor_54_effect]"
+"\\}\\REM_EFF[armor_54_effect]"
 ]},
 "armor_55_name":{
 "text":["Directora Encantadora"]
@@ -14395,21 +14400,21 @@
 "text":["Derrochadora Ruinosa"]
 },
 "armor_57_desc":{
-"text":["Prueba de una mala directora que llevó la prisión a la quiebra.",
+"text":["Prueba de una mala directora que llevó la prisión a la bancarrota.",
 "\\REM_EFF[armor_57_effect]"
 ]},
 "armor_58_name":{
 "text":["Mujer Despilfarradora"]
 },
 "armor_58_desc":{
-"text":["Prueba de una mala gestora que dejó la prisión en quiebra más de 5 veces.",
+"text":["Prueba de una mala gestora que dejó la prisión en bancarrota más de 5 veces.",
 "\\REM_EFF[armor_58_effect]"
 ]},
 "armor_59_name":{
-"text":["Reina de la Quiebra"]
+"text":["Reina de la Bancarrota"]
 },
 "armor_59_desc":{
-"text":["\\}La prueba de una defraudadora fiscal que reinó en una prisión en quiebra durante más de dos semanas.",
+"text":["\\}La prueba de una defraudadora fiscal que reinó en una prisión en bancarrota durante más de dos semanas.",
 "\\REM_EFF[armor_59_effect]"
 ]},
 "armor_60_name":{
@@ -15007,14 +15012,14 @@
 "text":["Como un Pájaro"]
 },
 "armor_145_desc":{
-"text":["Prueba de una luchadora que ha esquivado más veces de las que ha recibido ataques (+10 evasiones).",
+"text":["\\}Prueba de una luchadora que ha esquivado más veces de las que ha recibido ataques (+10 evasiones).",
 "\\REM_EFF[armor_145_effect]"
 ]},
 "armor_146_name":{
 "text":["Como una Bailarina"]
 },
 "armor_146_desc":{
-"text":["Prueba de una bailarina ágil que ha esquivado más veces de las que ha recibido ataques (Nivel 16+, +42 Evasiones).",
+"text":["\\}Prueba de una bailarina ágil que ha esquivado más veces de las que ha recibido ataques (Nivel 16+, +42 Evasiones).",
 "\\REM_EFF[armor_146_effect]"
 ]},
 "armor_147_name":{
