@@ -163,7 +163,7 @@ const ActorGainSP = "\\C[11]¡%1 gana %3 %2!";
 const ActorLossSP = "\\C[2]¡%1 pierde %3 %2!";
 const ActorNoDamageSP = "¡%1 no recibe daño!";
 const ActorNoHitSP = "\\C[6]¡Roce! ¡%1 recibe %2 puntos de daño!";
-const ActorNoDamageGrazeSP = "¡Graze! ¡%1 no recibe daño!";
+const ActorNoDamageGrazeSP = "¡Roce! ¡%1 no recibe daño!";
 const ActorRecoverySP = "¡%3 puntos de %2 de %1 han sido restaurados!"; //currently unused
 const CriticalToActorSP = "\\C[10]¡¡Golpe crítico!!";
 const CriticalToEnemySP = "¡¡Golpe crítico!!";
@@ -245,7 +245,7 @@ const RCMenuLostPantiesTextSP = "\\C[27]Karryn no lleva bragas ahora mismo.\\C[0
 const RCMenuDefiledHalberdTextSP = "\\C[7]La alabarda de Karryn ha sido mancillada... \\C[0](\\C[18]Desarmada\\C[0])";
 
 const RCMenuMetalSingleTextSP = "\\C[0]Karryn ha subyugado a un recluso metálico hoy. (\\C[11]Experiencia +%1%\\C[0])";
-const RCMenuMetalPluralTextSP = "\\C[0]Karryn ha subyugado %2 reclusos metálico hoy. (\\C[11]Experiencia +%1%\\C[0])";
+const RCMenuMetalPluralTextSP = "\\C[0]Karryn ha subyugado %2 reclusos metálicos hoy. (\\C[11]Experiencia +%1%\\C[0])";
 
 const RCMenuGiftsSingleTextSP = "\\C[0]Karryn ha recibido un regalo: \\C[0]";
 const RCMenuGiftsPluralTextSP = "\\C[0]Karryn ha recibido regalos: \\C[0]";
@@ -741,7 +741,7 @@ const ActorGainPleasure_ToySP = "\\C[27]¡El placer de %1 aumenta en %2 por los 
 const PleasurePercentTextSP = " porciento";
 
 const EnemyGainPleasure_Percent_SP = "\\C[1]¡%1 está un %2 más cerca de eyacular!";
-const EnemyGainPleasure_Value_SP = "\\C[1]El placer de %1 aumenta en %2!";
+const EnemyGainPleasure_Value_SP = "\\C[1]¡El placer de %1 aumenta en %2!";
 const ActorSingleOrgasmSP = "\\C[31]¡%1 pierde %2 puntos de energía!";
 const ActorMultipleOrgasmSP = "\\C[1]¡%1 tiene %3 orgasmos consecutivos! \\C[31]¡%1 pierde %2 puntos de energía!";
 

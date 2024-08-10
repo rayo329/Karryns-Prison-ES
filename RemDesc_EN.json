@@ -7182,7 +7182,7 @@
 "skill_508_desc":{
 "text":[
 "Consigamos whisky para el bar, es el favorito de algunos clientes.",
-"Tambien deberíamos añadir otra marca de cerveza para los reclusos con menos dinero.",
+"También deberíamos añadir otra marca de cerveza para los reclusos con menos dinero.",
 "\\REM_EFF[skill_508_effect]"
 ]},
 "skill_509_name":{
@@ -7280,7 +7280,7 @@
 },
 "skill_519_desc":{
 "text":[
-"No esperaba que el nuevo uniforme de camarera fuera tan endeble Podemos pagar a.",
+"No esperaba que el nuevo uniforme de camarera fuera tan endeble. Podemos pagar a",
 "un sastre para que lo arregle un poco y lo haga más resistente a las manos pervertidas.",
 "\\REM_EFF[skill_519_effect]"
 ]},
