@@ -331,11 +331,11 @@ const StatusMenuResistsSP = "《 Resistencias 》";
 const StatusMenuLevelsSP = "《 Niveles Sexuales 》";
 const StatusMenuSensitivitiesSP = "《 Sensibilidades 》";
 
-const StatusMenuMouthDesireReqSP = "《 Requerimientos de Deseo: Boca 》";
-const StatusMenuBoobsDesireReqSP = "《 Requerimientos de Deseo: Tetas 》";
-const StatusMenuPussyDesireReqSP = "《 Requerimientos de Deseo: Coño 》";
-const StatusMenuButtDesireReqSP = "《 Requerimientos de Deseo: Culo 》";
-const StatusMenuCockDesireReqSP = "《 Requerimientos de Deseo: Polla 》";
+const StatusMenuMouthDesireReqSP = "《 Requisitos de Deseo: Boca 》";
+const StatusMenuBoobsDesireReqSP = "《 Requisitos de Deseo: Tetas 》";
+const StatusMenuPussyDesireReqSP = "《 Requisitos de Deseo: Coño 》";
+const StatusMenuButtDesireReqSP = "《 Requisitos de Deseo: Culo 》";
+const StatusMenuCockDesireReqSP = "《 Requisitos de Deseo: Polla 》";
 
 const ProfileNameTextSP = "Nombre:";
 const ProfileAgeTextSP = "Edad:";
@@ -550,7 +550,7 @@ const StateTooltipsHornyThreeSP = "¡Karryn está \\C[18]cachonda\\C[0]!\nSu eva
 
 
 
-const StateTooltipsEnemyHornySP = "%1 está \\C[18]cachondo\\C[0]!\nTiene más probabilidad de actuar, menos probabilidad de atacar, resistencias más bajas\nrequerimientos de encanto más bajos, y eyaculará más.";
+const StateTooltipsEnemyHornySP = "%1 está \\C[18]cachondo\\C[0]!\nTiene más probabilidad de actuar, menos probabilidad de atacar, resistencias más bajas\nrequisitoss de encanto más bajos, y eyaculará más.";
 
 const StateTooltipsCoolSP = "¡Karryn está \\C[4]tranquila\\C[0] por tener poco deseo!\n¡Su precisión, evasión, prob. de Crít., evasión crit.\n y regens. han subido un poco.";
 
@@ -682,9 +682,9 @@ const DesireTooltipsPussyIntroSP = "El Deseo: Coño de Karryn representa su dese
 const DesireTooltipsButtIntroSP = "El Deseo: Culo de Karryn representa su deseo\nde que le toquen su enorme trasero\ny de que le metan cosas por el culo.";
 const DesireTooltipsCockIntroSP = "El Deseo: Polla de Karryn representa su deseo\nde saber todo lo posible sobre\nlas pollas, su aspecto, sonido,\nolor, sabor y tacto.";
 
-const DesireTooltipsBodyDesireRequirementsUnknownSP = "\\I[40] 50    \\I[41]   Caricias Suaves\n\\I[40] 75    \\I[41]   Caricias Fuertes\n\\I[40]100   \\I[41]   Sexo\n(Requerimientos por defecto)";
-const DesireTooltipsCockDesireRequirementsUnknownSP = "\\I[40] 50    \\I[41]   Paja\n\\I[40] 65    \\I[41]   Servicio\n\\I[40] 85    \\I[41]   Penetración\n(Requerimientos por defecto)";
-const DesireTooltipsDesireRequirementsKnownSP = "Requerimientos de Deseo";
+const DesireTooltipsBodyDesireRequirementsUnknownSP = "\\I[40] 50    \\I[41]   Caricias Suaves\n\\I[40] 75    \\I[41]   Caricias Fuertes\n\\I[40]100   \\I[41]   Sexo\n(Requisitos por defecto)";
+const DesireTooltipsCockDesireRequirementsUnknownSP = "\\I[40] 50    \\I[41]   Paja\n\\I[40] 65    \\I[41]   Servicio\n\\I[40] 85    \\I[41]   Penetración\n(Requisitos por defecto)";
+const DesireTooltipsDesireRequirementsKnownSP = "Requisitos de Deseo";
 const DesireTooltipsDesireRequirementsKnownFormatSP = "";
 
 
@@ -787,7 +787,7 @@ const SkillDescriptionNotWetSP = "No estás lo suficientemente mojada.";
 
 const TitleDescriptionFirstTimeTitleEquipSP = "\\C[0] (Equípalo una vez para recibir los efectos toda la partida)";
 
-const CharmEquipReqTextSP = "Requerimiento de Encanto: ";
+const CharmEquipReqTextSP = "Requisito de Encanto: ";
 const GrowthRateTextSP = " Crecimiento";
 
 const RemResultsVictorySP = "¡Victoria!";
@@ -1025,300 +1025,300 @@ const RemYanflyOptions_WindowToneGreen_SP = "\\i[278]Tono de Ventana: Verde";
 const RemYanflyOptions_WindowToneGreen_Help_SP = "Cambia el valor del tono de \\c[29]verde\\c[0].\nMantén SHIFT mientras pulsas IZQUIERDA/DERECHA para ajustar mejor.\nNota: Esta opción solo afecta al archivo de guardado actual, no se puede modificar en la pantalla del título.";
 const RemYanflyOptions_WindowToneBlue_SP = "\\i[279]Tono de Ventana: Azul";
 const RemYanflyOptions_WindowToneBlue_Help_SP = "Cambia el valor del tono de \\c[14]azul\\c[0].\nMantén SHIFT mientras pulsas IZQUIERDA/DERECHA para ajustar mejor.\nNota: Esta opción solo afecta al archivo de guardado actual, no se puede modificar en la pantalla del título.";
-const RemYanflyOptions_FasterBattleDialogue_SP = "\\i[276]Fast Battle Dialogues";
-const RemYanflyOptions_FasterBattleDialogue_Help_SP = "Turning this option ON will make battle dialogue go faster.";
-const RemYanflyOptions_FasterBattleCutins_SP = "\\i[276]Simple Battle Cut-ins";
-const RemYanflyOptions_FasterBattleCutins_Help_SP = "Turning this option ON will make battle cut-ins go faster and turn off the cut-in animations.\nTurn this option ON if you're experiencing heavy slowdown during cut-ins.";
-const RemYanflyOptions_SmootherBattleCutinLoading_SP = "\\i[276]Smoother Battle Cut-in Loading";
-const RemYanflyOptions_SmootherBattleCutinLoading_Help_SP = "\\}\\}This is an option for stronger PCs that will make battle cut-ins load in smoother at the cost of much longer initial boot up time for the game.\n\\{\\{Please keep this option OFF if your initial boot up time is already longer than twenty seconds or if your game often crashes.\nPlease restart your game for this option to take effect.";
-const RemYanflyOptions_DisableBattleCutins_SP = "\\i[276]Disable Battle Cut-ins";
-const RemYanflyOptions_DisableBattleCutins_Help_SP = "Turning this option ON will completely disable battle cut-ins.\nThe intended visual experience is to play and enjoy the game with battle cut-ins appearing.\nThis option should only be used as a last resort if cut-ins are causing serious FPS issues.";
-const RemYanflyOptions_SmootherCGLoading_SP = "\\i[276]Smoother CG Loading";
-const RemYanflyOptions_SmootherCGLoading_Help_SP = "\\}\\}This is an option for stronger PCs that will make CGs load in smoother at the cost of much longer initial boot up time for the game.\nPlease keep this option OFF if your initial boot up time is already longer than twenty seconds or if your game often crashes.\n\\{Please restart your game for this option to take effect.";
-const RemYanflyOptions_SortPassivesAscending_SP = "\\i[276]Sort Passives Ascending";
-const RemYanflyOptions_SortPassivesAscending_Help_SP = "Passives are visually sorted in the Passives screen by the date they were obtained.\nON: They will be sorted with the oldest ones on top.\nOFF: They will sorted with the newest ones on top.";
-const RemYanflyOptions_SynchFPS_SP = "\\i[273]Force 60 FPS";
-const RemYanflyOptions_SynchFPS_Help_SP = "\\}Please keep this option turned ON if your monitor is above 60Hz so that the game will properly cap at 60 FPS.\n\\{Turn this option OFF if your game is running way below 60 FPS or your monitor is 60Hz or less.\nPressing F2 will display the game's current FPS.";
-const RemYanflyOptions_LightingEffects_SP = "\\i[276]Map Lighting Effects";
-const RemYanflyOptions_LightingEffects_Help_SP = "Map lighting effects include the effects from light sources such as torches.\nTurning this OFF will remove those effects and help improve game performance if\nyour game is experiencing slow downs in areas with map lighting effects." 
-const RemYanflyOptions_MapEffects_SP = "\\i[276]Animated Map Effects";
-const RemYanflyOptions_MapEffects_Help_SP = "Animated map effects include fogs and mists.\nTurning this OFF will remove those effects and help improve game performance if\nyour game is experiencing slow downs in areas with animated map effects." 
-const RemYanflyOptions_DisableFlashing_SP = "\\i[276]Disable Screen Flashes";
-const RemYanflyOptions_DisableFlashing_Help_SP = "Turning this option ON will disable full screen flashes.\nUse this option if you are sensitive to flashes or are getting eye strain from the flashes." 
+const RemYanflyOptions_FasterBattleDialogue_SP = "\\i[276]Diálogos de Combate Rápidos";
+const RemYanflyOptions_FasterBattleDialogue_Help_SP = "Activar esta opción hará que los diálogos de los combates vayan más rápido.";
+const RemYanflyOptions_FasterBattleCutins_SP = "\\i[276]'Cortes' Simples de Combate'";
+const RemYanflyOptions_FasterBattleCutins_Help_SP = "Activar esta opción hará que los 'cortes' en los combates vayan más rápido y sin animación.\nActívala si se te ralentiza el juego durante los 'cortes'.";
+const RemYanflyOptions_SmootherBattleCutinLoading_SP = "\\i[276]Carga Fluida de 'Cortes' de Combate";
+const RemYanflyOptions_SmootherBattleCutinLoading_Help_SP = "\\}\\}Opción para PCs potentes. Los 'cortes' en combate serán más fluidos pero habrá mayor tiempo de carga al iniciar el juego.\n\\{\\{Desactiva esta opción si el juego te tarda más de 20 segundos en iniciarse o si tu juego se cuelga.\nPorfavor, reinicia el juego para que esta opción tenga efecto.";
+const RemYanflyOptions_DisableBattleCutins_SP = "\\i[276]Desactivar 'Cortes' de Combate";
+const RemYanflyOptions_DisableBattleCutins_Help_SP = "Activar esta opción desactivará los 'cortes' de combate.\nLa experiencia visual prevista es disfrutar del juego con sus 'cortes' de combate.\nEsta opción es un último recurso si realmente los 'cortes' de combate te dan problemas de FPS.";
+const RemYanflyOptions_SmootherCGLoading_SP = "\\i[276]Carga Fluida de CG";
+const RemYanflyOptions_SmootherCGLoading_Help_SP = "\\}\\}Opción para PCs potentes. Las CGs serán más fluidas pero habrá mayor tiempo de carga al iniciar el juego.\nDesactiva esta opción si el juego te tarda más de 20 segundos en iniciarse o si tu juego se cuelga.\n\\{Porfavor, reinicia el juego para que esta opción tenga efecto.";
+const RemYanflyOptions_SortPassivesAscending_SP = "\\i[276]Ordenar Pasivas de Forma Ascendente";
+const RemYanflyOptions_SortPassivesAscending_Help_SP = "Las pasivas aparece ordenadas por el orden en el que se desbloquearon.\nACTIVADO: Las más antiguas aparecerán arriba.\nDESACTIVADO: Las más nuevas aparecerán arriba.";
+const RemYanflyOptions_SynchFPS_SP = "\\i[273]Forzar 60 FPS";
+const RemYanflyOptions_SynchFPS_Help_SP = "\\}Activa esta opción si tu monitor tiene una tasa de refresco superior a 60hz.\n\\{Desactivala si el juego va a menos de 60 FPS o tu monitor es de 60hz o menos.\nSi pulsas F2 podrás ver los FPS del juego.";
+const RemYanflyOptions_LightingEffects_SP = "\\i[276]Efectos de Iluminación del Mapa";
+const RemYanflyOptions_LightingEffects_Help_SP = "Los efectos de iluminación del mapa incluyen las de fuentes de luz como antorchas.\nAl desactivar esta opción perferás los efectos y mejorará el rendimiento si\nexperimentas ralentizaciones en zonas con muchos efectos de iluminación." 
+const RemYanflyOptions_MapEffects_SP = "\\i[276]Efectos Animados del Mapa";
+const RemYanflyOptions_MapEffects_Help_SP = "Por ejemplo, la bruma.\nAl desactivar esta opción perferás los efectos y mejorará el rendimiento si\nexperimentas ralentizaciones en zonas con muchos efectos animados." 
+const RemYanflyOptions_DisableFlashing_SP = "\\i[276]Desactivar Flashes";
+const RemYanflyOptions_DisableFlashing_Help_SP = "Activar esta opción desactivará los flashes.\nÚsala si eres sensible a ellos o te molestan los ojos." 
 
-const RemYanflyOptions_ShowSexualDamagePopup_SP = "\\i[276]Toggle Karryn Sexual Damage Popup";
-const RemYanflyOptions_ShowSexualDamagePopup_Help_SP = "\\}Turn this option ON to have damage numbers from sexual attacks popup over Karryn's body.\nTurn this option OFF to hide the damage numbers from sexual attacks over Karryn's body.\nInformation about sexual attacks will still appear in the battle log.";
+const RemYanflyOptions_ShowSexualDamagePopup_SP = "\\i[276]Números de Daño Sexual";
+const RemYanflyOptions_ShowSexualDamagePopup_Help_SP = "\\}Activa esta opción para ver números de daño de ataques sexuales por encima de Karryn.\nDesactívala para no ver estos números.\nLa información de los ataques sexuales seguirá apareciendo en el registro de combate.";
 
-const RemYanflyOptions_EdictsOutlineColor_Obtainable_SP = "\\i[276]Edicts Outline Color: Obtainable";
-const RemYanflyOptions_EdictsOutlineColor_Obtainable_Help_SP = "This option changes the color of the outlines in the Edicts screen\nfor the Edicts that Karryn can enact right now.";
-const RemYanflyOptions_EdictsOutlineColor_MeetReq_SP = "\\i[276]Edicts Outline Color: Met Req";
-const RemYanflyOptions_EdictsOutlineColor_MeetReq_Help_SP = "This option changes the color of the outlines in the Edicts screen\nfor the Edicts that Karryn meet the requirements for but can not enact right now.";
-const RemYanflyOptions_EdictsOutlineColor_NoReq_SP = "\\i[276]Edicts Outline Color: No Req";
-const RemYanflyOptions_EdictsOutlineColor_NoReq_Help_SP = "This option changes the color of the outlines in the Edicts screen\nfor the Edicts that Karryn does not meet the requirements for.";
+const RemYanflyOptions_EdictsOutlineColor_Obtainable_SP = "\\i[276]Color del Borde de Decretos: Obtenible";
+const RemYanflyOptions_EdictsOutlineColor_Obtainable_Help_SP = "Está opción cambia el color de los bordes en la pantalla de decretos\na los decretos que Karryn puede promulgar en ese momento.";
+const RemYanflyOptions_EdictsOutlineColor_MeetReq_SP = "\\i[276]Color del Borde de Decretos: Req. Cumplidos";
+const RemYanflyOptions_EdictsOutlineColor_MeetReq_Help_SP = "Está opción cambia el color de los bordes en la pantalla de decretos\na los decretos cuyos requisitos se cumplen pero no se pueden promulgar ahora.";
+const RemYanflyOptions_EdictsOutlineColor_NoReq_SP = "\\i[276]Color del Borde de Decretos: Req. Incumplidos";
+const RemYanflyOptions_EdictsOutlineColor_NoReq_Help_SP = "Está opción cambia el color de los bordes en la pantalla de decretos\na los decretos cuyos requisitos no se cumplen.";
 
-const RemYanflyOptions_EdictsOutlineColorName_Green_SP = "Green";
-const RemYanflyOptions_EdictsOutlineColorName_LightBlue_SP = "Light Blue";
-const RemYanflyOptions_EdictsOutlineColorName_Yellow_SP = "Yellow";
-const RemYanflyOptions_EdictsOutlineColorName_Purple_SP = "Purple";
-const RemYanflyOptions_EdictsOutlineColorName_Gray_SP = "Gray";
-const RemYanflyOptions_EdictsOutlineColorName_Black_SP = "Black";
-const RemYanflyOptions_EdictsOutlineColorName_Red_SP = "Red";
+const RemYanflyOptions_EdictsOutlineColorName_Green_SP = "Verde";
+const RemYanflyOptions_EdictsOutlineColorName_LightBlue_SP = "Azul Claro";
+const RemYanflyOptions_EdictsOutlineColorName_Yellow_SP = "Amarillo";
+const RemYanflyOptions_EdictsOutlineColorName_Purple_SP = "Púrpura";
+const RemYanflyOptions_EdictsOutlineColorName_Gray_SP = "Gris";
+const RemYanflyOptions_EdictsOutlineColorName_Black_SP = "Negro";
+const RemYanflyOptions_EdictsOutlineColorName_Red_SP = "Rojo";
 
 //Options Controls
-const RemYanflyOptions_GamepadControl_SP = "\\i[281]Gamepad Config";
-const RemYanflyOptions_GamepadControl_Help_SP = "Configure the gamepad button settings.";
-const RemYanflyOptions_KeyboardControl_SP = "\\i[280]Keyboard Config";
-const RemYanflyOptions_KeyboardControl_Help_SP = "Configure the keyboard keys settings.";
-const RemYanflyOptions_CancelSkipMentalPhase_SP = "\\I[280]Cancel Skips Mental Phase";
-const RemYanflyOptions_CancelSkipMentalPhase_Help_SP = "Turning this option ON will cause Mental Phase to end automatically when pressing \nthe cancel key/button or right clicking with the mouse.";
+const RemYanflyOptions_GamepadControl_SP = "\\i[281]Configuración de Mando";
+const RemYanflyOptions_GamepadControl_Help_SP = "Configura los Botones del Mando.";
+const RemYanflyOptions_KeyboardControl_SP = "\\i[280]Configuración de Teclado";
+const RemYanflyOptions_KeyboardControl_Help_SP = "Configura las teclas del teclado.";
+const RemYanflyOptions_CancelSkipMentalPhase_SP = "\\I[280]Cancelar se Salta la Fase Mental";
+const RemYanflyOptions_CancelSkipMentalPhase_Help_SP = "Activar esta opción hará que se salte la fase mental \nal pulsar cancelar o hacer click derecho con el ratón.";
 
-const RemYanflyOptions_Fullscreen_SP = "\\i[273]Toggle Fullscreen";
-const RemYanflyOptions_Fullscreen_Help_SP = "Switch between Window Mode and Fullscreen Mode.\nPressing F4 or ALT+ENTER during gameplay also does the same thing.";
+const RemYanflyOptions_Fullscreen_SP = "\\i[273]Activar Pantalla Completa";
+const RemYanflyOptions_Fullscreen_Help_SP = "Cambia entre Modo Ventana y Pantalla Completa.\nPulsar F4 o ALT+ENTER mientras juegas hace lo mismo.";
 
-const RemYanflyGamepadButtonNameSP = "Button %1";
-const RemYanflyGamepadOkButtonNameSP = "OK / Interact";
-const RemYanflyGamepadOkButtonHelpSP = "Used to accept command actions and interact with objects and people.";
-const RemYanflyGamepadCancelButtonNameSP = "Cancel";
-const RemYanflyGamepadCancelButtonHelpSP = "Used to cancel menu actions.";
+const RemYanflyGamepadButtonNameSP = "Botón %1";
+const RemYanflyGamepadOkButtonNameSP = "OK / Interactuar";
+const RemYanflyGamepadOkButtonHelpSP = "Comando para aceptar acciones o interactuar con personas y objetos.";
+const RemYanflyGamepadCancelButtonNameSP = "Cancelar";
+const RemYanflyGamepadCancelButtonHelpSP = "Usado para cancelar acciones en los menús.";
 const RemYanflyGamepadShiftButtonNameSP = "Shift";
-const RemYanflyGamepadShiftButtonHelpSP = "Hold this button to dash on the map or hide text.";
-const RemYanflyGamepadMenuButtonNameSP = "Menu";
-const RemYanflyGamepadMenuButtonHelpSP = "Used to open the Main Menu.";
-const RemYanflyGamepadPageUpButtonNameSP = "Shoulder Left / Backlog";
-const RemYanflyGamepadPageUpButtonHelpSP = "Used to scroll through menus and items, and also open the message backlog.";
-const RemYanflyGamepadPageDownButtonNameSP = "Shoulder Right / Speed Up";
-const RemYanflyGamepadPageDownButtonHelpSP = "Used to scroll through menus and items, and also speed up text and battle.";
-const RemYanflyGamepadResetDefaultNameSP = "Reset to Default";
-const RemYanflyGamepadResetDefaultHelpSP = "Returns your controller to default settings.";
-const RemYanflyGamepadFinishConfigNameSP = "Finish Configuration";
-const RemYanflyGamepadFinishConfigHelpSP = "Are you done configuring your gamepad?";
+const RemYanflyGamepadShiftButtonHelpSP = "Mantén pulsado esté botón para correr o para ocultar texto.";
+const RemYanflyGamepadMenuButtonNameSP = "Menú";
+const RemYanflyGamepadMenuButtonHelpSP = "Usado para abrir el Menú Principal.";
+const RemYanflyGamepadPageUpButtonNameSP = "Gatillo Izquierdo / Registro";
+const RemYanflyGamepadPageUpButtonHelpSP = "Usado para navegar por menús y objetos, y abrir el registro de mensajes.";
+const RemYanflyGamepadPageDownButtonNameSP = "Gatillo Derecho / Acelerar";
+const RemYanflyGamepadPageDownButtonHelpSP = "Usado para navegar por menús y objetos, y para acelerar textos y combates.";
+const RemYanflyGamepadResetDefaultNameSP = "Reiniciar a Opciones Por Defecto";
+const RemYanflyGamepadResetDefaultHelpSP = "Vuelve a poner las acciones por defecto.";
+const RemYanflyGamepadFinishConfigNameSP = "Terminar Configuración";
+const RemYanflyGamepadFinishConfigHelpSP = "¿Has acabado de configurar el mando?";
 
-const RemYanflyKeyboardHelpSP = "Change the configuration of this key?";
-const RemYanflyKeyboardDefaultLayoutTextSP = "Default Keyboard Layout";
-const RemYanflyKeyboardDefaultLayoutHelpSP = "Reverts your keyboard setting to the default setup.";
-const RemYanflyKeyboardWASDTextSP = "WASD Movement Layout";
-const RemYanflyKeyboardWASDHelpSP = "Changes your keyboard to WASD movement.";
-const RemYanflyKeyboardFinishConfigTextSP = "Finish Configuration";
-const RemYanflyKeyboardFinishConfigHelpSP = "Are you done configuring your keyboard?";
-const RemYanflyKeyboardClearTextSP = "Clear";
+const RemYanflyKeyboardHelpSP = "¿Cambiar la configuración de esta tecla?";
+const RemYanflyKeyboardDefaultLayoutTextSP = "Disposición de Teclado Por Defecto";
+const RemYanflyKeyboardDefaultLayoutHelpSP = "Revierte tu configuración del teclado a la Por Defecto.";
+const RemYanflyKeyboardWASDTextSP = "Movimiento con WASD";
+const RemYanflyKeyboardWASDHelpSP = "Cambia el movimiento a las teclas WASD.";
+const RemYanflyKeyboardFinishConfigTextSP = "Finalizar Configuración";
+const RemYanflyKeyboardFinishConfigHelpSP = "¿Has terminado de configurar el teclado?";
+const RemYanflyKeyboardClearTextSP = "Quitar";
 const RemYanflyKeyboardOKKeySP = "OK";
-const RemYanflyKeyboardOKTextSP = "OK / Interact";
-const RemYanflyKeyboardEscapeKeySP = "Cancel/Menu";
-const RemYanflyKeyboardEscapeTextSP = "Cancel / Menu";
-const RemYanflyKeyboardCancelKeySP = "Cancel";
-const RemYanflyKeyboardCancelTextSP = "Cancel";
-const RemYanflyKeyboardMenuKeySP = "Menu";
-const RemYanflyKeyboardMenuTextSP = "Menu";
+const RemYanflyKeyboardOKTextSP = "OK / Interactuar";
+const RemYanflyKeyboardEscapeKeySP = "Cancelar/Menú";
+const RemYanflyKeyboardEscapeTextSP = "Cancelar / Menú";
+const RemYanflyKeyboardCancelKeySP = "Cancelar";
+const RemYanflyKeyboardCancelTextSP = "Cancelar";
+const RemYanflyKeyboardMenuKeySP = "Menú";
+const RemYanflyKeyboardMenuTextSP = "Menú";
 const RemYanflyKeyboardShiftKeySP = "Shift";
 const RemYanflyKeyboardShiftTextSP = "Shift";
 const RemYanflyKeyboardPageUpKeySP = "PgUp";
-const RemYanflyKeyboardPageUpTextSP = "Page Up / Backlog";
+const RemYanflyKeyboardPageUpTextSP = "Page Up / Registro";
 const RemYanflyKeyboardPageDownKeySP = "PgDn";
 const RemYanflyKeyboardPageDownTextSP = "Page Down";
 const RemYanflyKeyboardLeftKeySP = "←";
-const RemYanflyKeyboardLeftTextSP = "Left";
+const RemYanflyKeyboardLeftTextSP = "Izquierda";
 const RemYanflyKeyboardUpKeySP = "↑";
-const RemYanflyKeyboardUpTextSP = "Up";
+const RemYanflyKeyboardUpTextSP = "Arriba";
 const RemYanflyKeyboardRightKeySP = "→";
-const RemYanflyKeyboardRightTextSP = "Right";
+const RemYanflyKeyboardRightTextSP = "Derecha";
 const RemYanflyKeyboardDownKeySP = "↓";
-const RemYanflyKeyboardDownTextSP = "Down";
+const RemYanflyKeyboardDownTextSP = "Abajo";
 
 
 //Options Cheats
 const RemYanflyOptions_Cheats_ActorDoublePassiveGain_SP = "\\i[56]\\C[27]Hot Coffee";
-const RemYanflyOptions_Cheats_ActorDoublePassiveGain_Help_SP = "Karryn unlocks new Passives twice as fast.\nFor people who want to see Karryn turn into a slut faster.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_ActorDoublePassiveGain_Help_SP = "Karryn desbloquea pasivas el doble de rápido.\nPara quienes quieran ver a Karryn volverse una puta más rápido.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 
 const RemYanflyOptions_Cheats_ActorNoPassiveGain_SP = "\\i[56]\\C[25]Warm Coffee";
-const RemYanflyOptions_Cheats_ActorNoPassiveGain_Help_SP = "Karryn no longer unlocks any more Passives.\nFor people who want to keep Karryn the way she currently is.\nNote: This special cheat only works during Free Play Mode after certain Endings.";
+const RemYanflyOptions_Cheats_ActorNoPassiveGain_Help_SP = "Karryn ya no desbloquea más pasivas.\nPara quienes quieran mantener a Karryn en este estado.\nNota: Este truco solo funciona en el Modo de Juego Libre tras ciertos Finales.";
 
 const RemYanflyOptions_Cheats_EnemyDoublePhysicalDamage_SP = "\\i[429]\\C[14]WhosYourDaddy";
-const RemYanflyOptions_Cheats_EnemyDoublePhysicalDamage_Help_SP = "Enemies deal double the amount of stamina damage to Karryn.\nFor people who want to see Karryn be less invincible.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_EnemyDoublePhysicalDamage_Help_SP = "Los enemigos hacen el doble de daño a la resistencia de Karryn.\nPara quienes quieran ver a Karryn ser menos invencible.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_EnemyTriplePhysicalDamage_SP = "\\i[429]\\C[14]iddqd";
-const RemYanflyOptions_Cheats_EnemyTriplePhysicalDamage_Help_SP = "Enemies deal triple the amount of stamina damage to Karryn.\nFor people who want to see Karryn fall down from a few hits.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_EnemyTriplePhysicalDamage_Help_SP = "Los enemigos hacen el triple de daño a la resistencia de Karryn.\nPara quienes quieren ver a Karryn caer en un par de golpes.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_EnemyDoubleSexualDamage_SP = "\\i[387]\\C[1]BigDaddy";
-const RemYanflyOptions_Cheats_EnemyDoubleSexualDamage_Help_SP = "Enemies deal double the amount of pleasure damage to Karryn.\nFor people who want to see Karryn succumb to pleasure faster.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_EnemyDoubleSexualDamage_Help_SP = "Los enemigos hacen el doble de daño de placer a Karryn.\nPara quienes quieren ver a Karryn sucumbir al placer más rápido.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_EnemyTripleSexualDamage_SP = "\\i[387]\\C[1]there is no cow level";
-const RemYanflyOptions_Cheats_EnemyTripleSexualDamage_Help_SP = "Enemies deal triple the amount of pleasure damage to Karryn.\nFor people who want to turn Karryn into a puddle.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_EnemyTripleSexualDamage_Help_SP = "Los enemigos hacen el triple de daño de placer a Karryn.\nPara quienes quieren ver a Karryn hecha un flan.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_EnemyDoubleOrgasmPoint_SP = "\\i[387]\\C[1]godmode";
-const RemYanflyOptions_Cheats_EnemyDoubleOrgasmPoint_Help_SP = "Enemies take twice as much pleasure before they will cum.\nFor people who want the men to stop premature ejaculating to Karryn.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_EnemyDoubleOrgasmPoint_Help_SP = "Los enemigos soportan el doble de placer antes de correrse.\nPara quienes quieren que desaparezca la eyaculación precoz.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_EnemyAlwaysAct_SP = "\\i[385]\\C[2]stormbilly";
-const RemYanflyOptions_Cheats_EnemyAlwaysAct_Help_SP = "Enemies will always act every turn.\nFor people who don't want enemies to skip their turn.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_EnemyAlwaysAct_Help_SP = "Los enemigos actuarán todos los turnos.\nPara quien no quiera que los enemigos pierdan su turno.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_ActorHalfStaminaRegen_SP = "\\i[473]\\C[29]pepperoni pizza";
-const RemYanflyOptions_Cheats_ActorHalfStaminaRegen_Help_SP = "Karryn only regenerates half as much stamina.\nFor people who want to see Karryn get gradually worn down.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_ActorHalfStaminaRegen_Help_SP = "Karryn tiene la mitad de regeneración de resistencia.\nPara quienes quieren ver a Karryn cansarse poco a poco.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_ActorThirdStaminaRegen_SP = "\\i[473]\\C[29]Thereisnospoon";
-const RemYanflyOptions_Cheats_ActorThirdStaminaRegen_Help_SP = "Karryn only regenerates one-third as much stamina.\nFor people who want Karryn to regenerate much less.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_ActorThirdStaminaRegen_Help_SP = "Karryn tiene solo un tercio de regeneración de resistencia.\nPara quienes quieren que Karryn regenere mucha menos.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_ActorNoEvasion_SP = "\\i[427]\\C[30]Jack be nimble";
-const RemYanflyOptions_Cheats_ActorNoEvasion_Help_SP = "Karryn can no longer evade.\nFor people who want Karryn to take every attack head on.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_ActorNoEvasion_Help_SP = "Karryn ya no puede esquivar.\nPara quienes quieren que Karryn reciba todos los golpes de frente.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_ActorHalfExpRate_SP = "\\i[361]\\C[30]hoyohoyo";
-const RemYanflyOptions_Cheats_ActorHalfExpRate_Help_SP = "Karryn's experience rate is cut in half.\nFor people who want Karryn to take longer to level up.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_ActorHalfExpRate_Help_SP = "Karryn gana la mitad de experiencia.\nPara quienes quieren que karryn tarde más en subir de nivel.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_LessControlFive_SP = "\\i[377]\\C[10]ROSEBUD";
-const RemYanflyOptions_Cheats_LessControlFive_Help_SP = "Lowers the prison's Control by 5.\nFor people who want to see more lower Order stuff.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_LessControlFive_Help_SP = "Baja en 5 el Control de la prisión.\nPara quienes quieren que pasa al haber menor control.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_LessControlTen_SP = "\\i[377]\\C[10]showracemenu";
-const RemYanflyOptions_Cheats_LessControlTen_Help_SP = "Lowers the prison's Control by 10.\nFor people who want to quickly drop the prison's Order.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_LessControlTen_Help_SP = "Baja en 10 el Control de la prisión.\nPara quienes quieren bajar rápido el Control de la prisión.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_InstantRiotsOne_SP = "\\i[407]\\C[7]Greedisgood";
-const RemYanflyOptions_Cheats_InstantRiotsOne_Help_SP = "Prison Level One is pretty much going to riot every three days.\nFor people who want to re-experience a certain level's contents.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_InstantRiotsOne_Help_SP = "El Nivel uno se va a amotinar cada 3 días.\nPara quienes quieren volver a experimentar el contenido de un cierto nivel.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_InstantRiotsTwo_SP = "\\i[407]\\C[7]black sheep wall";
-const RemYanflyOptions_Cheats_InstantRiotsTwo_Help_SP = "Prison Level Two is pretty much going to riot every three days.\nFor people who want to re-experience a certain level's contents.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_InstantRiotsTwo_Help_SP = "El Nivel dos se va a amotinar cada 3 días.\nPara quienes quieren volver a experimentar el contenido de un cierto nivel.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_InstantRiotsThree_SP = "\\i[407]\\C[7]lumberjack";
-const RemYanflyOptions_Cheats_InstantRiotsThree_Help_SP = "Prison Level Three is pretty much going to riot every three days.\nFor people who want to re-experience a certain level's contents.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_InstantRiotsThree_Help_SP = "El Nivel tres se va a amotinar cada 3 días.\nPara quienes quieren volver a experimentar el contenido de un cierto nivel.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_InstantRiotsFour_SP = "\\i[407]\\C[7]allyourbasearebelongtous";
-const RemYanflyOptions_Cheats_InstantRiotsFour_Help_SP = "Prison Level Four is pretty much going to riot every three days.\nFor people who want to re-experience a certain level's contents.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_InstantRiotsFour_Help_SP = "El Nivel cuatro se va a amotinar cada 3 días.\nPara quienes quieren volver a experimentar el contenido de un cierto nivel.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 const RemYanflyOptions_Cheats_WaitressLog_SP = "\\i[282]\\C[17]KeyserSoze";
-const RemYanflyOptions_Cheats_WaitressLog_Help_SP = "Enables access to the History log during the Waitress side job.\nFor people who don't want to memorize orders.\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_WaitressLog_Help_SP = "Permite acceder al Registro Histórico mientras trabajas de camarera.\nPara quienes no quieren memorizar comandas.\nNota: Los trucos solo funcionan en el Modo Secretaria";
 
 const RemYanflyOptions_Cheats_WaitressMemory_SP = "\\i[282]\\C[17]KeyserSoze";
-const RemYanflyOptions_Cheats_WaitressMemory_Help_SP = "Removes the icon for the drink bar patrons ordered.\nFor people who want to memorize orders.\nNote: This cheat works on all modes.";
+const RemYanflyOptions_Cheats_WaitressMemory_Help_SP = "Quita el icono de la bebida que pidan los clientes del bar.\nPara quienes quierenmemorizar comandos.\nNota: Este truco funciona en todos los modos.";
 
 const RemYanflyOptions_Cheats_NoAutoSave_SP = "\\i[282]The \\C[18]K*n*mi\\C[0] Code";
-const RemYanflyOptions_Cheats_NoAutoSave_Help_SP = "Disables autosave.\nJust make sure to save often!\nNote: Cheats only work in Secretary Mode.";
+const RemYanflyOptions_Cheats_NoAutoSave_Help_SP = "Desactiva el autoguardado.\n¡Acuérdate de guardar a menudo!\nNota: Los trucos solo funcionan en el Modo Secretaria";
 
-const RemYanflyOptions_BoobsSize_SP = "\\i[58]Karryn's Boobs Size";
-const RemYanflyOptions_BoobsSize_Help_SP = "Changing Karryn's boobs size is cosmetic only and has no gameplay effect.";
-const RemYanflyOptions_BoobsSize_One_SP = "K Cup (Huge) (Default)";
-const RemYanflyOptions_BoobsSize_Two_SP = "H Cup (Big)";
-const RemYanflyOptions_BoobsSize_Three_SP = "P Cup (Massive)";
+const RemYanflyOptions_BoobsSize_SP = "\\i[58]Tamaño de las Tetas";
+const RemYanflyOptions_BoobsSize_Help_SP = "El tamaño de las tetas de Karryn es puramente cosmético y no afecta a la jugabilidad.";
+const RemYanflyOptions_BoobsSize_One_SP = "Copa K (Enormes) (Por Defecto)";
+const RemYanflyOptions_BoobsSize_Two_SP = "Copa H (Grandes)";
+const RemYanflyOptions_BoobsSize_Three_SP = "Copa P (Inmensas)";
 
-const RemYanflyOptions_HairColor_SP = "\\i[594]Karryn's Hair Color";
-const RemYanflyOptions_HairColor_Help_SP = "Changing Karryn's hair color is cosmetic only and has no gameplay effect.\nNote that dialogues, cut-ins and certain sprites will still refer to Karryn's hair color as purple.\nRequires the Stray Pubes DLC.";
-const RemYanflyOptions_HairColor_One_SP = "Purple (Default)";
-const RemYanflyOptions_HairColor_Two_SP = "Blond";
-const RemYanflyOptions_HairColor_Three_SP = "Black";
+const RemYanflyOptions_HairColor_SP = "\\i[594]Color de Pelo de Karryn";
+const RemYanflyOptions_HairColor_Help_SP = "El color del pelo de Karryn es puramente cosmético y no afecta a la jugabilidad.\nNota: En ciertos diálogos y 'cortes' la gente sigue diciendo que el pelo es morado.\nRequiere el DLC Stray Pubes.";
+const RemYanflyOptions_HairColor_One_SP = "Morado (Por Defecto)";
+const RemYanflyOptions_HairColor_Two_SP = "Rubio";
+const RemYanflyOptions_HairColor_Three_SP = "Negro";
 
-const RemYanflyOptions_DisplayPubicHair_SP = "\\i[595]Toggle Karryn's Pubic Hair";
-const RemYanflyOptions_DisplayPubicHair_Help_SP = "Turn this option ON for Karryn to have pubic hair.\nKarryn having pubic hair or not is cosmetic only and has no gameplay effect.";
+const RemYanflyOptions_DisplayPubicHair_SP = "\\i[595]Activar Vello Púbico";
+const RemYanflyOptions_DisplayPubicHair_Help_SP = "Activa esto para que karryn tenga vello púbico.\nEsto es algo puramente cosmético y no afecta a la jugabilidad.";
 
-const RemYanflyOptions_PubicColor_SP = "\\i[595]Karryn's Pubic Color";
-const RemYanflyOptions_PubicColor_Help_SP = "Changing Karryn's pubic color is cosmetic only and has no gameplay effect.\nRequires the Stray Pubes DLC.";
-const RemYanflyOptions_PubicColor_Zero_SP = "Same as Hair Color (Default)";
-const RemYanflyOptions_PubicColor_One_SP = "Purple";
-const RemYanflyOptions_PubicColor_Two_SP = "Blond";
-const RemYanflyOptions_PubicColor_Three_SP = "Black";
+const RemYanflyOptions_PubicColor_SP = "\\i[595]Color del Vello Púbico de Karryn";
+const RemYanflyOptions_PubicColor_Help_SP = "Esto es algo puramente cosmético y no afecta a la jugabilidad.\nRequiere el DLC Stray Pubes.";
+const RemYanflyOptions_PubicColor_Zero_SP = "Mismo color que el pelo (Por Defecto)";
+const RemYanflyOptions_PubicColor_One_SP = "Morado";
+const RemYanflyOptions_PubicColor_Two_SP = "Rubio";
+const RemYanflyOptions_PubicColor_Three_SP = "Negro";
 
-const RemYanflyOptions_PubicStyle_SP = "\\i[595]Karryn's Pubic Style";
-const RemYanflyOptions_PubicStyle_Help_SP = "Changing Karryn's pubic style is cosmetic only and has no gameplay effect.\nRequires the Stray Pubes DLC.";
-const RemYanflyOptions_PubicStyle_One_SP = "Natural (Default)";
-const RemYanflyOptions_PubicStyle_Two_SP = "Trimmed";
-const RemYanflyOptions_PubicStyle_Three_SP = "Bushy";
+const RemYanflyOptions_PubicStyle_SP = "\\i[595]Estilo del Vello Púbico de Karryn";
+const RemYanflyOptions_PubicStyle_Help_SP = "Esto es algo puramente cosmético y no afecta a la jugabilidad.\nRequiere el DLC Stray Pubes.";
+const RemYanflyOptions_PubicStyle_One_SP = "Natural (Por Defecto)";
+const RemYanflyOptions_PubicStyle_Two_SP = "Recortadito";
+const RemYanflyOptions_PubicStyle_Three_SP = "Peludito";
 
-const RemYanflyOptions_ToggleMaleStrayPubes_SP = "\\i[596]Toggle Male Stray Pubes";
-const RemYanflyOptions_ToggleMaleStrayPubes_Help_SP = "Turn this option ON for a chance of stray male pubes sticking onto Karryn's body.\nRequires the Stray Pubes DLC.";
-const RemYanflyOptions_StrayPubesAmount_SP = "\\i[596]Stray Pubes Amount";
-const RemYanflyOptions_StrayPubesAmount_Help_SP = "This setting affects the chance and possible amount of stray pubes that can stick onto Karryn.\nPlay around with this setting if you feel like there's too much or not enough\ndirty male pubic hair on Karryn! Requires the Stray Pubes DLC.";
-const RemYanflyOptions_StrayPubesAmount_One_SP = "Default";
-const RemYanflyOptions_StrayPubesAmount_Two_SP = "Less";
-const RemYanflyOptions_StrayPubesAmount_Three_SP = "More";
+const RemYanflyOptions_ToggleMaleStrayPubes_SP = "\\i[596]Activar Vellos Púbicos Masculinos";
+const RemYanflyOptions_ToggleMaleStrayPubes_Help_SP = "Activa esta opción para que se le peguen vellos púbicos a Karryn por el cuerpo.\nRequiere el DLC Stray Pubes.";
+const RemYanflyOptions_StrayPubesAmount_SP = "\\i[596]Cantidad de Vello Púbico";
+const RemYanflyOptions_StrayPubesAmount_Help_SP = "Esta opción afecta a la cantidad y probabilidad de vello que se le pueden pegar a Karryn.\n¡Ve probando para ver si quieres más o menos\nvellos púbicos pegados a Karryn! Requiere el DLC Stray Pubes.";
+const RemYanflyOptions_StrayPubesAmount_One_SP = "Por Defecto";
+const RemYanflyOptions_StrayPubesAmount_Two_SP = "Menos";
+const RemYanflyOptions_StrayPubesAmount_Three_SP = "Más";
 
 
-const RemYanflyOptions_LovenseEnable_SP = "1) Enable Lovense Integration";
-const RemYanflyOptions_LovenseEnable_Help_SP = "\\}Turn this setting ON to show Lovense Integration related settings.\n\\{Note that a real life Lovense sex toy will be required to use any of these features.";
+const RemYanflyOptions_LovenseEnable_SP = "1) Activar Integración con Lovense";
+const RemYanflyOptions_LovenseEnable_Help_SP = "\\}Activa esta opción para ver las opciones de integración de Lovense.\n\\{Se requiere un juguete Lovense en la vida real para usar estas opciones.";
 
-const RemYanflyOptions_LovenseConnectionType_SP = "2) Select Connection Type";
-const RemYanflyOptions_LovenseConnectionType_Help_SP = "Connect your Lovense toys to the Lovense Remote App.\n\\}Please select which version of the Lovense Remote App you're using to connect.";
+const RemYanflyOptions_LovenseConnectionType_SP = "2) Elegir Tipo de Conexión";
+const RemYanflyOptions_LovenseConnectionType_Help_SP = "Conecta tus juguetes Lovense a la app Lovense Remote.\n\\}Selecciona la versión de la app Lovense Remote estás usando para conectarte.";
 const RemYanflyOptions_LovenseConnectionType_Mobile_SP = "iPhone/Android";
 const RemYanflyOptions_LovenseConnectionType_PC_SP = "Windows";
 
-const RemYanflyOptions_LovenseMobileIP_SP = "Enter Local IP";
-const RemYanflyOptions_LovenseMobileIP_Help_SP = "\\}Please enter the Local IP displayed in the Game Mode screen of the mobile Lovense Remote app.\nIf you're streaming, please hide this screen while inputting the Local IP.";
-const RemYanflyOptions_LovenseMobileIP_Text_SP = "Please enter IP here";
+const RemYanflyOptions_LovenseMobileIP_SP = "Introduce la IP Local";
+const RemYanflyOptions_LovenseMobileIP_Help_SP = "\\}Introduce la IP Local mostrada en la pantalla de Modo de Juego de la app Lovense Remote.\nSi estás en streaming, esconde esta pantalla mientras metes la IP Local.";
+const RemYanflyOptions_LovenseMobileIP_Text_SP = "Porfavor introduce la IP aquí";
 
-const RemYanflyOptions_LovenseMobilePort_SP = "Enter Http Port";
-const RemYanflyOptions_LovenseMobilePort_Help_SP = "\\}Please enter the Http Port displayed in the Game Mode screen of the mobile Lovense Remote app.\nIf you're streaming, please hide this screen while inputting the Http Port.";
-const RemYanflyOptions_LovenseMobilePort_Text_SP = "Please enter port here";
+const RemYanflyOptions_LovenseMobilePort_SP = "Introduce Puerto HTTP";
+const RemYanflyOptions_LovenseMobilePort_Help_SP = "\\}Introduce el Puerto HTTP en la pantalla de Modo de Juego de la app Lovense Remote.\nSi estás en streaming, esconde esta pantalla mientras metes el Puerto HTTP.";
+const RemYanflyOptions_LovenseMobilePort_Text_SP = "Porfavor introduce el puerto aquí";
 
-const RemYanflyOptions_LovenseMobileHint_SP = "Please enter here";
+const RemYanflyOptions_LovenseMobileHint_SP = "Porfavor introduce aquí";
 
-const RemYanflyOptions_LovenseConnectToys_SP = "3) Connect Toys";
-const RemYanflyOptions_LovenseConnectToys_Help_SP = "Please press the Connect button after completing the above steps.";
-const RemYanflyOptions_LovenseConnectToys_Text_SP = "CONNECT";
+const RemYanflyOptions_LovenseConnectToys_SP = "3) Conectar juguetes";
+const RemYanflyOptions_LovenseConnectToys_Help_SP = "Pulsa el botón Conectar tras haber completado los pasos anteriores.";
+const RemYanflyOptions_LovenseConnectToys_Text_SP = "CONNECTAR";
 
-const RemYanflyOptions_LovenseNoToysConnected_SP = "\\C[18]>>>No toys are currently connected<<<";
-const RemYanflyOptions_LovenseNoToysConnected_Help_SP = "\\}If you're having issues connecting the toys to the game,\nreview the above steps, make sure you're on the same Wifi network,\nand your VPN is turned off.";
+const RemYanflyOptions_LovenseNoToysConnected_SP = "\\C[18]>>>Ningún juguete conectado<<<";
+const RemYanflyOptions_LovenseNoToysConnected_Help_SP = "\\}Si estás teniendo problemas conectando un juguete,\nRevisa los pasos anteriores, asegúrate de estar en la misma red Wi-Fi\ny no uses VPN.";
 
 
-const RemYanflyOptions_LovenseToyNameList_SP = "Name: %1   Battery: %2%"; //Example 'Name: Rem's Toy  Battery: 69%'
+const RemYanflyOptions_LovenseToyNameList_SP = "Nombre: %1   Batería: %2%"; //Example 'Name: Rem's Toy  Battery: 69%'
 const RemYanflyOptions_LovenseToyNameList_Test_SP = "test"; 
 
-const RemYanflyOptions_LovenseIntensity_SP = "(Optional) Change Global Intensity";
-const RemYanflyOptions_LovenseIntensity_Help_SP = "This setting allows you modify the intensity of all toy responses.\n\\}Note that the intensity of a toy response is also based on the type of sexual play and Karryn's sluttiness.\n\\}Lowering the intensity here is recommended if this is your first time enabling Lovense Integration for a slutty Karryn until you've adapted.";
+const RemYanflyOptions_LovenseIntensity_SP = "(Opcional) Cambiar Intensidad Global";
+const RemYanflyOptions_LovenseIntensity_Help_SP = "Modifica la intensidad de todas las respuestas del juguete.\n\\}La intensidad de la respuesta cambia según el acto sexual y lo puta que sea Karryn.\n\\}Su es tu primera vez y tu karry es muy puta, se recomienda bajar la sensibilidad hasta que te acostumbres.";
 
-const RemYanflyOptions_LovenseTime_SP = "(Optional) Change Global Duration";
-const RemYanflyOptions_LovenseTime_Help_SP = "\\}Most non-penetrative sexual acts trigger a toy response only for a limited duration before automatically stopping.\nThis setting allows you modify the duration of those toy responses for all toys.";
+const RemYanflyOptions_LovenseTime_SP = "(Opcional) Cambiar Duración Global";
+const RemYanflyOptions_LovenseTime_Help_SP = "\\}Los actos sexuales sin penetración activan una respuesta corta del juguete.\nEsta opción te permite cambiar la duración de esa respuesta para todos los juguetes.";
 const RemYanflyOptions_LovenseTime_Zero_SP = "1/2";
-const RemYanflyOptions_LovenseTime_One_SP = "Default";
+const RemYanflyOptions_LovenseTime_One_SP = "Por Defecto";
 const RemYanflyOptions_LovenseTime_Two_SP = "2x";
 const RemYanflyOptions_LovenseTime_Three_SP = "3x";
 const RemYanflyOptions_LovenseTime_Four_SP = "5x";
-const RemYanflyOptions_LovenseTime_Five_SP = "Infinite";
+const RemYanflyOptions_LovenseTime_Five_SP = "Infinita";
 const RemYanflyOptions_LovenseTime_Six_SP = "1/6";
 const RemYanflyOptions_LovenseTime_Seven_SP = "1/4";
 
-const RemYanflyOptions_LovensePumpEnable_SP = "(Optional) Enable Air Pump";
-const RemYanflyOptions_LovensePumpEnable_Help_SP = "Max/Max2 toys have the ability to compress using its air pump.\nYou can turn it off using this option.";
+const RemYanflyOptions_LovensePumpEnable_SP = "(Opcional) Activar Bomba de Aire";
+const RemYanflyOptions_LovensePumpEnable_Help_SP = "Los juguetes Max/Max2 se comprimen con una bomba de aire.\nCon esta opción puedes desactivarlo.";
 
-const RemYanflyOptions_LovenseEnableRAID_SP = "4) \\C[27]Enable RAID";
-const RemYanflyOptions_LovenseEnableRAID_Help_SP = "\\}\\}'Rem's Advanced Integrated Disco' or RAID for short is Rem's unique toy integration system made for Karryn's Prison.\nBy default with RAID turned off, all connected toys will respond to EVERY sexual act to Karryn.\nTurning on RAID will enable a preset config based on your toys and \\C[27]allow further advanced customization for each connected toy.\\C[0]";
+const RemYanflyOptions_LovenseEnableRAID_SP = "4) \\C[27]Activar RAID";
+const RemYanflyOptions_LovenseEnableRAID_Help_SP = "\\}\\}'Rem's Advanced Integrated Disco' o RAID para acortar es el sistema de integración hecho por Rem para Karryn's Prison.\ncon RAID apagado, TODOS los juguetes reaccionaran a TODOS los actos sexuales.\ncon RAID se establecerá una configuración según tus juguetes y\\C[27]por cada juguete se permitirá una mayor personalización.\\C[0]";
 
-const RemYanflyOptions_RAIDparty_Help_SP = "\\}Choose whether this is a '\\C[5]Party\\C[0]' toy or '\\C[4]Solo\\C[0]' toy.\n\\}\\C[5]Party\\C[0] toys will respond to all sex acts EXCEPT for the ones attributed to other toys.\n\\C[4]Solo\\C[0] toys will ONLY respond to sex acts attributed to it.";
-const RemYanflyOptions_RAIDparty_Solo_SP = "Solo";
-const RemYanflyOptions_RAIDparty_Party_SP = "Party";
+const RemYanflyOptions_RAIDparty_Help_SP = "\\}Elige si esto es un juguete '\\C[5]Grupal\\C[0]' o '\\C[4]Individual\\C[0]'.\n\\}Los juguetes\\C[5]Grupales\\C[0] responden a todos los actos sexuales EXCEPTO los atribuidos a otros juguetes.\nLos juguetes \\C[4]Individuales\\C[0] responden solo a los actos sexuales que se les atribuyen.";
+const RemYanflyOptions_RAIDparty_Solo_SP = "Individual";
+const RemYanflyOptions_RAIDparty_Party_SP = "Grupal";
 
-const RemYanflyOptions_RAIDsexact_Help_SP = "\\}Choose up to five different sex acts to attribute to this toy.\n\\}When a sex act is attributed to this toy, this toy will respond when that sex act happens to Karryn.\nAttributed sex acts are also more intense for this toy.";
-const RemYanflyOptions_RAIDsexact_Mouth_SP = "Mouth";
-const RemYanflyOptions_RAIDsexact_Boobs_SP = "Boobs";
-const RemYanflyOptions_RAIDsexact_Clit_SP = "Clit";
-const RemYanflyOptions_RAIDsexact_Pussy_SP = "Pussy";
+const RemYanflyOptions_RAIDsexact_Help_SP = "\\}Elige hasta cinco actos sexuales para este juguete.\n\\}El juguete reaccionará cuando su acto atribuido lo realice Karryn.\nLos actos sexuales atribuidos serán más intensos.";
+const RemYanflyOptions_RAIDsexact_Mouth_SP = "Boca";
+const RemYanflyOptions_RAIDsexact_Boobs_SP = "Tetas";
+const RemYanflyOptions_RAIDsexact_Clit_SP = "Clítoris";
+const RemYanflyOptions_RAIDsexact_Pussy_SP = "Coño";
 const RemYanflyOptions_RAIDsexact_Anal_SP = "Anal";
-const RemYanflyOptions_RAIDsexact_Exhibitionism_SP = "Exhibitionism";
-const RemYanflyOptions_RAIDsexact_Masochism_SP = "Masochism";
-const RemYanflyOptions_RAIDsexact_Sadism_SP = "Sadism";
-const RemYanflyOptions_RAIDsexact_Rimjob_SP = "Rimjob";
-const RemYanflyOptions_RAIDsexact_Footjob_SP = "Footjob";
-const RemYanflyOptions_RAIDsexact_Hands_SP = "Hands";
+const RemYanflyOptions_RAIDsexact_Exhibitionism_SP = "Exhibicionismo";
+const RemYanflyOptions_RAIDsexact_Masochism_SP = "Masoquismo";
+const RemYanflyOptions_RAIDsexact_Sadism_SP = "Sadismo";
+const RemYanflyOptions_RAIDsexact_Rimjob_SP = "Anilingus";
+const RemYanflyOptions_RAIDsexact_Footjob_SP = "Paja con los Pies";
+const RemYanflyOptions_RAIDsexact_Hands_SP = "Manos";
 
-const RemYanflyOptions_RAIDarousal_Help_SP = "\\}Choose whether to have this toy respond to Karryn's Arousal.\nIf Arousal is set ON, this toy will produce a constant, low response while Karryn is aroused.";
-const RemYanflyOptions_RAIDarousal_ON_SP = "Arousal ON";
-const RemYanflyOptions_RAIDarousal_OFF_SP = "Arousal OFF";
-const RemYanflyOptions_RAIDorgasm_Help_SP = "\\}Choose whether to have this toy respond when Karryn has an orgasm.\nIf orgasm is set ON, this toy will produce a short, extremely high response whenever Karryn orgasms.";
-const RemYanflyOptions_RAIDorgasm_ON_SP = "Orgasm ON";
-const RemYanflyOptions_RAIDorgasm_OFF_SP = "Orgasm OFF";
+const RemYanflyOptions_RAIDarousal_Help_SP = "\\}Elige si este juguete responde a la excitación de Karryn.\nSi está activado, producirá una pequeña pero constante respuesta mientras Karryn esté excitada";
+const RemYanflyOptions_RAIDarousal_ON_SP = "Excitación ACTIVADA";
+const RemYanflyOptions_RAIDarousal_OFF_SP = "Excitación DESACTIVADA";
+const RemYanflyOptions_RAIDorgasm_Help_SP = "\\}Elige si este juguete responde a los orgasmos de Karryn.\nSi está activado, producirá una corta pero extremadamente fuerte cuando Karryn se corra.";
+const RemYanflyOptions_RAIDorgasm_ON_SP = "Orgasmos ACTIVADOS";
+const RemYanflyOptions_RAIDorgasm_OFF_SP = "Orgasmos DESACTIVADOS";
 
-const RemYanflyOptions_RAIDintensity_Help_SP = "Choose the intensity for this toy.\nChoosing global will use the global intensity setting for all toys.";
-const RemYanflyOptions_RAIDintensity_Global_SP = "Global Intensity";
+const RemYanflyOptions_RAIDintensity_Help_SP = "Elige la intensidad de este juguete.\nElegir Global usará la intensidad global para todos los juguetes.";
+const RemYanflyOptions_RAIDintensity_Global_SP = "Intensidad Global";
 
-const RemYanflyOptions_RAIDtime_Help_SP = "Choose the duration for this toy.\nChoosing global will use the global duration setting for all toys.";
-const RemYanflyOptions_RAIDtime_Global_SP = "Global Duration";
-const RemYanflyOptions_RAIDTime_One_SP = "Default";
+const RemYanflyOptions_RAIDtime_Help_SP = "Elige la duración de este juguete.\nElegir Global usará la intensidad global para todos los juguetes.";
+const RemYanflyOptions_RAIDtime_Global_SP = "Duración Global ";
+const RemYanflyOptions_RAIDTime_One_SP = "Por Defecto";
 const RemYanflyOptions_RAIDTime_Two_SP = "2x";
 const RemYanflyOptions_RAIDTime_Three_SP = "3x";
 const RemYanflyOptions_RAIDTime_Four_SP = "5x";
-const RemYanflyOptions_RAIDTime_Five_SP = "Infinite";
+const RemYanflyOptions_RAIDTime_Five_SP = "Infinita";
 const RemYanflyOptions_RAIDTime_Six_SP = "1/6";
 const RemYanflyOptions_RAIDTime_Seven_SP = "1/4";
 const RemYanflyOptions_RAIDTime_Eight_SP = "1/2";
 
-const RemYanflyOptions_OptionsOn_SP = "ON";
-const RemYanflyOptions_OptionsOff_SP = "OFF";
+const RemYanflyOptions_OptionsOn_SP = "ACTIVAR";
+const RemYanflyOptions_OptionsOff_SP = "DESACTIVAR";
 
 //Save
-const RemYanflySaveYesSP = "Yes";
+const RemYanflySaveYesSP = "Si";
 const RemYanflySaveNoSP = "No";
-const RemYanflySaveEmptySP = "Empty";
-const RemYanflySaveDeleteTextSP = "Do you wish to delete this save file?";
-const RemYanflySaveLoadTextSP = "Do you wish to load this save file?";
-const RemYanflySaveSaveTextSP = "Do you wish to overwrite this save file?";
-const RemYanflySaveInvalidTextSP = "This save is for a different game.";
-const RemYanflySaveSelectHelpSP = "Please select a file slot.";
-const RemYanflySaveLoadHelpSP = "Loads the data from the saved game.";
-const RemYanflySaveSaveHelpSP = "Saves the current progress in your game.";
-const RemYanflySaveDeleteHelpSP = "Deletes all data from this save file.";
-const RemYanflyAutosavingSP = "Autosaving...";
+const RemYanflySaveEmptySP = "Vacío";
+const RemYanflySaveDeleteTextSP = "¿Quieres borrar este archivo?";
+const RemYanflySaveLoadTextSP = "¿Quieres cargar este archivo?";
+const RemYanflySaveSaveTextSP = "¿Quieres sobreescribir este archivo?";
+const RemYanflySaveInvalidTextSP = "Este archivo es de un juego distinto.";
+const RemYanflySaveSelectHelpSP = "Elige una ranura de guardado.";
+const RemYanflySaveLoadHelpSP = "Carga los datos de una partida guardada.";
+const RemYanflySaveSaveHelpSP = "Guarda el progreso de tu partida.";
+const RemYanflySaveDeleteHelpSP = "Borra todos los datos de este archivo de guardado.";
+const RemYanflyAutosavingSP = "Guardado automático...";
 
-const RemYanflySavePlaytimeSP = "Playtime:";
-const RemYanflySaveTotalSavesSP = "Total Saves:";
-const RemYanflySaveTotalDaysSP = "Total Days Spent:";
-const RemYanflySaveTotalPlaythroughsSP = "Total Playthroughs:";
-const RemYanflySaveTotalGameClearsSP = "Game Clear Count:";
+const RemYanflySavePlaytimeSP = "Tiempo de Juego:";
+const RemYanflySaveTotalSavesSP = "Partidas Totales:";
+const RemYanflySaveTotalDaysSP = "Total de Días Jugados:";
+const RemYanflySaveTotalPlaythroughsSP = "Playthroughs Totales:";
+const RemYanflySaveTotalGameClearsSP = "Nº de Partidas Completadas:";
 const RemYanflySaveTotalEndingsSP = "Endings Seen:"; // currently unused
 
 const RemYanflyTargetEverybodySP = "Everybody"; // currently unused
@@ -1329,238 +1329,238 @@ const RemYanflyTargetFemaleAllySP = "Female Ally"; // currently unused
 const RemYanflyTargetFemaleEnemySP = "Female Enemy"; // currently unused
 
 const RemFTKRSkillTreeConfirmTextSP = "%2";
-const RemFTKRSkillTreeYesSP = "Enact";
-const RemFTKRSkillTreeNoSP = "Cancel";
-const RemFTKRSkillTreeEdictPointsSP = "Edict Points:";
-const RemFTKRSkillTreeEdictPointsAbbrSP = "EP";
-const RemFTKRSkillTreeOrderSP = "Order:";
-const RemFTKRSkillTreeFundingSP = "Funds:";
-const RemFTKRSkillTreeFundingCostSP = "Cost:";
+const RemFTKRSkillTreeYesSP = "Promulgar";
+const RemFTKRSkillTreeNoSP = "Cancelar";
+const RemFTKRSkillTreeEdictPointsSP = "Puntos de Decreto:";
+const RemFTKRSkillTreeEdictPointsAbbrSP = "PD";
+const RemFTKRSkillTreeOrderSP = "Orden:";
+const RemFTKRSkillTreeFundingSP = "Fondos:";
+const RemFTKRSkillTreeFundingCostSP = "Coste:";
 const RemFTKRSkillTreeCostItemSP = "%1 Cost:"; // currently unused
-const RemFTKRSkillTreePreReqTextSP = "\\c[16]Requirements:";
-const RemFTKRSkillTreeReqTypeEdictSP = "Edict: ";
-const RemFTKRSkillTreeReqTypePassiveSP = "Passive: ";
+const RemFTKRSkillTreePreReqTextSP = "\\c[16]Requisitos:";
+const RemFTKRSkillTreeReqTypeEdictSP = "Decreto: ";
+const RemFTKRSkillTreeReqTypePassiveSP = "Pasiva: ";
 
 
-const RemErrorMessageSP = "If your error message says 'Array buffer allocation failed' or 'resolution' or 'Out of memory', then your game has run out of memory so please close all other programs, ESPECIALLY BROWSER WINDOWS, before running Karryn's Prison. For all other errors, if your game files or save file haven't been modified and you're playing a legitimate Steam or DLsite copy of the game, please take a screenshot of this screen and report it to the #kp-bug-reports channel on our Discord! Please also tell us as many details of what happened before your error occurred!";
+const RemErrorMessageSP = "Si el mensaje de error dice 'Array buffer allocation failed' o 'resolution' o 'Out of memory', entonces el juego se ha quedado sin memoria, cierra todos los programas, ESPECIALMENTE LAS VENTANAS DEL NAVEGADOR, antes de ejecutar Karryn's Prison. Para el resto de errores, si los archivos del juego y de tu partida no se han modificado, y si estás jugando una copia legítima de Steam o DLsite, porfavor, ¡toma una captura de pantalla del error y publícala en el canal #kp-bug-reports channel de nuestro Discord! ¡Cuéntanos también tantos detalles como sea posible de lo que estaba pasando justo antes de que ocurriera el error!";
 
-const RemEquipTypesSP = ["","Weapon","Accessory","Title","Load Equip Set", "Save Equip Set"];
+const RemEquipTypesSP = ["","Arma","Accesorio","Título","Cargar Set de Equipo", "Guardar Set de Equipo"];
 
 const RemSkillTypesSP = ["",
-"Attack",
-"Energy",
+"Ataque",
+"Energía",
 "Sexual",
-"Willpower",
-"Buffs",
-"Debuffs",
-"Passives",
-"Edicts",
-"Talk",
-"Sight",
-"Off-balance",
-"Fallen",
-"Masturbate",
-"Disarmed",
-"Waitress",
-"Bartender",
-"Receptionist",
-"Toilet",
-"Masturbate",
+"Fuerza de Voluntad",
+"Ventajas",
+"Desventajas",
+"Pasivas",
+"Decretos",
+"Comentarios",
+"Miradas",
+"Pérdida de Equilibrio",
+"En el Suelo",
+"Masturbarse",
+"Desarmada",
+"Camarera",
+"Barman",
+"Recepcionista",
+"Baño",
+"Masturbarse",
 "Stripper",
-"Intermission",
-"Trainer"
+"Intermedio",
+"Entrenadora"
 ];
 
 
 //Enemy Types
-const RemPrisonerGenericSP = "Prisoner";
-const RemPrisonerGuardSP = "Guard";
-const RemPrisonerThugSP = "Thug";
+const RemPrisonerGenericSP = "Prisionero";
+const RemPrisonerGuardSP = "Guardia";
+const RemPrisonerThugSP = "Matón";
 const RemPrisonerGoblinSP = "Goblin";
-const RemPrisonerOrcSP = "Orc";
+const RemPrisonerOrcSP = "Orco";
 const RemPrisonerSlimeSP = "Slime";
-const RemPrisonerNerdSP = "Nerd";
-const RemPrisonerRogueSP = "Rogue";
-const RemPrisonerLizardmanSP = "Lizardman";
-const RemPrisonerHomelessSP = "Hobo";
-const RemPrisonerWerewolfSP = "Werewolf";
+const RemPrisonerNerdSP = "Friki";
+const RemPrisonerRogueSP = "Pícaro";
+const RemPrisonerLizardmanSP = "Hombre Lagarto";
+const RemPrisonerHomelessSP = "Vagabundo";
+const RemPrisonerWerewolfSP = "Hombre Lobo";
 const RemPrisonerYetiSP = "Yeti";
 
 
-const RemReceptionistVisitorSP = "Visitor";
+const RemReceptionistVisitorSP = "Visitante";
 const RemReceptionistFanSP = "Fan";
 
 //Boss Types
-const RemBossYasuSP = "Deputy Warden";
-const RemBossTonkinSP = "Orc";
+const RemBossYasuSP = "Subdirector";
+const RemBossTonkinSP = "Orco";
 const RemBossCargillSP = "Doctor";
-const RemBossAronSP = "Alpha Lizardman";
-const RemBossNoinimSP = "Great Yeti";
-const RemBossGobrielSP = "Captain";
-const RemBossEmperorSP = "His Imperial Majesty";
+const RemBossAronSP = "Hombre Lagarto Alpha";
+const RemBossNoinimSP = "Gran Yeti";
+const RemBossGobrielSP = "Capitán";
+const RemBossEmperorSP = "Su Majestad Imperial";
 
 //Disable Smegma Text
-const RemDisableSmegmaSkill815NameSP = "Dick Cleaning Machine";
+const RemDisableSmegmaSkill815NameSP = "Máquina Limpia-pollas";
 
 
 //Skills
-const RemRestoreMindPartialSuccessSP = "%1 succeeds in restoring a bit of her mind.";
-const RemRestoreMindFullSuccessSP = "%1 succeeds in regaining her mind!";
-const RemRestoreMindFailureSP = "%1 wasn't able to restore her mind...";
+const RemRestoreMindPartialSuccessSP = "%1 consigue restaurar un poco de su mente.";
+const RemRestoreMindFullSuccessSP = "¡%1 consigue restaurar su mente!";
+const RemRestoreMindFailureSP = "¡%1 no pudo restaurar su mente...";
 
 //Orgasm Skill Message
-const RemOrgasmSkillMessageKarrynKissSP = " from kissing";
-const RemOrgasmSkillMessageKarrynPettingSP = " from rubbing a cock";
-const RemOrgasmSkillMessageKarrynHandjobSP = " from jerking off a cock";
-const RemOrgasmSkillMessageKarrynBlowjobSP = " from sucking dick";
-const RemOrgasmSkillMessageKarrynTittyFuckSP = " from fucking a cock with her tits";
-const RemOrgasmSkillMessageKarrynPussySexSP = " from fucking a cock with her pussy";
-const RemOrgasmSkillMessageKarrynAnalSexSP = " from fucking a cock with her ass";
-const RemOrgasmSkillMessageEnemyKissSP = " from being kissed";
-const RemOrgasmSkillMessageEnemyPettingSP = " from being petted";
-const RemOrgasmSkillMessageEnemyHandjobSP = " from being hand fucked";
-const RemOrgasmSkillMessageEnemyBlowjobSP = " from being mouth fucked";
-const RemOrgasmSkillMessageEnemyTittyFuckSP = " from being titty fucked";
-const RemOrgasmSkillMessageEnemyPussySexSP = " from being fucked";
-const RemOrgasmSkillMessageEnemyAnalSexSP = " from being ass fucked";
-const RemOrgasmSkillMessageEnemyCunnilingusSP = " from receiving cunnilingus";
-const RemOrgasmSkillMessageBukkakeSP = " from being cummed on";
-const RemOrgasmSkillMessageSwallowSP = " from swallowing cum";
-const RemOrgasmSkillMessagePussyCreampieSP = " from being creampied in her pussy";
-const RemOrgasmSkillMessageAnalCreampieSP = " from being creampied in her ass";
-const RemOrgasmSkillMessageMasochismSP = " from being masochistic";
-const RemOrgasmSkillMessageSadismSP = " from being sadistic";
-const RemOrgasmSkillMessageMasturbateSP = " from masturbating";
-const RemOrgasmSkillMessageSpankSP = " from being spanked";
-const RemOrgasmSkillMessageTalkSP = " from being talked down to";
-const RemOrgasmSkillMessageSightSP = " from being looked at";
-const RemOrgasmSkillMessageToySP = " from the toys";
+const RemOrgasmSkillMessageKarrynKissSP = " por dar un beso";
+const RemOrgasmSkillMessageKarrynPettingSP = " por acariciar una polla";
+const RemOrgasmSkillMessageKarrynHandjobSP = " por pajear una polla";
+const RemOrgasmSkillMessageKarrynBlowjobSP = " por chupar una polla";
+const RemOrgasmSkillMessageKarrynTittyFuckSP = " por hacer una paja con las tetas";
+const RemOrgasmSkillMessageKarrynPussySexSP = " por follarse una polla con el coño";
+const RemOrgasmSkillMessageKarrynAnalSexSP = " por follarse una polla por el culo";
+const RemOrgasmSkillMessageEnemyKissSP = " por ser besada";
+const RemOrgasmSkillMessageEnemyPettingSP = " por ser manoseada";
+const RemOrgasmSkillMessageEnemyHandjobSP = " porque le han follado una mano";
+const RemOrgasmSkillMessageEnemyBlowjobSP = " porque le han follado la boca";
+const RemOrgasmSkillMessageEnemyTittyFuckSP = " porque le han follado las tetas";
+const RemOrgasmSkillMessageEnemyPussySexSP = " por ser follada";
+const RemOrgasmSkillMessageEnemyAnalSexSP = " por ser follada por el culo";
+const RemOrgasmSkillMessageEnemyCunnilingusSP = " porque le han comido el coño";
+const RemOrgasmSkillMessageBukkakeSP = " porque se le han corrido encima";
+const RemOrgasmSkillMessageSwallowSP = " por tragar semen";
+const RemOrgasmSkillMessagePussyCreampieSP = " porque le han llenado el coño de leche";
+const RemOrgasmSkillMessageAnalCreampieSP = " porque le han llenado el culo de leche";
+const RemOrgasmSkillMessageMasochismSP = " por ser masoquista";
+const RemOrgasmSkillMessageSadismSP = " por ser sádica";
+const RemOrgasmSkillMessageMasturbateSP = " por masturbarse";
+const RemOrgasmSkillMessageSpankSP = " por ser azotada";
+const RemOrgasmSkillMessageTalkSP = " por ser denigrada";
+const RemOrgasmSkillMessageSightSP = " por ser observada";
+const RemOrgasmSkillMessageToySP = " por un juguete";
 
 //Waitress
-const RemAlcoholTypeWaterSP = "glass of water";
-const RemAlcoholTypePaleAleSP = "pint of pale ale";
-const RemAlcoholTypeDarkAleSP = "pint of dark ale";
-const RemAlcoholTypeVodkaSP = "glass of vodka";
-const RemAlcoholTypeTequilaSP = "glass of tequila";
-const RemAlcoholTypeGoldRumSP = "glass of gold rum";
-const RemAlcoholTypeOverproofRumSP = "glass of overproof rum";
-const RemAlcoholTypeWhiskeySP = "glass of whiskey";
-const RemAlcoholTypeDirtyMugsSingularSP = "used mug";
-const RemAlcoholTypeDirtyMugsPluralSP = "used mugs";
-const RemAlcoholTypeDirtyGlassesSingularSP = "used glass";
-const RemAlcoholTypeDirtyGlassesPluralSP = "used glasses";
+const RemAlcoholTypeWaterSP = "un vaso de agua";
+const RemAlcoholTypePaleAleSP = "una pinta de cerveza rubia";
+const RemAlcoholTypeDarkAleSP = "una pinta de cerveza negra";
+const RemAlcoholTypeVodkaSP = "un vaso de vodka";
+const RemAlcoholTypeTequilaSP = "un vaso de tequila";
+const RemAlcoholTypeGoldRumSP = "un vaso de ron dorado";
+const RemAlcoholTypeOverproofRumSP = "un vaso de ron overproof";
+const RemAlcoholTypeWhiskeySP = "un vaso de whisky";
+const RemAlcoholTypeDirtyMugsSingularSP = "jarra usada";
+const RemAlcoholTypeDirtyMugsPluralSP = "jarras usadas";
+const RemAlcoholTypeDirtyGlassesSingularSP = "vaso usado";
+const RemAlcoholTypeDirtyGlassesPluralSP = "vasos usados";
 
-const RemWaitressGetsTipSP = "\\C[3]%1 gets a tip of %2 gold!";
-const RemWaitressEnemySleepSP = "%1 drunkenly falls asleep on the table.";
-const RemWaitressEnemyWakeUpSP = "%1 jolts awake from all the commotion.";
-const RemWaitressEnemyLeavesBarSP = "\\C[8]%1 gets up and leaves the bar.";
-const RemWaitressEnemyLeavesBarDrunkSP = "\\C[8]%1 gets up and drunkenly stumbles out of the bar.";
-const RemWaitressEnemyCallingForWaitressSP = "\\C[2]%1 starts calling for a waitress's attention.";
-const RemWaitressEnemyDidntCallForWaitressSP = "However, %1 did not call for a waitress.";
-const RemWaitressEnemyAskingForDrinkSP = "\\C[2]%1 would like to have a %2.";
-const RemWaitressEnemyAskingForWaitressToDrinkSP = "%1 is offering to give %2 a tip if she takes a sip of his drink.";
-const RemWaitressEnemyAskingForWaitressToFlashSP = "%1 is offering to give %2 a tip if she flashes her hot body.";
-const RemWaitressRefusesDrinkSP = "But %1 refuses the drink to the disappointment of everyone around her.";
-const RemWaitressAcceptsDrinkSP = "\\C[31]%1 takes a sip of the drink while everyone grins and cheers.";
-const RemWaitressWontFlashSP = "But %1 refuses to flash her body to random men in a bar.";
-const RemWaitressFlashesSP = "\\C[27]%1 smiles and gives everyone an eyeful to look at.";
-const RemWaitressEnemyRefusesDrinkSP = "But %1 didn't ask for that drink.";
-const RemWaitressEnemyAcceptsDrinkSP = "%1 takes and pays for the drink.";
-const RemWaitressEnemyAlcoholKissSP = "\\C[27]¡%1 force fed %2 his drink while kissing her!";
-const RemWaitressEnemyCheerForBrawlNoDrinkSP = "%1 cheers as he watches the ongoing brawl.";
-const RemWaitressEnemyCheerForBrawlYesDrinkSP = "%1 drinks as he cheers and watches the ongoing brawl.";
-const RemWaitressBrawlStartSP = "\\C[18]A brawl has started!!";
-const RemWaitressBrawlJoinSP = "\\C[18]%1 eagerly jumps into the brawl!";
-const RemWaitressBarDamageSP = "\\C[3]The bar takes %1 gold worth of damage!";
-const RemWaitressEnemyTellsJokeSP = "%1 starts telling a joke.";
-const RemWaitressEnemyContinuesJokeSP = "%1 continues to share his joke.";
-const RemWaitressEnemyHearsJokeSP = "%1 listens to %2's joke.";
-const RemWaitressEnemyLaughsJokeSP = "%1 laughs at %2's joke.";
-const RemWaitressEnemyChugsDrinkSP = "%1 starts chugging his drink.";
-const RemWaitressEnemyChugsDrinkFinishSP = "%1 chugs down the rest of his drink.";
-const RemWaitressEnemyChattingSP = "%1 chats with %2.";
-const RemWaitressEnemyChattingHimselfSP = "%1 talks to himself.";
-const RemWaitressEnemyEntersBarSP = "\\C[2]%1 enters the bar and sits down at %2.";
-const RemWaitressEnemyFumingSP = "\\C[10]%1 has a dark look on his face...";
-const RemWaitressEnemyStartSexSP = "\\C[27]%2 drunkenly stumbles a bit and %1 helps her rest her body on top of the table!!!";
-const RemWaitressEnemyRefillsKarrynMugSP = "%1 refills %2's mug with more pale ale!";
-const RemWaitressEnemyDumpsKarrynMugSP = "%1 takes %2's mug and dumps all the ale on the floor!";
-const RemWaitressDrinkSemenMugSP = "\\C[27]¡%1 gulps down \\C[1]%2 ml of semen!";
+const RemWaitressGetsTipSP = "\\C[3]¡%1 recibe %2 modas de oro de propina!";
+const RemWaitressEnemySleepSP = "¡%1 se duerme encima de la mesa.";
+const RemWaitressEnemyWakeUpSP = "¡%1 se despierta de un bote por todo el barullo.";
+const RemWaitressEnemyLeavesBarSP = "\\C[8]¡%1 se levanta y se va del bar.";
+const RemWaitressEnemyLeavesBarDrunkSP = "\\C[8]¡%1 se levanta y se va del bar haciendo eses.";
+const RemWaitressEnemyCallingForWaitressSP = "\\C[2]¡%1 llama la atención de la camarera.";
+const RemWaitressEnemyDidntCallForWaitressSP = "Sin embargo, %1 no ha llamado a la camarera.";
+const RemWaitressEnemyAskingForDrinkSP = "\\C[2]A %1 le gustaría tomar %2.";
+const RemWaitressEnemyAskingForWaitressToDrinkSP = "%1 se ofrece a darle a %2 una propina si bebe de su vaso.";
+const RemWaitressEnemyAskingForWaitressToFlashSP = "%1 se ofrece a darle a %2 una propina si le enseña las tetas.";
+const RemWaitressRefusesDrinkSP = "Pero %1 rechaza el trago, para decepción de todos los que la rodean.";
+const RemWaitressAcceptsDrinkSP = "\\C[31]%1 da un trago de la bebida mientras todos sonríen y celebran.";
+const RemWaitressWontFlashSP = "Pero %1 se neiga a enseñarle las tetas a un tipo cualquiera del bar.";
+const RemWaitressFlashesSP = "\\C[27]%1 sonríe y muestra su cuerpo para que la vea todo el mundo.";
+const RemWaitressEnemyRefusesDrinkSP = "Pero %1 no ha pedido esa bebida.";
+const RemWaitressEnemyAcceptsDrinkSP = "%1 la toma y paga la bebida.";
+const RemWaitressEnemyAlcoholKissSP = "\\C[27]¡%1 fuerza a %2 a beber de su bebida con un beso!";
+const RemWaitressEnemyCheerForBrawlNoDrinkSP = "%1 celebra mientras mira como se están zurrando.";
+const RemWaitressEnemyCheerForBrawlYesDrinkSP = "%1 bebe mientras celebra y mira la pelea.";
+const RemWaitressBrawlStartSP = "\\C[18]¡¡Ha empezado una pelea!!";
+const RemWaitressBrawlJoinSP = "\\C[18]¡%1 se mete en la pelea!";
+const RemWaitressBarDamageSP = "\\C[3]¡El bar recibe daños por valor de %1 monedas de oro!";
+const RemWaitressEnemyTellsJokeSP = "¡%1 cuenta un chiste.";
+const RemWaitressEnemyContinuesJokeSP = "%1 sigue contando el chiste.";
+const RemWaitressEnemyHearsJokeSP = "%1 escucha el chiste de %2.";
+const RemWaitressEnemyLaughsJokeSP = "%1 se ríe del chiste de %2.";
+const RemWaitressEnemyChugsDrinkSP = "%1 empieza a beberse su bebida.";
+const RemWaitressEnemyChugsDrinkFinishSP = "%1 se termina lo que le queda de bebida.";
+const RemWaitressEnemyChattingSP = "%1 charla con %2.";
+const RemWaitressEnemyChattingHimselfSP = "%1 habla consigo mismo.";
+const RemWaitressEnemyEntersBarSP = "\\C[2]%1 entra al bar y se sienta en %2.";
+const RemWaitressEnemyFumingSP = "\\C[10]%1 tiene cara de pocos amigos...";
+const RemWaitressEnemyStartSexSP = "\\C[27]¡¡¡%2 va dando tumbos hasta que tropieza y %1 la deja caer con su cuerpo sobre la mesa!!!";
+const RemWaitressEnemyRefillsKarrynMugSP = "%1 rellena la jarra de %2con más cerveza rubia!";
+const RemWaitressEnemyDumpsKarrynMugSP = "%1 toma la jarra de %2y tira la cerveza al suelo!";
+const RemWaitressDrinkSemenMugSP = "\\C[27]¡%1 traga \\C[1]%2 ml de semen!";
 
-const RemReceptionistVisitingRoomA_SP = "Visiting Room A";
-const RemReceptionistVisitingRoomB_SP = "Visiting Room B";
-const RemReceptionistVisitingRoomC_SP = "Visiting Room C";
-const RemReceptionistVisitingRoomD_SP = "Visiting Room D";
+const RemReceptionistVisitingRoomA_SP = "Sala de Visitas A";
+const RemReceptionistVisitingRoomB_SP = "Sala de Visitas B";
+const RemReceptionistVisitingRoomC_SP = "Sala de Visitas C";
+const RemReceptionistVisitingRoomD_SP = "Sala de Visitas D";
 
-const RemReceptionistNewVisitorSP = "\\C[2]%1 got assigned their number and sits down.";
-const RemReceptionistNewGoblinSP = "\\C[10]A goblin has appeared!";
-const RemReceptionistGoblinDefeatedSP = "\\C[8]%1 has fled away!";
-const RemReceptionistVisitorEntersVisitingRoomSP = "\\C[11]%1 entered %2.";
-const RemReceptionistVisitingRoomStatusOccupiedPluralSP = "\\C[23]\"%1 is in use for %2 more minutes, over!\"";
-const RemReceptionistVisitingRoomStatusOccupiedSingleSP = "\\C[23]\"%1 is in use for one more minute, over!\"";
-const RemReceptionistVisitingRoomStatusNotOccupiedSP = "\\C[23]\"%1 is currently not being used, over!\"";
-const RemReceptionistVisitorWantsToHandOverPaperSP = "%1 is waiting to hand over their filled out paperwork.";
-const RemReceptionistVisitorAngryComplaint_OccupiedVisitingRoomSP = "\\C[10]%1 is complaining that %2 was still occupied.";
-const RemReceptionistGreetVisitorResultNormalSP = "%1 replies that they are here for visitation.";
-const RemReceptionistFinishedProcessingPapersSP = "%1's papers are processed. They're allowed %2 minutes of visitation.";
-const RemReceptionistVisitorLeavesAngrySP = "\\C[10]%1 suddenly angrily leaves the Visitor Center!";
-const RemReceptionistFanLeavesHappySP = "%1 leaves the Visitor Center with a smile.";
-const RemReceptionistFanLeavesDejectedSP = "%1 dejectedly leaves the Visitor Center.";
-const RemReceptionistPervLeavesHappySP = "%1 leaves the Visitor Center with a huge grin.";
-const RemReceptionistPervLeavesAngrySP = "%1 angrily leaves the Visitor Center.";
-const RemReceptionistNotHereForVisitationSP = "Seems like %1 is not actually interested in visiting any inmates!";
+const RemReceptionistNewVisitorSP = "\\C[2]%1 coge un número y se sienta.";
+const RemReceptionistNewGoblinSP = "\\C[10]¡Aparece un goblin!";
+const RemReceptionistGoblinDefeatedSP = "\\C[8]¡%1 ha huido!";
+const RemReceptionistVisitorEntersVisitingRoomSP = "\\C[11]%1 entra a la %2.";
+const RemReceptionistVisitingRoomStatusOccupiedPluralSP = "\\C[23]\"¡A la %1 le quedan %2 minutos de uso, cambio!\"";
+const RemReceptionistVisitingRoomStatusOccupiedSingleSP = "\\C[23]\"¡A la %1 le queda un minuto de uso, cambio!\"";
+const RemReceptionistVisitingRoomStatusNotOccupiedSP = "\\C[23]\"¡La %1 no está en uso, cambio!\"";
+const RemReceptionistVisitorWantsToHandOverPaperSP = "%1 está esperando para entregar los papeles que ha rellenado.";
+const RemReceptionistVisitorAngryComplaint_OccupiedVisitingRoomSP = "\\C[10]%1 se está quejando de que la %2 seguía ocupada.";
+const RemReceptionistGreetVisitorResultNormalSP = "%1 responde que ha venido a hacer una visita.";
+const RemReceptionistFinishedProcessingPapersSP = "Los papeles de %1 se han procesado. Tiene %2 minutos de visita.";
+const RemReceptionistVisitorLeavesAngrySP = "\\C[10]¡%1 se va muy enfadado del Centro de Visitantes!";
+const RemReceptionistFanLeavesHappySP = "%1 sale del Centro de Visitantes con una sonrisa.";
+const RemReceptionistFanLeavesDejectedSP = "%1 se va abatido del Centro de Visitantes.";
+const RemReceptionistPervLeavesHappySP = "%1 se va del Centro de Visitantes con una sonrisa asquerosa.";
+const RemReceptionistPervLeavesAngrySP = "%1 sale enfadado del Centro de Visitantes.";
+const RemReceptionistNotHereForVisitationSP = "¡Parece que %1 no está aquí para hacer una visita!";
 
-const RemGloryBattleEndSP = "The door opens...";
-const RemGloryLeftStallCockNameSP = "The Cock on the Left";
-const RemGloryRightStallCockNameSP = "The Cock on the Right";
-const RemGloryGuestEnterBathroomSP = "\\C[8]Someone has entered the bathroom.";
-const RemGloryGuestLeaveBathroomSP = "\\C[8]Someone has left the bathroom.";
-const RemGloryGuestEnterLeftStallSP = "\\C[7]Someone has entered the left stall.";
-const RemGloryGuestLeaveLeftStallSP = "\\C[7]Someone has vacated the left stall.";
-const RemGloryGuestEnterRightStallSP = "\\C[7]Someone has entered the right stall.";
-const RemGloryGuestLeaveRightStallSP = "\\C[7]Someone has vacated the right stall.";
-const RemGloryGuestPissingLeftStallSP = "\\C[8]Pissing sounds are coming from the left stall.";
-const RemGloryGuestEatingLeftStallSP = "\\C[8]Food chewing sounds are coming from the left stall.";
-const RemGloryGuestPissingRightStallSP = "\\C[8]Pissing sounds are coming from the right stall.";
-const RemGloryGuestEatingRightStallSP = "\\C[8]Food chewing sounds are coming from the right stall.";
-const RemGloryGuestShowedThroughLeftHoleSP = "\\C[27]A cock appears from the hole on the left!";
-const RemGloryGuestShowedThroughRightHoleSP = "\\C[27]A cock appears from the hole on the right!";
+const RemGloryBattleEndSP = "La puerta se abre...";
+const RemGloryLeftStallCockNameSP = "La Polla de la Izquierda";
+const RemGloryRightStallCockNameSP = "La Polla de la Derecha";
+const RemGloryGuestEnterBathroomSP = "\\C[8]Alguien ha entrado al baño.";
+const RemGloryGuestLeaveBathroomSP = "\\C[8]Alguien ha salido del baño.";
+const RemGloryGuestEnterLeftStallSP = "\\C[7]Alguien ha entrado al baño de la izquierda.";
+const RemGloryGuestLeaveLeftStallSP = "\\C[7]Alguien ha salido del baño de la izquierda.";
+const RemGloryGuestEnterRightStallSP = "\\C[7]Alguien ha entrado al baño de la derecha.";
+const RemGloryGuestLeaveRightStallSP = "\\C[7]Alguien ha salido del baño de la derecha.";
+const RemGloryGuestPissingLeftStallSP = "\\C[8]Se escucha a alguien mear en el baño de la izquierda.";
+const RemGloryGuestEatingLeftStallSP = "\\C[8]Se escucha a alguien comer en el baño de la izquierda.";
+const RemGloryGuestPissingRightStallSP = "\\C[8]Se escucha a alguien mear en el baño de la derecha.";
+const RemGloryGuestEatingRightStallSP = "\\C[8]se escucha a alguien comer en el baño de la derecha.";
+const RemGloryGuestShowedThroughLeftHoleSP = "\\C[27]¡Aparece una polla en el agujero de la izquierda!";
+const RemGloryGuestShowedThroughRightHoleSP = "\\C[27]¡Aparece una polla en el agujero de la derecha!";
 
-const RemStripperBattleEndSP = "Karryn's show has ended.";
-const RemStripperEnemyTossCondomOntoStageSP = "%1 tosses a condom onto the stage.";
-const RemStripperEnemyTipsCondomToBeltSP = "%1 ties a condom to %2's garter belt!";
-const RemStripperEnemyTipsCondomToBraSP = "%1 ties a condom to %2's bra!";
-const RemStripperEnemyTipsCondomToNippleSP = "%1 ties a condom to %2's erect nipple!";
-const RemStripperEnemyTipsCondomToHairbandSP = "%1 ties a condom to %2's bunny hairband!";
-const RemStripperEnemyTipsCondomToSidetailSP = "%1 ties a condom to %2's sidetail!";
-const RemStripperEnemyEntersStripClubSP = "\\C[8]%1 takes a seat in front of the stage.";
-const RemStripperEnemyLeavesStripClubHappySP = "\\C[8]%1 gets up and leaves with a smile.";
-const RemStripperEnemyLeavesStripClubUnhappySP = "\\C[8]%1 gets up and leaves frustrated.";
-const RemStripperEnemyJoinVIPSingularSP = "\\C[8]%1 holds the hand of the remaining patron and brings them to the private room......";
-const RemStripperEnemyJoinVIPPluralSP = "\\C[8]%1 holds the hands of the remaining patrons and brings them to the private room......";
+const RemStripperBattleEndSP = "El espectáculo de Karryn ha acabado.";
+const RemStripperEnemyTossCondomOntoStageSP = "%1 tira un condón al escenario.";
+const RemStripperEnemyTipsCondomToBeltSP = "%1 ata un condón al liguero de %2!";
+const RemStripperEnemyTipsCondomToBraSP = "%1 ata un condón al sujetador de %2!";
+const RemStripperEnemyTipsCondomToNippleSP = "%1 ata un condón al pezón erecto de %2!";
+const RemStripperEnemyTipsCondomToHairbandSP = "%1 ata un condón a la tiara de conejita de %2!";
+const RemStripperEnemyTipsCondomToSidetailSP = "%1 ata un condón a la cola de %2!";
+const RemStripperEnemyEntersStripClubSP = "\\C[8]%1 se sienta delante del escenario.";
+const RemStripperEnemyLeavesStripClubHappySP = "\\C[8]%1 se levanta y se va con una sonrisa.";
+const RemStripperEnemyLeavesStripClubUnhappySP = "\\C[8]%1 se levanta y se va frustrado.";
+const RemStripperEnemyJoinVIPSingularSP = "\\C[8]%1 agarra la mano del cliente que queda y se lo lleva a una sala privada......";
+const RemStripperEnemyJoinVIPPluralSP = "\\C[8]%1 agarra las manos de los clientes que quedan y se los lleva a una sala privada......";
 
-const RemTrainerEnemyObserveFormExcellentSP = "\\C[8](%1's form is \\C[10]pretty much perfect\\C[8].)";
-const RemTrainerEnemyObserveFormGoodSP = "\\C[8](%1's form looks good%2\\C[8].)";
-const RemTrainerEnemyObserveFormOkaySP = "\\C[8](%1's form could be better%2\\C[8].)";
-const RemTrainerEnemyObserveFormPoorSP = "\\C[8](%1's form could use a lot of work%2\\C[8].)";
-const RemTrainerEnemyObserveFormBadSP = "\\C[8](%1's form is absolutely terrible%2\\C[8].)";
-const RemTrainerEnemyObserveFormMaxSP = "\\C[8] and it seems like \\C[10]this is his best"; //上のGood～Badの％２はここ
-const RemTrainerEnemyObserveStaminaTiredSP = "\\C[8](He's also starting to look tired.)";
-const RemTrainerEnemyObserveStaminaExhaustedSP = "\\C[8](He also looks exhausted.)";
-const RemTrainerEnemyEntersGymSP = "\\C[2]%1 enters the gym and begins working out.";
-const RemTrainerEnemyLeavesGymFinishedWorkoutSP = "\\C[8]%1 finished his workout and leaves the gym.";
-const RemTrainerEnemyLeavesGymFailedWorkoutSP = "\\C[8]%1 couldn't finish his workout and leaves the gym tired.";
-const RemTrainerEnemyLeavesGymBlueballedSP = "\\C[8]%1 is too distracted and bothered by his blue balls and leaves the gym.";
-const RemTrainerEnemyLeavesGymHappySP = "\\C[8]%1 couldn't finish his workout but still leaves the gym with a big smile.";
-const RemTrainerRinkanSpatsRippedSP = "Karryn's leggings got ripped!";
+const RemTrainerEnemyObserveFormExcellentSP = "\\C[8](La forma de %1 es \\C[10]practicamente perfecta\\C[8].)";
+const RemTrainerEnemyObserveFormGoodSP = "\\C[8](La forma de %1 pinta bien%2\\C[8].)";
+const RemTrainerEnemyObserveFormOkaySP = "\\C[8](La forma de %1 podría ser mejor%2\\C[8].)";
+const RemTrainerEnemyObserveFormPoorSP = "\\C[8](La forma de %1 tiene mucho que mejorar%2\\C[8].)";
+const RemTrainerEnemyObserveFormBadSP = "\\C[8](La forma de %1 es absolutamente terrible%2\\C[8].)";
+const RemTrainerEnemyObserveFormMaxSP = "\\C[8] y parece que \\C[10]esto es lo mejor que puede hacer"; //上のGood～Badの％２はここ
+const RemTrainerEnemyObserveStaminaTiredSP = "\\C[8](Empieza a parece cansado.)";
+const RemTrainerEnemyObserveStaminaExhaustedSP = "\\C[8](Parece cansado.)";
+const RemTrainerEnemyEntersGymSP = "\\C[2]%1 entra al gimnasio y empieza a entrenar.";
+const RemTrainerEnemyLeavesGymFinishedWorkoutSP = "\\C[8]%1 termina su entrenamiento y sale del gimnasio.";
+const RemTrainerEnemyLeavesGymFailedWorkoutSP = "\\C[8]%1 no pudo acabar su entrenamiento y sale del gimnasio cansado.";
+const RemTrainerEnemyLeavesGymBlueballedSP = "\\C[8]%1 está demasiado cachondo y sale del gimnasio.";
+const RemTrainerEnemyLeavesGymHappySP = "\\C[8]%1 no pudo acabar su entrenamiento pero sale del gimnasio con una gran sonrisa.";
+const RemTrainerRinkanSpatsRippedSP = "¡Los Leggins de Karryn se han roto!";
 
-const RemMidBattleEnemyReinforcementSP = "\\C[2]%1 arrives as enemy reinforcement!";
+const RemMidBattleEnemyReinforcementSP = "\\C[2]%1 llega de refuerzo!";
 
 const RemLevelFiveFreeBattleDefeatSettingSP = [
-"a random Level",
-"Level 1 Bar Storage",
-"Level 2 Bathroom",
-"Level 3 Solitary Cell",
-"Level 4 Abandoned Area",
-"Level 5 Altar"
+"un Nivel aleatorio",
+"Almacén del Bar del Nivel 1",
+"Baño del Nivel 2",
+"Celda Solitaria del Nivel 3",
+"Área Abandonada del Nivel 4",
+"Altar del Nivel 5"
 ];
