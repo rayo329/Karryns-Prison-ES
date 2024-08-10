@@ -734,9 +734,9 @@ const KarrynFlauntMessageSP = "Karryn empieza a alardear!";
 
 const AronCallLizardmanFailSP = "¡Pero no apareció nadie...!";
 
-const ActorGainPleasureSP = "\\C[27]¡El place de %1 aumenta en %2!";
-const ActorGainPleasure_SightSP = "\\C[27]¡El place de %1 aumenta en %2 por ser observada!";
-const ActorGainPleasure_ToySP = "\\C[27]¡El place de %1 aumenta en %2 por los juguetes!";
+const ActorGainPleasureSP = "\\C[27]¡El placer de %1 aumenta en %2!";
+const ActorGainPleasure_SightSP = "\\C[27]¡El placer de %1 aumenta en %2 por ser observada!";
+const ActorGainPleasure_ToySP = "\\C[27]¡El placer de %1 aumenta en %2 por los juguetes!";
 
 const PleasurePercentTextSP = " porciento";
 
@@ -815,8 +815,8 @@ const CockinessDecreasedTextSP = "\\I[489]\\C[10]Arrogancia reducida a %1%...";
 const CockinessResetSP = "\\I[489]\\C[10]Arrogancia reducida a cero...";
 const CockinessMaxxedOutSP = "\\I[354]\\C[11]¡Arrogancia al 100%!";
 
-const RemResultsSubduedWithAttackSP = "\\I[74]\\C[11]¡Subyugados %1 %2 por la fuerza!";
-const RemResultsSubduedSexuallySP = "\\I[43]\\C[27]¡Subyugados %1 %2 sexualmente!";
+const RemResultsSubduedWithAttackSP = "\\I[74]\\C[11]¡Subyugadas %1 %2 por la fuerza!";
+const RemResultsSubduedSexuallySP = "\\I[43]\\C[27]¡Subyugadas %1 %2 sexualmente!";
 const RemResultsSubduedWithAttackAndSexuallySP = "\\I[291]\\C[11]¡Subyugados %1 %2 por la fuerza y \\C[27]%3 %4 sexualmente\\C[11]!";
 const RemResultsKarrynOrgasmSingularSP = "\\I[99]\\C[27]¡Se ha corrido una vez!";
 const RemResultsKarrynOrgasmPluralSP = "\\I[99]\\C[27]¡Se ha corrido %1 veces!";
