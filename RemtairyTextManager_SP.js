@@ -49,15 +49,15 @@ const XParamNameSP = [
 
 
 const SParamNameSP = [
-"Target Rate",
-"Weapon Defense",
-"Recovery Rate",
-"Energy Skill Cost",
-"Weapon Attack",
-"Willpower Regen",
-"Will Skill Cost",
-"Sex Skill Cost",
-"Attack Skill Cost",
+"Prob. de objetivo",
+"Defensa con Armas",
+"Recuperación",
+"Coste de Hab. de Energía",
+"Ataque con Armas",
+"Regen. de Voluntad",
+"Coste de Hab. de Voluntad",
+"Coste de Hab. Sexual",
+"Coste de Hab. de Ataque",
 "Multiplicador de Experiencia"];
 
 
@@ -133,7 +133,7 @@ const PassiveCategoryNameSP = [
 const FightNameSP = "Luchar";
 const EscapeNameSP = "Huir";
 const AttackNameSP = "Atacar"; 
-const GuardNameSP = "Acabar Fase Mental";
+const GuardNameSP = "Fin Fase Mental";
 const ItemNameSP = "Objeto";
 const SkillNameSP = "Pasivas";
 const EquipNameSP = "Equipamiento";
@@ -317,7 +317,7 @@ const ButtSpankingSensitivitySP = "Sensibilidad a los Azotes";
 
 //Status Menu
 const StatusMenuPrimarySP = "Primario";
-const StatusMenuSecondarySP = "Segundario";
+const StatusMenuSecondarySP = "Secundario";
 const StatusMenuProfileSP = "Perfil";
 const StatusMenuTertiarySP = "Terciario";
 const StatusMenuRecordsSP = "Registros";
@@ -377,10 +377,10 @@ const ProfileRecordSuckFingersSP = "Chupar Dedos";
 const ProfileRecordButtSpankSP = "Azotar el Culo";
 const ProfileRecordBoobsPettingSP = "Manosear Tetas";
 const ProfileRecordNipplesPettingSP = "Manosear Pezones";
-const ProfileRecordClitPettingSP = "Acariciar Clítoris";
-const ProfileRecordPussyPettingSP = "Acariciar Coño";
-const ProfileRecordButtPettingSP = "Acariciar Culo";
-const ProfileRecordAnalPettingSP = "Acariciar Ano";
+const ProfileRecordClitPettingSP = "Manosear Clítoris";
+const ProfileRecordPussyPettingSP = "Manosear Coño";
+const ProfileRecordButtPettingSP = "Manosear Culo";
+const ProfileRecordAnalPettingSP = "Manosear Ano";
 const ProfileRecordClitToySP = "Juguete de Clítoris";
 const ProfileRecordPussyToySP = "Juguete Vaginal";
 const ProfileRecordAnalToySP = "Juguete Anal";
@@ -411,7 +411,7 @@ const ProfileRecordFirstRimjobSP = "Hice mi primer anilingus a \\C[31]%2\\C[0] e
 const ProfileRecordLastRimjobSP = "Le comí el culo a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
 
 const ProfileRecordFirstBukkakeSP = "\\C[31]%2\\C[0] me hizo mi primer bukkake el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastBukkakeSP = "\\C[31]%2\\C[0] se corrió sobre mi en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastBukkakeSP = "\\C[31]%2\\C[0] se corrió sobre mí en %3 el \\C[26]Día %1\\C[0].";
 const ProfileRecordFirstFaceBukkakeSP = "Mi primera corrida en la cara fue de \\C[31]%2\\C[0], el \\C[26]Día %1\\C[0] en %3.";
 const ProfileRecordLastFaceBukkakeSP = "\\C[31]%2\\C[0] se corrió en mi cara en %3 el \\C[26]Día %1\\C[0].";
 
@@ -437,7 +437,7 @@ const StatusRecordDateSlutSP = "He pasado %1 maravillosos días en el Fuerte Gan
 const StatusRecordFightSP = "He subyugado a %1 personas y he perdido %2 veces.";
 const StatusRecordFightSlutSP = "He subyugado a %1 personas y solo he 'perdido' %2 veces.♥";
 const StatusRecordFightSubduedOnlySP = "He subyugado a %1 personas.";
-const StatusRecordStripSP = "me han desnudado %1 veces y otras personas me han quitado las bragas %2 veces.";
+const StatusRecordStripSP = "Me han desnudado %1 veces y otras personas me han quitado las bragas %2 veces.";
 const StatusRecordStripSlutSP = "He dejado que me desnuden %1 veces y que otras personas me quiten las bragas %2 veces.♥";
 const StatusRecordKissSP = "Me han besado %1 veces %2 personas distintas.";
 const StatusRecordKissSlutSP = "Me he besado %1 veces con %2 personas distintas.♥";
@@ -946,7 +946,7 @@ const RemYanflyOptions_Lovense_Help_SP = "Opciones de la integración de juguete
 const RemYanflyOptions_Language_SP = "\\i[275]Idioma del Texto";
 const RemYanflyOptions_Language_Help_SP = "Cambia aquí el idioma del texto.";
 const RemYanflyOptions_VoiceLanguage_SP = "\\i[275]Idioma de las Voces";
-const RemYanflyOptions_VoiceLanguage_Help_SP = "Cambia el idioma de las voces aquí.";
+const RemYanflyOptions_VoiceLanguage_Help_SP = "Cambia aquí el idioma de las voces.";
 const RemYanflyOptions_AlwaysDash_SP = "\\i[273]Correr Siempre";
 const RemYanflyOptions_AlwaysDash_Help_SP = "Karryn andará por defecto si esto está DESACTIVADO.\nKarryn correrá por defecto si esto está ACTIVADO.\nMantener SHIFT alternará entre andar y correr.";
 const RemYanflyOptions_MessageSpeed_SP = "\\i[273]Velocidad de los Mensajes";
@@ -972,7 +972,7 @@ const RemYanflyOptions_Battlelog_Fontsize_Three_SP = "Más Grande";
 const RemYanflyOptions_Battlelog_Fontsize_Four_SP = "Muy Grande";
 
 const RemYanflyOptions_MaleDialogueAppear_SP = "\\i[273]Diálogos en Combate";
-const RemYanflyOptions_MaleDialogueAppear_Help_SP = "Cambia la frecuencia de comentarios de enemigos al usar habilidades sexuales.\nNota: Hay excepciones donde los enemigos hablarán sin importar esta opción.";
+const RemYanflyOptions_MaleDialogueAppear_Help_SP = "Cambia la frecuencia de los comentarios de los enemigos al usar habilidades sexuales.\nNota: Hay excepciones donde los enemigos hablarán sin importar esta opción.";
 const RemYanflyOptions_MaleDialogueAppear_Zero_SP = "Silencio";
 const RemYanflyOptions_MaleDialogueAppear_One_SP = "Casi nunca";
 const RemYanflyOptions_MaleDialogueAppear_Two_SP = "A veces";
@@ -982,13 +982,13 @@ const RemYanflyOptions_MaleDialogueAppear_Four_SP = "Habladores";
 const RemYanflyOptions_KarrynLinesPrompt_SP = "\\i[273]Pausa en Diálogos de Karryn";
 const RemYanflyOptions_KarrynLinesPrompt_Help_SP = "El combate se para cuando Karryn habla hasta que se pulse la tecla confirmar.\nDesactivar esta opción se saltará la pausa de la mayoría de Diálogos en combate de Karryn.";
 const RemYanflyOptions_Disable_Rimjobs_SP = "\\i[273]Desactivar Anilingus";
-const RemYanflyOptions_Disable_Rimjobs_Help_SP = "Desactiva el contenido de Anilingus al Activar.\nEl contenido y la progresión de este juego están diseñados para que haya Anilingus.\nActiva esto solo si este contenido te hiciera no querer jugar.";
+const RemYanflyOptions_Disable_Rimjobs_Help_SP = "Desactiva el contenido de Anilingus al Activar.\nEl contenido y la progresión de este juego están diseñados para que haya Anilingus.\nActiva esto solo si este contenido te hace no querer jugar.";
 const RemYanflyOptions_Disable_Footjobs_SP = "\\i[273]Desactivar Pajas con los Pies";
-const RemYanflyOptions_Disable_Footjobs_Help_SP = "Desactiva el contenido de Pajas con los pies al Activar.\nEl contenido y la progresión de este juego están diseñados para que haya Pajas con los Pies.\nActiva esto solo si este contenido te hiciera no querer jugar.";
+const RemYanflyOptions_Disable_Footjobs_Help_SP = "Desactiva el contenido de Pajas con los pies al Activar.\nEl contenido y la progresión de este juego están diseñados para que haya Pajas con los Pies.\nActiva esto solo si este contenido te hace no querer jugar.";
 const RemYanflyOptions_Disable_Smegma_SP = "\\i[273]Desactivar Smegma";
-const RemYanflyOptions_Disable_Smegma_Help_SP = "Desactiva cualquier mención al smegma en los diálogos de combate.\nAunque esto no afecta a la jugabilidad, reduce la variedad de diálogos.\nActiva esto solo si este contenido te hiciera no querer jugar.";
-const RemYanflyOptions_Disable_FeraMouth_SP = "\\i[273]Desactivar Bocas Exageradas al Mamar";
-const RemYanflyOptions_Disable_FeraMouth_Help_SP = "Desactiva las expresiones exageradas al hacer mamadas.\nAunque esto no afecta a la jugabilidad, reduce la variedad de expresiones faciales al hacer mamadas.\nActiva esto solo si este contenido te hiciera no querer jugar.";
+const RemYanflyOptions_Disable_Smegma_Help_SP = "Desactiva cualquier mención al smegma en los diálogos de combate.\nAunque esto no afecta a la jugabilidad, reduce la variedad de diálogos.\nActiva esto solo si este contenido te hace no querer jugar.";
+const RemYanflyOptions_Disable_FeraMouth_SP = "\\i[273]Desactivar Bocas Exageradas al hacer Mamadas";
+const RemYanflyOptions_Disable_FeraMouth_Help_SP = "Desactiva las expresiones exageradas al hacer mamadas.\nAunque esto no afecta a la jugabilidad, reduce la variedad de expresiones faciales al hacer mamadas.\nActiva esto solo si este contenido te hace no querer jugar.";
 
 const RemYanflyOptions_DisplayPleasureAsPercent_SP = "\\i[273]Mostrar Placer como un Porcentaje";
 const RemYanflyOptions_DisplayPleasureAsPercent_Help_SP = "Cuando esto está ACTIVADO, los valores de placer se mostrarán como un porcentaje basado en \nla cantidad de placer para tener un orgasmo.\nCuando está DESACTIVADO, los valores de placer se mostrarán como números.";
@@ -1038,11 +1038,11 @@ const RemYanflyOptions_SmootherCGLoading_Help_SP = "\\}\\}Opción para PCs poten
 const RemYanflyOptions_SortPassivesAscending_SP = "\\i[276]Ordenar Pasivas de Forma Ascendente";
 const RemYanflyOptions_SortPassivesAscending_Help_SP = "Las pasivas aparece ordenadas por el orden en el que se desbloquearon.\nACTIVADO: Las más antiguas aparecerán arriba.\nDESACTIVADO: Las más nuevas aparecerán arriba.";
 const RemYanflyOptions_SynchFPS_SP = "\\i[273]Forzar 60 FPS";
-const RemYanflyOptions_SynchFPS_Help_SP = "\\}Activa esta opción si tu monitor tiene una tasa de refresco superior a 60hz.\n\\{Desactivala si el juego va a menos de 60 FPS o tu monitor es de 60hz o menos.\nSi pulsas F2 podrás ver los FPS del juego.";
+const RemYanflyOptions_SynchFPS_Help_SP = "\\}Activa esta opción si tu monitor tiene una tasa de refresco superior a 60hz.\n\\{Desactívala si el juego va a menos de 60 FPS o tu monitor es de 60hz o menos.\nSi pulsas F2 podrás ver los FPS del juego.";
 const RemYanflyOptions_LightingEffects_SP = "\\i[276]Efectos de Iluminación del Mapa";
 const RemYanflyOptions_LightingEffects_Help_SP = "Los efectos de iluminación del mapa incluyen las de fuentes de luz como antorchas.\nAl desactivar esta opción perferás los efectos y mejorará el rendimiento si\nexperimentas ralentizaciones en zonas con muchos efectos de iluminación." 
 const RemYanflyOptions_MapEffects_SP = "\\i[276]Efectos Animados del Mapa";
-const RemYanflyOptions_MapEffects_Help_SP = "Por ejemplo, la bruma.\nAl desactivar esta opción perferás los efectos y mejorará el rendimiento si\nexperimentas ralentizaciones en zonas con muchos efectos animados." 
+const RemYanflyOptions_MapEffects_Help_SP = "Efectos como por ejemplo, la bruma.\nAl desactivar esta opción perferás los efectos y mejorará el rendimiento si\nexperimentas ralentizaciones en zonas con muchos efectos animados." 
 const RemYanflyOptions_DisableFlashing_SP = "\\i[276]Desactivar Flashes";
 const RemYanflyOptions_DisableFlashing_Help_SP = "Activar esta opción desactivará los flashes.\nÚsala si eres sensible a ellos o te molestan los ojos." 
 
@@ -1230,7 +1230,7 @@ const RemYanflyOptions_LovenseMobileHint_SP = "Porfavor introduce aquí";
 
 const RemYanflyOptions_LovenseConnectToys_SP = "3) Conectar juguetes";
 const RemYanflyOptions_LovenseConnectToys_Help_SP = "Pulsa el botón Conectar tras haber completado los pasos anteriores.";
-const RemYanflyOptions_LovenseConnectToys_Text_SP = "CONNECTAR";
+const RemYanflyOptions_LovenseConnectToys_Text_SP = "CONECTAR";
 
 const RemYanflyOptions_LovenseNoToysConnected_SP = "\\C[18]>>>Ningún juguete conectado<<<";
 const RemYanflyOptions_LovenseNoToysConnected_Help_SP = "\\}Si estás teniendo problemas conectando un juguete,\nRevisa los pasos anteriores, asegúrate de estar en la misma red Wi-Fi\ny no uses VPN.";
@@ -1257,7 +1257,7 @@ const RemYanflyOptions_LovensePumpEnable_SP = "(Opcional) Activar Bomba de Aire"
 const RemYanflyOptions_LovensePumpEnable_Help_SP = "Los juguetes Max/Max2 se comprimen con una bomba de aire.\nCon esta opción puedes desactivarlo.";
 
 const RemYanflyOptions_LovenseEnableRAID_SP = "4) \\C[27]Activar RAID";
-const RemYanflyOptions_LovenseEnableRAID_Help_SP = "\\}\\}'Rem's Advanced Integrated Disco' o RAID para acortar es el sistema de integración hecho por Rem para Karryn's Prison.\ncon RAID apagado, TODOS los juguetes reaccionaran a TODOS los actos sexuales.\ncon RAID se establecerá una configuración según tus juguetes y\\C[27]por cada juguete se permitirá una mayor personalización.\\C[0]";
+const RemYanflyOptions_LovenseEnableRAID_Help_SP = "\\}\\}'Rem's Advanced Integrated Disco' o RAID para acortar es el sistema de integración hecho por Rem para Karryn's Prison.\ncon RAID apagado, TODOS los juguetes reaccionaran a TODOS los actos sexuales.\ncon RAID se establecerá una configuración según tus juguetes y \\C[27]por cada juguete se permitirá una mayor personalización.\\C[0]";
 
 const RemYanflyOptions_RAIDparty_Help_SP = "\\}Elige si esto es un juguete '\\C[5]Grupal\\C[0]' o '\\C[4]Individual\\C[0]'.\n\\}Los juguetes\\C[5]Grupales\\C[0] responden a todos los actos sexuales EXCEPTO los atribuidos a otros juguetes.\nLos juguetes \\C[4]Individuales\\C[0] responden solo a los actos sexuales que se les atribuyen.";
 const RemYanflyOptions_RAIDparty_Solo_SP = "Individual";
@@ -1331,7 +1331,7 @@ const RemYanflyTargetFemaleEnemySP = "Female Enemy"; // currently unused
 const RemFTKRSkillTreeConfirmTextSP = "%2";
 const RemFTKRSkillTreeYesSP = "Promulgar";
 const RemFTKRSkillTreeNoSP = "Cancelar";
-const RemFTKRSkillTreeEdictPointsSP = "Puntos de Decreto:";
+const RemFTKRSkillTreeEdictPointsSP = "Pts. de Decreto:";
 const RemFTKRSkillTreeEdictPointsAbbrSP = "PD";
 const RemFTKRSkillTreeOrderSP = "Orden:";
 const RemFTKRSkillTreeFundingSP = "Fondos:";
@@ -1450,7 +1450,7 @@ const RemAlcoholTypeDirtyMugsPluralSP = "jarras usadas";
 const RemAlcoholTypeDirtyGlassesSingularSP = "vaso usado";
 const RemAlcoholTypeDirtyGlassesPluralSP = "vasos usados";
 
-const RemWaitressGetsTipSP = "\\C[3]¡%1 recibe %2 modas de oro de propina!";
+const RemWaitressGetsTipSP = "\\C[3]¡%1 recibe %2 monedas de oro de propina!";
 const RemWaitressEnemySleepSP = "¡%1 se duerme encima de la mesa.";
 const RemWaitressEnemyWakeUpSP = "¡%1 se despierta de un bote por todo el barullo.";
 const RemWaitressEnemyLeavesBarSP = "\\C[8]¡%1 se levanta y se va del bar.";
