@@ -1125,7 +1125,7 @@
 ]},
 "commonevent212_karryn_1":{
 "text":[
-"(Esa puerta conduce a \\V[31]",
+"(Esa puerta conduce a\\V[31]",
 "No tengo ningún motivo para ir allí ahora.)"
 ]},
 "commonevent217_karryn_1":{
@@ -1938,15 +1938,15 @@
 "competente trabajando en la recepción del Fuerte Ganon\\C[0]!!",
 "¡Lo que a su vez hará que haya más visitas!",
 "¡Y eso significa más oportunidades de restaurar el Orden cada vez que ",
-"trabajes aquí y cada vez que ayudes a los visitantes a realizar sus visitas!",
+"trabajes aquí, y cada vez que ayudes a los visitantes a realizar sus visitas!",
 "¡¡¡Así que por favor, por el bien de Fuerte Ganon,",
 "ayuda como recepcionista siempre que puedas!!!"
 ]},
 
 "map4_ev11_p2_explain_1":{
 "text":[
-"¡¡En realidad es muy simple para alguien tan inteligente como usted, Directora!!",
-"",
+"¡¡Es muy simple para alguien tan inteligente como usted,",
+" Directora!!",
 "",
 "Cuando un visitante obtenga un número, ",
 "se sentará y esperará hasta que usted llame a su número.",
@@ -1963,8 +1963,8 @@
 "Una vez que haya recogido sus documentos, podrá empezar a procesarlos.",
 "Procesar documentos me toma mucho tiempo porque hay muchas ",
 "reglas y cosas que verificar y consultar.",
-"¡Pero no se preocupes, estoy seguro de que lo hará mucho mejor que yo!",
-"Tras esto, una vez que haya procesado sus documentos, ",
+"¡Pero no se preocupe, estoy seguro de que lo hará mucho mejor que yo!",
+"Tras esto, una vez que hayas procesado sus documentos, ",
 "sabrá cuántos minutos de visita pueden tener.",
 "Ahora finalmente puede permitirles hacer sus visitas asignándoles una ",
 "de las Salas de Visitas. Sin embargo, primero asegúrese de que la sala ",
@@ -2002,11 +2002,11 @@
 ]},
 "map4_ev11_p2_work_3":{
 "text":[
-"Ah, y un consejo antes de irme,", 
+"Ah, y un consejo antes de irme.", 
 "¡¡Atiende primero a los visitantes que ya están sentados!!",
 "¡Llevan mucho tiempo esperando!",
-"¡No tienes que llamarlos en orden por su número, ",
-"pero no olvides qué números estaban ya aquí desde antes de empezar el turno!!"
+"¡No tienes por qué llamarlos en orden por su número, pero no",
+"olvides a quienes ya estaban aquí desde antes de empezar el turno!!"
 ]},
 
 "map4_ev11_tachiename_2":{
@@ -2855,7 +2855,7 @@
 
 "map12_ev2_can_not_enter_next_room_name":{
 "text":[
-"la zona de recepción para nuevos reclusos"
+" la zona de recepción para nuevos reclusos"
 ]},
 
 "map12_ev4_p3_1":{
@@ -3299,23 +3299,23 @@
 
 "map15_ev1_can_not_enter_next_room_name":{
 "text":[
-"el centro de visitantes"
+" el centro de visitantes"
 ]},
 "map15_ev2_can_not_enter_next_room_name":{
 "text":[
-"el bar"
+" el bar"
 ]},
 "map15_ev4_can_not_enter_next_room_name":{
 "text":[
-"la zona de recepción para nuevos reclusos"
+" la zona de recepción para nuevos reclusos"
 ]},
 "map15_ev7_can_not_enter_next_room_name":{
 "text":[
-"al taller donde trabajan los reclusos."
+"l taller donde trabajan los reclusos."
 ]},
 "map15_ev8_can_not_enter_next_room_name":{
 "text":[
-"al Área de Lavado de Vajilla"
+"l Área de Lavado de Vajilla"
 ]},
 
 "map15_ev26_tachiename_1":{
@@ -4891,11 +4891,11 @@
 
 "map18_ev3_can_not_enter_next_room_name":{
 "text":[
-"el cuartel de la guardia"
+"l cuartel de la guardia"
 ]},
 "map18_ev5_can_not_enter_next_room_name":{
 "text":[
-"el comedor"
+"l comedor"
 ]},
 
 "map18_ev6_p1_karryn_1":{
@@ -10037,11 +10037,11 @@
 
 "map36_ev2_can_not_enter_next_room_name":{
 "text": [
-"el gimnasio"
+"l gimnasio"
 ]},
 "map36_ev3_can_not_enter_next_room_name":{
 "text": [
-"el area común C"
+"l area común C"
 ]},
 
 "map36_ev7_tachiename_1":{
@@ -10205,7 +10205,7 @@
 
 "map37_ev2_can_not_enter_next_room_name":{
 "text":[
-"los bloques de celdas"
+" los bloques de celdas"
 ]},
 
 "map37_ev3_tachiename_1":{
@@ -10852,7 +10852,7 @@
 "",
 "",
 "Traga saliva, como autoconvenciéndose de algo.",
-"después, se prepara para quitarse toda la ropa, como suele hacer",
+"después, se prepara para quitarse toda la ropa, como suele hacer,",
 "antes de bajar su cadera sobre el asiento del inodoro."
 ]},
 
@@ -10865,11 +10865,11 @@
 
 "map48_ev2_can_not_enter_next_room_name":{
 "text": [
-"el laboratorio"
+"l laboratorio"
 ]},
 "map48_ev3_can_not_enter_next_room_name":{
 "text": [
-"la sala de reuniones"
+" la sala de reuniones"
 ]},
 
 "map48_ev4_tachiename_1":{
@@ -10900,8 +10900,8 @@
 "map48_ev6_p1_1":{
 "text": [
 "Soy un buen slime, slime~",
-"Esta habitación es cómoda, Slime~",
-"Y los sonidos me están dando... Sueño... Slime~..."
+"Esta habitación es cómoda, slime~",
+"Y el ruido me está dando... Sueño... Slime~..."
 ]},
 
 "map48_ev7_tachiename_1":{
@@ -10954,9 +10954,9 @@
 "¿Sabías que los presos más conocidos se vuelven \\C[2]Buscados\\C[0]?",
 "Es posible que incluso hayas visto a alguno.",
 "",
-"Normalmente, los reclusos aparecen como \"Wedge (Friki)\" o \"Biggs (Prisionero)\",",
+"Los reclusos aparecen como \"Wedge (Friki)\" o \"Biggs (Prisionero)\",",
 "pero si son \\C[2]Buscados\\C[0], entonces su nombre aparecerá como",
-"\"Wedge (Nv 9 Friki)\" o \"Biggs (Nv 23 Prisionero)\" o parecido.",
+"\"Wedge (Nv 9 Friki)\" o \"Biggs (Nv 23 Prisionero)\" o algo así.",
 "los reclusos \\C[2]Buscados\\C[0] aparecerán por toda la prisión,",
 "especialmente durante los motines.",
 "",
@@ -10977,16 +10977,16 @@
 "map48_ev12_p1_1":{
 "text": [
 "¿Has notado que algunos enemigos tienen un adjetivo en su nombre?",
-"Normalmente, el nombre de un recluso aparecerá como \"Ivankov (Prisionero)\",",
-"pero algunos aparece como \"Bon el prisionero varonil\"?",
+"El nombre de un recluso aparecerá como \"Ivankov (Prisionero)\",",
+"pero algunos aparece como \"Bon el prisionero varonil\"",
 "Los enemigos así son un \\C[2]Enemigo raro\\C[0].",
-"Un \\C[2]Enemigo raro\\C[0] podría ser más fuerte o",
+"Un \\C[2]Enemigo raro\\C[0] puede ser más fuerte o",
 "más débil que los enemigos del mismo tipo.",
 "Supuestamente, un \\C[2]Enemigo raro\\C[0] muy diferente al resto",
 "tendrá un aura que hará que parezca que son de un color diferente.",
-"Pero esto solo podrán percibirlo personas con mucho talento, capaces de ver auras.",
-"Según los rumores de las personas que pueden ver auras,",
-"las personas con un aura \\C[30]púrpura\\C[0] o \\C[27]rosa\\C[0] son excepcionalmente poderosas."
+"Pero esto solo lo notan las personas capaces de ver auras.",
+"Según los rumores, las personas con un aura \\C[30]púrpura\\C[0]",
+"o \\C[27]rosa\\C[0] son excepcionalmente poderosas."
 ]},
 
 "map48_ev14_tachiename_1":{
@@ -11904,27 +11904,27 @@
 
 "map52_ev1_can_not_enter_next_room_name":{
 "text": [
-"la sala de lectura"
+" la sala de lectura"
 ]},
 "map52_ev2_can_not_enter_next_room_name":{
 "text": [
-"la tienda"
+" la tienda"
 ]},
 "map52_ev4_can_not_enter_next_room_name":{
 "text": [
-"la sala del personal"
+" la sala del personal"
 ]},
 "map52_ev7_can_not_enter_next_room_name":{
 "text": [
-"la oficina principal"
+" la oficina principal"
 ]},
 "map52_ev8_can_not_enter_next_room_name":{
 "text": [
-"la sala de reuniones"
+" la sala de reuniones"
 ]},
 "map52_ev11_can_not_enter_next_room_name":{
 "text": [
-"el aula"
+"l aula"
 ]},
 
 
@@ -12586,7 +12586,7 @@
 
 "map56_ev2_can_not_enter_next_room_name":{
 "text":[
-"las duchas"
+" las duchas"
 ]},
 
 

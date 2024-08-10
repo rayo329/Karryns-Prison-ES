@@ -133,7 +133,7 @@ const PassiveCategoryNameSP = [
 const FightNameSP = "Luchar";
 const EscapeNameSP = "Huir";
 const AttackNameSP = "Atacar"; 
-const GuardNameSP = "Fin F. Ment.";
+const GuardNameSP = "Listo";
 const ItemNameSP = "Objeto";
 const SkillNameSP = "Pasivas";
 const EquipNameSP = "Equipamiento";
@@ -202,11 +202,11 @@ const CorruptionNameSP = "Corrupción";
 const TitlesNameSP = "Títulos";
 const FundingNameSP = "Fondos";
 const LedgerNameSP = "《 Libro De Cuentas 》";
-const IncomeNameSP = "Ingresos Generales";
+const IncomeNameSP = "Ingresos Gen.";
 const BarIncomeNameSP = "Ingresos Del Bar";
-const StoreIncomeNameSP = "Ingresos De La Tienda";
-const OutsourcingIncomeNameSP = "Ingresos Por Subcontrat.";
-const NerdBlackmailNameSP = "Chantaje De Los Frikis";
+const StoreIncomeNameSP = "Ingresos Tienda";
+const OutsourcingIncomeNameSP = "Ingresos Subcont.";
+const NerdBlackmailNameSP = "Chantaje Frikis";
 const ExpenseNameSP = "Gastos";
 const EstimatedSubsidiesNameSP = "Subsidios Estimados";
 const EstimatedProfitNameSP = "Ingresos Est.";
@@ -316,11 +316,11 @@ const BukkakeSensitivitySP = "Sensibilidad a los Bukkakes";
 const ButtSpankingSensitivitySP = "Sensibilidad a los Azotes";
 
 //Status Menu
-const StatusMenuPrimarySP = "Primario";
-const StatusMenuSecondarySP = "Secundario";
+const StatusMenuPrimarySP = "Primarios";
+const StatusMenuSecondarySP = "Secundarios";
 const StatusMenuProfileSP = "Perfil";
-const StatusMenuTertiarySP = "Terciario";
-const StatusMenuRecordsSP = "Registros";
+const StatusMenuTertiarySP = "Terciarios";
+const StatusMenuRecordsSP = "Registro";
 const StatusMenuDesiresSP = "Deseos";
 const StatusMenuEffectsSP = "Condición";
 
@@ -388,39 +388,39 @@ const ProfileRecordPussySexSP = "Sexo Vaginal";
 const ProfileRecordAnalSexSP = "Sexo Anal";
 
 
-const ProfileRecordFirstKissSP = "  Di mi primer beso a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstKissWasPenisSP = "  Di mi primer beso a la polla de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstKissWasAnusSP = "  Di mi primer beso al ano de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstKissSP = "   Di mi primer beso a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstKissWasPenisSP = "   Di mi primer beso a la polla de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstKissWasAnusSP = "   Di mi primer beso al ano de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
 
-const ProfileRecordLastKissSP = "  Besé a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstSexSP = "  Perdí mi virginidad con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstPussySexWasDildoSP = "  Perdí mi virginidad con el consolador de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordLastSexSP = "  Tuve sexo con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstAnalSP = "  Perdí mi virginidad anal con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordLastAnalSP = "  Tuve sexo anal con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstHandjobSP = "  Hice mi primera paja el \\C[26]Día %1\\C[0] en %3 con la polla de \\C[31]%2\\C[0].";
-const ProfileRecordLastHandjobSP = "  Le hice una paja a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstBlowjobSP = "  Mi primera mamada fue el \\C[26]Día %1\\C[0] en %3 con la polla de \\C[31]%2\\C[0].";
-const ProfileRecordLastBlowjobSP = "  Le hice una mamada a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstTittyFuckSP = "  Le Hice mi primera paja con las tetas a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastTittyFuckSP = "  Le hice una paja con las tetas a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastKissSP = "   Besé a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstSexSP = "   Perdí mi virginidad con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstPussySexWasDildoSP = "   Perdí mi virginidad con el consolador de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastSexSP = "   Tuve sexo con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstAnalSP = "   Perdí mi virginidad anal con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastAnalSP = "   Tuve sexo anal con \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstHandjobSP = "   Hice mi primera paja el \\C[26]Día %1\\C[0] en %3 con la polla de \\C[31]%2\\C[0].";
+const ProfileRecordLastHandjobSP = "   Le hice una paja a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstBlowjobSP = "   Mi primera mamada fue el \\C[26]Día %1\\C[0] en %3 con la polla de \\C[31]%2\\C[0].";
+const ProfileRecordLastBlowjobSP = "   Le hice una mamada a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstTittyFuckSP = "   Le Hice mi primera paja con las tetas a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastTittyFuckSP = "   Le hice una paja con las tetas a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
 
-const ProfileRecordFirstFootjobSP = "  Le Hice mi primera paja con los pies a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastFootjobSP = "  Le hice una paja con los pies a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstRimjobSP = "  Hice mi primer anilingus a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastRimjobSP = "  Le comí el culo a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstFootjobSP = "   Le Hice mi primera paja con los pies a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastFootjobSP = "   Le hice una paja con los pies a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstRimjobSP = "   Hice mi primer anilingus a \\C[31]%2\\C[0] el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastRimjobSP = "   Le comí el culo a \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
 
-const ProfileRecordFirstBukkakeSP = "  \\C[31]%2\\C[0] me hizo mi primer bukkake el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastBukkakeSP = "  \\C[31]%2\\C[0] se corrió sobre mí en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstFaceBukkakeSP = "  Mi primera corrida en la cara fue de \\C[31]%2\\C[0], el \\C[26]Día %1\\C[0] en %3.";
-const ProfileRecordLastFaceBukkakeSP = "  \\C[31]%2\\C[0] se corrió en mi cara en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstBukkakeSP = "   \\C[31]%2\\C[0] me hizo mi primer bukkake el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastBukkakeSP = "   \\C[31]%2\\C[0] se corrió sobre mí en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstFaceBukkakeSP = "   Mi primera corrida en la cara fue de \\C[31]%2\\C[0], el \\C[26]Día %1\\C[0] en %3.";
+const ProfileRecordLastFaceBukkakeSP = "   \\C[31]%2\\C[0] se corrió en mi cara en %3 el \\C[26]Día %1\\C[0].";
 
-const ProfileRecordFirstSwallowSP = " Probé semen por primera vez el \\C[26]Día %1\\C[0] en %3, me tragué el semen de \\C[31]%2\\C[0].";
-const ProfileRecordLastSwallowSP = "  Me tragué el semen de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstPussyCreampieSP = "  Dejé que \\C[31]%2\\C[0] se corriera en mi coño en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordLastPussyCreampieSP = "  Dejé que \\C[31]%2\\C[0] se corriera en mi coño en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordFirstAnalCreampieSP = "  Dejé que \\C[31]%2\\C[0] se corriera en mi culo en %3 el \\C[26]Día %1\\C[0].";
-const ProfileRecordLastAnalCreampieSP = "  \\C[31]%2\\C[0] me llenó el culo de leche en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstSwallowSP = "  Probé semen por primera vez el \\C[26]Día %1\\C[0] en %3, era de \\C[31]%2\\C[0].";
+const ProfileRecordLastSwallowSP = "   Me tragué el semen de \\C[31]%2\\C[0] en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstPussyCreampieSP = "   Dejé que \\C[31]%2\\C[0] se corriera en mi coño en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastPussyCreampieSP = "   Dejé que \\C[31]%2\\C[0] se corriera en mi coño en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordFirstAnalCreampieSP = "   Dejé que \\C[31]%2\\C[0] se corriera en mi culo en %3 el \\C[26]Día %1\\C[0].";
+const ProfileRecordLastAnalCreampieSP = "   \\C[31]%2\\C[0] me llenó el culo de leche en %3 el \\C[26]Día %1\\C[0].";
 
 
 const StatusRecordDaysSingularSP = "día";
@@ -1350,7 +1350,7 @@ const RemSkillTypesSP = ["",
 "Ataque",
 "Energía",
 "Sexual",
-"Fuer. de Vol.",
+"Voluntad",
 "Ventajas",
 "Desventajas",
 "Pasivas",
@@ -1373,18 +1373,18 @@ const RemSkillTypesSP = ["",
 
 
 //Enemy Types
-const RemPrisonerGenericSP = "Prisionero";
-const RemPrisonerGuardSP = "Guardia";
-const RemPrisonerThugSP = "Matón";
-const RemPrisonerGoblinSP = "Goblin";
-const RemPrisonerOrcSP = "Orco";
-const RemPrisonerSlimeSP = "Slime";
-const RemPrisonerNerdSP = "Friki";
-const RemPrisonerRogueSP = "Pícaro";
-const RemPrisonerLizardmanSP = "Hombre Lagarto";
-const RemPrisonerHomelessSP = "Vagabundo";
-const RemPrisonerWerewolfSP = "Hombre Lobo";
-const RemPrisonerYetiSP = "Yeti";
+const RemPrisonerGenericSP = " Prisionero";
+const RemPrisonerGuardSP = " Guardia";
+const RemPrisonerThugSP = " Matón";
+const RemPrisonerGoblinSP = " Goblin";
+const RemPrisonerOrcSP = " Orco";
+const RemPrisonerSlimeSP = " Slime";
+const RemPrisonerNerdSP = " Friki";
+const RemPrisonerRogueSP = " Pícaro";
+const RemPrisonerLizardmanSP = " Hombre Lagarto";
+const RemPrisonerHomelessSP = " Vagabundo";
+const RemPrisonerWerewolfSP = " Hombre Lobo";
+const RemPrisonerYetiSP = " Yeti";
 
 
 const RemReceptionistVisitorSP = "Visitante";
@@ -1492,17 +1492,17 @@ const RemReceptionistVisitingRoomB_SP = "Sala de Visitas B";
 const RemReceptionistVisitingRoomC_SP = "Sala de Visitas C";
 const RemReceptionistVisitingRoomD_SP = "Sala de Visitas D";
 
-const RemReceptionistNewVisitorSP = "\\C[2]%1 coge un número y se sienta.";
+const RemReceptionistNewVisitorSP = "\\C[2]El %1 coge un número y se sienta.";
 const RemReceptionistNewGoblinSP = "\\C[10]¡Aparece un goblin!";
 const RemReceptionistGoblinDefeatedSP = "\\C[8]¡%1 ha huido!";
 const RemReceptionistVisitorEntersVisitingRoomSP = "\\C[11]%1 entra a la %2.";
 const RemReceptionistVisitingRoomStatusOccupiedPluralSP = "\\C[23]\"¡A la %1 le quedan %2 minutos de uso, cambio!\"";
 const RemReceptionistVisitingRoomStatusOccupiedSingleSP = "\\C[23]\"¡A la %1 le queda un minuto de uso, cambio!\"";
 const RemReceptionistVisitingRoomStatusNotOccupiedSP = "\\C[23]\"¡La %1 no está en uso, cambio!\"";
-const RemReceptionistVisitorWantsToHandOverPaperSP = "%1 está esperando para entregar los papeles que ha rellenado.";
-const RemReceptionistVisitorAngryComplaint_OccupiedVisitingRoomSP = "\\C[10]%1 se está quejando de que la %2 seguía ocupada.";
-const RemReceptionistGreetVisitorResultNormalSP = "%1 responde que ha venido a hacer una visita.";
-const RemReceptionistFinishedProcessingPapersSP = "Los papeles de %1 se han procesado. Tiene %2 minutos de visita.";
+const RemReceptionistVisitorWantsToHandOverPaperSP = "El %1 está esperando para entregar los papeles que ha rellenado.";
+const RemReceptionistVisitorAngryComplaint_OccupiedVisitingRoomSP = "\\C[10]El %1 se está quejando de que la %2 seguía ocupada.";
+const RemReceptionistGreetVisitorResultNormalSP = "El %1 responde que ha venido a hacer una visita.";
+const RemReceptionistFinishedProcessingPapersSP = "Los papeles del %1 se han procesado. Tiene %2 minutos de visita.";
 const RemReceptionistVisitorLeavesAngrySP = "\\C[10]¡%1 se va muy enfadado del Centro de Visitantes!";
 const RemReceptionistFanLeavesHappySP = "%1 sale del Centro de Visitantes con una sonrisa.";
 const RemReceptionistFanLeavesDejectedSP = "%1 se va abatido del Centro de Visitantes.";

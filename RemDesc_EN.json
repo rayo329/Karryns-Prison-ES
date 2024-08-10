@@ -4186,7 +4186,7 @@
 },
 "skill_125_desc":{
 "text": [
-"Uuu... No es justo que sea tan erótico cuando se les pone tan grande y palpita... Sin olvidar el líquido que les gotea...",
+"Uuuh... No es justo que sea tan erótico cuando se les pone tan grande y palpita... Sin olvidar el líquido que les gotea...",
 "\\REM_EFF[skill_125_effect]"
 ]},
 "skill_126_name":{
@@ -4210,7 +4210,7 @@
 },
 "skill_128_desc":{
 "text": [
-"Uuu...... Mis tetas quieren más, necesitan más, algo más grande y más duro......♥",
+"Uuuh...... Mis tetas quieren más, necesitan más, algo más grande y más duro......♥",
 "\\REM_EFF[skill_128_effect]"
 ]},
 "skill_129_name":{
@@ -4242,7 +4242,7 @@
 },
 "skill_132_desc":{
 "text": [
-"Uuu......♥ Todo mi cuerpo está pidiendo más...♥ Necesito algo, cualquier cosa... Todo......♥",
+"Uuuh......♥ Todo mi cuerpo está pidiendo más...♥ Necesito algo, cualquier cosa... Todo......♥",
 "\\REM_EFF[skill_132_effect]"
 ]},
 "skill_133_name":{
@@ -4515,7 +4515,7 @@
 },
 "skill_166_desc":{
 "text":[
-"¡¿Q-Qué?! ¡¿Así que esta es la eyaculación masculina?! Salen fluidos blancos a chorros del pene...",
+"¡¿Q-Qué?! ¡¿Así que esta es la eyaculación masculina?! Salen fluidos blancos a chorros...",
 "\\REM_EFF[skill_166_effect]"
 ]},
 "skill_167_name":{
@@ -4791,7 +4791,7 @@
 "\\REM_EFF[skill_200_effect]"
 ]},
 "skill_201_name":{
-"text":["Sensación de Tetas"]
+"text":["Sensación en las Tetas"]
 },
 "skill_201_desc":{
 "text":[
@@ -7569,7 +7569,7 @@
 "text":[
 "\\}\\}Los frikis sólo intentan aprovecharse de nuestra falta de recursos. Envía a los guardias a amenazar a los frikis",
 "\\}\\}para que se rindan, diciéndoles que les romperémos sus ordenadores y juguetes si no ponen fin a su chantaje.",
-"\\}\\REM_EFF[skill_551_effect]"
+"\\}\\}\\REM_EFF[skill_551_effect]"
 ]},
 "skill_552_name":{
 "text":["Ríndete ante los Frikis"]
@@ -7705,9 +7705,9 @@
 },
 "skill_569_desc":{
 "text": [
-"Hacer que los guardias paguen los artículos de la tienda nos dará una fuente extra de ingresos.",
+"Hacer que los guardias paguen en la tienda nos dará una fuente extra de ingresos.",
 "",
-"\\REM_EFF[skill_569_effect]"
+"\\}\\REM_EFF[skill_569_effect]"
 ]},
 "skill_570_name":{
 "text":["El Personal debe Pagar en la Tienda"]
@@ -7833,7 +7833,7 @@
 "text": [
 "¿Qué sentido tienen las clases si los reclusos pueden elegir no asistir nunca a ellas?",
 "A partir de ahora, todos los reclusos deben ir a clase al menos dos veces por semana.",
-"\\}\\REM_EFF[skill_583_effect]"
+"\\}\\}\\REM_EFF[skill_583_effect]"
 ]},
 "skill_584_name":{
 "text":["Plan de Estudios: Nada"]
@@ -7974,7 +7974,7 @@
 "skill_599_desc":{
 "text": [
 "\\}Empezaremos a favorecer a los reclusos más fuertes para aceptarlos en la prisión.",
-"\\}Son más difíciles de controlar, pero el imperio nos enviará más ayuda, y los reclusos fuertes son mejores trabajadores.",
+"\\}Son más difíciles de controlar, pero el imperio nos enviará más ayuda, y los reclusos fuertes trabajan más.",
 "\\REM_EFF[skill_599_effect]"
 ]},
 "skill_600_name":{
@@ -9261,7 +9261,7 @@
 "text":["Primera Cata del Culo de un Hombre"]
 },
 "skill_845_desc":{
-"text":["Uuu...... Un beso lo entendería...... Pero por qué puse mi boca en el ano de un hombre......",
+"text":["Uuuh...... Un beso lo entendería...... Pero por qué puse mi boca en el ano de un hombre......",
 "\\REM_EFF[skill_845_effect]"
 ]},
 "skill_846_name":{
@@ -9471,7 +9471,7 @@
 "text":["Material para Pajas de los Frikis"]
 },
 "skill_875_desc":{
-"text":["¡Uuu... Estas cosas son asquerosas...! ¡Vuelve cuando te hayas duchado!",
+"text":["¡Uuuh... Estas cosas son asquerosas...! ¡Vuelve cuando te hayas duchado!",
 "\\REM_EFF[skill_875_effect]"
 ]},
 "skill_876_name":{
@@ -9738,7 +9738,7 @@
 "text":["Amiga de Campamento de los Vagabundos"]
 },
 "skill_915_desc":{
-"text":["Uu... Ni en un millón de años pensé que tocaría a seres tan inmundos, y sin embargo lo hice......",
+"text":["Uuh... Ni en un millón de años pensé que tocaría a seres tan inmundos, y sin embargo lo hice......",
 "\\REM_EFF[skill_915_effect]"
 ]},
 "skill_916_name":{
@@ -11705,7 +11705,7 @@
 "\\}Recoge los papeles del visitante."
 ]},
 "skill_1581_msg1":{
-"text":["%1 toma el papeleo relleno de %2."]
+"text":["%1 toma el papeleo relleno del %2."]
 },
 "skill_1582_name":{
 "text":["Disculparse"]
@@ -11723,8 +11723,8 @@
 "skill_1583_desc":{
 "text":[
 "\\}Comienza a procesar el papeleo de un visitante.",
-"\\}\\C[9]➤\\C[0] El tiempo de procesado depende de la cantidad de páginas y de tener suficiente Voluntad.",
-"Una vez procesado, puede asignarle a una habitación."
+"\\}\\C[9]➤\\C[0] El tiempo de procesado depende de la cantidad de páginas y de tener",
+"suficiente Voluntad. Una vez procesado, puede asignarle a una habitación."
 ]},
 "skill_1583_msg1":{
 "text":["%1 empieza a procesar el papeleo de %2."]
@@ -11735,7 +11735,8 @@
 "skill_1584_desc":{
 "text":[
 "\\}Continúa procesando la documentación actual.",
-"\\}\\C[9]➤\\C[0] El tiempo de procesado depende de la cantidad de páginas y de tener suficiente Voluntad."
+"\\}\\C[9]➤\\C[0] El tiempo de procesado depende de la cantidad de páginas y de tener.",
+"suficiente Voluntad."
 ]},
 "skill_1585_name":{
 "text":["Llamar al visitante"]
@@ -12150,8 +12151,8 @@
 },
 "skill_1650_desc":{
 "text":[
-"Aumenta la regeneración de resistencia y descansa durante 5 turnos.",
-"\\}\\}\\C[9]➤\\C[0] Descansar con la resistencia llena aumenta la cantidad de fatiga reducida al final."
+"\\}Aumenta la regeneración de resistencia y descansa durante 5 turnos.",
+"\\}\\}\\C[9]➤\\C[0] Descansar con la resistencia llena reduce más fatiga al final."
 ]},
 "skill_1650_msg1":{
 "text":["%1 empieza a descansar."]
@@ -14379,7 +14380,7 @@
 },
 "armor_54_desc":{
 "text":["Prueba de una directora increíblemente hermosa que ha vivido en una prisión (32+ Encanto)",
-"\\REM_EFF[armor_54_effect]"
+"\\}\\REM_EFF[armor_54_effect]"
 ]},
 "armor_55_name":{
 "text":["Directora Encantadora"]
@@ -15011,14 +15012,14 @@
 "text":["Como un Pájaro"]
 },
 "armor_145_desc":{
-"text":["Prueba de una luchadora que ha esquivado más veces de las que ha recibido ataques (+10 evasiones).",
+"text":["\\}Prueba de una luchadora que ha esquivado más veces de las que ha recibido ataques (+10 evasiones).",
 "\\REM_EFF[armor_145_effect]"
 ]},
 "armor_146_name":{
 "text":["Como una Bailarina"]
 },
 "armor_146_desc":{
-"text":["Prueba de una bailarina ágil que ha esquivado más veces de las que ha recibido ataques (Nivel 16+, +42 Evasiones).",
+"text":["\\}Prueba de una bailarina ágil que ha esquivado más veces de las que ha recibido ataques (Nivel 16+, +42 Evasiones).",
 "\\REM_EFF[armor_146_effect]"
 ]},
 "armor_147_name":{

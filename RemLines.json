@@ -8205,13 +8205,13 @@
 
 
 "karryn_mas_touch_nipples_exp1_1":{
-"en":["\\fb\\C[5]\"Nnngh......!",
+"en":["\\fb\\C[5]\"¡Nnngh......!",
 	"\\fb\\C[5]No puedo creer que esté jugando con mis propios pezones.......\""],
 "jp":["\\fb\\C[5]「んくゥッ……！自分で乳首をいじるなんて……」"]
 },
 
 "karryn_mas_touch_nipples_exp1_2":{
-"en":["\\fb\\C[5]\"Oh... Más suave......",
+"en":["\\fb\\C[5]\"Ah... Más suave......",
 	"\\fb\\C[5]Tengo que ser más suave con estos......\""],
 "jp":["\\fb\\C[5]「あっ…優しく……優しくしないと……」"]
 },
@@ -11375,18 +11375,18 @@
 
 "karryn_receptionist_check_room_normal_exp1_1":{
 "en":["\\fb\\C[5]\"Buenas, llamo del Centro de visitantes.",
-	"\\fb\\C[5]¿Me podeis decir si está ocupada la Sala de Visitas? Cambio.\""],
+	"\\fb\\C[5]¿Me puedes decir si está ocupada la Sala de Visitas? Cambio.\""],
 "jp":["\\fb\\C[5]「こちら案内所。面会室の空き状況を知らせなさい」"]
 },
 
 "karryn_receptionist_check_room_normal_exp1_2":{
 "en":["\\fb\\C[5]\"Buenas, soy Karryn.",
-	"\\fb\\C[5]Informádme del estado de la Sala de Visitas, cambio.\""],
+	"\\fb\\C[5]Infórmame del estado de la Sala de Visitas, cambio.\""],
 "jp":["\\fb\\C[5]「こちらカリン。面会室の現状を報告せよ」"]
 },
 
 "karryn_receptionist_check_room_normal_exp2_1":{
-"en":["\\fb\\C[5]\"Karryn, llamando desde el Centro de Visitantes.",
+"en":["\\fb\\C[5]\"Soy Karryn, llamando desde el Centro de Visitantes.",
 	"\\fb\\C[5]¿Está disponible la sala de visitas? Cambio\""],
 "jp":["\\fb\\C[5]「受付のカリンよ。面会室の空きはどう？」"]
 },
@@ -11412,21 +11412,21 @@
 
 "karryn_receptionist_check_room_sexual_exp1_1":{
 "en":["\\fb\\C[5]\"S-soy K-Karryn......",
-	"\\fb\\C[5]Decidme... El estado de la Sala, ngh...",
+	"\\fb\\C[5]Dime... El estado de la Sala, ngh...",
 	"\\fb\\C[5]de Visitas, cambio...\""],
 "jp":["\\fb\\C[5]「こ…こちらカリン……面会室の現状……をッ…報告せよ……」"] 
 },
 
 "karryn_receptionist_check_room_sexual_exp1_2":{
 "en":["\\fb\\C[5]\"Nrgh...... No, estoy sola......",
-	"\\fb\\C[5]Uh, decidme si está libre...",
+	"\\fb\\C[5]Uh, dime si está libre...",
 	"\\fb\\C[5]la sala de visitas... Cambio......\""],
 "jp":["\\fb\\C[5]「んく……私だけど……アッ…空き状況を…報告して……ッ」"]
 },
 
 "karryn_receptionist_check_room_sexual_exp2_1":{
 "en":["\\fb\\C[5]\"Ce-... Ngh...... Centro de Visitantes......",
-	"\\fb\\C[5]Decidme si la sala de visitas esta dis-...",
+	"\\fb\\C[5]Dime si la sala de visitas está dis-...",
 	"\\fb\\C[5]Nngh ...ponible, cambio... Nngh......\""],
 "jp":["\\fb\\C[5]「こッ…んく……こちら受付……面会室の状況を伝えてちょうだ…い…クッふ…」"]
 },
@@ -11452,14 +11452,14 @@
 },
 
 "karryn_receptionist_assign_room_normal_exp1_1":{
-"en":["\\fb\\C[5]\"Diríjase a la puerta a su derecha y ve",
+"en":["\\fb\\C[5]\"Diríjase a la puerta a su derecha y vaya",
 	"\\fb\\C[5]a la sala de visitas asignada.\""],
 "jp":["\\fb\\C[5]「右手の扉から、該当の面会室へお入り下さい」"]
 },
 
 "karryn_receptionist_assign_room_normal_exp1_2":{
 "en":["\\fb\\C[5]\"Gracias por la espera.",
-	"\\fb\\C[5]Por favor ve a la puerta a mi izquierda.\""],
+	"\\fb\\C[5]Por favor vaya a la puerta de mi izquierda.\""],
 "jp":["\\fb\\C[5]「お待たせいたしました。右側の扉へお進み下さい」"]
 },
 
@@ -15152,7 +15152,7 @@
 },
 
 "visitor_fan_greet_handshake_exp1_5":{
-"en":["\\C[14]\"Hola soy fan tuyo",
+"en":["\\C[14]\"Hola soy un fan",
 	"\\C[14]¿Puedo... Estrecharte la mano?\""],
 "jp":["\\C[14]「どうも、あなたのファンです！握手……いいですか？」"]
 },

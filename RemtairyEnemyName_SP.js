@@ -1,13 +1,13 @@
 const ENEMY_NAMES_GENERIC_SP = [
 	"Ren", "Jorge", "Jack", "Dan", "Christian", "Alex", "Early", "Costa",
 	"Henning", "Thomas", "Bern", "Nikita", "Egor", "Max", "Robert", "Wojtek", "Boris", "Oleg", "Jayden", "Kyle", "Cameron",
-	"Shaun", "Hayden", "Town", "Satoshi", "Kei", "Jimmy", "Deck", "Bob", "Barry", "Brock", "Angus",
-	"Lucas", "Felipe", "Andre", "Carr", "Luis", "Lewie", "Ramon", "Hugo", "Jean", "Ash", 
-	"Saul", "Dog", "Ben", "Nicolas", "Victor", "Sebastian", "Seb", "Noah", "Peter", "Jason", "Ham", 
-	"Konstantin", "Kim", "Junho", "Park", "Sung", "Dong", "Ming", "Yang", "Zen", "Zhao", "Peng", "Chan", "Asif",
-	"Asmat", "Amer", "Solomon", "Nassim", "Jean-Paul", "Jose", "Guelo", "Young", "Yazen", "Lee", "Kai",
-	"Syahmi", "Omar", "Elijah", "Blake", "Cesar", "Kasper", "Frej", "Hugo", "Penny", "Zhen", "Pasha",
-	"Isaiah", "Miles", "Takashi", "Geo", "Satoshi", "Keita", "Hentaro", "Taro", 
+	"Shaun", "Hayden", "Town", "Satoshi", "Kei", "Jimmy", "Deck", "Bob", "Barry", "Brock", "Angus", "Antonio",
+	"Lucas", "Felipe", "Andre", "Carr", "Luis", "Lewie", "Ramon", "Hugo", "Jean", "Ash", "Angdy", "Manuel", "Charly",
+	"Saul", "Dog", "Ben", "Nicolas", "Víctor", "Sebastian", "Seb", "Noah", "Peter", "Jason", "Ham", "Francisco",
+	"Konstantin", "Kim", "Junho", "Park", "Sung", "Dong", "Ming", "Yang", "Zen", "Zhao", "Peng", "Chan", "Asif", "Sergio", 
+	"Asmat", "Amer", "Solomon", "Nassim", "Jean-Paul", "Jose", "Guelo", "Young", "Yazen", "Lee", "Kai", "Javier", "Rafael",
+	"Syahmi", "Omar", "Elijah", "Blake", "Cesar", "Kasper", "Frej", "Hugo", "Penny", "Zhen", "Pasha", "Daniel", "Pablo",
+	"Isaiah", "Miles", "Takashi", "Geo", "Satoshi", "Keita", "Hentaro", "Taro", "Barranco", "Alberto", "Alejandro", "Carlos",
 	"Lance", "Stone", "Bullet", "Yamazaki", "Miyazaki", "Terri", "Park", "Found", "Shadow", "Clone", "Band", "Armstrong",
 	"Ali", "Yonder", "Yellow", "Vlock", "Hammer", "Pest", "Quentin", "Hara", "Yi", "Sun", "Xeno", "Zest", "Ump", "Hide",
 
@@ -33,14 +33,15 @@ const ENEMY_NAMES_GOBLIN_SP = [
 	"Drink", "Prot", "Kielk", "Gozz", "Ralb", "Lil-Sruigs", "Wryhic", "Duct", "Tag", "Beezz-Criz", "Urx-Tuiz",
 	"Odd-Sloq", "Sric", "Tomreek", "Green-Brong", "Ung", "Sluld", "Pleq", "Trex", "Ziok", "Zuir", "Frogs", 
 	"Uklirm", "Zuizz", "Clubtiong", "Ig-Ugs", "Srilb-Srilb", "Yzdozz", "Iron-Omort", "Fikt", "Wrets-Wrulb",
+	"Jox",
 	
 	"Zeek-Beek", "Grem-lin", "Gob", "Little-Big-Bum" //May Patreons
 ];
 
 
 const ENEMY_NAMES_NERD_SP = [
-	"Carl", "Glasses", "Kielk", "Timmy", "Jimmy", "Karl", "Nigel", "Ray", "Donk", "Verbal", "Kanye",
-	"Sheldon", "Grandius", "Senn", "Cronk", "Hifumi", "Genchi", "Hikafu", "Azkhal", "Wendel", 
+	"Carl", "Gafotas", "Kielk", "Timmy", "Jimmy", "Karl", "Nigel", "Ray", "Donk", "Verbal", "Kanye",
+	"Sheldon", "Grandius", "Senn", "Cronk", "Hifumi", "Genchi", "Hikafu", "Azkhal", "Wendel", "Anon",
 	"Alexander", "Rhinon", "Tyler", "Noir", "Kebler", "Folk", "Dweeb", "Melvin", "Wehraboo", "Ryuke", 
 	"Rein", //August Patreons
 	
@@ -50,7 +51,7 @@ const ENEMY_NAMES_NERD_SP = [
 
 
 const ENEMY_NAMES_ROGUE_SP = [
-	"Raynold", "Whisper", "Kavika", "Wade", "Yeet", "Jacques", "Jahnny", "Connor", 
+	"Raynold", "Susurro", "Kavika", "Wade", "Yeet", "Jacques", "Jahnny", "Connor", 
 	"Silence", "Hanzo", "Jexx", "Nakamura", "Yuta", "Valand", "Danzo", "Wilson", 
 	"Hiden", "Morit", "Monka", "Kirin", "Pierro", //October Patreons
 	
@@ -105,7 +106,7 @@ const ENEMY_NAMES_ORC_SP = [
 
 
 const ENEMY_NAMES_WEREWOLF_SP = [
-	"Itchy", "Scratchy", "Meats", "Vegan", "Vegas", "Fenris", "Jacob", "Lucian", "Bane", "Good Boy", 
+	"Rasca", "Pica", "Meats", "Vegan", "Vegas", "Fenris", "Jacob", "Lucian", "Bane", "Buen Chico", "Falk",
 
 	"Poddy", "Edon", "Geralt", "Tommy", "Mutango", "Guguk", "Tatsuya", "Peaches", 
 	"Shumuts", "Dante", "Jerry", "Helsing", "Arnoldo", "Fenrir", "Raplord",
@@ -126,7 +127,7 @@ const ENEMY_NAMES_YETI_SP = [
 	"Icky", "Tiny", "Baby", "Primus", "Tank", "Ester", "Warchest", "Rhodes", "Betty", "Sweaty", "Spaghetti",
 	"Blue", "White", "King",
 	
-	"Jack", "Dylan", "Dylan", "Lunk", "Dorian", "Sheriff", "Keefa", "Riley", "Tim", "Sullivan",
+	"Jack", "Dylan", "Lunk", "Dorian", "Sheriff", "Keefa", "Riley", "Tim", "Sullivan",
 	"Arnoldo", "Bobo", "Enrico", "Fluffy", "Bumbo", "Kronk", "Kang", "Yama", "Monke", "Randel",
 	"Jeatter", "Vasa", "Rage", "Kupu", "Bolgor", "Milolo", "Redez", "Manfred", "Renato", "Harambe",
 	"Zooke", "Bamba", "Torashi", "Gerodo", "Gerkk", "Steven", "Huiroj", "Fluffnut", "Lucky", "Kong",
@@ -173,7 +174,7 @@ const ENEMY_NAMES_VISITOR_FEMALE_SP = [
 	"Sally Shwartz", "Sanaria Arendae", "Ai Mao", "Saskias", //January 2020 Patrons
 	
 	
-	"Lola", "Shanna", "Ebiora", "Tee", "Bayo",
+	"Lola", "Shanna", "Ebiora", "Tee", "Bayo", "Leire",
 	
 	"Iyume Ryva", "Serin El", "May Green" //January 2021 Patrons
 ];
@@ -191,69 +192,69 @@ const ENEMY_NAMES_VISITOR_UNISEX_SP = [
 //Prefix
 
 //-15% all stats
-const ENEMY_PREFIX_BAD_SP = ["Crappy", "Frail", "Sickly", "Slow", "Short", "Small", "Fat", "Dumb", "Thin", "Dull", "Puny", "Weak", "Terrible", "Perverted", "Cowardly", "Lame", "Poor", "Garbage", "Thick", "Stunted"];
+const ENEMY_PREFIX_BAD_SP = ["Cutre", "Frágil", "Enfermizo", "Lento", "Bajo", "Pequeño", "Gordo", "Tonto", "Delgado", "Torpe", "Enclenque", "Débil", "Escuchimizado", "Pervertido", "Cobarde", "Cojo", "Pobre", "Idiota", "Raquítico", "Bobo", "Carajote", "Mongolo", "Empanado", "Alelado", "Apollardado", "Bobalicón", "Botarate", "Cuerpoescombro", "Descerebrado", "Huevón", "Pardillo", "Pelele", "Tarado", "Zoquete", "Chalado", "Amamonado", "Imbécil", "Gilipollas", "Tarugo", "Cazurro", "Ignorante"];
 
-const ENEMY_PREFIX_DRUNK_SP = ["Wasted", "Drunk", "Smashed", "Drunk", "Shitfaced", "Drunk"];
+const ENEMY_PREFIX_DRUNK_SP = ["Borracho", "Ebrio", "Bebido", "Piripi", "Tiznado", "Beodo", "Tomado", "Borrachín", "Achispado", "Alcoholizado", "Mamado", "Pedo", "Tajado", "Trompa", "Burlao", "Mareado", "Perjudicado", "Embriagado", "Contento", "Chuzado"];
 
 //-15% all stats, -1 ejaculation stock
-const ENEMY_PREFIX_HUNGRY_SP = ["Hungry", "Thin"];
+const ENEMY_PREFIX_HUNGRY_SP = ["Hambriento", "Delgaducho", "Menudo", "Canino"];
 
 //-25% all stats, -1 ejaculation stock
-const ENEMY_PREFIX_STARVING_SP = ["Starving", "Ravenous"];
+const ENEMY_PREFIX_STARVING_SP = ["Famélico", "Voraz", "Esquelético"];
 
 //-25% Strength, -15% Stamina
-const ENEMY_PREFIX_WEAK_SP = ["Weak", "Puny", "Feeble", "Soft", "Short", "Frail"];
+const ENEMY_PREFIX_WEAK_SP = ["Débil", "Enclenque", "Delicado", "Moñas", "Bajo", "Frágil", "Flojo", "Endeble", "Blandengue", "Tímido", "Inseguro", "Afeminado"];
 
 //-25% Dexterity, -10% Energy
-const ENEMY_PREFIX_INEPT_SP = ["Clumsy", "Inept", "Impotent", "Unskilled", "Small", "Short", "Tiny", "Fat", "Stunted"];
+const ENEMY_PREFIX_INEPT_SP = ["Torpe", "Inepto", "Impotente", "Inútil", "Pequeño", "Bajo", "Enano", "Gordo", "Imbécil"];
 //-25% Agility
-const ENEMY_PREFIX_SLOW_SP = ["Slow", "Fat", "Lethargic", "Chill", "Relaxed", "Aloof", "Sleepy", "Chubby"];
+const ENEMY_PREFIX_SLOW_SP = ["Lento", "Gordo", "Letárgico", "Tranquilo", "Relajado", "Atontado", "Dormilón", "Regordete", "Despistado"];
 //-25% Endurance, -10% Stamina, -15% Energy, -1 ejaculation stock
-const ENEMY_PREFIX_SENSITIVE_SP = ["Sensitive", "Tender", "Excited", "Quick-shot", "Aroused", "Hasty", "Edging", "Fast"];
+const ENEMY_PREFIX_SENSITIVE_SP = ["Sensible", "Tierno", "Emocionado", "Rápido", "Excitado", "Apresurado", "Precoz", "Acelerado"];
 
 //+15% All Stats, +25% Stamina, +15% Ejaculation Volume
-const ENEMY_PREFIX_GOOD_SP = ["Strong", "Skillful", "Cunning", "Fit", "Virile", "Handsome", "Manly", "Girly", "Experienced", "Big", "Horny", "Aroused", "Bad", "Hard", "Hot", "Fiery", "Mean", "Tanned", "Shady", "Brainy", "Smart"];
+const ENEMY_PREFIX_GOOD_SP = ["Fuerte", "Habilidoso", "Astuto", "En Forma", "Viril", "Guapo", "Masculino", "Experimentado", "Grande", "Cachondo", "Excitado", "Malo", "Duro", "Caliente", "Fiero", "Cruel", "Bronceado", "Turbio", "Inteligente", "Listo"];
 
 //+30% All Stats, +35% Stamina, +50% Energy, +25% Ejaculation Volume, +1 ejaculation stock
-const ENEMY_PREFIX_ELITE_SP = ["Elite", "Terrible", "Wicked", "Perverted", "Peerless", "Greatest", "Intense", "Royal", "Super", "Dominant", "Absolute", "Infamous", "Almighty"];
+const ENEMY_PREFIX_ELITE_SP = ["de Élite", "Malvado", "Pervertido", "Sin Igual", "Invencible", "Intenso", "Dominante", "Infame", "Todopoderoso", "Vigoroso", "Indomable", "Invicto", "Insuperable", "Vicioso", "Perverso", "Hercúleo"];
 
 //+30% Strength, +15% Stamina
-const ENEMY_PREFIX_STRONG_SP = ["Strong", "Brawny", "Rugged", "Fit", "Muscular", "Beefy", "Burly"];
+const ENEMY_PREFIX_STRONG_SP = ["Fuerte", "Fornido", "Robusto", "En Forma", "Musculoso", "Corpulento", "Macizo", "Recio", "Tenaz", "Atlético", "Vigoroso"];
 //+30% Dexterity, +10% Energy
-const ENEMY_PREFIX_DEXTEROUS_SP = ["Dexterous", "Cunning", "Handsome", "Lithe", "Skillful", "Deft", "Handy", "Tanned", "Experienced"];
+const ENEMY_PREFIX_DEXTEROUS_SP = ["Diestro", "Astuto", "Guapo", "Ágil", "Habilidoso", "Hábil", "Experimentado", "Apañado", "Competente", "Mañoso", "Perspicaz", "Ladino"];
 //+30% Agility
-const ENEMY_PREFIX_AGILE_SP = ["Agile", "Fast", "Quick", "Light", "Nimble", "Short", "Hasty"];
+const ENEMY_PREFIX_AGILE_SP = ["Ágil", "Rápido", "Veloz", "Ligero", "Raudo", "Bajo", "Acelerado", "Liviano", "Grácil"];
 
 //+30% Endurance, +35% Stamina, +25% Energy, +25% Ejaculation Volume, +1 ejaculation stock
-const ENEMY_PREFIX_ENDURING_SP = ["Enduring", "Rugged", "Sturdy", "Tough", "Experienced", "Big", "Fit", "Virile", "Manly"];
+const ENEMY_PREFIX_ENDURING_SP = ["Resistente", "Robusto", "Duro", "Experimentado", "Grande", "En Forma", "Viril", "Varonil", "Masculino", "Recio", "Sano", "Macizo", "Tenaz"];
 
 //-25% Dexterity, -25% Endurance, +50% Energy
 //With passives: -50% Charm, +50% Ejaculation Volume, +1 ejaculation stock
-const ENEMY_PREFIX_VIRGIN_SP = ["Virgin"];
+const ENEMY_PREFIX_VIRGIN_SP = ["Virgen"];
 
 //+10% Strength, +10% Dexterity, +10% Agility, -50% Charm, Starts the battle with the Horny state
-const ENEMY_PREFIX_HORNY_SP = ["Horny", "Perverted", "Excited", "Aroused", "Hard", "Horny", "Horny"];
+const ENEMY_PREFIX_HORNY_SP = ["Cachondo", "Pervertido", "Excitado", "Emocionado", "Empalmado", "Salido", "Caliente", "Libidinoso", "Lascivo", "Degenerado"];
 
 //+25% Strength, +25% Dexterity, +25% Endurance, -25% Agility, +35% Stamina, +50% Energy, +50% Ejaculation Volume, +1 ejaculation stock
-const ENEMY_PREFIX_BIG_SP = ["Big", "Huge", "Giant", "Thick", "Towering"];
+const ENEMY_PREFIX_BIG_SP = ["Grande", "Enorme", "Gigante", "Ancho", "Imponente", "Vasto", "Fornido", "Corpulento"];
 
 //Starts the battle with the Angry state
-const ENEMY_PREFIX_ANGRY_SP = ["Angry", "Mad", "Furious", "Upset", "Annoyed", "Rude", "Angry"];
+const ENEMY_PREFIX_ANGRY_SP = ["Enfadado", "Enojado", "Furioso", "Disgustado", "Molesto", "Grosero", "Cabreado", "Encabronado", "Malhumorado", "Airado", "Irritado", "Colérico", "Iracundo"];
 
 //Metal
-const ENEMY_PREFIX_METAL_SP = ["Metal"];
+const ENEMY_PREFIX_METAL_SP = ["Metálico"];
 
 //+Talk lvl
-const ENEMY_PREFIX_TALK_SP = ["Asshole", "Chatty", "Jerk", "Talkative", "Noisy", "Loud"];
+const ENEMY_PREFIX_TALK_SP = ["Gilipollas", "Hablador", "Imbécil", "Ruidoso", "Pesado", "Liante", "Parlanchín", "Charlatán", "Bocazas"];
 
 //+Sight lvl
-const ENEMY_PREFIX_SIGHT_SP = ["Quiet", "Intense", "Perverted", "Watchful", "Gawking", "Gazeful", "Nosy"];
+const ENEMY_PREFIX_SIGHT_SP = ["Silencioso", "Intenso", "Pervertido", "Observador", "Vigilante", "Entrometido", "Mirón", "Fisgón", "Curioso", "Atento"];
 
 //+Maso lvl, +25% Stamina, +25% Energy, +25% Def, -25% Atk
-const ENEMY_PREFIX_MASO_SP = ["Masochistic", "Masochistic", "Submissive"];
+const ENEMY_PREFIX_MASO_SP = ["Masoquista", "Sumiso", "Obediente"];
 
 //+Sado lvl, +10% Strength, +10% Dexterity, +10% Agility, +25% Atk, -25% Def
-const ENEMY_PREFIX_SADO_SP = ["Sadistic", "Cruel", "Sadistic"];
+const ENEMY_PREFIX_SADO_SP = ["Sádico", "Cruel", "Despiadado", "Sanguinario", "Violento"];
 
 //No effect
-const ENEMY_PREFIX_NEUTRAL_SP = ["Quiet", "Nice", "Normal", "Regular", "Nondescript", "Generic", "Average", "Tall", "Asshole", "Artistic", "Bisexual", "Bald", "Balding", "Smelly", "Bland", "Boring", "Underachieving", "Woke", "Weird", "Strange"];
+const ENEMY_PREFIX_NEUTRAL_SP = ["Tranquilo", "Agradable", "Normal", "Insulso", "Genérico", "Promedio", "Alto", "Imbécil", "Artista", "Bisexual", "Calvo", "Apestoso", "Soso", "Aburrido", "Mediocre", "Liberal", "Raro", "Extraño", "Tolerante", "Ambicioso", "Pedante", "Feo", "Insoportable", "Cabezota", "Vago", "Sincero", "Confiado", "Rebelde", "Paciente", "Simpático", "Atrevido", "Insolente", "Impaciente", "Vulgar", "Ordinario"];
