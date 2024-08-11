@@ -4483,10 +4483,10 @@
 
 "map17_ev23_p2_challenge_1":{
 "text":[
-"Cada Desafío te otorga uno de dos Títulos posibles como recompensa ¡Miau!",
+"Cada Desafío te otorga uno de dos Títulos posibles como recompensa",
 "El Título que obtienes depende de si estás en Modo Guardiana.",
 "o si estás en Modo Prisionera ¡Miau!",
-"La recompensa del Modo Prisionera es mejor que la del Modo Guardiana ¡Miau!",
+"La recompensa del Modo Prisionera es mejor que la del Modo Guardiana",
 "Y la recompensa del Modo Prisionera reemplazará la recompensa del",
 "Modo Guardiana si la ovtuviste previamente ¡Miau!",
 "No obtendrás una recompensa por superar el Desafío en el",
@@ -8830,7 +8830,7 @@
 "text": [
 "Bonsoir, Madame Directora. ♪ Hoy seré su chef personal.",
 "Este es el menú artesanal de hoy diseñado para su divino placer.",
-"Todo en este menú está hecho con productos orgánicos recién cosechados. ♪"
+"Todo en este menú está hecho con productos orgánicos. ♪"
 ]},
 
 "map22_ev25_p2_1":{
@@ -9368,10 +9368,10 @@
 
 "Ojalá pudiéramos tener ese mismo poder~.",
 "Si pones a un grupo de Frikis juntos en una habitación, todo lo que ",
-"tendrás ahora es un grupo de Frikis sudorosos juntos en una habitación húmeda~.",
+"consigues son Frikis sudorosos en una habitación húmeda~.",
 
 "¡Ah, y casi se me olvida!",
-"Los Hombres Lagarto pueden regenerar partes del cuerpo después de un tiempo, ",
+"Los Hombres Lagarto pueden regenerar partes del cuerpo, ",
 "lo cual mola mucho ¡Y son resistentes a ataques \\C[4]\\I[306]Perforantes\\C[0]!"
 ]},
 

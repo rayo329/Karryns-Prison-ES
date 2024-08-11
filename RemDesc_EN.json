@@ -2071,7 +2071,7 @@
 },
 
 "effect_while_bankrupted":{
-"text":["\\C[10] (Mientras se está en bancarrota)"]
+"text":["\\C[10] (Al estar en bancarrota)"]
 },
 
 "effect_equip_wholeday":{
@@ -2281,7 +2281,7 @@
 },
 
 "effect_noriot_unlessbankrupt":{
-"text":["\\C[11]\\I[406]Los Motines solo ocurrirán en bancarrota"]
+"text":["\\C[11]\\I[406]Motines solo ocurren en bancarrota"]
 },
 "effect_noriot_cost":{
 "text":["\\C[10]\\I[401]Gasto por Nivel Subyugado "]
@@ -2295,22 +2295,22 @@
 
 
 "effect_global_invasionchance_plus":{
-"text":["\\C[10]\\I[421]Probabilidad de Invasión"]
+"text":["\\C[10]\\I[421]Prob. de Invasión"]
 },
 "effect_global_invasionchance_minus":{
-"text":["\\C[11]\\I[420]Probabilidad de Invasión"]
+"text":["\\C[11]\\I[420]Prob. de Invasión"]
 },
 "effect_office_invasionchance_plus":{
-"text":["\\C[10]\\I[421]Probabilidad de Invasión en la Oficina"]
+"text":["\\C[10]\\I[421]Prob. de Invasión en la Oficina"]
 },
 "effect_office_invasionchance_minus":{
-"text":["\\C[11]\\I[420]Probabilidad de Invasión en la Oficina"]
+"text":["\\C[11]\\I[420]Prob. de Invasión en la Oficina"]
 },
 "effect_guardstation_invasionchance_minus":{
-"text":["\\C[11]\\I[420]Probabilidad de Invasión en un Puesto de Guardia"]
+"text":["\\C[11]\\I[420]Prob. de Invasión en un Puesto de Guardia"]
 },
 "effect_visitorcenter_invasionchance_plus":{
-"text":["\\C[10]\\I[487]Probabilidad de Invasión de Goblins en el Centro de Visitantes"]
+"text":["\\C[10]\\I[487]Prob. de Invasión de Goblins en el Centro de Visitantes"]
 },
 
 
@@ -2597,10 +2597,10 @@
 },
 
 "effect_classeffectsdoubled":{
-"text":["\\C[11]\\I[245]Efectos de los Decretos de las clases y las aulas duplicados."]
+"text":["\\C[11]\\I[245]x2 Efectos de Decretos de las clases y las aulas."]
 },
 "effect_gymeffectsdoubled":{
-"text":["\\C[11]\\I[364]Efectos de los Decretos sobre Políticas del Gimnasio duplicados."]
+"text":["\\C[11]\\I[364]x2 Efectos de Decretos del Gimnasio."]
 },
 
 "effect_nerd_blackmail":{
@@ -2822,7 +2822,7 @@
 "text":["\\C[11]\\I[490]Prob. de Enemigos Buscados"]
 },
 "effect_wantedenemylvl_plus":{
-"text":["\\C[10]\\I[491]El Nivel de los Enemigos Buscados aumenta después de ser sometido"]
+"text":["\\C[10]\\I[491]Nv. de Enemigos Buscados tras ser sometidos "]
 },
 
 "effect_staffeff_explain":{
@@ -8038,7 +8038,7 @@
 "text": [
 "\\}\\}Hemos proporcionado tanto entretenimiento y comodidades a los reclusos que han empezado a darlas por sentado.",
 "\\}\\}Podemos utilizar esto a nuestro favor quitando esos privilegios durante cierto tiempo a cualquiera que se atreva a amotinarse contra nosotros.",
-"\\}\\}\\REM_EFF[skill_606_effect]"
+"\\}\\}\\}\\REM_EFF[skill_606_effect]"
 ]},
 "skill_607_name":{
 "text":["Negociar con Reclusos Sometidos"]
@@ -8111,7 +8111,7 @@
 "text": [
 "\\}Unidos contra el Fuerte Ganon, los hombres lagarto son una seria amenaza que no se puede pasar por alto.",
 "\\}Lo que tenemos que hacer es decirles que dirijan su atención hacia ti, en lugar de malgastar energía amotinándose.",
-"\\}\\REM_EFF[skill_614_effect]"
+"\\}\\}\\REM_EFF[skill_614_effect]"
 ]},
 "skill_615_name":{
 "text":["El Problema con los Orcos"]
@@ -8193,7 +8193,7 @@
 "text":[
 "El gimnasio estará abierto en horario de mañana, tarde y noche.",
 "La ampliación del horario garantizará que los reclusos no tengan que esperar.",
-"\\}\\REM_EFF[skill_623_effect]"
+"\\}\\}\\REM_EFF[skill_623_effect]"
 ]},
 "skill_624_name":{
 "text":["Política del Gimnasio: Reducir Horarios"]
