@@ -9746,8 +9746,8 @@
 "map35_ev33_p2_challengerun_desc":{
 "text":[
 "\\#Los Desafíos son opcionales y otorgan un Título al vencer al jefe final.",
-"\\#Los Desafíos solo se pueden realizar en Modo Guardiana o Prisionera después de reiniciar todos los niveles y estadísticas.",
-"\\#La recompensa por superar el desafío en el modo Prisionera sobrescribirá la recompensa del Modo Guardiana.",
+"\\#Solo se pueden realizar en Modo Guardiana o Prisionera tras reiniciar niveles y estadísticas.",
+"\\#La recompensa del desafío en Modo Prisionera sobrescribirá la recompensa del Modo Guardiana.",
 "\\#Los Desafíos se pueden abandonar o fallar sin penalización alguna."
 ]},
 "map35_ev33_p2_secretary_desc":{
@@ -9829,7 +9829,7 @@
 "map35_ev33_p2_cancelchallenge_desc":{
 "text":[
 "\\#Cancela el desafío actual.",
-"\\#Esto te permitirá cambiar Títulos libremente, jugar en el modo Secretaria y mantener los niveles y estadísticas actuales."
+"\\#Podrás cambiar los Títulos libremente, jugar en el modo Secretaria y mantener niveles y estadísticas actuales."
 ]},
 
 "map35_ev37_p1_1":{
@@ -9878,13 +9878,13 @@
 "el jugador pierda de forma orgánica una y otra vez y sea testigo de cómo Karryn ",
 "cae en una espiral de decadencia, miau.",
 
-"Es como dicen, ",
+"Como se suele decir, ",
 "el juego estaba amañado desde el principio.",
-"El mundo está preparado para ver fracasar a Karryn y, honestamente ¿Puedes culparlos?",
+"El mundo está preparado para ver fracasar a Karryn, ¿Puedes culparlos?",
 
 "Si quieres, puedo revelarte los dos mayores obstáculos iniciales de este juego.",
 "\\C[2]Sin embargo, al hacerlo, perderás la oportunidad de conquistarlos por ti mismo.",
-"Así que sólo di que sí aquí si estás realmente perdido y quieres saber las respuestas, \\C[0]miau."
+"Di que sí aquí solo si estás realmente perdido y quieres saber las respuestas, \\C[0]miau."
 ]},
 
 "map35_ev95_p1_choice1_no_1":{
