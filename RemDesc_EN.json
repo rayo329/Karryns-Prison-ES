@@ -586,19 +586,19 @@
 },
 
 "peffect_pussywet_aroused":{
-"text":["\\C[1]El Coño se moja más cada turno mientras se está excitada."]
+"text":["\\C[1]El Coño se va mojando más cada turno mientras se está excitada."]
 },
 "peffect_pussywet_nopan":{
-"text":["\\C[1]El Coño se moja más cada turno mientras no se lleve bragas."]
+"text":["\\C[1]El Coño se va mojando más cada turno mientras no se lleve bragas."]
 },
 "peffect_pussywet_orgasm_day":{
-"text":["\\C[27]El Coño se moja más cada turno por cada orgasmo ese mismo día."]
+"text":["\\C[27]El Coño se va mojando más cada turno por cada orgasmo ese mismo día."]
 },
 "peffect_pussywet_talkpussy_battle":{
-"text":["\\C[27]El Coño se moja más por cada persona que hable sobre el coño de Karryn en la misma batalla."]
+"text":["\\C[27]El Coño se va mojando más por cada persona que hable del coño de Karryn en la misma batalla."]
 },
 "peffect_pussywet_map_scandalous":{
-"text":["\\C[27]El Coño se va mojando lentamente mientras se camina por la prisión excitada en un estado escandaloso."]
+"text":["\\C[27]El Coño se va mojando lentamente al caminar excitada en un estado escandaloso."]
 },
 "peffect_pussywet_kick":{
 "text":["\\C[27]El Coño se moja antes de atacar con una patada."]
@@ -1326,6 +1326,9 @@
 },
 "peffect_stripresistdown_bukkake":{
 "text":["\\C[27]La Resistencia a Perder Ropa disminuye por cada gota de semen que cubra la piel."]
+},
+"peffect_stripresistdown_wet":{
+"text":["\\C[27]La Resistencia a Perder Ropa disminuye al estar mojada."]
 },
 "peffect_stripresistdown_boobs_count_day":{
 "text":["\\C[27]La Resistencia a Perder Ropa disminuye por cada persona que manosee los pechos de Karryn en ese mismo día."]
@@ -2701,7 +2704,7 @@
 "text":["\\C[11]\\I[410]Ingresos por los condones "]
 },
 "effect_strippervip_money":{
-"text":["\\C[11]\\I[410]Ingresos por participación en Baile Privado "]
+"text":["\\C[11]\\I[410]Ingresos por Baile Privado "]
 },
 
 "effect_trainer_unlock":{
@@ -2795,7 +2798,7 @@
 "text":["\\C[11]\\I[57]Sensibilidad de la boca"]
 },
 "effect_kiss_debuff":{
-"text":["\\C[11]\\I[288]La habilidad Beso causa desventajas en los enemigos"]
+"text":["\\C[11]\\I[288]'Beso' causa desventajas en los enemigos"]
 },
 
 "effect_metal_expbonus":{
@@ -2826,7 +2829,7 @@
 },
 
 "effect_staffeff_explain":{
-"text":["\\C[31]\\I[496]50% de la Eficiencia del Personal cuando la Sala del Personal no funcione "]
+"text":["\\C[31]\\I[496]50% de Eficiencia del Personal cuando la Sala del Personal no funcione "]
 },
 "effect_staffeff_plus":{
 "text":["\\C[11]\\I[496]Eficiencia del Personal cuando la Sala del Personal no funcione "]
@@ -15328,7 +15331,7 @@
 "text":["Siempre Hasta Arriba"]
 },
 "armor_190_desc":{
-"text":["\\}Prueba de una prostituta que ha servido en privado a 6 pollas diferentes a la vez.\\{",
+"text":["\\}Prueba de una prostituta que ha servido en privado a 6 pollas distintas a la vez.\\{",
 "\\REM_EFF[armor_190_effect]"
 ]},
 "armor_191_name":{
@@ -15357,7 +15360,7 @@
 },
 "armor_194_desc":{
 "text":["\\}Prueba de una emperatriz que reservó su primer beso y ambas virginidades para su marido (Final Emperatriz).\\{",
-"\\REM_EFF[armor_194_effect]"
+"\\}\\REM_EFF[armor_194_effect]"
 ]},
 "armor_195_name":{
 "text":["Emperatriz Karryn"]
@@ -15561,7 +15564,7 @@
 "armor_427_desc":{
 "text":[
 "Reemplazar el equipo actual por",
-"el equipo guardado en el Sett #8."
+"el equipo guardado en el Set #8."
 ]},
 
 
