@@ -1327,6 +1327,9 @@
 "peffect_stripresistdown_bukkake":{
 "text":["\\C[27]La Resistencia a Perder Ropa disminuye por cada gota de semen que cubra la piel."]
 },
+"peffect_stripresistdown_wet":{
+"text":["\\C[27]La Resistencia a Perder Ropa disminuye al estar mojada."]
+},
 "peffect_stripresistdown_boobs_count_day":{
 "text":["\\C[27]La Resistencia a Perder Ropa disminuye por cada persona que manosee los pechos de Karryn en ese mismo día."]
 },
