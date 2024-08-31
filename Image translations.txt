@@ -1,6 +1,6 @@
 
 ***************************************************************************************
-* Note to Rem: "/" are used for shorter translations in case the text is hard to fit. *
+* Note to Rem: "/" are used for shorter translations in case the text is hard to fit  *
 ***************************************************************************************
 
 
