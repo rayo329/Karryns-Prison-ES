@@ -1,0 +1,198 @@
+
+***************************************************************************************
+* Note to Rem: "/" are used for shorter translations in case the text is hard to fit. *
+***************************************************************************************
+
+
+**IMG/SYSTEM***************************************************************************
+
+*MapBorders_Normal_EN*
+Level X = Nivel X
+Order = Orden
+Control = Control
+Fatigue = Fatiga
+Pleasure = Placer
+Day = Día
+
+*Time_A*
+Time = Tiempo
+
+*Wave_A*
+Wave = Oleada
+
+*Wave_B*
+Wave = Oleada
+
+*IconSet_Language_EN*
+Pussy = Coño
+Right Hand = Mano Derecha/Mano Der.
+Left Hand = Mano Izquierda/Mano Izq.
+Titty Fuck = Paja con las Tetas/Paja Tetas
+Blowjob = Mamada
+Anal = Anal
+Cunni = Cunni
+Wet = Mojada
+Bliss = Dicha
+Rimming = Anilingus/Anil.
+Footjob = Paja con los Pies/Paja Pies
+Confident = Confiada
+Frustrated = Frustrada
+Cool = Tranquila/Tranq.
+Virgin = Virgen
+Dry = Seca
+Combo Atk = Combo Ataque/Combo Ataq.
+Combo sex = Combo Sexo
+Aroused = Excitada
+Horny = Cachonda
+Combo Dan = Combo Baile
+Hint = Pista
+Reset ON = (Can be left in english)
+Reset OFF = (Can be left in english)
+Titles = Títulos
+Bar = Bar
+Level = Nivel
+Credits = Créditos
+
+**IMG/TITLES***************************************************************************
+
+*Command_0*
+New Game = Nueva Partida
+
+*Command_1*
+Load Game = Cargar Partida
+
+*Command_2*
+Settings = Opciones
+
+*Command_3*
+Subscribe = Suscribirse
+
+*Command_5*
+Exit Game = Salir
+
+*Title_Steam*
+If you want, you can translate "©Remtairy All rights reserved." as "©Remtairy Todos los derechos reservados.".
+
+**IMG/PICTURES*************************************************************************
+
+*difficulty_easy1_en*
+Secretary Mode = Modo Secretaria
+Difficulty: Easy = Dificultad: Fácil
+
+*difficulty_easy2_en*
+Enemies are weaker and act less = Los enemigos son más débiles y actúan menos
+Bonus regen, accuracy and evasion = Bonus a la regeneración, precisión y evasión
+Higher exp growth rate = Ganas más experiencia
+3 edicts allowed per day = Hasta 3 decretos por día
+Plus 2 starting control = +2 de control iniciales
+Plus 1000 starting income = +1000 de ingresos iniciales
+No time limit = Sin límite de Tiempo
+Lower riot and invasion chance = Menor probabilidad de Invasiones y Motines
+Can run away from battles = Puedes huir de los combates
+Save anywhere = Puedes guardar en cualquier sitio
+
+Se recomienda el Modo Secretaria
+a los jugadores que buscan
+una experiencia sencilla y casual.
+
+*difficulty_normal1_en*
+Warden Mode = Modo Guardiana
+Difficulty: Normal = Dificultad: Normal
+
+*difficulty_normal2_en*
+Default enemy stats = Estadísticas normales de enemigos
+Default exp growth rate = Experiencia normal
+2 edicts allowed per day = Hasta 2 decretos por día
+Plus 400 starting income = +400 de ingresos iniciales
+Default time limit = Límite de Tiempo estándar
+Default riot and invasion chance = Probabilidad estándar de Invasiones y Motines
+Can run away from battles = Puedes huir de los combates
+Autosave only = Solo autoguardado
+
+Se recomienda el Modo Guardiana
+a jugadores nuevos que tienen
+experiencia en juegos RPG
+
+*difficulty_hard1_en*
+Prisoner Mode = Modo Prisionera
+Difficulty: Hard = Dificultad: Difícil
+
+*difficulty_hard2_en*
+Enemies are stronger and act more often = Los enemigos son más fuertes y actúan más
+Lower exp growth rate = Ganas menos experiencia
+2 edicts allowed on odd days = Hasta 2 decretos en días impares
+1 edict allowed on even days = Un solo decreto en días pares
+Minus 1 starting Control = -1 de control inicial 
+Lower time limit = Menor límite de Tiempo
+Higher riot and invasion chance = Mayor probabilidad de Invasiones y Motines
+Can not run away from battles = No puedes huir de los combates
+Autosave only = Solo autoguardado
+
+Se recomienda el Modo Prisionera
+a jugadores experimentados que
+quieren probar su comprensión
+de los sistemas del juego.
+
+*prison_caution*
+Este juego es una obra de ficción. Los nombres, personajes, eventos, lugares
+e historias mostrados en este juego son completamente ficticios.
+Cualquier parecido con personas reales, vivas o muertas, o con
+hechos y lugares reales es pura coincidencia.
+Las opiniones y puntos de vista expresados en esta obra no reflejan
+los de Remtairy o sus empleados, así como los de cualquier web vendiendo este juego
+
+*prison_caution_dm_en*
+Este juego es una obra de ficción. Los nombres, personajes, eventos, lugares
+e historias mostrados en este juego son completamente ficticios.
+Cualquier parecido con personas reales, vivas o muertas, o con
+hechos y lugares reales es pura coincidencia.
+Las opiniones y puntos de vista expresados en esta obra no reflejan
+los de Remtairy o sus empleados, así como los de cualquier web vendiendo este juego
+
+Sin embargo, ¿por qué juegas a Karryn's Prison
+sabiendo que es una obra de ficción?
+
+¿Eres alguien que fantasea
+con una mujer ficticia super fuerte y confiada
+que es bellísima y tiene un cuerpazo
+y se junta con hombres asquerosos que no tendrían ninguna oportunidad con ella,
+y esa mujer empieza odiando tan solo pensar en ese escenario
+pero poco a poco se va volviendo más guarra,
+hasta que se moja con tan solo pensar en ello y no puede negar que le encanta?
+
+En ese caso, quédate tranquilo,
+este juego te otorgará un espacio seguro
+donde cumplir tus fantasías hasta que no puedas más.
+
+**IMG/BATTLEHUD************************************************************************
+
+*Layout_Skill_Special*
+Special Skill = Habilidad Especial
+
+*Layout_Skill_Sexual*
+Sexual = Sexual
+
+*Layout_Skill_Willpower*
+Willpower = Fuerza de Voluntad
+
+*Layout_Skill_Energy*
+Energy = Energía
+
+*Layout_Skill_Stamina*
+Attack = Ataque
+
+*En_Text*
+Cock = Polla
+Mouth = Boca
+Boobs = Tetas
+Pussy = Coño
+Butt = Culo
+Pleasure = Placer
+Stamina = Resistencia
+Energy = Energía
+Willpower = Fuerza de Voluntad/Voluntad
+
+*En_Text_Steam*
+Stamina = Resistencia
+Energy = Energía
+Willpower = Fuerza de Voluntad/Voluntad
