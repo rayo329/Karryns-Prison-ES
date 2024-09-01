@@ -2188,6 +2188,82 @@
 "text":["\\C[11]\\I[290]Probabilidad de comenzar la batalla Confiada"]
 },
 
+
+
+"effect_goldrate_allow":{
+"text":["\\C[11]\\I[458]Los Enemigos pueden soltar oro"]
+},
+"effect_itemdrop_allow":{
+"text":["\\C[11]\\I[478]Los Enemigos pueden soltar Accesorios"]
+},
+
+"effect_goldrate_exact_plus":{
+"text":["\\C[11]\\I[458]Prob. de soltar oro "]
+},
+"effect_goldrate_plus_corruption":{
+"text":["\\C[11]\\I[458]Prob. de soltar oro aumenta con Corrupción"]
+},
+"effect_itemdrop_exact_plus":{
+"text":["\\C[11]\\I[478]Prob. de soltar objetos "]
+},
+"effect_itemdrop_minus_corruption":{
+"text":["\\C[10]\\I[479]Prob. de soltar objetos disminuye con Corrupción"]
+},
+"effect_defeat_enemy_physically_random_exp":{
+"text":["\\C[1]\\I[100]Estad. aleatoria gana exp al derrotar enemigos por la fuerza"]
+},
+"effect_wpregen_plus_lower_stamina":{
+"text":["\\C[11]\\I[472]Aumenta la Regen de Voluntad según la Resistencia"]
+},
+"effect_store_item_effects":{
+"text":["\\C[11]\\I[544]Efectos de los Objetos de la Tienda "]
+},
+"effect_status_neg_immune":{
+"text":["\\C[11]\\I[232]Inmunidad a desventajas"]
+},
+"effect_enable_carryover_brother":{
+"text":["\\C[1]\\I[559]\\}Permite el Efecto Trans. de Gran Hermano Esquimal en Partidas Normales\\{"]
+},
+"effect_enable_carryover_failed":{
+"text":["\\C[1]\\I[559]\\}Permite el Efecto Trans. de Salir del Pozo en Partidas Normales\\{"]
+},
+"effect_enable_carryover_quest":{
+"text":["\\C[1]\\I[559]\\}Permite el Efecto Trans. de Warden Quest en Partidas Normales\\{"]
+},
+"effect_enable_carryover_emblem":{
+"text":["\\C[1]\\I[559]\\}Permite el Efecto Trans. de Fort Ganon Emblem en Partidas Normales\\{"]
+},
+"effect_enable_carryover_mindset":{
+"text":["\\C[1]\\I[559]\\}Permite el Efecto Trans. de Una Mentalidad Diferente en Partidas Normales\\{"]
+},
+"effect_no_skill_cost_or_dodging":{
+"text":["\\C[11]\\I[469]Los Ataques y Esquivar no cuestan Resistencia"]
+},
+"effect_income_expense_flipped":{
+"text":["\\C[11]\\I[400]Se invierten los Gastos e Ingresos"]
+},
+"effect_most_enemy_angry":{
+"text":["\\C[10]\\I[122]La mayoría de enemigos estarán enfadados"]
+},
+"effect_cheat_work_and_give_stats":{
+"text":["\\C[11]\\I[484]Los trucos funcionan en cualquier modo y aumentan tus estads. en +2%"]
+},
+"effect_desire_gain_only_not_combat":{
+"text":["\\C[1]\\I[271]Los Deseos solo subirán al haber caído o no estar en combate"]
+},
+"effect_regen_two_fatigue_after_win":{
+"text":["\\C[11]\\I[418]Recuperas 2 de Fatiga tras ganar un combate"]
+},
+"effect_enemy_dont_graze_or_miss":{
+"text":["\\C[10]\\I[427]Los enemigos ni fallan ni rozan"]
+},
+"effect_unlock_custom_run":{
+"text":["\\C[1]\\I[143]Desbloqueas las Partidas de Descenso Personalizadas"]
+},
+
+
+
+
 "effect_funding_exact_plus":{
 "text":["\\C[11]\\I[410]Fondos "]
 },
@@ -13762,6 +13838,180 @@
 
 
 
+"skill_2051_name":{
+"text":["Partida de Descenso"]
+},
+"skill_2051_desc":{
+"text":["Cada escenario tiene dos efectos, único y transferible.",
+"Los efectos únicos solo se activan en ese escenario.",
+"Los efectos transferibles se activan para el resto de la partida."
+]},
+
+"skill_2052_name":{
+"text":["Escenario"]
+},
+"skill_2052_desc":{
+"text":["Los escenarios de las Partidas de Descenso se pueden jugar en cualquier",
+"orden, ¡Pero según el orden la partida puede ser mucho más difícil!"
+]},
+
+"skill_2053_name":{
+"text":["\\#\\C[16]Efectos únicos\\C[0]"]
+},
+"skill_2053_desc":{
+"text":["Los efectos únicos solo se activarán en su escenario."
+]},
+
+"skill_2054_name":{
+"text":["\\#\\C[16]Efectos transferibles\\C[0]"]
+},
+"skill_2054_desc":{
+"text":["Los efectos transferibles se activan para el resto de la partida."
+]},
+
+"skill_2055_name":{
+"text":["Dificultad Secretaria"]
+},
+"skill_2055_desc":{
+"text":["La Partida de Descenso actual se está jugando en Modo Secretaria."
+]},
+"skill_2056_name":{
+"text":["Dificultad Guardiana"]
+},
+"skill_2056_desc":{
+"text":["La Partida de Descenso actual se está jugando en Modo Guardiana."
+]},
+"skill_2057_name":{
+"text":["Dificultad Prisionera"]
+},
+"skill_2057_desc":{
+"text":["La Partida de Descenso actual se está jugando en Modo Prisionera."
+]},
+
+"skill_2058_name":{
+"text":["Partida Personalizada"]
+},
+"skill_2058_desc":{
+"text":["La Partida de Descenso actual es una partida personalizada."
+]},
+
+"skill_2060_name":{
+"text":["\\#\\C[4]Gran Hermano Esquimal\\C[0]"]
+},
+"skill_2060_desc":{
+"text":["\\#¡¡Bienvenidos al último concurso de la mente brillante que trajo",
+"\\#'MasterSex', 'Cifras y Tetas' y 'Saber y Mamar'!!",
+"\\#¡¿Podrá sobrevivir nuestra concursante a un motín en la prisión?!"
+]},
+
+"skill_2061_name":{
+"text":["\\#\\C[18]Salir del Pozo\\C[0]"]
+},
+"skill_2061_desc":{
+"text":["\\#La persona anterior perdió, y ahora te toca a ti.",
+"\\#La verdad es que todo estaba amañado desde el principio.",
+"\\#Nunca estuve destinada a ganar."
+]},
+
+"skill_2062_name":{
+"text":["\\#\\C[30]Warden Quest\\C[0]"]
+},
+"skill_2062_desc":{
+"text":["\\#Eres una doncella inocente. Dueña de un corazón verdaderamente puro,",
+"\\#tienes una afinidad inusual con los reclusos. Te vuelves juguetona y encantadora.",
+"\\#¿Qué destino le depara a una mujer así...?"
+]},
+
+"skill_2063_name":{
+"text":["\\#\\C[20]Fort Ganon Emblem\\C[0]"]
+},
+"skill_2063_desc":{
+"text":["\\#Una historia épica de imperios, dragones y diosas que abarca dos generaciones.",
+"\\#En una instalación abandonada, Gobriel tiene la clave para cumplir la profecía final..",
+"\\#Ve al Fuerte Ganon y derrota al Capitán para rescatar a Héctor."
+]},
+
+"skill_2064_name":{
+"text":["\\#\\C[5]Una Mentalidad Diferente\\C[0]"]
+},
+"skill_2064_desc":{
+"text":["\\#¿Y si lo malo fuese bueno y lo bueno fuese malo?",
+"\\#Solo hay una manera de resolver un desacuerdo sobre lo que es real..",
+"\\#\\{La ley del más fuerte.\\}"
+]},
+
+"skill_2070_desc":{
+"text":["\\#Los decretos de Publicar información aumentan los subsidios x3 en vez de los ingresos.",
+"\\#Los decretos que aumentan la corrupción, incluidos los accesorios, aumentan",
+"\\#la corrupción en +1. Exponer Debilidades de los Frikis es más fuerte.",
+"\\#Derrotar a guardias por la fuerza aumenta los subsidios."
+]},
+
+"skill_2071_desc":{
+"text":["\\#Comienza el juego con ciertos decretos promulgados. Algunos están deshabilitados.",
+"\\#Ciertos decretos se promulgarán tras subyugar el Nivel Uno, Dos y Tres.",
+"\\#La Agresión de los Guardias obtenida de los decretos se duplica.",
+"\\#Reduce el límite de tiempo del Modo Prisionera y Modo Guardiana."
+]},
+
+"skill_2072_desc":{
+"text":["\\#Todas las fuentes de ingresos, subsidios y gastos, excepto de Chantaje, se reducen.",
+"\\#Los enemigos pueden soltar Oro y Accesorios en los combates.",
+"\\#Cada juguete equipado aumenta la probabilidad de soltar Oro y Accesorios.",
+""
+]},
+
+"skill_2073_desc":{
+"text":["\\#Todas las fuentes de experiencia dan ahora experiencia a estadísticas aleatorias.",
+"\\#El triángulo de combate es ahora más importante.",
+"\\#Los enemigos pueden comenzar la batalla ya cargados.",
+"\\#Se requiere un nivel de estadística adicional para aumentar el Nivel de Directora."
+]},
+
+"skill_2074_desc":{
+"text":["\\#Las pasivas se desbloquean más rápido.",
+"\\#El nivel de mente no puede ser más alto que el resto de estadísticas.",
+"\\#Las hbailidades de Voluntad son ahora afectadas ligeramente por el Encanto.",
+"\\#El efecto de Suprimir deseos se reduce a la mitad contra el deseo máximo."
+]},
+
+"skill_2080_desc":{
+"text":["\\#El coste de los decretos se reduce según la corrupción.",
+"\\#La probabilidad de actuar del enemigo disminuye según el Nivel de Masturbación.",
+"\\#El Problema con los Frikis está activo desde el principio del juego.",
+"\\#Las estadísticas de los guardias aumentan según la corrupción."
+]},
+
+"skill_2081_desc":{
+"text":["\\#Límite de Nivel de Directora + 3.",
+"\\#Ganas más experiencia según la Corrupción.",
+"\\#Cualquier tipo de enemigo puede aparecer en la mayoría de combates.",
+""
+]},
+
+"skill_2082_desc":{
+"text":["\\#Cada juguete equipado aumenta la exp según el Encanto..",
+"\\#Los Goblins, Pícaros y Guardias pueden tener juguetes. Nuevos Accesorios desbloqueados.",
+"\\#Se reduce a la mitad el oro de los trabajos.",
+"\\#Los juguetes solo los puede quitar Karryn en combate o en un nuevo día."
+]},
+
+"skill_2083_desc":{
+"text":["\\#El Control de Daño aumenta según el Nivel de Masoquismo.",
+"\\#La Regeneración de Resistencia aumenta según el Nivel de Sadismo.",
+"\\#El placer del Sadismo y el Masoquismo aumenta para todos según la Corrupción.",
+"\\#Los Enemigos Buscados aparecen con más frecuencia y suben de nivel más rápido."
+]},
+
+"skill_2084_desc":{
+"text":["\\#Los niveles de mente cuentan la mitad para subir de Nivel de Directora.",
+"\\#El efecto negativo de un deseo al alcanzar 50 o 100 está invertido para el deseo más alto",
+"\\#según el encanto. Karryn está completamente desnuda en la mayoría de situaciones.",
+"\\#Empiezas la partida sabiendo 'No ver el Mal'."
+]},
+
+
+
 "skill_2101_name":{
 "text":["Otro Tipo de Escalofrío"]
 },
@@ -14175,6 +14425,9 @@
 "text":["Seguro"]
 },
 
+"wpn_24_name":{
+"text":["Descenso"]
+},
 
 "armor_title_passive":{
 "text":["\\C[0]Pasiva: "]
@@ -15434,6 +15687,75 @@
 "\\}\\REM_EFF[armor_206_effect]"
 ]},
 
+
+
+"armor_207_name":{
+"text":["Superviviente"]
+},
+"armor_207_desc":{
+"text":["\\}Prueba de un concursante que completó Gran Hermano Esquimal en el Modo Guardiana o superior.\\{",
+"\\REM_EFF[armor_207_effect]"
+]},
+"armor_208_name":{
+"text":["Re:Not From Zero"]
+},
+"armor_208_desc":{
+"text":["\\}Prueba de una directora que completó Salir del Pozo en el Modo Guardiana o superior.\\{",
+"\\REM_EFF[armor_208_effect]"
+]},
+"armor_209_name":{
+"text":["Directora Celestial"]
+},
+"armor_209_desc":{
+"text":["\\}Prueba de una heroína que completó Warden Quest en el Modo Guardiana o superior.\\{",
+"\\REM_EFF[armor_209_effect]"
+]},
+"armor_210_name":{
+"text":["MU de Awakening"]
+},
+"armor_210_desc":{
+"text":["\\}Prueba de un lord que completó Fort Ganon Emblem en el Modo Guardiana o superior.\\{",
+"\\REM_EFF[armor_210_effect]"
+]},
+"armor_211_name":{
+"text":["Monstruo Sexual"]
+},
+"armor_211_desc":{
+"text":["\\}Prueba de una exhibicionista que completó Una Mentalidad Diferente en el Modo Guardiana o superior.\\{",
+"\\REM_EFF[armor_211_effect]"
+]},
+
+"armor_212_name":{
+"text":["Acorazado Descendido"]
+},
+"armor_212_desc":{
+"text":["\\}Prueba de haber completado Descenso 2 en Modo Prisionera.\\{",
+"\\REM_EFF[armor_212_effect]"
+]},
+"armor_213_name":{
+"text":["Silencio Descendido"]
+},
+"armor_213_desc":{
+"text":["\\}Prueba de haber completado Descenso 3 en Modo Prisionera.\\{",
+"\\REM_EFF[armor_213_effect]"
+]},
+"armor_214_name":{
+"text":["Vigilante Descendido"]
+},
+"armor_214_desc":{
+"text":["\\}Prueba de haber completado Descenso 4 en Modo Prisionera.\\{",
+"\\REM_EFF[armor_214_effect]"
+]},
+"armor_215_name":{
+"text":["Defecto Descendido"]
+},
+"armor_215_desc":{
+"text":["\\}Prueba de haber completado Descenso 5 en Modo Prisionera.\\{",
+"\\REM_EFF[armor_215_effect]"
+]},
+
+
+
 "armor_409_desc":{
 "text":[
 "Guardar el equipamiento actual en un set",
@@ -15612,6 +15934,24 @@
 },
 
 
+"armor_444_name":{
+"text":["[Pulsera] Citrino"]
+},
+"armor_445_name":{
+"text":["[Collar] Ojo de Gato"]
+},
+"armor_446_name":{
+"text":["[Pendientes] Cactus"]
+},
+"armor_447_name":{
+"text":["[Anillo] Hada"]
+},
+"armor_448_name":{
+"text":["[Misc] La Recette"]
+},
+"armor_449_name":{
+"text":["[Misc] Lazo"]
+},
 
 
 "state_4_actor_msg":{

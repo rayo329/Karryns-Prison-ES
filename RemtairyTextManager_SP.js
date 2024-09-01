@@ -216,6 +216,18 @@ const SecretaryModeNameSP = "Modo Secretaria";
 const WardenModeNameSP = "Modo Guardiana";
 const PrisonerModeNameSP = "Modo Prisionera";
 
+const SecretaryFreePlayModeNameSP = "Juego Libre Secretaria";
+const WardenFreePlayModeNameSP = "Juego Libre Guardiana";
+const PrisonerFreePlayModeNameSP = "Juego Libre Prisionera";
+
+const SecretaryChallengeRunNameSP = "Desafío Secretaria";
+const WardenChallengeRunNameSP = "Desafío Guardiana";
+const PrisonerChallengeRunNameSP = "Desafío Prisionera";
+
+const SecretaryDescensionRunNameSP = "Partida de Descenso Secretaria";
+const WardenDescensionRunNameSP = "Partida de Descenso Guardiana";
+const PrisonerDescensionRunNameSP = "Partida de Descenso Prisionera";
+
 //Right Click Status
 const RCMenuSleepQualityNegTwoTextSP = "\\C[7]Karryn apenas durmió anoche... \\C[0](\\C[18]Estads. -10%, Encanto -20%\\C[0])";
 const RCMenuSleepQualityNegOneTextSP = "\\C[7]Karryn no durmió bien anoche... \\C[0](\\C[2]Estads. -5%, Encanto -10%\\C[0])";
@@ -775,6 +787,10 @@ const MasturbateBattleTouchNipplesSP = "¡Karryn empieza a pellizcarse los pezon
 
 const MasturbateBattleFingerPussySP = "¡Karryn se mete los dedos por el coño!";
 const MasturbateBattleFingerAnalSP = "¡Karryn se mete los dedos por el culo!";
+
+const MasturbateBattleToyClitPinkRotorSP = "¡Karryn empieza a jugar con el rotor rosa!";
+const MasturbateBattleToyPussyPenisSP = "¡Karryn empieza a jugar con el consolador!";
+const MasturbateBattleToyAnalBeadsSP = "¡Karryn empieza a jugar con las bolas chinas!";
 
 const MasturbateBattleSuckFingersSP = "¡Karryn se chupa los dedos!";
 const MasturbateBattleSuckNipplesSP = "¡Karryn se chupa los pezones!";

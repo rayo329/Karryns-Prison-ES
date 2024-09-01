@@ -10035,6 +10035,12 @@
 "\\#Primero debes cancelarlo antes de poder cancelar el reinicio."
 ]},
 
+"map35_ev37_p3_3":{
+"text":[
+"\\#Estás en una Partida de Descenso.",
+"\\#Primero debes cancelarla antes de poder cancelar el reinicio."
+]},
+
 "map36_ev2_can_not_enter_next_room_name":{
 "text": [
 "l gimnasio"
@@ -14998,6 +15004,161 @@
 "",
 "          \\#\\{\\C[3]FINAL EMPERATRIZ"
 ]},
+
+
+
+"map_name_78":{
+"text":["Camino del Descenso"]},
+
+"map78_ev57_p1_intro_1":{
+"text":[
+"\\#Bienvenida, Secretaria Imperial, al Camino del Descenso.",
+"\\#¿Serás capaz de completar una Partida de Descenso?",
+"\\#¿Qué te depararán tus decisiones?"
+]},
+
+"map78_ev57_p1_choice_what":{
+"text":[
+"¿Qué es una Partida de Descenso?"
+]},
+"map78_ev57_p1_choice_begin":{
+"text":[
+"Comenzar Partida de Descenso"
+]},
+"map78_ev57_p1_choice_save":{
+"text":[
+"Guardar en otra Partida"
+]},
+"map78_ev57_p1_choice_cancel":{
+"text":[
+"Cancelar"
+]},
+
+"map78_ev57_p1_what_1":{
+"text":[
+"\\#Una Partida de Descenso se compone de una serie de escenarios.",
+"\\#Un escenario tiene efectos 'Únicos y 'Transferibles' que alteran el juego.",
+"\\#Los 'Efectos Únicos' solo estarán activos en ese escenario",
+"\\#Los 'Efectos Transferibles' estarán activos toda la Partida de Descenso",
+""
+]},
+
+"map78_ev57_p1_what_2":{
+"text":[
+"\\#Completas un escenario al derrotar al Jefe Final.",
+"\\#Al completar el escenario, volverás aquí.",
+"\\#Entonces podrás decidir entre continuar la Partida de Descenso eligiendo un nuevo escenario,",
+"\\#o terminar la Partida de Descenso actual.",
+"\\#También podrás terminar la Partida de Descenso si pierdes la partida."
+]},
+
+"map78_ev57_p1_what_3":{
+"text":[
+"\\#Las Partidas de Descenso pueden jugarse en cualquier dificultad.",
+"\\#Una Partida de Descenso reiniciará los niveles y estadísticas y cancelará cualquier desafío.",
+"\\#Puedes elegir los escenarios en cualquier orden.",
+"\\#Puedes obtener dos tipos de Títulos por completar Partidas de Descenso.",
+""
+]},
+
+"map78_ev57_p1_what_4":{
+"text":[
+"\\#El primer Título se otorga al superar un escenario por primera vez en Modo Guardiana o superior.",
+"\\#Te permite activar el efecto Transferible de ese escenario en cualquier partida normal.",
+"\\#El segundo Título se otorga al superar multiples escenarios en Modo Prisionera.",
+"\\#Lo que significa completar un escenario,y luego continuar la Partida de Descenso.",
+""
+]},
+
+"map78_ev57_p2_intro_1":{
+"text":[
+"\\#Estás en Descenso 1."
+]},
+"map78_ev57_p2_intro_2":{
+"text":[
+"\\#Estás en Descenso 2.",
+"\\#¿Tropezarás con una piedra o seguirás adelante?"
+]},
+"map78_ev57_p2_intro_3":{
+"text":[
+"\\#Estás en Descenso 3.",
+"\\#Delante tuya hay dos caminos.",
+"\\#Uno lleva a un castillo soleado, el otro a una oscura y tormentosa prisión."
+]},
+"map78_ev57_p2_intro_4":{
+"text":[
+"\\#Estás en Descenso 4.",
+"\\#¿Eres tenaz o solo cabezota?"
+]},
+"map78_ev57_p2_intro_5":{
+"text":[
+"\\#Estás en Descenso 5.",
+"\\#Es la hora final."
+]},
+"map78_ev57_p2_intro_6":{
+"text":[
+"\\#Feliciadades por completar Descenso 5.",
+"\\#Puedes empezar una nueva Partida de Descenso,",
+"\\#o seguir jugando eligiendo cualquier escenario."
+]},
+
+
+"map78_ev57_p2_pick_1":{
+"text":[
+"\\#Necesitas elegir un escenario antes de volver."
+]},
+
+"map78_ev57_p2_choice_quit":{
+"text":[
+"Salir de la Partida de Descenso"
+]},
+
+"map78_ev57_p2_quit_1":{
+"text":[
+"\\#¿Seguro que quieres salir de tu Partida de Descenso?",
+"\\#Esta decisión NO SE PUEDE DESHACER, guarda antes."
+]},
+
+"map78_ev57_p2_choice_no":{
+"text":[
+"No"
+]},
+"map78_ev57_p2_choice_yes":{
+"text":[
+"Si, salir de la Partida de Descenso"
+]},
+
+
+"map78_pick_this_scenario":{
+"text":[
+"\\#¿Elegir este escenario?"
+]},
+"map78_pick_this_scenario_choice_no":{
+"text":[
+"No"
+]},
+"map78_pick_this_scenario_choice_yes":{
+"text":[
+"Si"
+]},
+
+"map78_ev57_p2_choice_switch_custom":{
+"text":[
+"Activar/Desactivar Partida de Descenso Personalizada"
+]},
+
+"map78_ev57_p2_custom_1":{
+"text":[
+"\\#¡Felicidades por desbloquear las Partidas de Descenso Personalizadas!",
+"\\#Al contrario que una Partida de Descenso normal,",
+"\\#Puedes elegir varios escenarios a la vez.",
+"\\#Solo se activarán los 'Efectos Únicos' de esos escenarios.",
+"\\#Podrás elegir los 'Efectos Transferibles' que quieras en el menú de decretos."
+]},
+
+
+
+
 
 
 
