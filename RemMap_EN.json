@@ -15039,7 +15039,7 @@
 "\\#Una Partida de Descenso se compone de una serie de escenarios.",
 "\\#Un escenario tiene efectos 'Únicos y 'Transferibles' que alteran el juego.",
 "\\#Los 'Efectos Únicos' solo estarán activos en ese escenario",
-"\\#Los 'Efectos Transferibles' estarána ctivos toda la Partida de Descenso",
+"\\#Los 'Efectos Transferibles' estarán activos toda la Partida de Descenso",
 ""
 ]},
 
@@ -15055,7 +15055,7 @@
 "map78_ev57_p1_what_3":{
 "text":[
 "\\#Las Partidas de Descenso pueden jugarse en cualquier dificultad.",
-"\\#Una Partida de Descenso reiniciará los niveles y estad. y cancelará cualquier desafío.",
+"\\#Una Partida de Descenso reiniciará los niveles y estadísticas y cancelará cualquier desafío.",
 "\\#Puedes elegir los escenarios en cualquier orden.",
 "\\#Puedes obtener dos tipos de Títulos por completar Partidas de Descenso.",
 ""
@@ -15150,7 +15150,7 @@
 "map78_ev57_p2_custom_1":{
 "text":[
 "\\#¡Felicidades por desbloquear las Partidas de Descenso Personalizadas!",
-"\\#Al contrario que una Partida de DEscenso normal,",
+"\\#Al contrario que una Partida de Descenso normal,",
 "\\#Puedes elegir varios escenarios a la vez.",
 "\\#Solo se activarán los 'Efectos Únicos' de esos escenarios.",
 "\\#Podrás elegir los 'Efectos Transferibles' que quieras en el menú de decretos."
